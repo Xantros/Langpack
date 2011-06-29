@@ -415,20 +415,24 @@ Wtyczka ANSI
 Uruchomione wtyczki 
 [Unloaded plugin]
 Nieza³adowane wtyczki
+[Free for chat]
+Porozmawiajmy
+[Online]
+Dostêpny
 [Away]
 Zaraz wracam
 [NA]
-Niedostêpny
+Wrócê póŸniej
 [Occupied]
 Zajêty
 [DND]
 Nie przeszkadzaæ
-[Free for chat]
-Chêtny do rozmowy
 [Invisible]
 Niewidoczny
+[Offline]
+Roz³aczony
 [On the phone]
-Przy telefonie
+Pod telefonem
 [Out to lunch]
 Na obiedzie
 [%s Icons]
@@ -1387,8 +1391,7 @@ Aktualizacja
 Menu g³ówne
 [E&xit]
 WyjdŸ
-[Online]
-Po³¹czony
+
 [This plugin requires db3x plugin version 0.5.1.0 or later]
 Ta wtyczka wymaga db3x w wersji 0.5.1.0 lub nowszej
 [(Unknown Contact)]
@@ -1407,8 +1410,6 @@ Personalizacja
 Menu
 [Protocols]
 Protoko³y
-[Offline]
-Roz³¹czony
 [StatusMenu]
 Menu statusu
 [%s Custom Status]
