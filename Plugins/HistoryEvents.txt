@@ -1,0 +1,57 @@
+;============================================================
+;  File: historyevents.dll
+;  Module: History Events
+;  Versions: 0.0.0.8
+;============================================================
+[History/Events]
+Historia/Zdarzenia
+[Show in message window]
+Poka¿ w oknie wiadomoœci
+[Respect text format]
+Zachowaj formatowanie tekstu
+[Respect text font]
+Zachowaj czcionkê tekstu
+[Only add if message window is open]
+Dodaj tylko jeœli okno rozmowy jest otwarte
+[Keep in database:]
+Przechowuj w bazie:
+[Forever]
+Zawsze
+[For 1 year]
+Przez rok
+[For 6 months]
+Przez 6 miesiêcy
+[For 1 month]
+Przez miesi¹c
+[For 1 week]
+Przez tydzieñ
+[For 1 day]
+Przez dzieñ
+[Only to view in message window]
+Pokazuj tylko w oknie wiadomoœci
+[Max 10 events]
+Maks. 10 zdarzeñ
+[Max 100 events]
+Maks. 100 zdarzeñ
+[Don't store]
+Nie przechowuj
+[Event types:]
+Typy zdarzeñ:
+[Client Change]
+Zmiena klienta
+[Idle Change]
+Zmiena bezczynnoœci
+[Removal]
+Usuniêto
+[Listening Change]
+Zmiana utworu
+[Status Change]
+Zmiena statusu
+[Status Message Change]
+Zmiana opisu
+[X-Status Change]
+Zmiana xStatus
+[X-Status Message Change]
+Zmiana opisu xStatus
+[Nickname Change]
+Zmiana nicku

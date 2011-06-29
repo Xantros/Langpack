@@ -1,0 +1,69 @@
+;============================================================
+;  File: nudge.dll
+;  Module: nudge
+;  Versions: 0.0.1.19
+;============================================================
+[You are not allowed to send too much nudge (only 1 each %d sec, %d sec left)]
+Nie mo¿esz wysy³aæ za du¿o nudge'ów (tylko 1 co %d sek., zosta³o %d sek.)
+[Nudge : Shake contact list/chat window]
+Nudge: Zatrzêœ list¹/oknem rozmowy
+[Nudge : Send a nudge]
+Nudge: wyœlij nudge
+[Send &Nudge]
+Wyœlij nudge
+[You received a nudge]
+Otrzyma³eœ nudge
+[You sent a nudge]
+Wys³a³eœ nudge
+[Window Shaking]
+Potrz¹sanie oknem
+[Allow nudges when you're:]
+Zezwól na nudge kiedy jesteœ:
+[Popup options]
+Opcje popupów
+[Popup duration]
+Czas wyœ. popupów
+[Protocol options]
+Opcje protoko³u
+[Specify options for each protocol]
+Ustaw ka¿dy protokó³ osobno
+[Enable clist shaking]
+W³¹cz potrz¹sanie list¹
+[Enable message window shaking]
+W³¹cz potrz¹sanie oknem rozmowy
+[Treat nudge as a message]
+Traktuj nudge jako wiadomoœæ
+[Sending text]
+Wysy³any tekst
+[Receiving text]
+Odbierany tekst
+[Allow sending* one nudge to the same contact every :]
+Zezwól na wysy³anie* nudge'ów do tego samego kontaktu co:
+[Allow receiving one nudge from the same contact every :]
+Zezwól na odbieranie nudge'ów od jednego kontaktu co:
+[Show as status change]
+Poka¿ jako zmianê statusu
+[Auto resend nudge after]
+Auto. odpowiedz nudgem po
+[* Nudge sending delay is hardcoded and cannot be changed.]
+* OpóŸnienie wysy³ania nudge'ów jest sta³e i nie mo¿na go zmieniæ.
+[Shaking Clist Options]
+Opcje potrz¹sania list¹
+[Shaking Message Window Options]
+Opcje potrz¹sania oknem rozmowy
+[Number of moves]
+Liczba ruchów
+[Width of move]
+Szer. ruchu
+[Shake the contact list]
+Potrz¹œnij list¹
+[Shake the chat window]
+Potrz¹œnij oknem rozmowy
+[Nudge]
+Poproœ o uwagê
+[Nudge as Default]
+Nudge jako domyœlny
+[Nudge for]
+Nudge dla
+[Nudge : Default]
+Nudge: Domyœlny

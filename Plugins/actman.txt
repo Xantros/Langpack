@@ -1,0 +1,199 @@
+;============================================================
+;  Module: actman.dll
+;  Plugin: ActionManager
+;  Versions: 0.0.1.10
+;============================================================
+[Clipboard]
+Notatnik
+[Contact window]
+Okno kontaktu
+[Text insert]
+Umieœæ tekst
+[vars]
+Zmienne
+[Result action]
+Wynik akcji
+[Window option]
+Opcje okna
+[Show in popup]
+Poka¿ w popupie
+[Start hidden]
+Startuj schowany
+[Show in messagebox]
+Poka¿ w oknie
+[Start maximized]
+Startuj zmaksymalizowany
+[Continued]
+Kontynuacja
+[Parallel]
+Równoleg³y
+[Insert into message]
+Umieœæ w wiadomoœci
+[parameter]
+parametry
+[Process time, ms]
+Czas procesu, ms
+[No Description]
+Brak opisu
+[Process options]
+Opcje procesu
+[Do not show]
+Nie pokazuj
+[Current path]
+Obecna œcie¿ka
+[Start normal]
+Startuj normalnie
+[last result]
+ostatni wynik
+[Link to action]
+Link do akcji
+[Plugin for manage hotkeys to open contact window, insert text, run program and call services]
+Plugin to manager skrótów do otwierania okna kontaktu, wstawiania tekstu, uruchamiania programu i wywo³ywania us³ug
+[Action manager]
+Manager akcji
+[Copy to]
+Kopiuj do
+[Paste from as]
+Wklej z
+[Variables (below)]
+Zmienne (poni¿ej)
+[Variables script]
+Skrypt zmiennych
+[Other Action groups]
+Inne grupy akcji
+[Operation]
+Operacja
+[Last result]
+Ostatni wynik
+[Own settings]
+W³asne ustawienie
+[Message title]
+Tytu³ wiadomoœci
+[Message text]
+Tekst wiadomoœci
+[OK, Cancel]
+OK, Anuluj
+[Abort, Retry, Ignore]
+Przerwij, Gotów, Ignoruj
+[Yes, No, Cancel]
+Tak, Nie, Anuluj
+[Yes, No]
+Tak, Nie
+[Retry, Cancel]
+Gotów, Anuluj
+[Result as integer]
+Wynik jako liczba ca³kowita
+[Keep Last Result]
+Trzymaj ostatni wynik
+[Keep handle only]
+Trzymaj tylko nazwê
+[Variables mark]
+Zmienne znaku
+[C&ancel]
+A&nuluj
+[Structure Editor]
+Edytor struktury
+[Result as structure]
+Wynik jako struktura
+[Pointer to bytes]
+WskaŸnik do bajtów
+[Pointer to words]
+WskaŸnik do s³owa
+[Data length]
+Dane dotycz¹ce d³ugoœci
+['<proto>' in service name will be replaced by protocol name for contact handle in parameter]
+'<proto>' w nazwie us³ugi zostan¹ zast¹pione nazw¹ protoko³u dla kontaktu obs³uguj¹cego parametr
+[Paste from]
+Wklej z
+[Service result]
+Wynik us³ugi
+[Free memory]
+Wolna pamiêæ
+[Integer]
+Typ ca³kowity
+[Append]
+Dodaj
+[Append data to file]
+Do³¹czanie danych do pliku
+[Choose action]
+Wybierz akcje
+[A&ppend]
+D&odaj
+[Action "$" exists, do you want to rewrite it?]
+Akcja "$" istnieje, czy chcesz j¹ nadpisaæ?
+[Text <last> replacing\r\nby last result\r\n\r\nText <param> replacing\r\nby parameter]
+Tekst <last> zastêpczy\r\nostatni wynik\r\n\r\nTekst <param> zastêpczy\r\nparametr
+[Text <last> replacing\r\nby last result\r\n\r\nReturns:\r\n--------\r\nOK\t= 1\r\nCANCEL\t= 2\r\nABORT\t= 3\r\nRETRY\t= 4\r\nIGNORE\t= 5\r\nYES\t= 6\r\nNO\t= 7\r\nCLOSE\t= 8]
+Tekst <last> zastêpczy\r\nostatni wynik\r\n\r\nPowrót:\r\n--------\r\nOK\t= 1\r\nCOFNIJ\t= 2\r\nANULUJ\t= 3\r\nGOTÓW\t= 4\r\nIGNORUJ\t= 5\r\nTAK\t= 6\r\nNIE\t= 7\r\nZAMKNIJ\t= 8
+[Don't use Variables]
+Nie u¿ywaj zmiennych
+[Contact list format]
+Format listy kontaktów
+[Active accounts only]
+Tylko aktywuj konto
+[Dropdown list format]
+Format rozwijanej listy
+[Apply format]
+ZatwierdŸ format
+[You can use %name%, %uid%, %account% and %group% macros]
+Mo¿esz u¿yæ %name%, %uid%, %account% i %group%
+[Choose Contact]
+Wybierz kontakt
+[Open contact window]
+Otwórz okno kontaktu
+[Call service]
+Wywo³anie us³ugi
+[Service name]
+Nazwa us³ugi
+[Reload]
+Prze³aduj
+[Execute program]
+Uruchom program
+[Start minimized]
+Startuj zminimalizowany
+[Program path]
+Œcie¿ka do programu
+[Insert text]
+Umieœæ tekst
+[Message window]
+Okno wiadomoœci
+[Text to insert]
+Tekst do umieszczenia
+[not defined]
+<nie wybrano>
+[Structure]
+Struktura
+[structure]
+struktura
+[number value]
+wartoœæ
+[current contact]
+obecny kontakt
+[Program args]
+Argument
+[MessageBox]
+Okno komunikatu
+[Toolbar buttons]
+Przyciski paska narzêdzi
+[Main menu item]
+Element menu g³ównego
+[Contact menu item]
+Element menu kontaktu
+[Use Variables]
+U¿yj zmiennych
+[Signed value]
+Podpisana wartoœæ
+[Parameter]
+Parametr
+[Manual]
+Manualne
+[JUMP]
+SKOCZ
+[BREAK]
+PRZERWA
+[NOP]
+BRAK OPERCJI
+[Use Byte array/pointer for ANSI strings\n\Use Word array/pointer for Unicode strings\n\n\$## replaces by byte with hex value ##\n\$#### replaces by word with hex value #### (for Unicode strings only)\n\n\All data length calculating in bytes]
+U¿yj Bajt array/pointer dla stringów ANSI\n\U¿yj tablicy/wskaŸnika Word dla stringów Unicode\n\n\$## zast¹pione przez bajt z wartoœci¹ szesnastkow¹ ##\n\$#### zast¹pione przez bajt z wartoœci¹ szesnastkow¹ #### (tylko dla stringów Unicode)\n\n\Wszystkie obliczenia d³ugoœci danych w bajtach
+[Event]
+Zdarzenie

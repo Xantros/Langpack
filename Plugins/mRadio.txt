@@ -1,0 +1,147 @@
+;============================================================
+;  File: mradio.dll
+;  Module: mRadio, mRadio Mod
+;  Versions: 0.0.1.7
+;============================================================
+[mRadio volume control]
+Pasek g³oœnoœci mRadio
+[Import File]
+Importuj z pliku
+[Frame background]
+T³o ramki
+[Mute]
+Wycisz
+[BASS library path (empty for default)]
+Œcie¿ka biblioteki BASS (domyœlnie puste)
+[Add Station]
+Dodawanie stacji
+[Station Name]
+Nazwa stacji
+[Station URL (required)]
+URL do stacji (wymagany)
+[Add station]
+Dodaj stacje
+[To list]
+Do listy
+[Genre]
+Gatunek
+[To INI]
+Do pliku
+[Play from first]
+Graj jako pierwszy
+[OFF]
+Wy³.
+[Record path]
+Zapisz do:
+[Volume]
+G³oœnoœæ
+[Use EAX]
+W³¹cz EAX
+[Continuous record]
+Ci¹g³e nagrywanie
+[Autoconnect last station]
+W³¹cz ostatnio gran¹ stacje
+[Offline station as Offline]
+Wy³¹czona stacja jako Roz³¹czona
+[Generic]
+Ogólny
+[Padded Cell]
+Wyœcie³ana cela
+[Room]
+Pokój
+[Bathroom]
+£azienka
+[Living Room]
+Du¿y pokój
+[Stone Room]
+Pomieszczenie z kamienia
+[Auditorium]
+Audytorium
+[Concert Hall]
+Sala koncertowa
+[Cave]
+Jaskinia
+[Hallway]
+Hangar
+[Arena]
+Arena
+[City]
+Miasto
+[Carpeted Hallway]
+Hol wy³o¿ony wyk³adzin¹
+[Stone Corridor]
+Korytarz z kamienia
+[Alley]
+Alejka
+[Forrest]
+Las
+[Mountains]
+Góry
+[Quarry]
+Kamienio³om
+[Plain]
+Równiena
+[Parking Lot]
+Parking
+[Sewer Pipe]
+Kanalizacja œciekowa
+[Under Water]
+Pod wod¹
+[Drugged]
+Przyg³uszony
+[Dizzy]
+Przestrzeny
+[Psychotic]
+Psychotyczny
+[connecting]
+£¹czenie...
+[aborting]
+Zatrzymano
+[mRadio Mod]
+Protokó³ mRadio
+[Shuffle playlist]
+Tasuj playliste
+[Status message template]
+Szablon Statusu
+[Export All]
+Eksportuj wszystko
+[Equalizer presets]
+Ustawienia poczatkowe Eq.
+[Start broadcasting]
+Graj
+[Stop broadcasting]
+Stop
+[Start record]
+Nagrywaj
+[Stop record]
+Przerwij nagrywanie
+[Record]
+Zgrywanie
+[Loop single media]
+Pêtla jednego utworu
+[Broadcast ON]
+Graj
+[Broadcast OFF]
+Przerwij granie
+[Add EQ preset]
+Dodaj ustawienie EQ
+[Delete EQ preset]
+Usuñ ustawienie EQ
+[Start/Stop Record]
+Nagrywaj/Przerwij nagrywanie
+[Start/Stop broadcasting]
+Graj/Stop
+[Technical]
+Techniczne
+[Station URL]
+URL stacji:
+[Forced Mono]
+Wymuœ Mono
+[Tries to connect]
+Prób ³¹czenia
+[Play/Pause]
+Odtwarzanie/Pauza
+[%s server connection]
+Po³¹czenie %s
+[Play Station]
+Odtwórz

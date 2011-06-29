@@ -1,0 +1,95 @@
+;============================================================
+;  File: fingerprint.dll
+;  Module: Display client icons, Fingerprint
+;  Versions: 1.1.13.0
+;============================================================
+[Fingerprint]
+Fingerprint
+[Fingerprint icons]
+Ikony Fingerprint
+[Base Icon]
+G³ówna ikona
+[Show unknown]
+Poka¿ ikonê nieznanego protoko³u
+[Show unicode flag]
+Poka¿ flagê Unicode
+[Show one icon]
+Poka¿ jedn¹ ikonê
+[Show pack icon (if available)]
+Poka¿ ikonê paczki (jeœli dostêpna)
+[Show jabber transport]
+Poka¿ transporty Jabbera
+[Show protocol]
+Poka¿ protokó³
+[Use &unknown flag if country can not be determined]
+Poka¿ domyœln¹ flagê je¿eli nie zosta³a okreœlona
+[Include &IP-to-country lookup in country detection]
+U¿yj IP aby wykryæ kraj
+[Show version]
+Poka¿ wersjê
+[Overlay Icon #1]
+Nak³adka na ikonê #1
+[Overlay Icon #2]
+Nak³adka na ikonê #2
+[Show Jabber resource]
+Poka¿ zasób Jabbera
+[Show Miranda version]
+Poka¿ wersjê Mirandy
+[Overlay Icon #3]
+Nak³adka na ikonê #3
+[Show +secure]
+Poka¿ +secure
+[Show in options icon group:]
+Poka¿ w opcjach grupê ikon:
+[services]
+us³ugi
+[Multi-Protocol]
+Multi protoko³y
+[Pack overlays]
+Nak³adki
+[Web-based]
+Protoko³y webowe
+[Weather]
+Pogoda
+[Extra icon slot (restart required):]
+Slot ikony (wymaga restartu):
+[Client (default)]
+Klient (domyœlne)
+[Advanced 1]
+Zaawansowane 1
+[Advanced 2]
+Zaawansowane 2
+[Advanced 3]
+Zaawansowane 3
+[Advanced 4]
+Zaawansowane 4
+[Client Icons/Tlen]
+Ikony klienta/Tlen
+[Client Icons/MSN]
+Ikony klienta/MSN
+[Client Icons/Yahoo]
+Ikony klienta/Yahoo
+[Client Icons/Miranda]
+Ikony klienta/Miranda
+[Client Icons/JABBER]
+Ikony klienta/JABBER
+[Client Icons/Multi-Protocol/overlays]
+Ikony klienta/Multi-Protocol/overlays
+[Icon packages]
+Paczka ikon
+[Client Icons/Gadu-Gadu]
+Ikony klienta/Gadu-Gadu
+[Client Icons/Weather]
+Ikony klienta/Weather
+[Client Icons/Miranda/overlays#1]
+Ikony klienta/Miranda/overlays#1
+[Client Icons/Miranda/overlays#2]
+Ikony klienta/Miranda/overlays#2
+[Client Icons]
+Ikony klienta
+[Unknown for fingerprint]
+Nieznany przez fingerprint
+[Unknown for protocol]
+Nieznany przez protokó³
+[Icon group options will be fully applied after restart]
+Opcje grup ikon bêd¹ w pe³ni funkcjonalne po restarcie.

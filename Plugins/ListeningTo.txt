@@ -1,0 +1,95 @@
+;============================================================
+;  File: listeningtoW.dll
+;  Module: ListeningTo
+;  Versions: 0.3.0.0
+;============================================================
+[Send to all protocols]
+Wyœlij do wszystkich protoko³ów
+[Toggle send to all protocols]
+Prze³¹cz wysy³anie do wszystkich protoko³ów
+[Don't send to any protocols]
+Nie wysy³aj do ¿adnego protoko³u
+[Send to %s]
+Wyœlij do %s
+[Enable/Disable sending Listening To info (to all protocols)]
+W³¹cz/Wy³¹cz wysy³anie info o s³uchanym utworze (wszystkie protoko³y)
+[Listening info]
+Info o utworze
+[Players]
+Odtwarzacze
+[ Listening to information ]
+ Informacje o s³uchanym utworze
+[Enable sending listening information to contacts:]
+W³¹cz wysy³anie informacji do kontaktów o:
+[You also have to enable it per protocol in the main menu]
+Musisz to tak¿e w³¹czyæ dla ka¿dego protoko³u w g³ównym menu
+[For protocols that don't support listening to but support XStatus:]
+Dla protoko³ów, które nie obs³uguj¹ info o utworze, ale obs³uguj¹ xStatus:
+[Set XStatus to Music and show listening info]
+Ustaw xStatus na Muzyka i poka¿ info o utworze
+[If other XStatus is not set, set XStatus to Music and show listening info]
+Jeœli nie ma innego xSatusu, ustaw go na Muzykê i poka¿ info o utworze
+[If XStatus is Music, show listening info]
+Jeœli xStatus to Muzyka poka¿ info o utworze
+[ Contacts ]
+ Kontakty
+[Apply template for info from contacts (overrides contacts template)]
+Zastosuj szablon dla info od kontaktów (nadpisuje szablon kontaktów)
+[Show advanced icon in slot]
+Poka¿ ikonê w slocie
+[Get info from WATrack plugin]
+Pobierz informacje z wtyczki WATrack
+[Get info from these players:]
+Pobierz informacje z tych odtwarzaczy:
+[foobar2000 (need to install the plugin manually)]
+foobar2000 (musisz rêcznie zainstalowaæ wtyczkê)
+[Other players]
+Inne odtwarzacze
+[Ask for new info every]
+Sprawdzaj co
+[Allow auto-loading plugins into players (affect players with *)]
+Zezwól na automatyczne wczytywanie wtyczek do odtwarzacza (dotyczy tych z *)
+[ Listening to ]
+ Informacje o s³uchanym utworze
+[Variables:]
+Zmienne:
+[%artist% - Artist name]
+%artist% - Wykonawca
+[%album% - Album name]
+%album% - Nazwa albumu
+[%title% - Song title]
+%title% - Tytu³
+[%track% - Track number]
+%track% - Numer œcie¿ki
+[%year% - Song year]
+%year% - Rok wydania
+[%genre% - Song genre]
+%genre% - gatunek
+[%length% - Song length]
+%length% - d³ugoœæ œcie¿ki
+[%player% - Player name]
+%player% - nazwa odtwarzacza
+[%type% - Media type (Music, Radio, Video, etc)]
+%type% - typ (muzyka, radio, video, itp.)
+[When variable not found, use:]
+Jeœli nie znajdziesz zmiennej u¿yj:
+[Other Variables:]
+Inne zmienne:
+[%listening% - Listening to info (as set above)]
+%listening% - Informacje o s³uchanym utworze (jak wy¿ej)
+[When nothing is playing, replace %listening% with:]
+Jeœli niczego nie s³ucham zamieñ %listening% na:
+[Music]
+Muzyka
+[Message:]
+Wiadomoœæ:
+[No player found at this time]
+Odtwarzacz nie gra w tym czasie
+[Music Info from ]
+Info muzyczne z 
+[ListeningTo (Unicode)]
+Informacje o utworze
+[<Nothing>]
+<Brak>
+[<Unknown>]
+<Nieznany>

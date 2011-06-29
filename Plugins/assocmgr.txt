@@ -1,0 +1,91 @@
+;============================================================
+;  Module: assocmgr.dll
+;  Plugin: File Association Manager
+;  Versions: 0.1.1.3
+;============================================================
+[Associations]
+Powi¹zania
+[Associations for Miranda IM]
+Powi¹zania dla Mirandy IM
+[Miranda IM and its plugins are capable to handle the following\nfile types and website links:]
+Zawarte w Mirandzie IM protoko³y, typy plików oraz ³¹czy bêd¹ obs³ugiwane przez program:
+[&Enable]
+W³¹cz
+[&Disable]
+Wy³¹cz
+[Extensions]
+Rozszerzenie
+[Miranda IM is run automatically when the computer is started.]
+Miranda IM bêdzie automatycznie uruchamiana podczas startu.
+[Miranda IM is not run automatically when the computer is started.]
+Miranda IM nie bêdzie automatycznie uruchamiana podczas startu.
+[ files]
+ pliki
+[&Defaults]
+Domyœlne
+[Only associate with Miranda IM while it is &running]
+Powi¹¿ tylko podczas dzia³ania Mirandy IM
+[Associations are available]
+Dostêpne powi¹zania
+[The settings can be modified later on again in Options > Services > Associations]
+Opcje mog¹ byæ ustawione ponownie w Opcje -> Us³ugi -> Powi¹zania
+[Registered associations for Miranda IM:]
+Zarejestrowane powi¹zania dla Mirandy IM
+[&Start Miranda IM automatically when the Computer starts (using current profile)]
+Automatyczny start Mirandy IM wraz z startem Komputera (u¿yj bie¿¹cego profilu)
+[File Types]
+Typy plików
+[URLs on Websites]
+Linki w przegl¹darce
+[AIM Link Protocol]
+Powi¹zanie protoko³u AIM
+[File Association Error]
+B³¹d powi¹zañ
+[Gadu-Gadu Link Protocol]
+Powi¹zanie protoko³u Gadu-Gadu
+[Jabber Link Protocol]
+Powi¹zanie protoko³u Jabbera
+[Yahoo Link Protocol]
+Powi¹zanie protoko³u Yahoo
+[MSN Link Protocol]
+Powi¹zanie protoko³u MSN
+[ICQ Link Shortcut]
+Powi¹zanie protoko³u ICQ
+[Xfire Link Protocol]
+Powi¹zanie protoko³u xFire
+[URL Protocol]
+Link protoko³u
+[Applications]
+Aplikacje
+[DefaultIcon]
+Domyœlne ikony
+[Extension]
+Rozszerzenie
+[&Add to Contact List...]
+Dodaj do listy kontaktów...
+[Miranda IM could not open file]
+Miranda IM nie mog³a otworzyæ pliku
+[Miranda IM could not open URL]
+Miranda IM nie mog³a otworzyæ linku
+[Miranda IM Database]
+Baza danych IM
+[The File Association Manager Plugin can not be loaded. It requires Miranda IM %hs or later.]
+Manager powi¹zañ nie mo¿e zostaæ za³adowany. Plugin dzia³a w wersji %hs lub póŸniejszej.
+[%hs files]
+%hs plików
+[Autostart Error]
+B³¹d autostartu
+[EditFlags]
+Edytuj flagi
+[File Types Extension]
+Rozszerzenie typu plików
+[File Types Section Info]
+Sekcja info typu plików
+[Access failed:\n%.64hs(%.128s)\n%.250hs(%u)\n%.256hs (%u)]
+Brak dostêpu:\n%.64hs(%.128s)\n%.250hs(%u)\n%.256hs (%u)
+[SupportedTypes]
+Obs³ugiwane pliki
+[Trusted Protocols]
+Zaufane protoko³y
+[File Association Manager]
+Manager powi¹zañ protoko³ów

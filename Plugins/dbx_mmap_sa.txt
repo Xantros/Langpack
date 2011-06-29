@@ -1,0 +1,51 @@
+;============================================================
+;  File: dbx_mmap_sa.dll
+;  Module: Miranda SecuredMMAP database driver
+;  Versions: 0.7.5.4
+;============================================================
+[Disk is full. Miranda will now shutdown.]
+Dysk jest pe³ny. Miranda zostanie zamkniêta.
+[Database failure. Miranda will now shutdown.]
+Awaria bazy danych. Miranda zostanie zamkniêta.
+[Database Error]
+B³¹d bazy danych.
+[Miranda has detected corruption in your database. This corruption maybe fixed by DBTool.  Please download it from http://www.miranda-im.org. Miranda will now shutdown.]
+Miranda wykry³a b³¹d w Twojej bazie danych. Mo¿e byæ naprawiony przez DBTool. Pobierz go http://www.miranda-im.org. Miranda zostanie zamkniêta.
+[Database Panic]
+Panika bazy danych
+[Security systems to prevent malicious changes are in place and you will be warned before changes that are not known to be safe.]
+System bezpieczeñstwa uniemo¿liwia z³oœliwe zmiany i bêdzie ostrzega³ przed zmianami, które nie wiadomo czy s¹ bezpieczne.
+[Set password]
+Ustaw/Zmieñ has³o
+[Save Profile As...]
+Zapisz Profil w...
+[Database backuped]
+Kopia zapasowa utworzona
+[Crypto modules not found]
+Modu³ szyfruj¹cy nie zosta³ odnaleziony.
+[Crypto module doesnt chosen, using first found]
+Modu³ szyfrowania nie zosta³ wybrany, u¿yæ pierwszego znalezionego?
+[Notice]
+Powiadomienie
+[Please enter your new password]
+Proszê wpisaæ twoje nowe has³o.
+[Login to Miranda IM]
+Logowanie do Mirandy IM
+[Please enter password for]
+Proszê wpisaæ has³o dla:
+[Old password]
+Stare has³o do profilu:
+[New password]
+Nowe has³o do profilu:
+[Wrong password!]
+Z³e has³o!
+[Too many errors!]
+Zbyt wiele b³êdów!
+[Password is too short!]
+Has³o jest za krótkie!
+[Passwords doesnt match!]
+Has³a nie s¹ jednakowe!
+[Rotating backup files...]
+Przygotowanie plików do skopiowania...
+[Backup progress]
+Tworzenie kopii zapasowej profilu...

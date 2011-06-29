@@ -1,0 +1,139 @@
+;============================================================
+;  File: rss.dll, RSSNews.dll
+;  Module: RSSNews plugin
+;  Versions: 0.0.3.24
+;============================================================
+[RSS/Atom reader.]
+Czytnik RSS/Atom.
+[Adding new feed]
+Dodawanie kana³ów informacyjnych
+[Manage feed]
+Zarz¹dzanie kana³em informacyjnym
+[Main options]
+G³ówne opcje
+[URL]
+Link
+[Auto &discovery]
+Auto-wykrywanie
+[Authentication]
+Autoryzacja
+[Use &authentication]
+U¿ywaj autoryzacji
+[Visualization]
+Wygl¹d
+[Display news using the following format:]
+U¿ywaj nastêpuj¹cego formatowania wiadomoœci:
+[All item's tags are valid. Put them between #. Example: #<author>#]
+Dzia³aj¹ wszystkie znaczniki RSS. Umieœæ je pomiêdzy #. Np.: #<author>#
+[RSSNews - Authentication]
+RSSNews - Autoryzacja
+[This feed seems to need authentication. Please fill username and password fields:]
+Zdaje siê, ¿e ten kana³ wymaga uwierzytelnienia. Proszê podaæ nazwê u¿ytkownika i has³o:
+[&Do not ask again for this feed]
+Nie pytaj ponownie o ten kana³
+[There are no new items for this feed for a long period of time.]
+Od d³u¿szego czasu nie by³o nowych wiadomoœci dla tego kana³u.
+[What do you want to do?]
+Co chcesz zrobiæ?
+[&Continue checking this feed for new items]
+Kontynuuj sprawdzanie tego kana³u
+[&Delete this feed]
+Usuñ ten kana³
+[Do not &warn me again for this feed]
+Nie wyœwietlaj ostrze¿eñ dla tego kana³u
+[Example]
+Przyk³ad
+[Feed]
+Kana³
+[&Add...]
+Dodaj...
+[&Edit...]
+Edytuj...
+[Retrieve news at &startup]
+Pobierz wiadomoœci na &starcie
+[E&xport...]
+Eksportuj...
+[RSSNews - Import]
+RSSNews - Import
+[Import from:]
+Importuj z:
+[&Go]
+PrzejdŸ
+[Available feeds:]
+Dostêpne kana³y:
+[Feeds to be imported:]
+Kana³y do zaimportowania:
+[RSSNews - Export]
+RSSNews - Eksport
+[Feeds to be exported:]
+Kana³y do wyeksportowania:
+[Export to file:]
+Exportuj do pliku:
+[Enter a value in Title field.]
+Wype³nij pole Tytu³.
+[Enter a value in URL field.]
+Wype³nij pole URL.
+[Enter a value greater than zero in Minutes field.]
+WprowadŸ wartoœæ wiêksz¹ ni¿ zero w polu Minut(y).
+[Enter a value in Username field.]
+Wype³nij pole Nazwa u¿ytkownika.
+[Enter a value in Password field.]
+Wype³nij pole Has³o
+[Select a feed to manage.]
+Wybierz kana³ który chcesz edytowaæ.
+[Select a feed to delete.]
+Wybierz kana³ do usuniêcia.
+[Invalid path and/or filename.]
+B³êdna œcie¿ka i/lub nazwa pliku.
+[Exporting sucessfully completed.]
+Eksportowanie zakoñczy³o siê sukcesem.
+[There are no items to be exported.]
+Nie wybrano nic do wyeksportowania.
+[RSSNews plugin did not find any feed.]
+Wtyczka RSSNews nie znalaz³a ¿adnych kana³ów.
+[Importing sucessfully completed.]
+Import zakoñczy³ siê sukcesem.
+[There are no items to be imported.]
+Nie wybrano nic do zaimportowania
+[Wait...]
+Czekaj...
+[%s\nis a valid feed's address.]
+%s\njest poprawnym adresem kana³u.
+[RSSNews found a new feed's address]
+RSSNews znalaz³ nowy adres kana³u
+[Do you want to use it?]
+Chcesz go u¿yæ?
+[is no longer available at the server and no forwarding address is known.]
+nie jest ju¿ dostêpny na serwerze, nie jest te¿ znany nowy adres.
+[This condition is expected to be considered permanent.]
+Ta sytuacja prawdopodobnie siê nie zmieni.
+[Would you like to delete this feed?]
+Czy chcesz usun¹æ ten kana³?
+[Forbidden address]
+Zabroniony adres
+[Authorization will not help and the request should not be repeated.]
+Autoryzacja nie pomo¿e i ¿¹danie nie powinno byæ powtarzane.
+[RSSNews plugin requires Miranda IM 0.4.0.0 or above. This plugin will be disabled.]
+Wtyczka RSSNews wymaga Mirandy IM w wersji 0.4.0.0 lub wy¿szej. Wtyczka zostanie wy³¹czona.
+[Feed sucessfully added.]
+Kana³ zosta³ dodany.
+[RSSNews]
+RSSNews
+[Retrieve &news]
+Pobierz wiadomoœci
+[&Check all feeds]
+SprawdŸ wszystkie kana³y
+[&Add new feed...]
+Dodaj nowy kana³...
+[&Export...]
+Eksportuj...
+[MyFeeds]
+MojeKana³y
+[OPML File]
+Plik OPML
+[Feed ID]
+ID Kana³u
+[Feed protocol]
+Protokó³ RSS
+[RSSNews connection]
+Po³¹czenie RSS

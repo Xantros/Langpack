@@ -1,0 +1,151 @@
+;============================================================
+;  File: sendss.dll
+;  Module: Send ScreenShot
+;  Versions: 0.8.0.0
+;============================================================
+[ (primary)]
+ (podstawowy)
+[" Window]
+* Okno
+[%s (%i):\nAn internal GC error occurred.]
+
+[%s (%i):\nContact has no open GC session.]
+
+[%s (%i):\nCould not add a share to the FTP File plugin.]
+
+[%s (%i):\nCould not add a share to the HTTP Server plugin.]
+
+[%s (%i):\nFile transfer denied.]
+
+[%s (%i):\nYou appear to be using the wrong version of GC API]
+
+[&Capture]
+Uchwyæ
+[&Fill description textbox.]
+
+[< Copyright]
+< Prawa aut.
+[<entire desktop>]
+<ca³y pulpit>
+[<Only save>]
+<Tylko zapisz>
+[A recipient did not appear in the address list]
+
+[A recipient matched more than one of the recipient descriptor structures and MAPI_DIALOG was not set]
+
+[Abord]
+Przerwany
+[An unknown error has occured.]
+Nieznany b³¹d.
+[C&lient Area]
+Obszar klienta
+[Cant create a Screenshot]
+Nie mo¿na utworzyæ zrzutu ekranu
+[Caption :]
+Uchwyæ :
+[Capture]
+Uchwyæ
+[Copyright]
+Prawa aut.
+[Could not create main dialog.]
+
+[Could not register miranda service.]
+
+[Could not start the HTTP Server plugin.]
+
+[Credits]
+
+[Delete &after send]
+Usuñ po wys³aniu
+[Delete after send]
+Usuñ po wys³aniu
+[Dialog]
+
+[Drag&&Drop the target on the desired window.]
+Umieœæ celownik na odpowiednie okno.
+[E&xplore]
+
+[Email transfer]
+Transfer Email
+[Fatal error, image services not found. Send Screenshot will be disabled.]
+B³¹d, us³uga obrazków nie zosta³a znaleziona. Send Screenshot zostanie wy³¹czony.
+[Fill description textbox.]
+
+[for Client area ]
+
+[FTP File]
+Plik FTP
+[FTPFile transfer]
+Transfer FTP
+[HTTP Server]
+Serwer HTTP
+[HTTPServer transfer]
+Transfer HTTP
+[Image upload]
+
+[One or more recipients were invalid or did not resolve to any address]
+
+[One or more unspecified errors occurred]
+
+[Open again]
+Otwórz ponownie
+[Open Folder]
+Otwórz folder
+[Screenshot ]
+Zrzut ekranu
+[Select a target window.]
+Wybierz okno.
+[Send B&y :]
+Wyœlij przez :
+[Send desktop screenshot]
+Wyœlij zrzut pulpitu
+[Send screenshot to\n]
+Wyœlij zrzut do\n
+[Send screenshot to\n<unknown>]
+Wyœlij zrzut ekranu do\n<nieznany>
+[Send screenshot]
+Wyœlij zrzut ekranu
+[SendScreenshot - Error]
+SendScreenshot - B³¹d
+[SendSS HTTP connections]
+Po³¹czenie HTTP SendSS
+[Size (HxW) :]
+Rozmiar  (HxW) :
+[Take a screenshot]
+Zrób zrzut ekranu
+[Target Tool]
+Celownik
+[TEXT]
+
+[The specified attachment could not be opened]
+
+[The specified attachment was not found]
+
+[The text in the message was too large]
+
+[The user canceled one of the dialog boxes]
+
+[There was insufficient memory to proceed]
+
+[There was no default logon, and the user failed to log on successfully when the logon dialog box was displayed]
+
+[There were too many file attachments]
+
+[There were too many recipients]
+
+[Ti&med capture]
+Czas uchwycenia
+[Time (secs) :]
+Czas (sek) :
+[Unable to initiate %s.]
+Nie mo¿na zainicjowaæ %s.
+[Unknown Error]
+Nieznany b³¹d
+[Upload server did not respond timely.]
+Serwer nie odpowiada.
+[Warning: No IconPack found in one of the following directories: 'customize\\icons', 'icons' or 'plugins'#1#]
+
+[Warning: Your current IconPack's version differs from the one UserInfoEx is designed for.\nSome icons may not be displayed correctly]
+
+[Send Screenshot]
+Wyœlij zrzut ekranu

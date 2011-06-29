@@ -1,0 +1,69 @@
+;============================================================
+;  File: menuex.dll
+;  Module: MenuItemEx
+;  Versions: 1.3.0.7
+;============================================================
+[Set user properties by contact menu ( ]
+Ustaw w³aœciwoœci u¿ytkownika ( 
+[Copy ID]
+Kopiuj ID
+[Copy MirVer]
+Kopiuj wersjê klienta
+[Always visible]
+Zawsze widoczny
+[Never visible]
+Zawsze niewidoczny
+[Hide from list]
+Ukryj na liœcie
+[Ignore...]
+Ignoruj...
+[Protocol...]
+Protokó³...
+[Group...]
+Grupa...
+[Send 'You were added']
+Wyœlij "Zosta³eœ dodany"
+[Browse Received Files]
+Przegl¹daj otrzymane pliki
+[Copy Status Message]
+Kopiuj opis
+[Copy IP]
+Kopiuj IP
+[Authorization]
+Autoryzacja
+[Empty]
+Pusty
+[DUMMY]
+ATRAPA
+[Shown menu items]
+Poka¿ wpisy w menu
+[Show alpha icons]
+Przezroczyste ikony
+[Request Authorization]
+Poproœ o autoryzacjê
+[Add protocol name]
+Dodaj nazwê protoko³u
+[Copy Status Message (SMR needed)]
+Kopiuj opis (Wymagany SMR)
+[MenuItemEx]
+Rozszerzone menu
+[Copy to Account (Ctrl+click for move to Account)]
+Kopiuj do Konta (Ctrl+click alby przejsc do Konta)
+[* Use Ctrl+click to see popup with the copied text]
+* U¿yj Ctrl+klick aby zobaczeæ dodatkowe opcje
+[Add item name]
+Dodaj pozycjê nazwy
+[Copy to Account]
+Kopiuj do konta
+[Open ignore settings]
+Otwórz opcje ignorowania
+[Show in list]
+Poka¿ na liœcie
+[Copy xStatus Message]
+Kopiuj xStatus
+[Do you want to send authorization request\nto new contact?]
+Czy chcesz wys³aæ pytanie o autoryzacje?\ndo nowego kontaktu?
+[Show ID in menu item]
+Poka¿ ID w menu
+[Trim too long ID]
+Skracaj d³ugie ID

@@ -1,0 +1,407 @@
+;============================================================
+;  File: popup.dll
+;  Module: Popup Interoperability, PopUp Plus
+;  Versions: 2.1.1.5
+;============================================================
+[Time]
+Poka¿ zegar
+[non rectangular]
+nie prostok¹tne
+[Process Clist events]
+Przetwarzanie zdarzeñ listy
+[Classes]
+Klasy
+[Fade in/out]
+Rozjaœnianie
+[Square fading]
+Blakniêcie
+[Default Timeout]
+Czas oczekiwania
+[Slide Popup]
+Wysuwany Popup
+[Effect:]
+Efekt:
+[Time (in)..:]
+Czas (wych)..:
+[Time (out):]
+Czas (przych)..:
+[Simplified clock]
+Uproszczony zegar
+[Show time]
+Poka¿ czas
+[* Popup Classic]
+* Klasyczny popup
+[PopUp 1.0.1.x compatability]
+Kompatybilnoœæ z wersj¹ 1.0.1.x
+[You need the png2dib plugin v. 0.1.3.x or later to process PNG images]
+Potrzebujesz wtyczki png2dib 0.1.3.x lub nowszej ¿eby wyœwietlaæ obrazki PNG
+[Provides a common popup interface for different plugins.]
+Wyœwietla taki sam interfejs popupów dla ró¿nych wtyczek.
+[Test preview for the popup plugin settings. This is supposed to be long enough not to fit in one line...]
+Test ustawieñ wtyczki Popup. Ten tekst powinien byæ wystarczaj¹co d³ugi ¿eby nie zmieœciæ siê w jednej linii...
+[This is a notification message]
+To jest wiadomoœæ powiadamiaj¹ca
+[This is a warning message]
+To jest wiadomoœæ ostrzegawcza
+[This is an error message]
+To jest wiadomoœæ z b³êdem
+[Popups are enabled]
+Popupy s¹ w³¹czone
+[Popups are disabled]
+Popupy s¹ wy³¹czone
+[Refresh skin list]
+Odœwie¿ listê skórek
+[Popup Placement]
+Rozmieszczenie
+[Popup History]
+Historia popupów
+[Notification]
+Powiadamianie
+[Skins]
+Skórki
+[Toggle Popups]
+Prze³¹cz Popupy
+[Enable &popup module]
+W³¹cz Popupy
+[Disable &popup module]
+Wy³¹cz Popupy
+[Error: I could not register the PopUp Window class.\nThe plugin will not operate.]
+B³¹d: Nie mo¿na zarejestrowaæ klasy okien popupów.\nWtyczka nie bêdzie dzia³aæ.
+[<empty>]
+ <pusty>
+[Infinite]
+Nieskoñczone
+[1 second]
+1 sekunda
+[2 seconds]
+2 sekundy
+[3 seconds]
+3 sekundy
+[4 seconds]
+4 sekundy
+[5 seconds]
+5 sekund
+[7 seconds]
+7 sekund
+[10 seconds]
+10 sekund
+[15 seconds]
+15 sekund
+[Popup Area]
+Obszar
+[upper left corner]
+lewy górny róg
+[lower left corner]
+lewy dolny róg
+[lower right corner]
+prawy dolny róg
+[upper right corner]
+prawy górny róg
+[vertical]
+pionowe
+[You cannot specify a value lower than %d and higher than %d.]
+Nie mo¿esz ustawiæ wartoœci ni¿szej ni¿ %d ani wy¿szej ni¿ %d.
+[Skin preview]
+Podgl¹d skórki
+[Just take a look at this skin... ;)]
+Spójrz tylko na tê skórkê... ;)
+[Refresh List]
+Odœwie¿ listê
+[Content && Style]
+Zawartoœæ i wygl¹d
+[Display time]
+Poka¿ czas
+[Dynamically resize the popups]
+Automatyczny rozmiar popupów
+[Minimum width]
+Min. szerokoœæ
+[Maximum width]
+Maks. szerokoœæ
+[Use transparency (Windows 2000+)]
+Przezroczystoœæ (Windows 2000+)
+[Popup delay:]
+Pokazuj przez:
+[Default color]
+Domyœlny kolor
+[Default text color]
+Domyœlny kolor tekstu
+[Disable popups in fullscreen mode]
+Wy³. popupy w trybie pe³noekranowym
+[Slide popups while reordering]
+Przesuwaj popupy przy reorganizowaniu
+[Do not close hovered popups]
+Nie zamykaj aktywnych popupów
+[Infinite popup delay]
+Nie chowaj popupów
+[Size && Position]
+Rozmiar i pozycja
+[Draw avatar borders]
+Rysuj obramowanie awatarów
+[Round corners by]
+Zaokr¹glij rogi o
+[Draw borders for semitransparent avatars too]
+Rysuj obramowanie dla pó³przezroczystych awatarów
+[Live Preview]
+Podgl¹d
+[Debug]
+Analizuj
+[opacity:]
+Widocznoœæ:
+[You may set up custom fonts and colors in Customize > Fonts section in Miranda IM options.]
+Mo¿esz ustawiæ czcionki i kolory w sekcji Personalizacja -> Czcionki opcji Mirandy.
+[Window sliding]
+Wysuwanie okna
+[Reorder Popups]
+Reorganizuj popupy
+[Display time:]
+Pojawianie siê:
+[Vanish time:]
+Zanikanie:
+[Opaque popups under cursor]
+Wy³¹cz pod kursorem
+[Layout:]
+U³o¿enie:
+[Multimonitor (98/ME/2000/XP)]
+Multimonitor (98/ME/2000/XP)
+[Start the popups in the monitor with]
+Poka¿ popupy na monitorze zawieraj¹cym
+[Miranda's window]
+Okno Mirandy
+[the active window]
+Aktywne okno
+[Disable when:]
+Wy³¹cz, kiedy:
+[Use advanced text render]
+Zaawansowany rendering tekstu
+[Enable popup history]
+W³¹cz historiê popupów
+[Store last]
+Trzymaj
+[events]
+zdarzeñ
+[Use History++ to render log]
+U¿yj wtyczki History++
+[Always (has priority)]
+Zawsze (ma priorytet)
+[Open history]
+Otwórz historiê
+[Left Click:]
+Lewy przycisk:
+[Right Click:]
+Prawy przycisk:
+[Background:]
+T³o:
+[Use Default]
+U¿yj domyœlnych
+[Timeout:]
+Timeout:
+[Interaction]
+Interakcja
+[Display when]
+Wyœwietlaj, kiedy
+[Drop shadow effect (Windows XP+)]
+Rzucaj cieñ (Windows XP+)
+[* - built-in skins]
+* - wbudowane
+[Never show news]
+Nie pokazuj nowoœci
+[Whole Screen]
+Ca³y ekran
+[pixel(s)]
+pikseli
+[Spacing:]
+Odstêp:
+[Go to Customize > Fonts && Colors for fonts and colors options]
+PrzejdŸ do Dostosuj -> Czcionki ¿eby ustawiæ czcionki i kolory
+[* Effect:]
+* Efekt:
+[No effect]
+Brak efektu
+[Fading]
+Rozszerzanie
+[Configure popup area]
+Przestrzeñ wyœwietlania
+[Draw gradient background]
+Rysuj gradientowe t³o
+[Flat borders]
+P³askie obramowanie
+[Enable popup actions]
+W³¹cz akcje popupów
+[Popup Actions are those tiny buttons below notification text.]
+Akcje popupów to ma³e przyciski pod tekstem powiadomienia.
+[Common Actions]
+Wspólne akcje
+[Please choose in what cases default actions should be added:]
+Wybierz w jakich przypadkach powinny zostaæ dodane wspólne akcje:
+[Add info && menu for IM contacts only]
+Dodaj info i menu tylko dla kontaktów
+[Add default actions for contacts only]
+Domyœlne akcje tylko dla kontaktów
+[Don't close popups on default actions]
+Nie zamykaj popupów przy akcjach
+[Use large icons]
+U¿yj du¿ych ikon
+[Popup actions will be displayed as:]
+Akcje popupów bêd¹ wyœwietlane jako:
+[Icons and labels below text]
+Ikony i etykiety pod tekstem
+[Icons on the left]
+Ikony po lewej
+[Icons aligned to the right]
+Ikony przesuniête w prawo
+[Show Actions: (requires apply)]
+Poka¿ akcje (wymaga zaakceptowania):
+[Action]
+Akcja
+[Add permanently]
+Dodaj na sta³e
+[Pin popup]
+Przypnij popup
+[User details]
+Dane kontaktu
+[One more action]
+Jeszcze jedna akcja
+[Second test action]
+Druga akcja testowa
+[Test action]
+Akcja testowa
+[Enable this notification]
+W³¹cz to powiadomienie
+[Popup timeout:]
+Czas wyœwietlania:
+[Left click action:]
+Lewy przycisk:
+[Right click action:]
+Prawy przycisk
+[Disable when global status is...]
+Wy³¹cz, kiedy globalny status to...
+[Disable when relevant protocol's status is...]
+Wy³¹cz, jeœli stosowany status protoko³u to...
+[Colors can be configured in\r\nCustomize > Fonts && Colors]
+Kolory mo¿na ustawiæ w\r\nPersonalizacja -> Czcionki.
+[Per-contact settings]
+Osobne ustawienia kontaktów
+[Show default]
+Pok. domyœlnie
+[Show always]
+Zawsze pokazuj
+[Ignore fullscreen]
+Ignoruj pe³. ekran
+[Never show]
+Nie pokazuj
+[Performance && Tweaks]
+Wydajnoœæ
+[Limit window amount to:]
+Ogranicz iloœæ okien do:
+[Enable Win 9x/Me transparency]
+W³¹cz przezroczystoœæ Win 9x/ME
+[Enable freeform shadows (XP+)]
+W³¹cz dowolne cieniowanie (XP+)
+[Enable Aero Glass (Vista+)]
+W³¹cz Aero Glass (Vista+)
+[Enable avatar updates]
+W³¹cz aktualizacjê awatarów
+[Make action icons customizable*]
+Mo¿liwoœæ zmiany ikon akcji *
+[Make OK/Cancel icons customizable*]
+Mo¿liwoœæ zmiany ikon OK/Anuluj *
+[Global Status]
+Globalny status
+[Protocol Status]
+Status protoko³u
+[Test effect]
+Test efektu
+[Show avatars]
+Poka¿ awatar
+[Add info & menu for IM contacts only]
+Dodaj info i menu tylko dla kontaktów IM
+[Align avatar to right]
+Wyrównaj awatar do prawej
+[Show colours]
+Poka¿ kolory
+[Black background]
+Czarne t³o
+[Use different colours]
+U¿yj ró¿nych kolorów
+[Show clock]
+Poka¿ zegar
+[Avatar to right]
+Awatar do prawej
+[Draw clock background]
+Rysuj t³o zegara
+[Show Avatar]
+Poka¿ awatar
+[Reverse gradient background]
+Odwróæ t³o gradientowe
+[Block]
+Blokuj
+[Favourite]
+Ulubiony
+[Show in Fullscreen]
+Poka¿ w pe³nym ekranie
+[Favorite Contact]
+Ulubione kontakty
+[Blocked Contact]
+Kontakt zablokowany
+[Show Default]
+Poka¿ domyœlnie
+[Error (colors only)]
+B³¹d (tylko kolor)
+[Notification (colors only)]
+Akcja (tylko kolor)
+[Warning (colors only)]
+Ostrze¿enie (tylko kolor)
+[Popup Plus]
+Popupy
+[Contact Menu]
+Menu kontaktu
+[Popup Mode: Auto]
+Tryb Popup: Auto
+[Popup Mode: Favourtite]
+Tryb Popup: Ulubione
+[Popup Mode: Ignore fullscreen]
+Tryb Popup: Ignoruj pe³ny ekran
+[Popup Mode: Block contact]
+Tryb Popup: Zablokuj kontakt
+[Quick Reply]
+Szybka odpowiedŸ
+[Add Contact Permanently]
+Dodaj pernamentnie kontakt
+[Pin Popup]
+Przypnij popup
+[Pinned Popup]
+Przypiêty popup
+[Popup Group]
+Grupa popupów
+[Clock]
+Zegar
+[Gender]
+P³eæ
+[IP internal]
+IP Wewnêtrzne
+[Preset items:]
+Skonfigórowane elementy:
+[With "favourite" overlay]
+Nak³adka "ulubione"
+[With "fullscreen" overlay]
+Nak³adka na "pe³nym ekranie"
+[Mouse Actions Overwrite]
+Akcje myszy
+[LeftButton]
+Lewy
+[RightButton]
+Prawy
+[MiddleButton]
+Œrodkowy
+[no overwrite]
+Nic nie rób
+[Quick reply]
+Szybka odpowiedŸ
+[Desktop]
+Pulipit
+[Distance between popups]
+Odleg³oœæ pomiêdzy popupami
+[Send Message]
+Wyœlij wiadomoœæ
+[Dismiss Popup]
+Odrzuæ popup

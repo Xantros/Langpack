@@ -1,0 +1,510 @@
+;============================================================
+;  Repeat
+;============================================================
+[Open String Formatting Help]
+Otwórz pomoc nt formatowania tekstu
+[<current>]
+<aktualny>
+[Static]
+Statyczne
+[Copy]
+Kopiuj
+[Select All]
+Zaznacz wszystko
+[Warning]
+Ostrze¿enie
+[Notify]
+Powiadomienie
+[connection]
+po³¹czenie
+[Version:]
+Wersja:
+[Popup notification]
+Powiadamianie w popupie
+[N/A]
+Niedostêpny
+[Preview]
+Podgl¹d
+[Permanent]
+Sta³e
+[From PopUp plugin]
+Z wtyczki PopUp
+[seconds]
+sekund
+[Delay]
+OpóŸnienie
+[Text colour]
+Kolor tekstu
+[Background colour]
+Kolor t³a
+[Colours]
+Kolory
+[Create a main menu item]
+Utwórz wpis w menu g³ównym
+[Avatar]
+Awatar
+[Right]
+Prawa
+[Left]
+Lewa
+[Hotkey]
+Skrót
+[Days]
+Dni
+[Hours]
+Godzin
+[System tray icon]
+Ikona w zasobniku
+[&Up]
+Góra
+[&Down]
+Dó³
+[Nickname]
+Nick
+[Move up]
+Przesuñ w górê
+[Move down]
+Przesuñ w dó³
+[Chats]
+Rozmowy
+[Do nothing]
+Nic nie rób
+[Close popup]
+Zamknij popup
+[Use Windows colours]
+U¿yj kolorów Windows
+[Use default colours]
+U¿yj domyœlnych kolorów
+[Title:]
+Nazwa:
+[Others]
+Inne
+[Browse]
+Przegl¹daj
+[Type]
+Typ
+[Enable avatars]
+W³¹cz obs³ugê awatarów
+[Change Password]
+Zmieñ has³o
+[Keep connection alive]
+Utrzymuj po³¹czenie
+[Automatically reconnect after unintentional disconnection]
+Automatycznie ³¹cz po niezamierzonym roz³¹czeniu
+[Options...]
+Opcje...
+[Protocol icon]
+Ikona protoko³u
+[Conference]
+Konferencja
+[Template:]
+Szablon:
+[Next]
+Dalej
+[Bookmarks]
+Zak³adki
+[Loading...]
+Wczytywanie...
+[Server]
+Serwer
+[closed chat session]
+zamkniête rozmowy
+[Miscellaneous]
+Ró¿ne
+[Done]
+Gotowe
+[default]
+domyœlny
+[Other]
+Inne
+[Video]
+Wideo
+[Request authorization]
+Poproœ o autoryzacjê
+[Text]
+Tekst
+[pixels]
+pikseli
+[Style]
+Styl
+[Text:]
+Tekst:
+[Filtering]
+Filtrowanie
+[Open]
+Otwórz
+[Notifications]
+Powiadamianie
+[Popups]
+Popupy
+[Open message window]
+Otwórz okno rozmowy
+[Contact menu]
+Menu kontaktu
+[Back]
+Wstecz
+[Privacy]
+Prywatnoœæ
+[&Reset]
+Resetuj
+[day]
+dzieñ
+[month]
+miesi¹c
+[&Import...]
+Importuj...
+[File Transfer]
+Transfer plików
+[All]
+Wszystko
+[On left click]
+Lewy przycisk
+[On right click]
+Prawy przycisk
+[Log to file]
+Zapisuj w pliku
+[Show icon]
+Poka¿ ikonê
+[minutes]
+minuty
+[Paste]
+Wklej
+[Top]
+Góra
+[Unknown]
+Nieznany
+[Incoming messages]
+Przychodz¹ce wiadomoœci
+[Outgoing messages]
+Wychodz¹ce wiadomoœci
+[Show PopUps when I connect]
+Poka¿ popupy podczas ³¹czenia
+[Blink icon in the system tray]
+Migaj ikon¹ w zasobniku systemowym
+[Variables]
+Zmienne
+[Hide]
+Ukryj
+[Services]
+Us³ugi
+[Settings]
+Ustawienia
+[Disabled]
+Wy³¹czone
+[milliseconds]
+milisekund
+[Bold]
+Pogrubienie
+[Show headers]
+Poka¿ nag³ówki
+[Status changes]
+Zmiana statusu
+[Nick changes]
+Zmiany nicków
+[Incoming message]
+Przychodz¹ca wiadomoœæ
+[Outgoing message]
+Wychodz¹ca wiadomoœæ
+[Upload]
+Wyœlij
+[Export to file]
+Eksportuj do pliku
+[Use custom colours]
+U¿yj w³asnych kolorów
+[characters]
+znaków
+[&Use Windows colours]
+U¿yj kolorów Windows
+[Skin options]
+Opcje skórki
+[Actions]
+Akcje
+[Dismiss popup]
+Odrzuæ popup
+[Send message]
+Wyœlij wiadomoœæ
+[Misc]
+Inne
+[General options]
+Opcje ogólne
+[Password]
+Has³o:
+[&Import]
+Importuj
+[&Export]
+Eksportuj
+[Information]
+Inicializacja...
+[Retry]
+Gotowy
+[Cut]
+Wytnij
+[Off]
+Wy³.
+[Message Sessions]
+Okno rozmowy
+[Normal]
+Normalne
+[Change]
+Zmieñ
+[Picture options]
+Opcje obrazu
+[Extra Icons]
+Dodatkowe ikony
+[Extra icons]
+Dodatkowe ikony
+[Advanced #1]
+Zaawansowane #1
+[Advanced #2]
+Zaawansowane #2
+[Advanced #3]
+Zaawansowane #3
+[Advanced #4]
+Zaawansowane #4
+[Stretch to width]
+Rozci¹gaj na szerokoœæ
+[Stretch to height]
+Rozci¹gaj na wysokoœæ
+[Tile horizontally]
+Uk³adaj poziomo
+[Tile vertically]
+Uk³adaj pionowo
+[Items]
+Obiekty
+[Appearance]
+Personalizacja
+[Up]
+Do góry
+[Down]
+W dó³
+[Use protocol smileys]
+U¿yj emotikonki protoko³u
+[Resize smileys]
+Dopasuj rozmiar emotikonek
+[Border]
+Obramowanie
+[Client]
+Klient
+[Status Message]
+Opis
+[ Colours ]
+ Kolory 
+[ Delay ]
+  OpóŸnienie 
+[From popup plugin]
+Z wtyczki Popup
+[On right click:]
+Lewy przycisk:
+[On left click:]
+Prawy przycisk:
+[Enable SmileyAdd support]
+W³¹cz wsparcie dla SmileyAdd
+[Statistics]
+Statystyki
+[Input]
+Dane wejœciowe
+[Output]
+Dane wyjœciowe
+[Description]
+Opis
+[Import from file]
+Importuj z pliku
+[Occupation:]
+Zawód:
+[Home]
+Dom
+[Cellular]
+Komórka
+[Status message:]
+Opis:
+[playing]
+Odtwarzanie...
+[Enable popups]
+W³¹cz popupy
+[Avatar size:]
+Rozmiar awatara:
+[More...]
+Wiêcej...
+[Title]
+Nazwa
+[Check every]
+Sprawdzaj co
+[Check every]
+Sprawdzaj co
+[Layout]
+Uk³ad
+[Author:]
+Autor:
+[Display]
+Wyœwietlanie
+[Animate]
+Animowane
+[Add...]
+Dodaj...
+[Variables...]
+Zmienne...
+[View]
+Poka¿
+[disabled]
+wy³¹czony
+[Enabled]
+W³¹czony
+[Stretch proportionally]
+Rozci¹gnij proporcjonalnie
+[Setting]
+Ustawienia
+[Update]
+Aktualizacja
+
+;============================================================
+;  Languages
+;============================================================
+
+[Afrikaans]
+Afrykanerski
+[Albanian]
+Albañski
+[Arabic]
+Arabski
+[Armenian]
+Armeñski
+[Azerbaijani]
+Azerski
+[Belorussian]
+Bia³oruski
+[Bhojpuri]
+BhodŸpuri
+[Bosnian]
+Boœniacki
+[Bulgarian]
+Bu³garski
+[Burmese]
+Birmañski
+[Cantonese]
+Kantoñski
+[Catalan]
+Kataloñski
+[Chinese]
+Chiñski
+[Croatian]
+Chorwacki
+[Czech]
+Czeski
+[Danish]
+Duñski
+[Dutch]
+Niderlandzki
+[English]
+Angielski
+[Estonian]
+Estoñski
+[Farci]
+Perski
+[Finnish]
+Fiñski
+[French]
+Francuski
+[Gaelic]
+Gaelicki
+[German]
+Niemiecki
+[Greek]
+Grecki
+[Gujarati]
+Gud¿arati
+[Hebrew]
+Hebrajski
+[Hindi]
+Hinduski
+[Hungarian]
+Wêgierski
+[Icelandic]
+Islandzki
+[Indonesian]
+Indonezyjski
+[Italian]
+W³oski
+[Japanese]
+Japoñski
+[Khmer]
+Khmerski
+[Korean]
+Koreañski
+[Kurdish]
+Kurdyjski
+[Lao]
+Laotañski
+[Latvian]
+£otewski
+[Lithuanian]
+Litewski
+[Macedonian]
+Macedoñski
+[Malay]
+Malajski
+[Mandarin]
+Mandaryñski
+[Mongolian]
+Mongolski
+[Norwegian]
+Norweski
+[Persian]
+Perski
+[Polish]
+Polski
+[Portuguese]
+Portugalski
+[Punjabi]
+Pend¿abski
+[Romanian]
+Rumuñski
+[Russian]
+Rosyjski
+[Serbo-Croatian]
+Chorwackoserbski
+[Slovak]
+S³owacki
+[Slovenian]
+S³oweñski
+[Somali]
+Somalijski
+[Spanish]
+Hiszpañski
+[Swahili]
+Suahili
+[Swedish]
+Szwedzki
+[Tagalog]
+Tagalog
+[Taiwaness]
+Taiwañski
+[Tamil]
+Tamilski
+[Tatar]
+Tatarski
+[Thai]
+Tajski
+[Turkish]
+Turecki
+[Ukrainian]
+Ukraiñski
+[Vietnamese]
+Wietnamski
+[Welsh]
+Walijski
+[Yiddish]
+Jidysz
+[Yoruba]
+Joruba
+[Simplified Chinese]
+Chiñski Uproszczony
+[Traditional Chinese]
+Chiñski Tradycyjny
+[Central European]
+Europa Œrodkowa
+[Latin I]
+£acina I
+[Vietnamese]
+Wietnamski
+[Korean (Johab)]
+Koreañski (Johab)

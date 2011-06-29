@@ -1,0 +1,83 @@
+;============================================================
+;  File: historykeeperW.dll
+;  Module: History Keeper
+;  Versions: 0.2.1.0
+;============================================================
+[is now listening to %new%]
+s³ucha teraz %new%
+[stopped listening to music]
+przesta³(-a) s³uchaæ muzyki
+[changed his/her %s to %%new%%: %%msg%% (was %%old%%)]
+zmieni³(-a) swój/swoj¹ %s na %%new%%: %%msg%% (by³(-a) %%old%%)
+[X-Status Message]
+Opis xStatus
+[Speak]
+Rozmowa
+[changed his/her %s to %%new%% (was %%old%%)]
+zmieni³(-a) swój %s na %%new%% (by³o %%old%%)
+[%%contact%% changed his/her %s to %%new%%]
+%%contact%% zmieni³ swój %s na %%new%%
+[Log when contacts change their %s]
+Loguj kiedy kontakty zmieni¹ swój %s
+[Log when contacts remove their %s]
+Loguj kiedy kontakty usun¹ swój %s
+[Announce when contacts change their %s]
+Informuj kiedy kontakty zmieni¹ swój %s
+[Announce when contacts remove their %s]
+Informuj kiedy kontakty usun¹ swój %s
+[Show when contacts change their %s]
+Poka¿ kiedy kontakty zmieni¹ swój %s
+[Show when contacts remove their %s]
+Poka¿ kiedy kontakty usun¹ swój %s
+[Show history]
+Poka¿ historiê
+[Contact Name]
+Nazwa kontaktu
+[ Tracking ]
+ Œledzenie
+[ Actions ]
+ Akcje
+[ Track ]
+ Œledzenie 
+[Wait]
+Czekaj
+[s before notifying (to avoid duplications)]
+s przed powiadomieniem (¿eby unikn¹æ duplikatów)
+[Don't notify on protocol connection]
+Nie powiadamiaj przy ³¹czeniu z sieci¹
+[ Protocols ]
+ Protoko³y 
+[Enable tracking for these protocols:]
+W³¹cz œledzenie dla tych protoko³ów:
+[ Log to file ]
+ Zapisuj do pliku 
+[Filename:]
+Nazwa pliku:
+[Log to History]
+Zapisuj do historii
+[Log to File]
+Zapisuj do pliku
+[Notify using Popups]
+Powiadamiaj u¿ywaj¹c popupów
+[Notify using Sounds]
+Powiadamiaj u¿ywaj¹c dŸwiêków
+[Notify using Speak plugin]
+Powiadamiaj u¿ywaj¹c wtyczki Speak
+[Ignore %s changes]
+Ignoruj zmiany %s
+[Log %s changes]
+Pokazuj zmiany %s
+[Don't log %s changes]
+Nie pokazuj zmian %s
+[Notify %s changes]
+Powiadamiaj o zmianach %s
+[Don't notify %s changes]
+Nie powiadamiaj o zmianie %s
+[%s change]
+Zmiana %s
+[%s removal]
+Usuniêcie %s
+[X-Status]
+xStatus
+[Listening]
+Utwór

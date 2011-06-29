@@ -1,0 +1,39 @@
+;============================================================
+;  File: db_autobackups.dll
+;  Module: DB AutoBackups
+;  Versions: 0.0.0.8
+;============================================================
+[Backup Profile]
+Kopia zapasowa profilu
+[Automatic Backups]
+Automatyczne kopie zapasowe
+[When Miranda starts]
+Twórz podczas uruchamiania Mirandy
+[When Miranda exits]
+Twórz podczas wy³¹czania Mirandy
+[Periodically:]
+Twórz okresowo:
+[Every:]
+Twórz co:
+[Number of backups to keep:]
+Liczba trzymanych kopii zapasowych:
+[Backup to folder:]
+Zapisuj kopie do folderu:
+[Disable progress bar]
+Wy³¹cz okienko ze wskaŸnikiem postêpu kopiowania
+[Disable Popups]
+Wy³¹cz popupy
+[Backup NOW]
+Zrób TERAZ kopiê
+[Backup in Progress]
+Tworzenie kopii zapasowej...
+[Copying database file...]
+Kopiowanie pliku bazy danych...
+[Go to the "Customize -> Folders" to change settings]
+IdŸ do Personalizacja -> Foldery aby zmieniæ ustawienia
+[Site:]
+Strona:
+[Backup Folder]
+Folder kopii zapasowych
+[Database encryption]
+Szyfrowanie

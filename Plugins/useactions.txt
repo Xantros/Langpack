@@ -1,0 +1,30 @@
+;============================================================
+;  File: useactions.dll
+;  Versions: 0.0.0.4
+;============================================================
+[UseActions]
+Uøyj akcji
+[The way actions could be called]
+Wywo≥ywanie akcji
+[Name through vars:]
+Zmienne
+[show only if variables return 1]
+pokaø, kiedy wartoúÊ zmiennych to 1 
+[Tray menu item]
+Menu w zasobniku
+[Core Hotkey]
+SkrÛty
+[Registered actions]
+Zarejestrowane akcje
+[This plugin makes use of actions, serviced by Actions Manager plugin (ActMan, by Awkward)]
+Plugin pozwala uøyÊ akcji, us≥ugi pluginu Actions Managet (ActMan, by Awkward)
+[separated]
+spearator
+[Root popup:]
+èrÛd≥o
+[Menu icons]
+Ikony menu
+[No actions manager (ActMan) plugin found.\n\rYou can't use UseActions plugin without ActMan.\n\rUseActions will not be loaded.]
+Nie znaleziono pluginu managera akcji (ActMan).\n\rNie moøesz uøyÊ pluginu UseActions.\n\rUseActions nie bÍdzie za≥adowany.
+[Error loading actions]
+B≥πd wczytywania akcji

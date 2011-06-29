@@ -1,0 +1,345 @@
+;============================================================
+;  File: Tipper.dll
+;  Module: Tipper, Tipper YM
+;  Versions: 2.1.0.4
+;============================================================
+[Parse Tipper variables first]
+Analizuj zmienne Tippera jako pierwsze
+[Tipper smileys]
+Emotikony Tippera
+[Do you want to import selected skin setting? Current setting will be overwritten.]
+Chcesz zaimportowaæ ustawienia wybranej skórki? Obecne ustawienia zostan¹ nadpisane.
+[Tipper skin import]
+Import skórki Tippera
+[Select image]
+Wybierz obraz
+[You must enter a label]
+Musisz podaæ etykietê
+[Centre]
+Œrodek
+[Left avatar]
+Awatar po lewej
+[Right avatar]
+Awatar po prawej
+[Sidebar]
+Boczny pasek
+[Animation]
+Animacja
+[Fade]
+Wygasanie
+[Tooltips]
+Podpowiedzi
+[Tooltip skin]
+Skórka podpowiedzi
+[Tray tooltip]
+PodpowiedŸ w zasobniku
+[Extra]
+Dodatkowe
+[ ago]
+ temu
+[Log on:]
+Zalogowany:
+[Unread emails:]
+Nieprzeczytane emaile:
+[XStatus:]
+xStatus:
+[Activity:]
+Aktywnoœæ:
+[Copy all items with labels]
+Kopiuj wszystkie wpisy z etykietami
+[Copy all items]
+Kopiuj wszystkie wpisy
+[Copy avatar]
+Kopiuj awatar
+[Fav. contacts]
+Ulub. kontakty
+[Miranda uptime:]
+Czas dzia³ania Mirandy:
+[Text indent:]
+Wciêcie tekstu:
+[Max width:]
+Maks. szerokoœæ:
+[Max height:]
+Maks. wysokoœæ:
+[Show if list not focused]
+Poka¿ jeœli lista jest nieaktywna
+[General padding:]
+Ogólne dope³nienie:
+[Hover time:]
+Wyœwietl podpowiedŸ po:
+[Status bar tips]
+Podpowiedzi paska statusu
+[Alignment]
+Wyrównanie
+[Labels:]
+Etykiety:
+[Values:]
+Wartoœci:
+[Min width:]
+Min. szerokoœæ:
+[Min height:]
+Min. wysokoœæ:
+[Sidebar width:]
+Szerokoœæ bocznego paska:
+[Text padding:]
+Dope³nienie tekstu:
+[Outer avatar padding:]
+Zewnêtrzne dope³nienie awatara:
+[Round corners (avatar)]
+Zaokr¹glone rogi (awatara)
+[Avatar border]
+Obramowanie awatara
+[Title indent:]
+Wciêcie tytu³u:
+[Value indent:]
+Wciêcie wartoœci:
+[Inner avatar padding:]
+Wewnêtrzne dope³nienie awatara:
+[Substitution]
+Zastêpstwo
+[Label:]
+Etykieta:
+[Contact protocol module]
+Modu³ protoko³u kontaktu
+[Module:]
+Modu³:
+[Setting or prefix:]
+Ustawienie/prefiks:
+[Translation:]
+T³umaczenie:
+[Value:]
+Wartoœæ:
+[Draw a line above]
+Rysuj liniê powy¿ej
+[Value on a new line]
+Wartoœæ w nowej linii
+[Predefined items:]
+Predefiniowane elementy:
+[Advanced options]
+Zaawansowane opcje
+[Disable in invisible status]
+Wy³¹cz pobieranie opisu przy statusie "Niewidoczny"
+[Retrieve XStatus details if auto-retrieve is disabled]
+Pobierz szczegó³y xStatus, jeœli auto-pobieranie jest wy³¹czone
+[Smileys support]
+Wsparcie dla emotikon
+[Country flag]
+Flaga kraju
+[Show tooltip after all content is ready (avatar && status message)]
+Poka¿ tooltip gdy zawartoœæ bêdzie gotowa ( awatar i status wiadomoœci)
+[Retrieve new status message]
+Pobierz nowe opisy statusów
+[Status bar and tray tooltip]
+Pasek statusu i podpowiedzi w zasobniku
+[Limit status messages in status bar and tray tooltips to:]
+Limituj opisy w podpowiedzi w zasobniku sytemowym do:
+[Replace only isolated smileys]
+Zamieñ tylko odizolowane emotikony
+[Use background image]
+U¿yj obrazu t³a
+[Use glyph transformation]
+U¿yj transformacji glyph
+[Skin items]
+Elementy skórki
+[Export to skin file]
+Eksportuj do pliku skórki
+[Load from skin file]
+Za³aduj skórkê z pliku
+[Opacity(%):]
+Krycie (%):
+[Transparent background]
+Przezroczyste t³o
+[Transparency]
+Przezroczystoœæ
+[Shadow]
+Cieñ
+[Round corners (window)]
+Zaokr¹glone rogi (okna)
+[Background image]
+Obraz t³a
+[Margins]
+Marginesy
+[Show effect]
+Poka¿ efekt
+[Aero Glass (Vista+)]
+Aero Glass (Vista+)
+[Enable tray tooltips]
+W³¹cz podpowiedzi w zasobniku
+[Handle tray tooltips by Tipper]
+Rozszerzona podpowiedŸ w zasobniku
+[Favourite contacts]
+Ulubione kontakty
+[Expand to second level after:]
+Rozszerz podpowiedŸ po:
+[Use status bar setting]
+U¿yj ustawienia paska statusu
+[Hide offline]
+Ukryj niepo³¹czonych
+[Append protocol name]
+Dopisz nazwê protoko³u
+[%dh %dm]
+%dh %dm
+[%dm]
+%dm
+[You need advaimg.dll plugin for advanced skin features. Get latest from Miranda alpha builds.]
+Potrzebujesz wtyczki advaimg.dll dla zaawansowanych opcji skórki. Najnowsz¹ wersjê znajdziesz w buildach alpha Mirandy. 
+[Tipper error]
+B³¹d Tippera
+[Reload skin list]
+Prze³aduj skórke
+[Jabber activity]
+Aktywnoœæ Jabber
+[Apply skin]
+Zatwierdz skórke
+[Add item]
+Dodaj element
+[# Solid color fill]
+# Podstawowa
+[Add separator]
+Dodaj separator
+[Tipper skins]
+Skórki Tippera
+[Enable skin coloring]
+W³¹cz kolorowanie skórki
+[Load tooltip proportions]
+W³¹cz proporcje tooltipa
+[Load fonts and colors]
+W³¹cz czcionki i kolory
+[No preview]
+Brak obrazka
+[Skin option]
+Opcje skórki
+[Animation speed:]
+Szybkoœæ animacji:
+[First level tooltip]
+Podstawowy Tooltip
+[Second level tooltip]
+Rozszerzony Tooltip
+[Hide offline protocols]
+Ukryj Roz³¹czone protoko³y
+[Number of contacts]
+Iloœæ kontaktów
+[Logon time]
+Czas od zalogowania
+[Unread emails]
+Nieprzeczytane emaile
+[Status message]
+Opis
+[Miranda uptime]
+Czas dzia³ania
+[Clist event]
+Lista zdarzeñ
+[Invalid Substitution]
+Nieprawid³owe zastêpstwo
+[<No Label>]
+<Brak etykiety>
+[Icon on left]
+Ikona po lewej
+[Icon on right]
+Ikona po prawej
+[No icon]
+Brak ikony
+[No title]
+Brak tytu³u
+[Bottom right]
+Dolny prawy róg
+[Bottom left]
+Dolny lewy róg
+[Top right]
+Górny prawy róg
+[Top left]
+Górny lewy róg
+[No avatar]
+Brak awatara
+[Tooltips View]
+Widok podpowiedzi
+[Content]
+Treœæ
+[Tooltips Content]
+Zawartoœæ podpowiedzi
+[Empty message]
+Pusta wiadomoœæ
+[Tray title]
+Tytu³ w zasobniku
+[Labels]
+Etykiety
+[Values]
+Wartoœci
+[Dimensions]
+Rozmiar
+[Browse...]
+Przegl¹daj...
+[Keep original avatar size]
+Oryginalny rozmiar awatara
+[Max avatar size:]
+Maks. rozmiar awatara:
+[Background image:]
+Obraz t³a:
+[Stretch]
+Rozci¹gnij
+[Protocol lock status]
+Zmiana statusu protoko³u
+[Avatar padding:]
+Dope³nienie awatara:
+[Item]
+Pozycja
+[Substitutions]
+Zastêpowany tekst
+[Edit...]
+Edytuj...
+[[No translation]]
+<brak t³umaczenia>
+[<prefix>Day|Month|Year to age]
+<prefiks>Dzieñ|Miesi¹c|Rok dla wieku
+[<prefix>Day|Month|Year to date]
+<prefiks>Dzieñ|Miesi¹c|Rok dla daty
+[<prefix>Day|Month|Year|Hours|Minutes|Seconds to time difference]
+<prefiks>Dzieñ|Miesi¹c|Rok|Godzina|Minuta|Sekunda dla ró¿nicy czasu
+[<prefix>Hours|Minutes to time]
+<prefiks>Godziny|Minuty dla czasu
+[<prefix>Hours|Minutes|Seconds to time]
+<prefiks>Godziny|Minuty|Sekundy dla czasu
+[BYTE to Male/Female (ICQ)]
+BYTE dla P³ci (ICQ)
+[BYTE to Yes/No]
+BYTE dla Tak/Nie
+[BYTE timezone to time]
+BYTE strefy czasowej dla czasu
+[DWORD to ip address]
+DWORD dla adresu IP
+[DWORD seconds to time difference]
+DWORD sekund dla ró¿nicy czasu
+[DWORD timestamp to date (short)]
+DWORD znacznika czasu dla daty (krótki)
+[DWORD timestamp to date (long)]
+DWORD znacznika czasu dla daty (d³ugi)
+[DWORD timestamp to time]
+DWORD znacznika czasu dla czasu
+[DWORD timestamp to time (no seconds)]
+DWORD znacznika czasu dla czasu (bez sekund)
+[DWORD timestamp to time difference]
+DWORD znacznika czasu dla ró¿nicy czasu
+[WORD to country name]
+WORD dla nazwy kraju
+[WORD to status description]
+WORD dla opisu statusu
+[xStatus: empty xStatus name to default name]
+xStatus: pusta nazwa xStatus jako domyœlna nazwa
+[<prefix>Day|Month to days to next birthday]
+<prefiks>Dzieñ|Miesi¹c dla dnia nastêpnej rocznicy
+[BYTE to language (ICQ)]
+BYTE dla jêzyka (ICQ)
+[WORD to name of a day (0..6, 0 is Sunday)]
+WORD dla nazwy dnia (0..6, 0 to Niedziela)
+[WORD to name of a month (1..12, 1 is January)]
+WORD dla nazwy miesi¹ca (1..12, 1 to Styczeñ)
+[Get more skins]
+Pobierz wiêcej skórek...
+[Identifier]
+Identyfikator
+[Cannot obtain required interfaces!\nTooltips will not be available until you upgrade Miranda IM to the newest version.]
+Nie mo¿na uruchomiæ wymaganej us³ugi!\nTooltips nie bêdzie dostêpny dopuki Miranda IM nie zostanie zaktualizowana do najnowszej wersji.
+[Bottom]
+Dó³
+[Extra status]
+xStatus

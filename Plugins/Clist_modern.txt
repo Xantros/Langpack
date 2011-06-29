@@ -1,0 +1,981 @@
+;============================================================
+;  File: clist_modern.dll
+;  Module: Modern Contact List (UNICODE)
+;  Versions: 0.9.0.9
+;============================================================
+[&Contact rate]
+Ocena kontaktu
+[[Ctrl]+[Left Click] to filter only  protocol. Click on empty space to show all]
+[Ctrl] + [LPM] dla filtrowania protoko³ów. Kliknij na pustej przestrzeni, aby pokazaæ wszystkie.
+[Show protocol icon]
+Poka¿ ikony protoko³ów
+[*** All contacts ***]
+*** Wszystkie kontakty ***
+[Show contacts in groups]
+Poka¿ kontakty w grupach
+[Frames]
+Ramki
+[Are you sure you want to delete this group?  This operation can not be undone.]
+Na pewno chcesz usun¹æ tê grupê?  Nie bêdzie mo¿na cofn¹æ tej operacji.
+[Delete Group]
+Usuñ grupê
+[You already have a group with that name. Please enter a unique name for the group.]
+Grupa o tej nazwie ju¿ istnieje. Wybierz unikaln¹ nazwê dla tej grupy.
+[Rename Group]
+Zmieñ nazwê grupy
+[This group]
+Ta grupa
+[Contact List/Avatar Overlay]
+Lista kontaktów/Nak³adka awataru
+[Contact List/Status Overlay]
+Lista kontaktów/Nak³adka statusu
+[Contact List smileys]
+Emotikony listy kontaktów
+[Do You want contact '%s' to be converted to MetaContact and '%s' be added to it?]
+Chcesz przekonwertowaæ kontakt "%s" do metakontaktu i dodaæ do niego "%s"?
+[Converting to MetaContact]
+Konwertowanie do metakontaktu
+[Do You want contact '%s' to be converted to MetaContact and '%s' be added to it (remove it from '%s')?]
+Chcesz przekonwertowaæ kontakt "%s" do metakontaktu i dodaæ do niego "%s" (zostanie usuniêty z "%s")?
+[Converting to MetaContact (Moving)]
+Konwertowanie do metakontaktu (przesuwanie)
+[Do you want to contact '%s' be added to metacontact '%s'?]
+Chcesz dodaæ kontakt "%s" do metakontaktu "%s"?
+[Adding contact to MetaContact]
+Dodawanie kontaktu do metakontaktu
+[Do You want contact '%s' to be default ?]
+Chcesz ¿eby "%s" by³ domyslnym kontaktem?
+[Set default contact]
+Ustaw domyœlny kontakt
+[Do You want contact '%s' to be removed from MetaContact '%s' and added to '%s'?]
+Chcesz usun¹æ kontakt "%s" z metakontaktu "%s" i dodaæ go do "%s"?
+[Changing MetaContacts (Moving)]
+Zmiana metakontaktów (przesuwanie)
+[Do You want contact '%s' to be added to MetaContact '%s'?]
+Chcesz dodaæ kontakt "%s" do metakontaktu "%s"?
+[Away contacts]
+Kontakty "Zaraz wracam"
+[DND contacts]
+Kontakty "Nie przeszkadzaæ"
+[NA contacts]
+Kontakty "Niedostêpne"
+[Occupied contacts]
+Kontakty "Zajête"
+[Free for chat contacts]
+Kontakty "Chêtne do rozmowy"
+[Invisible contacts]
+Kontakty "Niewidoczne"
+[On the phone contacts]
+Kontakty "Przy telefonie"
+[Out to lunch contacts]
+Kontakty "Na obiedzie"
+[Offline contacts]
+Kontakty "Roz³¹czone"
+[Offline contacts to whom you have a different visibility]
+Roz³¹czone kontakty, dla których mam ró¿n¹ widocznoœæ
+[Contacts who are 'not on list']
+Kontakty, które "nie s¹ na liœcie"
+[Open groups]
+Otwarte grupy
+[Open group member counts]
+Liczba cz³onków w otwartej grupie
+[Closed groups]
+Zamkniête grupy
+[Closed group member counts]
+Liczba cz³onków w zamkniêtej grupie
+[Second line]
+Druga linia
+[Third line]
+Trzecia linia
+[Contact time]
+Czas kontaktu
+[Status bar text]
+Tekst na pasku statusu
+[Event area text]
+Tekst obszaru zdarzeñ
+[Current view mode text]
+Tekst obecnego trybu widoku
+[List Text]
+Tekst listy
+[Contact list skin]
+Skórka listy kontaktów
+[List Background]
+T³o listy
+[Not focused]
+Nieaktywne
+[as:]
+jako:
+[Name (use locale settings)]
+Nazwa (u¿yj lokalnych ustawieñ)
+[Last message time]
+Czas ostatniej wiadomoœci
+[Rate]
+Ocena
+[-Nothing-]
+-Nic-
+[Center]
+Œrodek
+[Hide to tray]
+Schowaj do zasobnika
+[Behind left edge]
+Za lew¹ krawêdzi¹
+[Behind right edge]
+Za praw¹ krawêdzi¹
+[Event Area]
+Obszar zdarzeñ
+[No Events]
+Brak zdarzeñ
+[Row]
+Wiersz
+[Row design]
+U³o¿enie wiersza
+[Icon]
+Ikona
+[Second Line]
+Druga linia
+[Third Line]
+Trzecia linia
+[Row items]
+Obiekty w wierszu
+[Hotkeys2]
+Skr. klaw.
+[Animate Avatars (GDI+ and loadavatars.dll are required)]
+Animowane awatary (wymaga GDI+ i loadavatars.dll)
+[Left align group names]
+Wyrównaj nazwy grup do lewej
+[Center group names]
+Wyœrodkuj nazwy grup
+[Right align group names]
+Wyrównaj nazwy grup do prawej
+[Visibility/Chat activity]
+Widocznoœæ/Aktywnoœæ czatu
+[Phone/SMS]
+Telefon/SMS
+[Web page]
+Strona www
+[Client (fingerprint.dll is required)]
+Klient (wymaga fingerprint.dll)
+[TrayMenu]
+Menu w zasobniku
+[&Options...]
+Opcje...
+[&About]
+Informacje
+[My Contacts]
+Moje kontakty
+[Show Contact &Avatar]
+Poka¿ awatar kontaktu
+[Hide Contact &Avatar]
+Ukryj awatar kontaktu
+[&FrameTitle]
+Nazwa ramki
+[&Visible]
+Widoczny
+[&Show TitleBar]
+Poka¿ pasek tytu³u
+[&Locked]
+Zablokowany
+[&Collapsed]
+Zwiniêty
+[&Floating Mode]
+P³ywaj¹ce okno
+[&Border]
+Obramowanie
+[&Align]
+Wyrównanie
+[&Top]
+Góra
+[&Client]
+Klient
+[&Bottom]
+Dó³
+[&Position]
+Pozycja
+[New Menu System not Found...]
+Nie znaleziono nowego systemu menu...
+[Show All Frames]
+Poka¿ wszystkie ramki
+[Show All Titlebars]
+Poka¿ wszystkie paski tytu³ów
+[Hide All Titlebars]
+Ukryj wszystkie paski tytu³ów
+[Lock Frame]
+Zablokuj ramkê
+[Visible]
+Widoczny
+[Show TitleBar]
+Poka¿ pasek tutu³u
+[Floating]
+P³ywaj¹cy
+[Email Icon]
+Ikona e-mail
+[Sms Icon]
+Ikona SMS
+[Web Icon]
+Ikona Web
+[Always Visible]
+Zawsze widoczny
+[Never Visible]
+Zawsze niewidoczny
+[Chat Activity]
+Aktywnoœæ czatu
+[FrameMenu]
+Menu ramki
+[GroupMenu]
+Menu grupy
+[SubGroupMenu]
+Menu podgrupy
+[&New SubGroup]
+Nowa podgrupa
+[&Hide Offline Users in here]
+Ukryj tu roz³¹czonych
+[&Show Offline Users in here]
+Poka¿ tu roz³¹czonych
+[Show Hide Contact List]
+Poka¿ ukryt¹ listê kontaktów
+[Read Message]
+Przeczytaj wiadomoœæ
+[Search in site]
+Szukaj na stronie
+[Open Options Page]
+Otwórz okno z opcjami
+[Open Find User Dialog]
+Otwórz okno szukania u¿ytkowników
+[Close Miranda]
+Zamknij Mirandê
+[Restore last status]
+Przywróæ ostatni status
+[Set All Offline]
+Ustaw wszystko na "Roz³¹czony"
+[Status Bar]
+Pasek statusu
+[ToolBar]
+Pasek narzêdzi
+[Minimize]
+Minimalizuj
+[Background colour:]
+Kolor t³a:
+[Selection colour:]
+Kolor zaznaczenia:
+[Use background bitmap]
+U¿yj bitmapy jako t³a
+[Scroll with text]
+Przewijaj z tekstem
+[Tile vertically according to Row Height]
+Uk³adaj pionowo zale¿nie od wysokoœci wiersza
+[Use Windows Colors]
+U¿yj kolorów Windows
+[Available skins]
+Dostêpne skórki
+[\n\n\nPlease select one of available skins. \n\nOr browse for skin not in list.]
+\n\n\nWybierz jedn¹ z dostêpnych skórek. \n\nMo¿esz te¿ rêcznie wskazaæ jej lokalizacjê.
+[Skin Preview]
+Podgl¹d skórki
+[Frame Titles Color]
+Kolor tytu³ów ramek
+[WARNING: \tSkins can modify your current profile. Rollback is not possible. \n\t\tPlease BACKUP your database before applying skin.]
+UWAGA: \tSkórki mog¹ zmodyfikowaæ twój profil. Przywrócenie zmian jest niemo¿liwe. \n\t\tWykonaj kopiê bazy danych przed w³¹czeniem nowej skórki.
+[* Restart may be required for all changes to take effect]
+* Aby wszystkie zmiany odnios³y efekt mo¿e byæ wymagany restart
+[Available objects]
+Dostêpne obiekty
+[Object properties]
+W³aœciwoœci obiektu
+[Colour]
+Kolor
+[Alpha]
+Alpha
+[Image file and fitting mode]
+Plik obrazka i tryb dopasowania
+[Borders]
+Obramowanie
+[Fit mode]
+Tryb dopasowania
+[Fragment location]
+Lokacja fragmentu
+[Width]
+Szerokoœæ
+[Height]
+Wysokoœæ
+[W x H: 0 x 0 pixels]
+S x W: 0 x 0 pikseli
+[Available view modes]
+Dostêpne tryby widoku
+[Include protocols]
+Uwzglêdnione protoko³y
+[New]
+Nowy
+[Include groups]
+Uwzglêdnione grupy
+[Include status modes]
+Uwzglêdniony tryby statusu
+[Sticky contacts]
+Przyklejone kontakty
+[Clear all]
+Wyczyœæ wszystko
+[Using the contact list on the left side, you can select contacts which will be "sticky" for this view mode. These contacts will ignore the standard filter rules and only use the status mode filter below.]
+U¿ywaj¹c listy kontaktów po lewej stonie, mo¿esz wybraæ kontakty, które bêd¹ "przyklejone" do tego widoku. Te kontakty bêd¹ ignorowaæ standardowe regu³y filtrowania i u¿ywaæ tylko poni¿szego filtru trybu statusu.
+[Status mode]
+Tryb statusu
+[Automatically clear this view mode after]
+Automatycznie wyczyœæ ten tryb widoku po
+[View mode options]
+Opcje trybu widoku
+[Editing view mode]
+Edytowanie trybu widoku
+[Last message ]
+Ostatnia wiadomoœæ 
+[Contact List Extra Icons]
+Dodatkowe ikony listy kontaktów
+[Toolbar settings]
+Ustawienia paska narzêdzi
+[Hints:\n* Use Drag&&Drop feature to change buttons order.\n* You can change button icons at Customize->Icons Toolbar section]
+Wskazówki:\n* U¿yj Przeci¹gnij i Upuœæ, aby zmieniæ kolejnoœæ przycisków.\n* Mo¿esz zmieniæ ikony przycisków w Wygl¹d->Ikony zak³adka pasek narzêdzi.
+[Show Toolbar with next buttons:]
+Poka¿ pasek narzêdzi z tymi przyciskami:
+[Button width]
+Szerokoœæ przycisku
+[Space between]
+Odstêp pomiêdzy
+[This will erase all history and settings for this contact!]
+To usunie wszystkie ustawienia i historiê dla tego kontaktu!
+[Hide offline users]
+Ukryj roz³¹czonych
+[Hide empty groups]
+Ukryj puste grupy
+[Disable groups]
+Wy³¹cz grupy
+[Ask before deleting contacts]
+Pytaj przed usuniêciem kontaktów
+[Dont move offline user to bottom]
+Nie przesuwaj roz³¹czonych na dó³
+[Single click interface]
+Poka¿/ukryj listê po pojedynczym klikniêciu
+[Always show status in tooltip]
+Zawsze pokazuj status w podpowiedzi
+[Disable icon blinking]
+Wy³¹cz miganie ikony
+[ms, delay between icon blinking]
+ms, przerwa miêdzy migniêciami ikony
+[Cycle icons every]
+Zmieniaj ikony co
+[seconds, when statuses differ]
+sekund(y), jeœli statusy siê ró¿ni¹
+[Show multiple icons]
+Poka¿ ikony osobno
+[Only when statuses differ]
+Tylko, jeœli statusy siê ró¿ni¹
+[System tray icon when using multiple protocols]
+Ikona w zasobniku systemowym podczas korzystania z wielu protoko³ów
+[Contact List Sorting]
+Sortowanie kontaktów
+[1st:]
+1:
+[2nd:]
+2:
+[3rd:]
+3:
+[Place offline users out of groups]
+Umieœæ roz³¹czonych poza grupami
+[Use xStatus icon]
+U¿yj ikony xStatusu
+[Show normal status as overlay]
+Poka¿ normalny status jako nak³adkê
+[Status overlay opacity is 75% ]
+Widocznoœæ nak³adki statusu - 75% 
+[only when statuses differ]
+tylko, jeœli statusy siê ró¿ni¹
+[Bring to front if covered]
+Przesuñ na wierzch, jeœli zakryty
+[Hide contact list after ]
+Ukryj listê kontaktów po 
+[Automatically resize window to height of list]
+Dopasuj rozmiar okna rozmowy do wysokoœci listy
+[maximum]
+maks.
+[and minimum]
+i minimaln¹
+[% of screen]
+% ekranu
+[Size upwards]
+Rozci¹gnij do góry
+[Behaviour]
+Zachowanie
+[Lock manual resize]
+Zablokuj rêczn¹ zmianiê rozmiaru
+[Drag to ]
+Przeci¹gnij do 
+[Easy Scroll]
+£atwe przewijanie
+[Easy move]
+£atwe przesuwanie
+[x100 msec]
+x100 ms
+[show delay]
+opóŸnienie pokazania
+[hide delay]
+opóŸnienie ukrycia
+[Hide method]
+Metoda ukrycia
+[keep on screen]
+utrzymaj na ekranie
+[Snap to edges]
+Przyci¹ganie do krawêdzi
+[Event notify area]
+Obszar powiadomieñ
+[Show automaticaly]
+Poka¿ automatycznie
+[Show divider between online and offline contacts]
+Poka¿ separator miêdzy po³¹czonymi a roz³¹czonymi
+[Hot track items as mouse passes over]
+Podœwietl obiekty pod kursorem
+[Disable drag and drop of items]
+Wy³¹cz "przeci¹gnij i upuœæ"
+[Disable rename of items by clicking twice]
+Wy³¹cz zmianê nazwy po podwójnym klikniêciu
+[Show selection even when list is not focused]
+Pokazuj zaznaczenie na nieaktywnej liœcie
+[Make selection highlight translucent]
+Przezroczyste podœwietlenie zaznaczenia 
+[Dim idle contacts]
+Przygaœ bezczynne kontakty
+['Hide Offline' means to hide:]
+"Ukryj roz³¹czonych" tzn.:
+[Draw a line alongside group names]
+Rysuj liniê wzd³u¿ nazw grupy
+[Show counts of number of contacts in a group]
+Poka¿ liczbê kontaktów w grupach
+[Hide group counts when there are none online]
+Ukryj liczbê kontaktów, jeœli nikt nie jest po³¹czony
+[Sort groups alphabetically]
+Sortuj grupy alfabetycznie
+[Quicksearch in open groups only]
+Szybkie szukanie tylko w otwartych grupach
+[Indent groups by:]
+Wcinaj grupy na:
+[Visual]
+Wizualne
+[Scroll list smoothly]
+P³ynne przewijanie listy
+[Time:]
+Czas:
+[Hide vertical scrollbar]
+Ukryj pionowy pasek przewijania
+[Fade out entire list when:]
+Przygaœ ca³¹ listê, gdy:
+[Fonts]
+Czcionka
+[same]
+taki sam
+[Typeface]
+Krój
+[Italic]
+Kursywa
+[Underline]
+Podkreœlenie
+[Additional Colours]
+Dodatkowe kolory
+[Selected text:]
+Zaznaczony tekst
+[Hottrack text:]
+Tekst pod myszk¹
+[Quicksearch text:]
+Tekst Quicksearch
+[Gamma correction]
+Korekcja Gamma
+[Full selection]
+Pe³ne zaznaczenie
+[Less selection]
+Czêœciowe zaznaczenie
+[No selection]
+Brak zaznaczenia
+[Selection Mode]
+Tryb zaznaczenia
+[Effect]
+Efekt
+[HotKeys]
+Skróty
+[HotKey Information]
+Info o skrócie
+[Ignore Empty Extra icons places (arrange to right).]
+Ignoruj puste miejsca na ikony (przesuñ do prawej).
+[Use 'Meta' protocol icons for Metacontacts]
+U¿yj ikony "Meta" dla metakontaktów
+[Expand metacontacts]
+Rozwiñ metakontakty
+[Avoid doubleclick expand]
+Unikaj rozwijania podwójnym klikniêciem
+[Hide all 'Extra icons' for subcontacts]
+Ukryj wszystkie "dodatkowe ikony" dla subkontaktów
+[Hide offline subcontacts.]
+Ukryj niepo³¹czone subkontakty.
+[MetaContacts stuff]
+Elementy MetaKontaktów
+[Additional stuff]
+Pozosta³e ustawienia
+[For other stuff MetaContacts plugin should be loaded.\n\nhttp://miranda-im.org/download]
+Wiêcej opcji uzyskasz dziêki wtyczce MetaContacts.\n\nhttp://miranda-im.org/download
+[Allow internal requesting of away message text]
+Akceptuj wewnêtrzne proœby o treœæ opisu
+[Subcontacts indent:]
+Wciêcie subkontaktów:
+[Remove away message if contact became offline]
+Usuñ opis, jeœli kontakt siê roz³¹czy
+[Show time only if it is different from current time]
+Poka¿ czas tylko wtedy, gdy ró¿ni siê od bie¿¹cego
+[Show contact time as row item]
+Poka¿ czas kontaktu jako pozycjê wiersza
+[Always on top]
+Zawsze na wierzchu
+[Pin to desktop]
+Przypnij do pulpitu
+[Client area margins]
+Marginesy wewn¹trz obszaru listy
+[Thin border main window]
+W¹skie obramowanie okna
+[Borderless main window]
+Usuñ obramowanie okna
+[Show menu bar]
+Poka¿ pasek menu
+[Show title bar]
+Poka¿ pasek tytu³u
+[Title bar text:]
+Tekst paska tytu³u:
+[Tool style main window]
+Styl okna narzêdziowego
+[Minimize to tray]
+Minimalizuj do zasobnika
+[Translucency options (Windows 2000/XP only)]
+Opcje przeœwitywania (tylko 2000/XP)
+[Fade contact list in/out]
+Wygaszaj/rozjaœniaj listê
+[Transparent contact list]
+Przezroczysta lista kontaktów
+[Inactive opacity:]
+Nieaktywne okno:
+[Active opacity:]
+Aktywne okno:
+[Enable drop shadow (restart required)]
+W³¹cz cieniowanie (wymaga restartu)
+[Enable Aero Glass (Vista)]
+W³¹cz Aero Glass (Vista)
+[Between frames:]
+Pomiêdzy ramkami:
+[After captions:]
+Po napisach:
+[Gaps]
+Przerwy
+[Key color for owned frames]
+Kluczowy kolor dla w³asnych ramek
+[Use Non-Layered mode]
+Wy³¹cz skórkowanie
+[Round corners]
+Zaokr¹glone rogi
+[Non-layered mode]
+Tryb Non-layered
+[Disable Skin Engine]
+Wy³¹cz silnik skórek
+[Order of items:]
+Kolejnoœæ wyœwietlania:
+[Min row height:]
+Min. wys. wiersza:
+[Row border:]
+Obr. wiersza:
+[Variable row height]
+Zmienna wysokoœæ wiersza
+[Align left items to left]
+Wyrównaj lewe elementy do lewej
+[Align right items to right]
+Wyrównaj prawe elementy do prawej
+[Left margin:]
+Lewy margines:
+[Right margin:]
+Prawy margines:
+[Compact mode\n(Show avatars and additional text\non selected contacts only)]
+Tryb kompaktowy\n(Poka¿ awatary i dodatkowy tekst\ntylko przy zaznaczonych kontaktach)
+[Show protocol names]
+Poka¿ nazwy protoko³ów
+[Show status text]
+Poka¿ nazwê statusu
+[Use connecting Icon]
+U¿yj ikony ³¹czenia
+[Right click opens status menu]
+Prawy przycisk otwiera menu statusu
+[Right click opens Miranda menu]
+Prawy przycisk otwiera menu Mirandy
+[Make sections equal width]
+Sekcje tej samej szerokoœci
+[Left border]
+Obramowanie po lewej
+[Right border]
+Obramowanie po prawej
+[Space between ]
+Przerwa pomiêdzy 
+[Align]
+Wyrównaj
+[Show xStatus icon]
+Poka¿ ikonê xStatus
+[Show unread emails (if supported)]
+Poka¿ nieprzeczytane emaile (jeœli obs³ugiwane)
+[Show both icons]
+Poka¿ obie ikony
+[Show status bar]
+Poka¿ pasek statusu
+[Show xStatus Name]
+Poka¿ nazwê xStatus
+[Protocols per line]
+Il. protoko³ów w linii
+[Multiline status bar:]
+Wielolinijkowy pasek statusu:
+[Draw border on avatar]
+Rysuj obramowanie awatarów
+[Show Avatars]
+Poka¿ awatary
+[Draw overlay icons]
+Rysuj nak³adki ikon
+[Round corners of avatars]
+Zaokr¹glone rogi awatarów
+[Ignore size for row height calcs]
+Ignoruj wysokoœæ wiersza
+[Border Color:]
+Kolor ramki:
+[Custom corner size:]
+Rozmiar rogów:
+[Normal overlay icon]
+Normalna nak³adka ikony
+[Protocol status icon]
+Ikona statusu protoko³u
+[Contact icon]
+Ikona kontaktu
+[height]
+wysokoœæ
+[Max width]
+Maks. szerokoœæ
+[Animate Avatars]
+Animowane awatary
+[Hide icon when showing avatar]
+Ukryj ikonê, gdy pokazany jest awatar
+[Draw icon in avatar space]
+Rysuj ikonê w przestrzeni awataru
+[Hide groups icon]
+Ukryj ikonê grup
+[Always show "Always visibile" icon]
+Pokazuj ikonê "zawsze widoczny"
+[Use extra status icon instead protocol]
+U¿yj dodatkowej ikony statusu zamiast protoko³u
+[Draw normal status as overlay]
+Rysuj normalny status jako nak³adkê
+[Right-To-Left reading mode (mirror template)]
+Czytanie od prawej do lewej (odwróæ szablon)
+[Replace smileys in clist]
+Zamieñ uœmieszki na liœcie
+[Draw smileys on first line]
+Rysuj emotikonki w pierwszej linii
+[Align to right]
+Wyrównaj do prawej
+[Append nick if different from custom name]
+Dodaj nick, jeœli ró¿ni siê od w³asnej nazwy
+[Trim long text with ellipsis]
+Wykropkuj zbyt d³ugi tekst
+[Show second line]
+Poka¿ drug¹ liniê
+[Top space:]
+Przestrzeñ na górze:
+[Draw smileys on second line]
+Rysuj emotikony w drugiej linii
+[Away Message]
+Opis
+[Show status if there isn't away message]
+Poka¿ status, jeœli nie ma opisu
+[Show listening to if there isn't away message]
+Poka¿ "info o utworze", jeœli nie ma opisu
+[XStatus has priority]
+xStatus ma priorytet
+[Use 'XStatus: XMessage']
+U¿yj "xStatus: xOpis"
+[(Variables will be replaced)]
+(Zmienne zostan¹ zast¹pione)
+[Show third line]
+Poka¿ trzeci¹ liniê
+[Draw smileys on third line]
+Rysuj emotikony w trzeciej linii
+[Top/Left]
+Góra/Lewa
+[Bottom/Right]
+Dó³/Prawa
+[Position (vertical)]
+Pozycja (pozioma)
+[Show Title]
+Poka¿ tytu³
+[Locked]
+Zablokowane
+[Frames Order]
+Kolejnoœæ ramek
+[UNDER CONSTRUCTION!!!           IT DOES NOT WORK]
+W BUDOWIE!!!!           NA RAZIE NIE DZIA£A
+[Row template]
+Szablon wiersza
+[Add container]
+Dodaj kontener
+[Remove container]
+Usuñ kontener
+[Vertical align:]
+Pionowe wyrównanie:
+[Horizontal align:]
+Poziome wyrównanie:
+[Container type:]
+Typ kontenera:
+[Container width:]
+Szerokoœæ kontenera:
+[Container height:]
+Wysokoœæ kontenera:
+[Layered]
+Skórkowane
+[OPTION PAGE IS UNDER CONSTRUCTION Please DO NOT notice about any issues here.\n Only high-level design comments are applicable.]
+OSTRONA OPCJI JEST W KONSTRUKCJI Proszê NIE zg³aszaæ wystêpuj¹cych tu b³êdów.\n Tylko komentarze o najwa¿niejsze ustawienia s¹ uznawane.
+[Empty %s cell]
+Pusta komórka %s
+[column]
+kolumna
+[line]
+linia
+[columns]
+kolumny
+[lines]
+linie
+[%s, contain %s]
+%s, zawiera %s
+[ layered]
+ skórkowane
+[Image size is]
+Rozmiar obrazu to
+[Load/Save]
+Wczytaj/Zapisz
+[Object Editor]
+Edytor obiektów
+[%s\n\n%s\n\nAuthor(s):\t %s\nContact:\t %s\nStrona www:\t %s\n\nPlik:\t %s]
+%s\n\n%s\n\nAutor(zy):\t %s\nKontakt:\t %s\nStrona www:\t %s\n\nPlik:\t %s
+[%s\n\n%s\n\nAuthor(s): %s\nContact:\t %s\nWeb:\t %s\n\nFile:\t %s]
+%s\n\n%s\n\nAutor(zy): %s\nKontakt:\t %s\nStrona www:\t %s\n\nPlik:\t %s
+[This is second default Modern Contact list skin in Vista Aero style]
+To jest druga z domyœlnych skórek Modern Contact list w stylu Vista Aero
+[Inside library]
+W bibliotece
+[Skin editor contains not stored changes.\n\nAll changes will be lost.\n\n Continue to load new skin?]
+Edytor skórek zawiera niezachowane zmiany.\n\nWszystkie zmiany zostan¹ utracone.\n\n Kontynuowaæ wczytywanie skórki?
+[Warning!]
+Uwaga!
+[Current skin was not saved to file.\n\nAll changes will be lost.\n\n Continue to load new skin?]
+Obecna skórka nie zosta³a zapisana do pliku.\n\nWszystkie zmiany zostan¹ utracone.\n\n Kontynuowaæ wczytywanie nowej skórki?
+[Miranda skin file]
+Plik skórki Mirandy
+[Preview is not available\n\n%s\n----------------------\n\n%s\n\nAUTHOR(S):\n%s\n\nCONTACT:\n%s\n\nHOMEPAGE:\n%s]
+Podgl¹d jest niedostêpny\n\n%s\n----------------------\n\n%s\n\nAUTOR(ZY):\n%s\n\nKONTAKT:\n%s\n\nSTRONA DOMOWA:\n%s
+[%s\n\n%s\n\nAUTHORS:\n%s\n\nCONTACT:\n%s\n\nWEB:\n%s\n\n\n]
+%s\n\n%s\n\nAUTORZY:\n%s\n\nKONTAKT:\n%s\n\nSTRONA WWW:\n%s\n\n\n
+[Select skin from list]
+Wybierz skórkê z listy
+[Please select skin to apply]
+Wybierz skórkê do u¿ycia
+[Default Skin]
+Domyœlna skórka
+[Ungrouped contacts]
+Niepogrupowane kontakty
+[And]
+I
+[Or]
+Lub
+[Older than]
+Starsze ni¿
+[Newer than]
+Nowsze ni¿
+[Minutes]
+Minuty
+[Configuring view mode: %s]
+Konfigurowanie trybu widoku: %s
+[Configure view modes]
+Konfiguruj tryby widoku
+[Really delete this view mode? This cannot be undone]
+Na pewno chcesz usun¹æ ten tryb widoku? Nie mo¿na tego cofn¹c.
+[Delete a view mode]
+Usuwanie trybu widoku
+[No view mode]
+Brak trybu widoku
+[A view mode with this name does alredy exist]
+Tryb widoku o takiej nazwie ju¿ istnieje
+[Duplicate name]
+Zduplikowana nazwa
+[Setup View Modes...]
+Ustaw tryby widoku...
+[Clear current View Mode]
+Wyczyœæ obecny tryb widoku
+[Select a view mode]
+Wybierz tryb widoku
+[Setup view modes]
+Ustaw tryby widoku
+[Clear view mode and return to default display]
+Wyczyœæ tryb widoku i przywróæ domyœlne wyœwietlanie
+[Reset view mode]
+Resetuj tryb widoku
+[View Modes]
+Tryby widoku
+[Main Menu]
+Menu g³ówne
+[Status Menu]
+Menu statusu
+[Show/Hide offline contacts]
+Poka¿/Ukryj niepo³¹czonych
+[Minimize Miranda]
+Minimalizuj Mirandê
+[Use/Disable groups]
+W³¹cz/Wy³¹cz grupy
+[Enable/Disable sounds]
+W³¹cz/Wy³¹cz dŸwiêki
+[Multiline toolbar]
+Wiele lini paska narzêdzi
+[Autosize toolbar]
+Auto rozmiar paska narzêdzi
+[Shadow at left]
+Cieñ po lewej
+[Shadow at right]
+Cieñ po prawej
+[Outline]
+Zarys
+[Outline smooth]
+G³adki zarys
+[Smooth bump]
+G³adka bulwa
+[Contact rate]
+Ocena kontaktu
+[Show even if offline]
+Poka¿ nawet, je¿eli niepo³¹czony
+[Low]
+Niska
+[Medium]
+Œrednia
+[High]
+Wysoka
+[Show Main Menu]
+Poka¿ menu g³ówne
+[Vertical Align]
+Pionowe wyrówn.
+[Horizontal Align]
+Poziome wyrówn.
+[Accounts per line]
+Protoko³ów w lini
+[* To increase Status Bar height:\nSet in Main menu: Frames->Status Bar->Show TitleBar then pull appeared title of status bar up or down.]
+* Aby zwiêkszyæ wysykoœæ paska statusu - ustaw w g³ównym menu: Ramki->Pasek statusu->Poka¿ pasek tytu³u i wtedy poci¹gnij widoczny pasek w górê lub dó³.
+[Space on Left]
+Odstêp z lewej
+[Space on right]
+Odstêp z prawej
+[Set options per account]
+Ustaw opcje dla ka¿dego konta
+[<<Global>>]
+<<Globalnie>>
+[Enable custom account settings]
+W³¹cz w³asne ustawienia dla konta
+[Hide account completely]
+Ukryj konto ca³kowicie
+[Use old render method (Fast, but has artefacts)]
+U¿yj starej metody renederowania (Szybko, ale z artefaktami)
+[Display contacts, event notifications, protocol status with advantage visual modifications. Supported MW modifications, enchanced metacontact cooperation.]
+Wyœwietla kontakty, powiadomienia zdarzeñ, statusy protoko³ów z dobrymi modyfikacjami wizualnymi. Wspierane zmiany z MW, rozszerzona wspó³praca z metakontaktami.
+[View help online]
+Pomoc na stronie Web
+[Additional:]
+Dodatkowe:
+[Account information:]
+Dodatkowe informacje:
+[Configure network...]
+Konfiguruj wtyczkê...
+[Get more protocols...]
+Pobierz wiêcej wtyczek...
+[Transparency:]
+Przezroczystoœæ:
+[Show contact time in list]
+Poka¿ czas kontaktu na liœcie
+[List sorting:]
+Sortowanie kontaktów:
+[Window:]
+Okno:
+[Message sending:]
+Wysy³anie wiadomoœci:
+[Send message on Ctrl+Enter (always enabled)]
+Wyœlij wiadomoœæ po Ctrl+ Enter (domyœlnie wy³.)
+[Send on Shift+Enter]
+Wyœlij wiadomoœæ po Shift+Enter
+[Send message on Enter]
+Wyœlij wiadomoœæ po Enterze
+[Send message on double Enter]
+Wyœlij wiadomoœæ po dwóch Enterach
+[Addons]
+Wtyczki
+[Notifications:]
+Notyfikacje:
+[Tabs:]
+Karty:
+[Show offline contacts]
+Poka¿ roz³¹czone kontakty
+[Hide offline contacts]
+Ukryj roz³¹czone kontakty
+[Disable Groups]
+Wy³¹cz grupy
+[Use groups]
+Poka¿ grupy
+[Show Version Information]
+Poka¿ informacje o wersji
+[Accounts...]
+Konta...
+[Version Information To File]
+Informacje o wersji do pliku
+[Upload Version Information]
+Wyœlij informacje o wersji
+[Dock to sides]
+Dokuj do krawêdzi
+[Database Editor]
+Database Editor
+[Resize smileys and 'Listining to' icon]
+Rysuj emotikonyi i ikony 'Listetning to'
+[Version Information To Clipboard]
+Informacje o wersji do notatnika
+[Account Name]
+Nazwa konta
+[System tray icon mode]
+Tryb ikony w zasobniku systemowym
+[CheckAnniv]
+SprawdŸ rocznice
+[%Default Skin%]
+%Domyœlna skórka%
+[Contact rate None]
+Brak oceny kontaktu
+[Contact rate Low]
+Niska ocena kontaktu
+[Contact rate High]
+Wysoka ocena kontaktu
+[Contact rate Medium]
+Œrednia ocena kontaktu
+[Contact names]
+Nazwy kontaktów
+[Frame texts]
+Tekst ramki
+[Row Items]
+Dodatkowe linie
+[Special colours]
+Specjalne kolory
+[Quick search text]
+Tekst szybkiego wyszukiwania
+[Menu text]
+Tekst menu
+[Selected menu text]
+Zaznaczony tekst menu
+[Frame title text]
+Tekst tytu³u ramki
+[Statusbar text]
+Tekst w statusbarze
+[3rd party frames transparent back colour]
+T³o ramki jako przeŸroczyste
+[Hot text]
+Podœwietlany tekst
+[New Group]
+Nowa grupa

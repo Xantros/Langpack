@@ -1,0 +1,883 @@
+;============================================================
+;  File: historystats.dll
+;  Module:  History Statistics
+;  Versions: 0.1.5.3
+;============================================================
+["Split" timeline]
+"Split"osi czasu
+["Split" type]
+"Split" typ
+[#{count} contacts]
+#{count} kontaktu
+[#{count} contacts / [First] #{first_time} / [Last] #{last_time}]
+#{count} kontakty / [Pierwsza] #{first_time} / [Ostatnia] #{last_time}
+[#{data} per #{unit}]
+#{data} za #{unit}
+[#{distict_words} distinct]
+#{distict_words} s≥Ûw
+[#{type} for #{data}]
+#{type} dla #{data}
+[#{words} total]
+#{words} wszystkich
+[#{words} total / #{distict_words} distinct]
+#{words} ≥πcznie / #{distict_words} s≥Ûw
+[(default nick)]
+(domyúlny nick)
+[(multiple)]
+(wieloraki)
+[(none)]
+(brak)
+[(nothing)]
+(nic)
+[(unknown)]
+(nieznany)
+[...after date (none=no limit)]
+...po terminie (nic = bez limitu)
+[...before date (none=no limit)]
+...przed datπ (nic = bez limitu)
+[...can be output as: ]
+...moøe byÊ efekt jak:
+[...is less than]
+...jest mniejsza niø
+[...older than (days, 0=no limit)]
+...powyøej (dni, 0 = bez limitu)
+[...on Miranda IM's startup]
+...na starcie Mirandy IM
+[...via Miranda IM's main menu]
+...przez g≥Ûwne menu Mirandy IM
+[...via button "Create statistics" in options]
+...za pomocπ przycisku "StwÛrz statystyki" w opcjach
+[...will be output as: ]
+...bÍdzie efekt jak:
+[AM]
+Rano
+[About sets]
+O zbiorach
+[Absolute]
+Ca≥kowite
+[Absolute in tooltip if average selected and vice versa]
+Ca≥kowicie w podpowiedzi jeúli úrednia stron i vice versa
+[Add column...]
+Dodaj kolumnÍ...
+[Add menu items to contact menu]
+Dodaj element menu do menu kontaktu
+[Add menu items to main menu]
+Dodaj element menu do menu g≥Ûwnego
+[Add set]
+Dodaj zestaw
+[Additional info in tooltip (depends on type)]
+Dodaj info do tooltipa (zaleøy od typu)
+[Align on day boundary]
+Dostosowanie granicy dnia
+[Align on week boundary]
+Dostosowanie granicy tygodnia
+[Characters (all)]
+ZnakÛw (wszystkie)
+[Characters (all, absolute)]
+ZnakÛw (wszystkie, ca≥kowite)
+[Characters (all, average per week)]
+ZnakÛw (wszystkie, úrednio w tygodniu)
+[Characters (all, average)]
+ZnakÛw (wszystkie, úrednie)
+[Characters (in/out ratio)]
+ZnakÛw (przych. / wych. ratio)
+[Characters (incoming)]
+ZnakÛw (rozmowy przychodzπce)
+[Characters (incoming, absolute)]
+ZnakÛw (rozmowy przychodzπce, ca≥kowite)
+[Characters (incoming, average per week)]
+ZnakÛw (rozmowy, úrednio w tygodniu)
+[Characters (incoming, average)]
+ZnakÛw (rozmowy przychodzπce, úrednie)
+[Characters (outgoing)]
+ZnakÛw (wychodzπce)
+[Characters (outgoing, absolute)]
+ZnakÛw (wychodzπcych, ca≥kowite)
+[Characters (outgoing, average per week)]
+ZnakÛw (wychodzπcych, úrednio w tygodniu)
+[Characters (outgoing, average)]
+ZnakÛw (wychodzπcych, úrednie)
+[Chat duration]
+Czas trwania rozmowy
+[Chat duration (average)]
+Czas trwania rozmowy (úrednio)
+[Chat duration (maximum)]
+Czas trwania rozmowy (maksymalny)
+[Chat duration (minimum)]
+Czas trwania rozmowy (minimum)
+[Chat duration (total)]
+Czas trwania rozmowy (≥πcznie)
+[Chat duration (total, hours)]
+Czas trwania rozmowy (≥πcznie godzin)
+[Chat duration type]
+Wpisz czas trwania rozmowy
+[Chats (all)]
+Rozmowy (wszystkie)
+[Chats (all, absolute)]
+Rozmowy (wszystkie, ca≥kowite)
+[Chats (all, average per week)]
+Rozmowy (wszystkie, úrednia w tygodniu)
+[Chats (all, average)]
+Rozmowy (wszystkie, úrednie)
+[Chats (in/out ratio)]
+Rozmowy (przych. / wych. ratio)
+[Chats (incoming)]
+Rozmowy (rozmowy przychodzπce)
+[Chats (incoming, absolute)]
+Rozmowy (rozmowy przychodzπce, ca≥kowite)
+[Chats (incoming, average per week)]
+Rozmowy (rozmowy, úrednio na tydzieÒ)
+[Chats (incoming, average)]
+Rozmowy (rozmowy przychodzπce, úrednie)
+[Chats (outgoing)]
+Rozmowy (wychodzπce)
+[Chats (outgoing, absolute)]
+Rozmowy (wychodzπcych, ca≥kowite)
+[Chats (outgoing, average per week)]
+Rozmowy (wychodzπcych, úrednio na tydzieÒ)
+[Chats (outgoing, average)]
+Rozmowy (wychodzπcych, úrednie)
+[Checkbox]
+Pole
+[Checkbox (checked & disabled)]
+Pole wyboru (sprawdzone i wy≥πczone)
+[Checkbox (checked)]
+Pole wyboru (sprawdzone
+[Checkbox (disabled)]
+Pole wyboru (wy≥πczone)
+[Color words according to in/out ratio]
+Koloruj s≥owa zgodnie z przych. / wych. ratio
+[Column holding a graphical overview of your chatting amount split by day of week or by hour of day. Different chatting amount measures are available.]
+Graficzny podglπd rozmowy w podziale na dni tygodnia lub godziny. RÛønica iloúci rozmÛw jest dostÍpna.
+[Column holding a graphical overview of your chatting behaviour (out, in, total, in/out ratio) from the first to the last day of your history on an daily basis. Multiple days can be grouped. Different chatting behaviour measures are available.]
+Graficzny podglπd rozmowy w podziale na wychodzπce, przyhcodzπce, wszystkie, przych. / wych. ratio. RÛønica iloúci rozmÛw jest dostÍpna.
+[Column settings]
+Ustawienia kolumn
+[Column setup]
+Ustawienia kolumn
+[Column specific settings]
+Specyficzne ustawienia kolumny
+[Columns]
+Kolumny
+[Combo box]
+Pole kombi
+[Combo box (disabled)]
+Pole kombi (wy≥πczone)
+[Configure HistoryStats]
+Konfiguruj HistoryStats
+[Configure statistics...]
+Konfiguruj statystyki...
+[Configure... (main menu)]
+Konfiguruj... (menu g≥Ûwne)
+[Contact filtering]
+Filtrowanie kontaktu
+[Contact filtering and totals]
+Filtrowanie i sumowanie kontaktu
+[Copy history]
+Kopiuj historiÍ
+[Create]
+StwÛrz
+[Create statistics]
+StwÛrz statystyki
+[Create statistics (main menu)]
+StwÛrz statystyki (menu g≥Ûwne)
+[Create statistics (there are warnings)]
+StwÛrz statystyki (z moøliwymi b≥Ídami)
+[Create statistics for meta-contacts and their subcontacts]
+StwÛrz statystyki
+[Create statistics on Miranda IM's startup]
+Tworzenie statystyk na starcie Mirandy IM
+[Created with #{plugin} #{version} on #{date} at #{time}]
+Stworzono przez #{plugin} #{version} dnia #{date} o godzinie #{time} [ Spolszczenie by bunnyhoney:) ]
+[Creating HTML]
+Tworzenie HTML
+[Don't hide menu items for pseudo protocols]
+Nie ukrywaj menu dla pseudo protoko≥Ûw
+[Enforce PNG output, possibly ignoring some column options]
+Egzekwowanie wyjúcia PNG, ewentualnie pomijajπc niektÛre kolumny opcji
+[Exclude]
+Wykluczone
+[Fall back to HTML output, if column options require HTML output]
+PowrÛÊ do wypisania HTML, jeúli opcje kolumny wymaga wyjúcia HTML
+[Generate PNG files to represent graphics]
+Generuj pliki PNG do reprezentowania grafik
+[Generate statistics in background thread with low priority]
+Generuje statystyki w tle z niskim priorytetem
+[Graphics]
+Grafika
+[Hide menu items for protocol...]
+Ukryj menu dla protoko≥u...
+[HistoryStats supports several plugins. Click to hide info...]
+HistoryStats obs≥uguje kilka wtyczek. Kliknij aby ukryÊ info...
+[Hours of day]
+Godziny dnia
+[Integration]
+Integracja
+[Only use HTML to simulate graphics]
+Uøyj tylko HTML do symulacji graficznej
+[Path to browser (leave blank for system default)]
+åcieøka do przeglπdarki (nie wype≥niaÊ w domyúlnych ustawieniach)
+[Prefer HTML output over PNG output, if available]
+Preferuj wyjúcie HTML nad wyjúcie PNG, jeúli jest dostÍpne
+[Provided features:]
+Za≥oøone funkcje:
+[Put menu items into submenu]
+UmieúÊ element menu w podmenu
+[Radio button]
+Przycisk radio
+[Radio button (checked & disabled)]
+Przycisk radio (sprawdzone i wy≥πczone)
+[Radio button (checked)]
+Przycisk radio (sprawdzone)
+[Radio button (disabled)]
+Przycisk radio (wy≥πczone)
+[Rank]
+Nr.
+[Ratio total/distinct words]
+Zestawienie wszystkich / wyraünych s≥Ûw
+[Reading database]
+Czytanie bazy danych
+[Remove contacts with empty history]
+UsuÒ kontakty z pustπ historiπ rozmÛw
+[Remove contacts with only incoming chats]
+UsuÒ kontakty tylko z rozmowami przychodzπcymi
+[Remove contacts with only outgoing chats]
+UsuÒ kontakty tylko z rozmowami wychodzπcymi
+[Remove only if contact never answered]
+UsuÒ tylko wtedy, gdy kontakt nie odpowiedzia≥
+[Remove only if you never answered]
+UsuÒ tylko wtedy, gdy nigdy nie odpowiedzia≥
+[Removing contacts]
+UsÛwanie kontaktÛw
+[Repeat header every n contacts (0=don't repeat)]
+Powtarzaj cyklicznie n kontaktÛw (0 = nie powtarzaj) 
+[Set mode:]
+Ustaw tryb:
+[Set name:]
+Ustaw nazwÍ:
+[Sets:]
+Okreúl:
+[Setting ignored due to PNG output.]
+Ustawienie ignorowanie ze wzglÍdu na PNG.
+[Show additional column info...]
+Pokaø dodatkowe informacje kolumny ...
+[Show bar graph for chat duration type]
+Pokaø wykres s≥upkowy dla czasu trwania rozmÛw
+[Show countact count for omitted/totals (tooltip)]
+Pokaø liczby kontaktu dla pominiÍtych / wszystkich (tooltip)
+[Show separate counts for incoming/outgoing]
+Pokaø oddzielone liczby dla przych. / wych.
+[Show statistics]
+Pokaø statystyki
+[Show statistics (main menu)]
+Pokaø statystyki (g≥Ûwne menu)
+[Show sum of incoming and outgoing]
+Pokaø sumÍ przyhcodzπcych i wychodzπcych
+[Show tooltips with detailed information in column titles]
+Pokazuj podpowiedzi ze szczegÛ≥owymi informacjami w tytule kolumny
+[Show warnings...]
+Pokaø b≥Ídy...
+[Some files were temporarily stored in another location to avoid overwriting already existing files. If you always want to overwrite existing files there is an option for this.]
+NiektÛre pliki sπ tymczasowo przechowywane w innej lokalizacji w celu unikniÍcia nadpisania juø istniejπcych plikÛw. Jeúli zawsze chcesz zastπpiÊ istniejπce pliki nie ma opcji do tego.
+[Sorting]
+Sortowanie
+[Sorting contacts]
+Sortowanie kontaktÛw
+[Statistics for #{nick}]
+Statystyki dla wszystkich kontaktÛw
+[Statistics for #{nick} - HistoryStats]
+Statystyki dla wszystkich kontaktÛw - HistoryStats
+[Strip BBCode tags from messages]
+PomiÒ tagi BBCode w wiadomoúciach
+[Strip raw RTF control sequences from message]
+PomiÒ surowy RTF sekwencji w wiadomoúciach
+[Subfolder for additional files]
+Podfolder dla dodatkowych plikÛw
+[Substitute variables in output file name and subfolder for additional files]
+Zastepowanie zmiennych w nazwie pliku i podfolder dla dodatkowych plikÛw
+[Successfully read #{success} events of which #{fail_add} couldn't be added to the target history. #{fail} events couldn't be read from the source history.]
+Pomyúlnie przeczytano zdarzenia #{scuccess},#{fail_add} ktÛre nie mogπ byÊ dodawane do historii docelowych
+[Supported plugins (double-click to learn more):]
+Obs≥ugiwane wtyczki (kliknij dwukrotnie, aby dowiedzieÊ siÍ wiÍcej):
+[Total word count]
+Ca≥kowita liczba s≥Ûw
+[Totals]
+Wszystkich
+[week]
+tydzieÒ
+[outgoing characters]
+wychodzπcych znakÛw
+[outgoing chats]
+rozmowy wychodzπce
+[outgoing messages]
+wiadomoúci wychodzπcych
+[pm]
+popo≥udniu
+[all characters]
+wszystkich znakÛw
+[all chats]
+wszystkich rozmÛw
+[all messages]
+wszystkich wiadomoúci
+[am]
+rano
+[in/out ratio of characters]
+zestawienie przych. / wych. znakÛw
+[in/out ratio of chats]
+zestawienie przych. / wych. rozmÛw
+[in/out ratio of messages]
+zestawienie przych. / wych. wiadomoúci
+[incoming characters]
+przychodzπce znaki
+[incoming chats]
+przychodzπce rozmowy
+[You can't access the options of HistoryStats as long as the stand-alone configuration dialog of HistoryStats is open. Please close the stand-alone dialog before opening the options dialog of Miranda IM to see the options of HistoryStats here.\r\n\r\nNote that the options offered by both dialogs are the same.]
+Nie moøna przejúÊ do okna konfiguracji HistoryStats tak d≥ugo jak opcje dialogowe Mirandy IM sπ otwarte. ProszÍ zamknπÊ okno dialogowe opcje i sprÛbowaÊ ponownie.\r\n\r\nTa moøliwoúÊ daje takie same opcje jak w oknie dialogowym Mirandy IM.
+[You can't access the stand-alone configuration dialog of HistoryStats as long as the options dialog of Miranda IM is open. Please close the options dialog and try again.\r\n\r\nNote that the options offered by both dialogs are the same.]
+Nie moøna przejúÊ do okna konfiguracji HistoryStats tak d≥ugo jak opcje dialogowe Mirandy IM sπ otwarte. ProszÍ zamknπÊ okno dialogowe opcje i sprÛbowaÊ ponownie.\r\n\r\nTa moøliwoúÊ daje takie same opcje jak w oknie dialogowym Mirandy IM.
+[You have unsaved settings. Do you want to save before running HistoryStats?]
+Ustawienia nie zosta≥y zapisane. Czy chcesz zapisaÊ przed uruchomieniem HistoryStats?
+[You're going to copy the complete history of #{source_name} (#{source_proto}) to #{target_name} (#{target_proto}). Afterwards, the target history will contain entries from both histories. There is no way to revert this operation. Be careful! This is a rather big operation and has the potential to damage your database. Be sure to have a backup of this database before performing this operation.\r\n\r\nAre you sure you would like to continue?]
+Masz zamiar skopiowaÊ ca≥π historiÍ #{source_name} (#{source_proto}) do #{target_name} (#{target_proto}). Skopiowana historia moøe zawieraÊ wpisy z historii. Nie ma moøliwoúci cofniÍcia tej operacji. Uwaøaj! Jest to doúÊ duøa operacja i moøe przyczyniÊ siÍ do uszkodzenia bazy danych. Upewnij siÍ, øe masz kopiÍ zapasowπ bazy danych przed wykonaniem tej operacji.\r\n\r\nCzy na pewno chcesz kontynuowaÊ?
+[Weeks]
+Tygodni
+[Word count]
+Licznik s≥Ûw
+[Word count for each word (tooltip)]
+Liczba s≥Ûw w zestawieniu do kaødego s≥owa (tooltip)
+[Word count type]
+Typ liczby s≥Ûw
+[Word delimiting characters]
+S≥owo wyznaczajπce znaki
+[Words]
+S≥owa
+[Words type]
+Typ s≥Ûw
+[Writing omitted contacts]
+Pisanie pominiÍtych kontaktÛw
+[Writing totals]
+Pisanie wszystkiego
+[URLs (all)]
+Linki (wszystkie)
+[URLs (incoming)]
+Linki (przychodzπce)
+[URLs (outgoing)]
+Linki (wychodzπce)
+[Unexcluded contacts]
+Wy≥πczone kontakty
+[Units per bar]
+Jednostek na s≥upek
+[Units per block]
+Jednostek na blok
+[Units per day]
+Jednostek na dzieÒ
+[Units per month (30 days)]
+Jednostek na miesiπÊ (30 dni)
+[Units per week]
+Jednostek na tydzieÒ
+[Use meta-contact's history and its subcontacts' histories]
+Uøyj historii metakontaktÛw i ich historii subkontaktÛw
+[Use only meta-contact's history]
+Uøyj tylko historii metakontaktÛw
+[Use only subcontacts' histories (for one meta-contact)]
+Uøyj tylko historii subkontaktÛw (dla jednego metakontaktu)
+[Use this plugin if you'd like to be automatically notified when a new version of HistoryStats is published. This plugin can install the updated version, too. As always, be sure to use a recent version though this shouldn't be a big problem with this plugin.]
+Uøyj tego pluginu jeúli chcesz byÊ automatycznie powiadamiany gdy zostanie opublikowana nowa wersja HistoryStats. Plugin moøna zainstalowaÊ w zaktualizowanej wersji. Jak zawsze nazleøy uøywaÊ najnowszej wersji pluginu choÊ nie powinna ona powodowaÊ b≥ÍdÛw.
+[Use this plugin if you'd like to customize most of the icons HistoryStats' user interface. Please be sure to use version 0.0.1.0 or above. Otherwise HistoryStats won't show up in IcoLib's options. If you're running Miranda IM 0.7.0 alpha #3 or above you don't need a separate plugin for this.]
+Uøyj tego pluginu jeúli chcesz dostosowaÊ wiÍkszoúÊ ikon interfejsu HistoryStats. Upewnij siÍ aby czy posiadasz wersjÍ 0.0.1.0 lub nowszπ. W innym przypadku HistoryStats nie pokaøe opcji IcoLib. Jeúli uøywasz Mirandy IM 0.7.0 alpha #3 lub wyøej nie potrzebujesz juø dodatkowego pluginu
+[Then sort by]
+Sortuj wg
+[There are some potential conflicts in your settings. However, this is only a warning and can in general be ignored. The details:]
+Istnieje kilka potencjalnych konfliktÛw w ustawieniach. Jednak jest to tylko ostrzeøenie i moøe w ogÛle byÊ ignorowane. SzczegÛ≥y:
+[Time a chat session must last to be counted (seconds)]
+Czas sesji rozmowy musi trwaÊ aby by≥ zaliczony (w sekundach)
+[Time between two chat sessions (seconds)]
+Czas pomiÍdzy dwoma rozmowami (w sekundach)
+[Time of first message to/from contact]
+Czas pierwszej wiadomoúci do / od kontaktu
+[Time of last message to/from contact]
+Czas ostatniej wiadomoúci do / od kontaktu
+[Timeline]
+Harmonogram
+[Timeline for #{data}]
+Harmonogram dla #{data}
+[Title (default if empty)]
+Tytu≥ (domyúlnie pusty)
+[Total (sum of all chats)]
+£πcznie (suma wszystkich rozmÛw)
+[Total chat duration]
+Ca≥kowity czas rozmowy
+[Total words]
+£πcznie s≥Ûw
+[Transforming data]
+Przekszta≥canie danych
+[Treat meta-contacts and subcontacts as normal contacts]
+Traktuj metakontakty i subkontakty jako normalny kontakt
+[PM]
+Popo≥udniu
+[PNG, ignoring some sttings]
+PNG, ignorowanie niektÛrych ustawieÒ
+[Paste history...]
+Wklej historiÍ...
+[Percentage in bar graph]
+Procentowe w wykresie s≥upkowym
+[Percentage in tooltip]
+Procentowe w tooltipie
+[Plugin/extension name:]
+Plugini / nazwa rozszerzenia:
+[Postcollecting column data]
+Postcollecting danych kolumny
+[Precollecting column data]
+Precollecting danych kolumny
+[Table header]
+Nag≥Ûwek tabeli
+[The following files could not be written because files with the same names already existed. Please decide whether to overwrite the existing or to discard the generated files.]
+Poniøszy plik nie moøe byÊ zapisany, poniewaø plik o takiej samej nazwie juø istnieje. ZastanÛw siÍ, czy zastπpiÊ istniejπcy lub usunπÊ generowany plik.
+[The following information are only relevant if your already use MetaContacts. In case you do please use version 0.9.10.6 or above.\r\n\r\nHistoryStats perfectly integrates with MetaContacts and is able to collect the data from the meta-contact as well as from the subcontacts. It is able to intelligently merge all subcontacts histories and more. You can configure MetContacts integration in the "Input" options.]
+NastÍpujπce informacje sπ w≥aúciwe tylko wtedy, jeúli uøywasz metakontaktÛw. W przypadku, gdy nie naleøy uøywaÊ w wersji 0.9.10.6 lub nowszej. \r\n\r\nHistoryStats doskonale integruje siÍ z metakontakami i jest w stanie zbieraÊ dane z metakontaktÛw, jak rÛwnieø z subkontaktÛw. Jest w stanie inteligentnie ≥πczyÊ historiÍ wszystkich subkontaktÛw i wiÍcej. Moøesz skonfigurowaÊ integracjÍ metakontaktÛw w opcjach.
+[The selected set is in use by at least one other column. If you remove it it won't be available to all other columns that use it. Are you sure you want to remove the set?]
+Wybrany zestaw jest uøywany przez co najmniej jednπ kolumnÍ. Jeúli usuniesz bÍdzie dostÍpna dla innych kolumn. Czy napewno chcesz usunπc ten zestaw?
+[The statistics can't be found. Either you never created them or the last created statistics were moved to a different location and can't be found anymore.]
+Nie moøna znaleüÊ statystyk. Statystyki nie zosta≥y stworzone lub zosta≥y przeniesione do innej lokalizacji.
+[Output file]
+Wyjúciowe pliki
+[Output files and folders]
+Wyjúciowe pliki i foldery
+[Output header]
+Nag≥Ûwek wyjúciowy
+[Output settings]
+Ustawienia wyjúciowe
+[Overwrite existing]
+Zastπp istniejπcy
+[Own nick for statistics]
+Nick dla w≥asnych statystyk
+[HistoryStats supports several plugins. Click to learn more...]
+HistoryStats obs≥uguje kilka wtyczek. Kliknij aby pokazaÊ info ...
+[History interpretation]
+Interpretacja historii
+[Minimum time to assume when calculating average (days)]
+Minimalny czas do przyjÍcia przy obliczaniu úredniej (dni)
+[Ignore all contacts with protocol...]
+Ignoruj wszystkie kontakty z protoko≥u...
+[Merge contacts with same name]
+Scal kontakty o tej samej nazwie
+[Only merge if contacts are in the same group]
+Scal tylko jeúli kontakty sπ w tej samej grupie
+[Duplicate detection when reading merged contacts]
+Wykrywanie zduplikowanych kontaktÛw
+[Merge events (strict)]
+Scal zdarzenia (úciúle)
+[Merge events (tolerant)]
+Scal zdarzenia (tolerancyjnie)
+[Don't merge events]
+Nie scalaj zdarzeÒ
+[Message filtering]
+Filtrowanie wiadomoúci
+[Ignore messages...]
+Ignoruj wiadomoúci...
+[Limit number of contacts in statistics]
+Limit kontatkÛw w statystykach
+[Criteria]
+Kryteria
+[Omit contacts that didn't produce a certain amount of data]
+PomiÒ kontakty ktÛre nie wytworzy≥y okreúlonej iloúci danych
+[Omit if]
+PomiÒ jeúli
+[Omit contacts that were inactive for some time]
+PomiÒ kontakty, ktÛre by≥y nieaktywne przez pewien czas
+[Maximum inactivity time (days)]
+Maksymalny czasz bezczynnoúci (dni)
+[Omit all contacts not in "Top n"]
+PomiÒ wszystkie kontakty ktÛre nie sπ "Top n"
+[Include omitted contacts in totals]
+W≥πcz sumy pominiÍtych kontaktÛw
+[Include totals in statistics]
+W≥πcz sumy w statystykach
+[Include totals of omitted contacts in additional row]
+W≥πcz sumy pominiÍtych kontaktÛw w dodatkowym wierszu
+[Only show if a custom title was entered or if titles are not verbose]
+Pokaø tylko jeúli wpisany niestandardowy tytu≥ lub tytu≥y nie sπ pe≥ne
+[Finally sort by]
+KoÒcowe sortowanie wg
+[First sort by]
+Sortowanie wg
+[Descending]
+Malejπco
+[Ascending]
+Rosnπco
+[HTML file generation]
+Generowanie pliku HTML
+[Output additional files to subfolder]
+Dodatkowe wyjúcie pliku do subfolderu
+[Auto open statistics already existing files (dangerous!)]
+Automatycznie otwieraj statystyki z juø instejπcych plikÛw (niebezpieczne!)
+[Auto open statistics after begin generated...]
+Automatycznie otwÛrz statystyki po rozpoczÍciu generowania...
+[Hide additional column info...]
+Ukryj dodatkowe info kolumn...
+[For this config the selected column...]
+W tej konfiguracji zaznaczona kolumna...
+[General column settings]
+G≥Ûwne ustawiania kolumn
+[Number of contacts in "Top n"]
+Liczba kontaktÛw w "Top n"
+[Icons Library Manager]
+Manager Ikon
+[Ignore words longer than (chars, 0=no limit)]
+Ignoruj s≥owa d≥uøsze niø (znakÛw, 0 = bez limitu)
+[Ignore words shorter than (chars)]
+Ignoruj s≥owa krÛtsze niø (znakÛw)
+[In/out]
+Przych. / Wych.
+[In/out details (tooltip)]
+Detale przych. / wych. (tooltip)
+[In/out graph]
+Wykres przych. / wych.
+[Incoming URLs]
+Przychodzπce linki
+[Incoming characters]
+Przyhcodzπce znaki
+[Incoming chats]
+Przychodzπce rozmowy
+[Incoming files]
+Przychodzπce pliki
+[incoming messages]
+przychodzπcych wiadomoúci
+[Initializing]
+Inicjalizacja
+[Input settings]
+Ustawienia wejúciowe
+[First/last message time (tooltip)]
+Pierwszy / ostatni czas wiadomoúci (tooltip)
+[Events to count]
+Zdarzenia do sumowania
+[Data source]
+èrÛd≥o danych
+[Characters]
+ZnakÛw
+[Display as]
+Pokaø jako
+[Average]
+årednia
+[Extract words from]
+Forma s≥Ûw
+[All messages]
+Wszystkich wiadomoúci
+[Files (all)]
+Pliki (wszystkie)
+[Files (incoming)]
+Pliki (przychodzπce)
+[Files (outgoing)]
+Pliki (wychodzπce)
+[Filter URLs/e-mail addresses]
+Filtruj linki / e-maile
+[Filter messages containing]
+Filtruj wiadomoúci zawierajπce
+[Filter messages ending with]
+Filtruj wiadomoúci zakoÒczone
+[Filter messages matching]
+Filtruj wiadomoúci pasujπce
+[Filter messages starting with]
+Filtruj wiadomoúci zaczynajπce siÍ na literÍ
+[Filter words containing]
+Filtruj s≥owa zawierajπce
+[Filter words ending with]
+Filtruj s≥owa zakoÒczone
+[Filter words matching]
+Filtruj s≥owa pasujπce
+[Filter words starting with]
+Filtruj s≥owa zaczynajπce siÍ na literÍ
+[Filter words/messages]
+Filtruj s≥owa / wiadomoúci
+[Distinct words]
+OdrÛønienie s≥Ûw
+[Omitted]
+PominiÍte
+[Omitted contacts]
+PominiÍte kontakty
+[Options tree]
+Drzewko opcji
+[Other information in tooltip]
+Inne informacje w tooltipie
+[Outgoing URLs]
+Wychodzπce linki
+[Outgoing characters]
+Wychodzπce znaki
+[Outgoing chats]
+Wychodzπce rozmowy
+[Outgoing files]
+Wychodzπce pliki
+[Delete column]
+UsuÒ kolumnÍ
+[Detailed description:]
+SzczegÛ≥owy opis:
+[HistoryStats - Add column]
+HistoryStats - Dodaj kolumnÍ
+[HistoryStats - Confirm]
+HistoryStats - Zatwierdz
+[HistoryStats - Conflicting files]
+HistoryStats - Sporne pliki
+[HistoryStats - Error]
+HistoryStats - B≥πd
+[HistoryStats - Filter words/messages]
+HistoryStats - Filtr s≥Ûw / wiadomoúci
+[HistoryStats - Information]
+HistoryStats - Informacje
+[HistoryStats - Plugin/extension info]
+HistoryStats - Plugin / przed≥uøone info
+[HistoryStats - Warning]
+HistoryStats - Ostrzeøenie
+[HistoryStats - Working...]
+HistoryStats - PracujÍ...
+[Details for every bar (tooltip)]
+SzczegÛ≥y dla kaødego s≥upka (tooltip)
+[Graph alignment]
+Dostosowanie wykresu
+[Custom (for experts only)]
+W≥asne (tylko dla ekspertÛw)
+[Days of week]
+Dni w tygodniu
+[Bar unit]
+Jednostka s≥upkÛw
+[Bars per graph]
+S≥upkÛw na wykresie
+[Discard generated]
+OdrzuÊ generowane
+[Already existing file]
+Plik juø istnieje
+[month3:Apr]
+month3:Kwi
+[month3:Aug]
+month3:Sie
+[month3:Dec]
+month3:Gru
+[month3:Feb]
+month3:Lut
+[month3:Jan]
+month3:Sty
+[month3:Jul]
+month3:Lip
+[month3:Jun]
+month3:Cze
+[month3:Mar]
+month3:Mar
+[month3:May]
+month3:Maj
+[month3:Nov]
+month3:Lis
+[month3:Oct]
+month3:Paü
+[month3:Sep]
+month3:Wrz
+[monthF:April]
+monthF:KwiecieÒ
+[monthF:August]
+monthF:SierpieÒ
+[monthF:December]
+monthF:GrudzieÒ
+[monthF:February]
+monthF:Luty
+[monthF:January]
+monthF:StyczeÒ
+[monthF:July]
+monthF:Lipiec
+[monthF:June]
+monthF:Czerwiec
+[monthF:March]
+monthF:Marzec
+[monthF:May]
+monthF:Maj
+[monthF:November]
+monthF:Listopad
+[monthF:October]
+monthF:Paüdziernik
+[monthF:September]
+monthF:WrzesieÒ
+[wday2:Fr]
+wday2:Pi
+[wday2:Mo]
+wday2:Po
+[wday2:Sa]
+wday2:So
+[wday2:Su]
+wday2:Ni
+[wday2:Th]
+wday2:Cz
+[wday2:Tu]
+wday2:Wt
+[wday2:We]
+wday2:år
+[wday3:Fri]
+wday3:Piπ
+[wday3:Mon]
+wday3:Pon
+[wday3:Sat]
+wday3:Sob
+[wday3:Sun]
+wday3:Nie
+[wday3:Thu]
+wday3:Czw
+[wday3:Tue]
+wday3:Wto
+[wday3:Wed]
+wday3:åro
+[wdayF:Friday]
+wdayF:Piπtek
+[wdayF:Monday]
+wdayF:Poniedzia≥ek
+[wdayF:Saturday]
+wdayF:Sobota
+[wdayF:Sunday]
+wdayF:Niedziela
+[wdayF:Thursday]
+wdayF:Czwartek
+[wdayF:Tuesday]
+wdayF:Wtorek
+[wdayF:Wednesday]
+wdayF:åroda
+[[Avg] #{amount}]
+[årednio] #{amount}
+[[First] #{first_time} / [Last] #{last_time}]
+[Pierwsza] #{first_time} / [Ostatnia] #{last_time}
+[[Max] #{amount}]
+[Maksymalnie] #{amount}
+[[Min] #{amount}]
+[Minimalnie] #{amount}
+[[Out] #{out_amount} (#{out_ratio}) / [In] #{in_amount} (#{in_ratio})]
+[Wychodzπcych] #{out_amount} (#{out_ratio}) / [Przychodzπcych] #{in_amount} (#{in_ratio})
+[[Out] #{out_amount} / [In] #{in_amount}]
+[Wychodzπcych] #{out_amount} / [Przychodzπcych] #{in_amount}
+[[Out] #{out_words} / [In] #{in_words}]
+[Wychodzπcych] #{out_words} / [Przychodzπcych] #{in_words}
+[[Sum] #{amount}]
+[Suma] #{amount}
+[Maximum]
+Maksymalnie
+[Maximum chat duration]
+Maksymalny czas rozmowy
+[Messages (all)]
+Wiadomoúci (wszystkie)
+[Messages (all, absolute)]
+Wiadomoúci (wszystkie, ca≥kowite)
+[Messages (all, average per week)]
+Wiadomoúci (wszystkie, úrednia na tydzieÒ)
+[Messages (all, average)]
+Wiadomoúci (wszystkie, úrednie)
+[Messages (in/out ratio)]
+Wiadomoúci (zestawienie przych. / wych.)
+[Messages (incoming)]
+Wiadomoúci (przychodzπce)
+[Messages (incoming, absolute)]
+Wiadomoúci (przychodzπce, ca≥kowite)
+[Messages (incoming, average per week)]
+Wiadomoúci (przychodzπce, úrednia na tydzieÒ)
+[Messages (incoming, average)]
+Wiadomoúci (przychodzπce, 
+[Messages (outgoing)]
+Wiadomoúci (wychodzπce)
+[Messages (outgoing, absolute)]
+Wiadomoúci (wychodzπce, ca≥kowite)
+[Messages (outgoing, average per week)]
+Wiadomoúci (wychodzπce, úrednia na tydzieÒ)
+[Messages (outgoing, average)]
+Wiadomoúci (wychodzπce, úrednia)
+[Minimum]
+Minimalny
+[Minimum chat duration]
+Minimalny czas rozmowy
+[Most common words]
+NajczÍstsze s≥owa
+[Nothing (column will be skipped)]
+Nic (kolumna zostanie pominiÍta)
+[Number of columns to group]
+Liczba kolumn do grupy
+[Number of days to group]
+Liczba dni do grupy
+[Number of weeks to group]
+Liczba tygodni do grupy
+[Number of words]
+Liczba s≥Ûw
+[Number of words to skip in output]
+Liczba s≥Ûw pominiÍtych w wychodzπcych
+[[#{date}] #{out_amount} (out) / #{in_amount} (in)]
+[#{date}] #{out_amount} (wychodzπcych) / #{in_amount} (przychodzπcych)
+[[#{start_date}-#{end_date}] #{out_amount} (out) / #{in_amount} (in)]
+[#{start_date}-#{end_date}] #{out_amount} (wychodzπcych) / #{in_amount} (przychodzπcych)
+[Drop everything older than (days, 0=no limit)]
+OdrzuÊ starsze niø (dni, 0 = bez limitu)
+[Easily exchange icons in HistoryStats' user interface]
+£atwo zmieniaÊ ikony w interfejsie uøytkownika HistoryStats
+[Edit control]
+Edycja kontroli
+[Edit control (disabled)]
+Edycja kontroli (wy≥πczone)
+[Exclude contacts]
+Wyklucz kontakty
+[Exclude from statistics]
+Wy≥πczenie z statystyki
+[Excluded contacts]
+Wy≥πczone kontakty
+[Fallback to HTML due to setting.]
+Przenieú siÍ na HTML, ze wzglÍdu na ustawienie.
+[Folder (disabled)]
+Folder (wy≥πczone)
+[Global settings]
+Globalne ustawienia
+[HTML as fallback]
+HTML jako awaryjne
+[HTML output unsupported.]
+Nieobs≥ugiwane wyjúcia HTML.
+[History read mode for MetaContacts]
+Tryb odczytu historii dla metakontaktÛw
+[HistoryStats couldn't create a required folder (#{folder}).\r\n\r\nPlease check the output filename and additional output folder you have chosen for correctness. Additionally, please check whether the file, folder, and/or disk is writable.]
+HistoryStats nie moøe utworzyÊ wymaganego folderu (#{folder}).\r\n\r\nProszÍ sprawdziÊ nazwÍ pliku wyjúciowego i dodatkowo jego poprawnoúci. Dodatkowo naleøy sprawdziÊ czy plik, folder i/lub dysk nie jest zape≥niony
+[HistoryStats couldn't open the output file (#{file}) for write access.\r\n\r\nPlease check the output filename you have chosen for correctness. Additionally, please check whether the file, folder, and/or disk is writable.]
+HistoryStats nie moøe otworzyÊ pliku wyjúciowego (#{file}) dla zapisu. \r\n\r\nProszÍ sprawdziÊ nazwÍ pliku wyjúciowego. Dodatkowo naleøy sprawdziÊ czy plik, folder i/lub dysk nie jest zape≥niony.
+[HistoryStats is already generating statistics. Please wait for the already running process to be finished or cancel it and try again.]
+HistoryStats juø generuje statystyki. ProszÍ poczekaÊ na zakoÒczenie procesu lub anulowanie i ponownπ prÛbÍ.
+[Hours of day timeline]
+Godziny dnia osi czasu
+[Least common words]
+Najmniej popularne s≥owa
+[Limiting number of contacts]
+Ograniczenie liczby kontaktÛw
+[Longest words]
+Najd≥uøsze s≥owa
+[Make column titles more verbose]
+Dodaj do tytu≥u kolumny wiÍcej szczegÛ≥Ûw
+[Column holding the amount of time you have chatted with the given contact.]
+Graficzny podglπd akcji w czasie rozmowy z danym kontaktem.
+[Column holding the contact list's group name the contact is in.]
+Graficzny podglπd nazwy grupy listy kontaktÛw.
+[Column holding the contact's nick and first/last message time if selected.]
+Graficzny podglπd nicku kontaktu i pierwszego / ostatniego czasu wiadomoúci jeúli wybrany.
+[Column holding the contact's placing according to your sorting criteria.]
+Graficzny podglπd kontaktu w zaleønoúci od kryteriÛw stortowania.
+[Column holding the contact's protocol.]
+Graficzny podglπd kontaktÛw protoko≥u.
+[Column holding the number of (distinct) words used by you, by your contact, or by both of you.]
+Graficzny podglπd liczb (wyraünych) s≥Ûw uøytych przez uøytkownika, przez kontakt lub obu. 
+[Date/time picker]
+Data / czas wyboru
+[Date/time picker (disabled)]
+Data / czas wyboru (wy≥πczone)
+[Days of week timeline]
+Dni tygodnia osi czasu
+[Define...]
+Definiuj...
+[Delete set]
+UsuÒ zestaw
+[Details for every bar (tooltip) are only available with HTML output.]
+SzczegÛ≥y dotyczπce kaødego s≥upka (tooltip) sπ dostÍpne tylko w HTML.
+[Distinct word count]
+Wyraüna liczba s≥Ûw
+[Column holding in/out bar graphs for characters, messages or chats.]
+Graficzny podglπd przych. / wych. s≥upkÛw dla znakÛw, wiadomoúci lub rozmÛw.
+[Column holding event counts for incoming, outgoing or total number of files or URLs.]
+Graficzny podglπd liczby zdarzeÒ dla przychodzπcych, wychodzπcych lub ≥aczna liczba plikÛw lub linkÛw.
+[Column holding counts for incoming, outgoing or total characters, messages or chats. This column can display absolute and average values.]
+Graficzny podglπd liczby dla przyhcodzπcych, wychodzπcych lub ≥πcznie znakÛw, wiadomoúci lub rozmÛw. Ta kolumna moøe wyúwietlaÊ ca≥kowite i úrednie wartoúci.
+[Column holding a list of a specified number of most/least common words or longest words used by you, by your contact, or by both of you.]
+Graficzny podglπd listy dla secyficznej liczby najbardziej / najmniej popularnych s≥Ûw lub najd≥uøsze s≥owa uøyte przez uøytkownika, kontakt lub obu.
+[Column holding a graphical overview of your chatting behaviour (out, in, total, in/out ratio) from the first to the last day of your history. The information is spread along x- and y-axis and the values are encoded as color values. Different chatting behaviour measures are available.]
+Graficzny podglπd zachowaÒ w rozmowie (wychodzπce, przychodzπce, wszystkie, zestawienie przych. / wych.) od pierwszego do ostatniego dnia historii. Informacje znajdujπ siÍ wzd≥uø osi x i osi y i wartoúci sπ zakodowane jako wartoúci kolorÛw. årodki zachowania rÛønych rozmÛw sπ dostÍpne.

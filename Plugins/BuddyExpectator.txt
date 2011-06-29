@@ -1,0 +1,111 @@
+;============================================================
+;  File: buddyexpectator.dll
+;  Module: Buddyexpectator plugin
+;  Versions: 0.1.2.3
+;============================================================
+[Reacts to the return of contacts, or the the extended absence of contacts, with notifications and other actions]
+Reaguje na powrót kontaktów lub d³u¿szego braku aktywnoœci kontaktu z powiadomieñ lub innych akcji
+[Buddy Expectator]
+Powiadomienie o aktywnoœci
+[has gone online for the first time.]
+dostêpny po raz pierwszy.
+[has returned after a long absence.]
+powróci³ po d³u¿szym braku aktywnoœci.
+[has returned after being absent since %#x]
+powróci³ po braku aktywnoœci od %#x
+[has not returned after being absent since %#x]
+nieaktywny od %#x
+[has not returned after a long absence.]
+nieaktywny od %#x
+[not detected]
+nie wykryto
+[This contact has been absent for an extended period of time.]
+Ten kontakt jest nieaktywny przez d³u¿szy okres czasu.
+[has returned after being absent since %d days]
+powróci³ po braku aktywnoœci od %d dni
+[Contact returned]
+Powrót kontaktu
+[Contact still absent]
+Kontakt nadal nieaktywny
+[Miss you event]
+Powiadomienie o zdarzeniach
+[Hide contact event]
+Ukryj zdarzenia kontaktu
+[You awaited this contact!]
+Czeka³eœ na ten kontakt!
+[Enable Miss You]
+W³¹cz "Daj mi znaæ"
+[Disable Miss You]
+Wy³¹cz "Daj mi znaæ"
+[Tray/popup icon]
+Ikona w zasobniku/popupie
+[Last seen online:]
+Ostatnio widziany:
+[Last input message:]
+Ostatnia wiadomoœæ:
+[Custom absence period:]
+W³asny okres aktywnosci:
+[Never hide this contact]
+Nigdy nie ukrywaj tego kontaktu
+[Return notification]
+Powiadom mnie o aktywnoœci
+[When a contact returns after]
+Kiedy kontakt bedzie aktywny po:
+[When a contact returns after ]
+Kiedy kontakt bedzie aktywny po: 
+[or comes online for the first time]
+lub stanie siê aktywny po raz pierwszy.
+[Show a popup]
+Poka¿ popup
+[Add an event (flashing icon) to the contact]
+Dodaj zdarzenie (migaj¹ca ikona) dla kontaktu
+[On event action (double click) or popup click:]
+Akcja zdarzenia (podwójne klikniêcie) lub popup:
+[Open User Details]
+Otwórz dane kontaktu
+[Long time no see]
+D³ugi czas braku aktywnoœci
+[When a contact is absent for]
+Kiedy kontakt jest nieaktywny od:
+[Hide when no messages for]
+Ukryj kiedy brak wiadomoœci od:
+[Delete the contact]
+Usuñ kontakt
+[Enable "Miss you" feature]
+W³¹cz funkcjê "Daj mi znaæ"
+[Use Popups colors]
+U¿yj kolorów Popup
+[days]
+dni
+[weeks]
+tygodni
+[months]
+miesiêcy
+[years]
+lat
+[NeverHide]
+Nie ukrywaj
+[Absence period]
+Brak okresu
+[Last input message]
+Ostatnia wiadomoœæ
+[Last seen online]
+Ostatnio widziany
+[Note: in additional you may specify any sound  on 'Sounds' panel]
+Uwaga: dodatkowo mo¿na ustawic dowolny dŸwiêk w Personalizacja > DŸwiêki.
+[Notify after an absence of ]
+Powiadamiaj po braku aktywnoœci
+[On event action (double click):]
+Akcja zdarzenia (podwójne klikniêcie):
+[This plugin notifies you when any contact comes online after an absence of long period.]
+Ta wtyczka s³u¿y do powiadamiania u¿ytkownika o zmianach aktywnoœci kontaktów trwaj¹cej d³u¿szy czas.
+[BuddyExpectator: contact returned]
+BuddyExpectator: kontakt aktywny
+[has returned after an absence of long period.]
+powróci³ po d³ugim okresie braku aktywnoœci.
+[has returned after an absence since %#x]
+powróci³ po %#x
+[It's already necessary to notify of this contact - an absence has been detected.]
+Powiadomienie o tym kontakcie nie jest ju¿ potrzebne - brak zosta³ wykryty.
+[monthes]
+mieisecy

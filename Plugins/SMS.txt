@@ -1,0 +1,113 @@
+;============================================================
+;  File: SMSbox.dll
+;  Module: SMSbox
+;  Versions: 0.1.0.7
+;============================================================
+[Received SMS]
+Otrzymane SMS-y
+[Read Next]
+Czytaj dalej
+[Message received:]
+Otrzymana wiadomoúÊ:
+[Number:]
+Numer:
+[Send SMS]
+Wyúlij SMS
+[Multiple >>]
+Wiele >>
+[Add number to list]
+Dodaj numer do listy
+[Save number]
+Zapisz numer
+[Enter message:]
+Wpisz wiadomoúÊ:
+[Chars:]
+Znaki:
+[SMS Message Didn't Send]
+WiadomoúÊ SMS nie zosta≥a wys≥ana
+[&Try again]
+SprÛbuj ponownie
+[The SMS message send timed out]
+Minπ≥ czas wysy≥ania wiadomoúci SMS
+[SMS Plugin]
+Wtyczka SMS
+[Begining]
+Poczπtek
+[End]
+Koniec
+[Show server notifications:]
+Pokaø powiadomienia serwera:
+[Put signature at the:]
+UmieúÊ podpis:
+[Use Signature?]
+UøyÊ podpisu?
+[Save window position per contact:]
+Zapisz pozycjÍ okna za kontaktem:
+[Auto popup on new message:]
+Auto popup przy nowej wiadomoúci:
+[SMS Message Sent]
+Wys≥ane wiadomoúci SMS
+[Message ID:]
+ID:
+[Source:]
+èrÛd≥o:
+[Network:]
+SieÊ:
+[SMS Messages]
+Wiadomoúci SMS
+[From %s on ICQ:\r\n\r\n]
+Od %s ICQ:\r\n\r\n
+[Received SMS Confirmation]
+Otrzymano potwierdzenie wys≥ania SMS-a
+[SMS message didn't send by ICQ to %s because :\r\n]
+WiadomoúÊ SMS nie zosta≥a wys≥ana przez ICQ do %s, poniewaø:\r\n
+[SMS Confirmation from %s]
+Potwierdzenie SMS od %s
+[SMS Message from %s]
+WiadomoúÊ SMS od %s
+[Incoming SMS Message]
+Przychodzπce wiadomoúci SMS
+[Incoming SMS Confirmation]
+Przychodzπce potwierdzenie SMS
+[Send &SMS...]
+Wyúlij SMS
+[&SMS Message]
+WiadomoúÊ SMS
+[Can't load SMS Plugin, ICQ protocol must be loaded.]
+Nie moøna za≥adowaÊ wtyczki SMS, protokÛ≥ ICQ musi byÊ za≥adowany.
+[SMS Plugin Error]
+B≥πd wtyczki SMS
+[Add Number To The Multiple List]
+Dodaj numer do wielu list
+[Save Number To The User's Details Phonebook]
+Zapisz numer do Ksiπøki tel. w Danych uøytkownika
+[Show/Hide Multiple List]
+Pokaø/Ukryj wiele list
+[Shows How Much Chars You've Typed]
+Pokazuje ile znakÛw zosta≥o wpisanych
+[The SMS message send to %s timed out.]
+Minπ≥ czas wysy≥ania SMS do %s
+[<< Single]
+<< Jedna
+[Message is too long, press OK to continue.]
+WiadomoúÊ jest zbyt d≥uga, naciúnij OK, aby kontynuowaÊ.
+[Error - Message too long]
+B≥πd - Zbyt d≥uga wiadomoúÊ
+[Valid phone numbers are of the form '+(country code)(phone number)'. The contents of the phone number portion is dependent on the national layout of phone numbers, but often omits the leading zero.]
+Prawid≥owe numery majπ formÍ "+(prefiks kraju)(numer telefonu)". ZawartoúÊ numeru telefonu jest zaleøna od narodowego schematu, ale czÍsto pomijane jest zero na poczπtku.
+[Invalid phone number]
+Nieprawid≥owy numer telefonu
+[There must be numbers in the list first.]
+Najpierw numer musi byÊ na liúcie.
+[No Numbers]
+Brak numerÛw
+[Disable notify]
+Wy≥πcz notyfikacjÍ
+[SMSBox Main]
+MÛj SMSBox
+[SMS was sent]
+SMS wys≥any
+[Enable notify]
+W≥πcz notyfikacje
+[Archives]
+Archiwum

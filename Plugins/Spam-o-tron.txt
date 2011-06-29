@@ -1,0 +1,75 @@
+;============================================================
+;  File: spamotron.dll
+;  Module: Spam-o-tron plugin
+;  Versions: 0.10.0.1
+;============================================================
+[Enabled accounts:]
+W³¹czone konta:
+[Auto approve on:]
+Zatwierdzanie:
+[Incoming message with any word from list:]
+Wiadomoœci przychodz¹ce z dowolnego s³owa z listy:
+[Hide contact until verified]
+Ukryj kontakt do czasu weryfikacji
+[Add permanently to list on verified]
+Dodaj na sta³e do listy po weryfikacji
+[Log actions to system history]
+Dziennik w historii systemowej
+[Flood protection]
+Ochrona antyspamowa
+[Do not send more than]
+Nie wysy³aj wiêcej ni¿
+[messages to one contact per day]
+wiadomoœci do jednego kontaktu na dzieñ
+[Do not reply to the same message more than]
+Nie odpowiadaj na t¹ sam¹ wiadomoœæ wiêcej ni¿
+[times a day]
+razy dziennie
+[Do not reply to messages with words in this list:]
+Nie odpowiadaj na wiadomoœci z s³owami z listy:
+[Mode:]
+Tryb:
+[Simple]
+Prosty
+[Send challenge on incoming message:]
+Wyœlij zapytanie na przychodz¹c¹ wiadomoœæ:
+[Responses: (saved in %response%, %response-n% variables)]
+Odpowiedzi: (zapisano zmiennych %response%, %response-n%)]
+[Reply on success:]
+OdpowiedŸ na sukces:
+[Send challenge on authorization request:]
+Wyœlij zapytanie na pytanie o autoryzacjê:
+[Keep blocked messages in contact history]
+Trzymaj blokowane wiadomoœci w historii kontaktu
+[and mark them unread after approval]
+oraz oznacz je nowymi po zatwierdzeniu
+[Learned spam messages:]
+Nauczone wiadomoœci spam:
+[Learned ham messages:]
+Nauczona pamiêæ wiadomoœci:
+[Filtering options]
+Opcje filtrowania
+[Do not send challenge request if message score above]
+Nie wysy³aj zapytania, gdy ratiojest wiêksze od
+[Auto approve contact if message score below]
+Auto-zatwierdzanie kontaktu, gdy ratio jest wiêksze od
+[and learn as ham]
+i ucz siê z pamiêci
+[Do not enable any of these options until Spam-o-tron have learned at least 20 of ham and 50 of spam messages.]
+Nie w³¹czaj ¿adnej z tych opcji Spam-o-trona, gdy nauczono siê co najmniej 20 pamiêci i 50 wiadomoœci spamowych.
+[Learning options]
+Opcje uczenia
+[Auto-learn messages from approved contacts as ham]
+Auto-uczenie siê wiadomoœci z zatwierdzonych kontaktów pamiêci
+[Auto-learn messages from contacts if not approved in]
+Auto-uczenie siê wiadomoœci jeœli nie zatwierdzone
+[days as spam]
+dni jako spam
+[Auto-learn outgoing messages as ham]
+Auto-uczenie siê wychodz¹cych wiadomoœci jako pamiêæ
+[Learn message:]
+Ucz siê wiadomoœci:
+[Ham]
+Pamiêæ
+[Analyze]
+Analiza

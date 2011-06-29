@@ -1,0 +1,69 @@
+;============================================================
+;  File: bosskey.dll
+;  Module: Boss Key
+;  Versions: 0.4.1.2
+;============================================================
+[Please enter password!]
+Proszê wprowadziæ has³o!
+[Password is not correct!]
+Nieprawid³owe has³o!
+[Hide Miranda IM]
+Ukryj Mirandê IM
+[BossKey\tget the BossKey name]
+BossKey\tpobierz nazwê BossKey
+[Trigger when Miranda is hiding]
+Wywo³aj, kiedy Miranda jest ukryta
+[Trigger when Miranda is showing]
+Wywo³aj, kiedy Miranda jest na wierzchu
+[Go to Customize -> Hotkeys to change the hotkey]
+PrzejdŸ do Personalizacja -> Skróty, aby je ustawiæ
+[Hotkey:]
+Skrót:
+[Use built in to Miranda hotkey module]
+U¿yj wbudowanej w Mirandê obs³ugi skrótów
+[When I press the hotkey:]
+Kiedy nacisnê skrót:
+[Change status to]
+Zmieñ status na
+[Change only if current status is Online]
+Zmieñ tylko, jeœli aktualny status to Po³¹czony
+[Use default status message]
+U¿yj domyœlnego opisu
+[Disable Sounds]
+Wy³¹cz dŸwiêki
+[When I return:]
+Kiedy wrócê:
+[Request password:]
+Za¿¹daj has³a:
+[Change status back]
+Przywróæ poprzedni status
+[Workstation is Locked (2000/XP+)]
+Komputer jest zablokowany (2000/XP+)
+[Screen Saver is running]
+Wygaszacz jest w³¹czony
+[Windows is inactive]
+Okno jest nieaktywne
+[Hide Miranda when:]
+Ukryj Mirandê kiedy:
+[Miranda is inactive]
+Miranda jest nieaktywna
+[min]
+min
+[On the Phone]
+Przy telefonie
+[Out to Lunch]
+Na obiedzie
+[Miranda IM is locked.\nEnter password to unlock it.]
+Miranda jest zablokowana.\n Proszê wprowadziæ has³o.
+[Password is not correct!\nPlease, enter correct password.]
+B³êdne has³o!\nProszê wpisaæ poprawne has³o.
+[Miranda is started]
+Miranda siê uruchamia
+[Restore hiding on startup after failure]
+Przywróæ ukrywanie na starcie po awarii
+[Hide/Show Miranda]
+Ukryj/Poka¿ Mirandê
+[get the BossKey name]
+pobiera nazwê BossKey
+[Main]
+Ogólne

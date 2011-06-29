@@ -1,0 +1,72 @@
+;============================================================
+;  File: facebook.dll
+;  Module: Facebook
+;  Versions: 0.1.2.0
+;============================================================
+[Mind]
+Myœl
+[Facebook Icon]
+Facebook
+[Clear]
+Wyczyœæ
+[&Clear]
+Wyczyœæ
+[Share]
+Wyœlij
+[Mind...]
+Wyœlij myœl...
+[Account && Integration]
+Integracja z kontem
+[Enable notifications]
+W³¹cz powiadomienia
+[Enable feeds]
+W³¹cz nag³ówki
+[Create a new Facebook account]
+Stwórz nowe konto na Facebooku
+[Advanced Settings]
+Ustawienia zaawansowane
+[Default group for newly added contacts:]
+Domyœlna grupa dla nowo dodanych kontaktów:
+[User-Agent:]
+Agent 
+[Info Dialog]
+Okno informacyjne
+[Set Facebook status through Miranda status]
+Ustaw status na Facebooku poprzez status Mirandy
+[Enable logging for debugging purposes]
+W³¹cz logowanie w celu debugowania
+[Show cookies]
+Poka¿ 'cookies'
+[Login error, probably bad login credentials.]
+B³¹d logowania, sprawdŸ login i has³o.
+[Something happened to Facebook. Maybe there was some major update or you have Facebook Lite set as default.]
+Coœ siê sta³o na Facebooku. Mo¿e by³o kilka powa¿nych aktualizacji lub masz Facebook Lite ustawiony jako domyœlny.
+[Currently only Live Feed is available. Real-time notifications will be introduced as soon as possible.]
+Chwilowo wpisywanie myœli jest dostêpne tylko poprzez interfejs www. Funkcjonalnoœæ zostanie przywrócona tak szybko jak to mo¿liwe.
+[Set Facebook "What's on my mind" status through Miranda status]
+Ustaw "Moj¹ myœl" poprzez status Mirandy IM
+[Sample event]
+Próbne zdarzenie
+[New notification]
+Nowe powiadomienie
+[Use balloon notifications in system tray instead of popups]
+U¿yj baloników systemowych w zasobniku zamiast popupów
+[News feeds]
+Nowe kana³y
+[Other events]
+Inne zdarzenia
+[Client notifications]
+Powiadomienia klienta
+[Request following types of News Feed items]
+Wyœwietlaj kana³
+[Most Recent]
+Najnowsze
+[Status Updates]
+Zmiany statusu
+[Top News]
+Nowoœci
+[Force secure (HTTPS) connection]
+Wymuœ szyfrowane po³¹czenie (HTTPS)
+[Automatically close chat windows on website]
+Automatycznie zamknij okno czatowe na stonie web
+[Post Miranda statuses to Wall]

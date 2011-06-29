@@ -1,0 +1,103 @@
+;============================================================
+;  File: voiceservice.dll, voiceserviceW.dll
+;  Module: Provide services for protocols that support voice calls
+;  Versions: 0.1.2.0
+;============================================================
+[User '%s' not found on the server!]
+U¿ytkownik '%s' nie zosta³ znaleziony na serwerze!
+[%s wants to start a voice call with you. What you want to do?\n\nIf you answer the call, the current call will be put on hold.]
+%s chce rozpocz¹æ rozmowê telefoniczn¹ z Tob¹. Co chcesz zrobiæ?\n\nOdbierzesz czy bie¿¹ce po³¹czenie zostanie zawieszone?
+[Answer]
+Odbierz
+[From now on, repeat this action for this contact]
+Od teraz, powtarzaj tê czynnoœæ dla tego kontaktu
+[Drop]
+Zakoñcz
+[New Voice Call]
+Nowa rozmowa
+[Auto-size frame]
+Automatyczny rozmiar ramki
+[Automatic Actions]
+Automatyczne akcje
+[Auto actions]
+Automatyczne akcje
+[Auto accept this contact calls]
+Automatycznie odbierz gdy kontakt dzwoni
+[Auto drop this contacts calls]
+Automatycznie zawieœ gdy kontakt dzwoni
+[Devices]
+Sterowniki
+[Audio]
+DŸwiêk
+[Input:]
+Wchodz¹ce:
+[Output:]
+Wychodz¹ce:
+[Echo cancelation]
+Zapobiegaj echom
+[Microphone boost]
+Wzmocnienie mikrofonu
+[Show dialpad]
+Poka¿ klawiature numeryczn¹
+[Make call]
+Dzwoñ
+[Voice Calls]
+Rozmowy g³osowe
+[Test Contact]
+Test kontaktu
+[Test description]
+Opis testu
+[Voice call ended]
+Rozmowa zakoñczona
+[Talking]
+Rozmawiam
+[Calling]
+Dzwoniê
+[Ended]
+Zakoñczono
+[On Hold]
+Zawieszono
+[Ringing]
+Dzwonienie
+[Voice Call]
+Rozmowa
+[Answer Voice Call]
+Odbierz rozmowê g³osow¹
+[Hold Voice Call]
+Zawieœ po³¹czenie
+[Drop Voice Call]
+Zakoñcz rozmowê g³osow¹
+[Incoming &Event]
+Kliknij aby odebraæ
+[Voice call ringing]
+Ktoœ dzwoni
+[%s wants to start a voice call with you. What you want to do?]
+%s chce rozpocz¹æ rozmowê g³osow¹. Co chcesz zrobiæ?
+[Provide services for protocols that support voice calls]
+Œwiadczenia us³ug dla protoko³ów, które obs³uguj¹ po³¹czenia g³osowe
+[ Frame ]
+Ramka
+[Calling %s]
+£¹czenie z %s
+[Ringing call from %s]
+%s dzwoni
+[Call from %s has started]
+Rozpoczêto rozmowê z %s
+[Voice call started]
+Rozmowa rozpoczêta
+[Call from %s is on hold]
+Zawieszono po³¹czenie z %s
+[Voice call on hold]
+Zawieœ rozmowê
+[Answer call]
+Odbierz
+[Drop call]
+Odrzuæ
+[Hold call]
+Zawieœ
+[Call from %s has ended]
+Zakoñczono rozmowê z %s
+[Call with SIP]
+Zadzwoñ przez SIP
+[Use SRTP]
+U¿yj SRTP

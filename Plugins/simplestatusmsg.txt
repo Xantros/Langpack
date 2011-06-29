@@ -1,0 +1,153 @@
+;============================================================
+;  File: simplestatusmsg.dll
+;  Module: Provides a simple way to set status and away messages
+;  Versions: 1.9.0.3
+;============================================================
+[%s Message (%s)]
+Opis - %s (%s)
+[Failed to retrieve %s message.]
+B³¹d w odzyskiwaniu opisu %s.
+[Open Status Message Dialog]
+Otwórz okno zmiany statusu
+[<startup>]
+<startowy>
+[%s Status Message: %s]
+%s opis statusu: %s
+[Co&py to Clipboard]
+Ko&piuj do schowka
+[%s Status Message: %s]
+%s opis statusu: %s
+[Retrieving status message for %s...]
+Pobieranie opisu dla %s...
+[Copy %s Message]
+Kopiuj opis %s
+[Copy Away Message]
+Kopiuj opis kontaktu
+[Recent Message]
+Ostatni opis
+[Predefined Message]
+Ulubiony opis
+[Add to Predefined]
+Dodaj do ulubionych
+[Clear History]
+Wyczyœæ historiê
+[Change Status Message]
+Zmieñ opis...
+[Status Message...]
+Zmieñ opis...
+[More variables...]
+Wiêcej zmiennych...
+[Status on Startup]
+Status po uruchomieniu
+[Set status after]
+Ustaw status po:
+[miliseconds]
+milisekundach
+[Protocol:]
+Protokó³:
+[<Last status>]
+<Ostatni status>
+[Independent setting for each protocol]
+Niezale¿ne ustawienia dla ka¿dego protoko³u
+[Pop up dialog asking for status message]
+Pokazuj okno ustawiania opisu
+[Apply to all]
+Ustaw wszêdzie
+[Max length:]
+Maks. d³ugoœæ:
+[Pop up dialog box]
+Pokazuj okienko
+[Do not set status message]
+Nie ustawiaj opisu
+[Always set the same message]
+Zawsze ustawiaj taki sam opis
+[Pop up dialog asking for new message]
+Pokazuj okno nowego opisu
+[Set an empty message]
+Ustaw pusty opis
+[Use default message]
+U¿yj domyœlnego opisu
+[Use last message]
+U¿yj ostatniego opisu
+[Use last message set for this status]
+U¿yj ostatniego opisu dla tego statusu
+[Set the following message:]
+Ustaw nastêpuj¹cy opis:
+[Put default message in message list]
+Umieœæ domyœlny opis na liœcie opisów
+[Show status list]
+Poka¿ listê statusów
+[Show status profiles in status list]
+Poka¿ profile na liœcie statusów
+[Show icons in status list]
+Poka¿ ikony na liœcie statusów
+[Show icons in message list]
+Poka¿ ikony na liœcie opisów
+[Buttons:]
+Przyciski:
+[Show next to cancel button]
+Poka¿ obok przycisku Anuluj
+[Flat, next to cancel button]
+P³askie, obok przycisku Anuluj
+[Show in message list]
+Poka¿ na liœcie opisów
+[Store up to]
+Zachowaj
+[recent messages (0 = disable)]
+ostatnich opisów (0 = wy³acz)
+[Automatically close dialog window after]
+Zamykaj automatycznie okno po
+[Check for winamp song change every]
+Sprawdzaj utwór w Winampie co
+[Leave last played track's title after exiting the player]
+Pozostaw tytu³ ostatnio s³uchanego utworu po wy³¹czeniu odtwarzacza
+[Set random status message every]
+Ustaw losowy opis co
+[Remember last dialog window position]
+Pamiêtaj i przywracaj ostatni¹ pozycjê okna
+[Remove Carriage Return (CR = '\\r' = #0D) chars from status messages]
+Usuñ znaki nowej linii (CR = '\\r' = #0D) z opisu
+[Show 'Copy Away Message' item in contact menu]
+Poka¿ element 'Kopiuj opis' w menu kontaktu
+[Show 'Status Message...' item in status menu]
+Poka¿ element 'Zmieñ opis...' w menu statusu
+[recent messages.]
+ostatnich wiadomoœci.
+[Always set this message:]
+Zawsze pokazuj t¹ wiadomoœæ:
+[Show 'Copy Away Message' item in contact menu.]
+Poka¿ "Kopiuj opis" w menu kontaktu.
+[* These setting may not work with some plugins.]
+* Te opcje mog¹ nie dzia³ac z niektorymi pluginami.
+[Clear History]
+Wyczyœæ historiê
+[Clear Predefined]
+Wyczyœæ ulubione
+[Are you sure you want to clear status message history?]
+Czy na pewno chcesz wyczyœciæ historiê opisów?
+[Confirm clearing history]
+PotwierdŸ wyczyszczenie historii
+[Are you sure you want to clear predefined status messages?]
+Czy na pewno chcesz wyczyœciæ ulubione opisy?
+[Confirm clearing predefined]
+PotwierdŸ wyczyszczenie ulubionych
+[* This feature is available only when using StartupStatus plugin.]
+* Ta opcja jest dostêpna tylko przy aktywnej wtyczce StartupStatus.
+[* Your contact list plugin doesn't support this feature. Try another one.]
+* Twoja wtyczka listy kontaktów nie obs³uguje tej opcji. Spróbuj na innej.
+[Do not change status message]
+Nie zmieniaj opisu
+[Check for winamp song change every]
+Sprawdzaj zmiany utworów w winampie
+[Set random status message every]
+Ustaw losowy opis
+[Show 'Go to URL in Away Message' item in contact menu]
+Poka¿ 'Otwórz link z opisu' w menu kontaktu
+[Update variables in status messages every]
+Aktualizuj zmienne w opisie co
+[&Go to URL in %s Message]
+Otwórz link z opisu
+[&Go to URL in Away Message]
+Otwórz link z opisu
+[Go to URL in Away Message]
+Otwórz link z opisu

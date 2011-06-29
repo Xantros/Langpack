@@ -1,0 +1,131 @@
+;============================================================
+;  File: spellchecker.dll, spellcheckerW.dll
+;  Module: Spell Checker
+;  Versions: 0.2.5.0
+;============================================================
+[Ignore all]
+Ignoruj wszystkie
+[Spell Checker]
+Sprawdzanie pisowni
+[Line]
+Linia
+[Dotted]
+Kropkowany
+[Dash]
+Kreska
+[Dash dot]
+Kreska kropka
+[Dash dot dot]
+Kreska kropka kropka
+[Wave]
+Fala
+[Thick]
+Gruby
+[ Spell Checker ]
+ Sprawdzanie pisowni
+[Default language:]
+Domyœlny jêzyk:
+[Auto-replace words with dictionary suggestions]
+Automatycznie zastêpuj sugestiami ze s³ownika
+[Auto-replace words with user defined replacements]
+Automatycznie zastêpuj w³asnymi sugestiami
+[Ignore words in UPPER CASE]
+Ignoruj wyrazy pisane WIELKIMI LITERAMI
+[Download more dictionaries]
+Pobierz wiêcej s³owników
+[ Advanced ]
+ Zaawansowane 
+[Underline type:]
+Styl podkreœlenia:
+[Show corrections in submenu]
+Poka¿ korekty w podmenu
+[Show all corrections in context menu (takes more time to show)]
+Poka¿ wszystkie poprawki w menu kontekstowym (zabiera wiêcej czasu)
+[Show wrong word]
+Poka¿ b³êdny wyraz
+[Use flags]
+U¿yj flagi
+[Use input language to select dictionary]
+Wybierz jêzyk, aby wybraæ s³ownik
+[Use dictionaries from other programs]
+U¿yj s³ownika z innego programu
+[Add auto-replace word]
+Dodaj wyraz autokorekty
+[Wrong word]
+Z³y wyraz
+[OLD WORD]
+STARY WYRAZ
+[Correction:]
+Korekta:
+[Dictionaries]
+S³owniki
+[Custom Dictionaries]
+W³asny s³ownik
+[Flags DLL]
+Flags.dll
+[Languages/Flags]
+Jêzyk/Flagi
+[Other...]
+Inne...
+[Always replace with]
+Zawsze zastêpuj
+[Add to dictionary]
+Dodaj do s³ownika
+[Corrections]
+Korekty
+[Wrong word: %s]
+B³êdny wyraz: %s
+[Language:]
+Jêzyk:
+[Enable spell checking]
+W³¹cz sprawdzanie pisowni
+[Wrong words]
+B³êdne wyrazy
+[Could not find the message dialog. This usually means one of two things:\n- In tabSRMM the checkbox 'Enable event API' is disabled or\n- You are using SRMM (which don't support Spell Checker)]
+Nie mo¿na znaleŸæ okna rozmowy. Oznacza to zazwyczaj jedn¹ z dwóch rzeczy:\n- W tabSRMM opcja "W³¹cz API" jest wy³¹czona lub\n- U¿ywasz SRMM (które nie obs³uguje sprawdzanie pisowni)
+[Unknown Flag]
+Nieznana flaga
+[Spell Checker/Flags]
+Sprawdzanie pisowni/Flagi
+[Auto-correct words]
+Automatycznie poprawiaj wyrazy
+[Show all corrections]
+Poka¿ wszystkie korekty
+[Flag icons]
+Ikona flagi
+[The correction can't be an empty word!]
+Korekta nie mo¿e byæ pustym s³owem!
+[The correction can't be the equal to the wrong word!]
+Korekta nie mo¿e byæ równa z³ym s³owem!
+[Wrong Correction]
+Z³a korekta
+[Auto-replacements]
+Automatyczna zamiana
+[Correction]
+Korekta
+[No separators and all lowercase chars]
+Bez separatorów i wszystkich ma³ych znaków
+[Use variables in correction]
+U¿yj zmiennej w korekcie
+[Spell checker for the message windows. Uses Hunspell to do the checking.]
+Sprawdzanie pisowni w oknie rozmowy. U¿ywa Hunspell do sprawdzania.
+[Replacements]
+Zamiennik
+[Ignore words with numbers]
+Ignoruj s³owa z cyframi
+[Ask before sending a message with spelling errors]
+Pytaj przed wys³aniem wiadomoœci z b³êdami ortograficznymi
+[Enable auto-replacements]
+W³¹cz automatyczn¹ zamiane
+[Avoid removing underscores (slows down checking of long texts)]
+Unikaj usuwania podkreœlenia (spawalnia sprawdzanie d³ugich tekstów)
+[Enable/disable spell checker]
+W³¹cz/wy³¹cz sprawdzanie pisowni
+[Languages]
+Jêzyki
+[Flags]
+Flagi
+[Language]
+Jêzyk
+[Wrong word:]
+Z³e s³owo:

@@ -1,0 +1,39 @@
+;============================================================
+;  File: simplear.dll
+;  Module: Simple Auto Replier
+;  Versions: 2.0.2.2
+;============================================================
+[Disable Auto&reply]
+Wy³¹cz Auto odpowiedŸ
+[Enable Auto&reply]
+W³¹cz Auto odpowiedŸ
+[Enable Auto Replier]
+W³¹cz Auto Replier
+[No-repeat Interval:]
+Nie powtarzaj przez:
+[Reply Message Heading:]
+Nag³ówek odpowiedzi:
+[Dear %user%, the owner left the following message:]
+Drogi %user%, w³aœciciel pozostawi³ nastêpuj¹c¹ wiadomoœæ:
+[Reply Message when]
+Odpowiedz kiedy:
+[I am currently away. I will reply to you when I am back.]
+Jestem obecnie niedostêpny. Odezwê siê jak wrócê.
+[I am currently very busy and can't spare any time to talk with you. Sorry...]
+Jestem obecnie bardzo zajêty i nie mogê rozmawiaæ. Przepraszam...
+[I am not available right now.]
+Nie jestem w tej chwili dostêpny.
+[I am now doing something, I will talk to you later.]
+Coœ tam robiê. Odezwê siê póŸniej.
+[I am on the phone right now. I will get back to you very soon.]
+Rozmawiam przez telefon. Wkrótce wrócê.
+[I am having meal right now. I will get back to you very soon.]
+W tej chwili jem. Wkrótce wrócê.
+[Turn on Autoanswer]
+W³¹cz Auto odpowiedŸ
+[Turn off Autoanswer]
+Wy³¹cz Auto odpowiedŸ
+[&Default]
+Domyœlne
+[mins]
+minut

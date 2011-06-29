@@ -1,0 +1,99 @@
+;============================================================
+;  File: scv_crshdmp.dll
+;  Module: Crash Dumper for Miranda IM by borkra
+;  Versions: 0.0.4.19
+;============================================================
+[Create reports in subfolders naming as current date]
+Twórz raporty w subfolderach u¿ywaj¹c bie¿¹cej daty
+[VersionInfo stored into file %s]
+Informacje o wersji zachowana w pliku: %s
+[VersionInfo file %s is inaccessible]
+Plik z informacjami o wersji %s jest niedostêpny
+[Version Information]
+Informacje o wersji
+[Copy to clipboard]
+Kopiuj do schowka 
+[Store to file]
+Zapisz do pliku
+[Show with DLLs]
+Poka¿ z DLL'ami
+[View Version Information ]
+Poka¿ informacje o wersji
+[To Clipboard]
+Do schowka
+[To File]
+Do pliku
+[Support for miranda-vi.org]
+Wsparcie dla miranda-vi.org
+[Upload automatically when changed]
+Wyœlij automatycznie kiedy nast¹pi zmiana
+[Trap all possible exceptions]
+Wy³ap wszystkie mo¿liwe wyj¹tki
+[Crash Report]
+Raport o b³êdzie
+[Caution: Do not enable this option unless there is no other way you can  get a crash report When in use you will get much more crash reports then you expect or need to worry about]
+Ostrze¿enie: Nie w³¹czaj tej opcji, chyba ¿e nie ma innej mo¿liwoœci wygenerowania raportu o b³êdach. Po w³¹czeniu tej opcji bêdzie wystêpowa³o wiêcej b³êdów ni¿ normalnie
+[Copy Version Info to clipboard]
+Kopiuj informacje o wersji do notatnika
+[Show Version Info]
+Poka¿ informacje o wersji
+[Modify]
+Modyfikuj
+[System scope]
+Zasiêg systemowy
+[Miranda scope]
+Zasiêg Mirandy
+[|Unicode aware|]
+|œwiadome Unicode|
+[\r\n%sActive Plugins (%u):%s\r\n]
+\r\n%sW³¹czone wtyczki (%u):%s\r\n
+[\r\n%sUnloadable Plugins (%u):%s\r\n]
+\r\n%sWy³¹czone wtyczki (%u):%s\r\n
+[\r\nMiranda IM Version: %s]
+\r\nWersja Mirandy IM: %s
+[Build time: %s\r\n]
+Build time: %s\r\n
+[Profile: %s\r\n]
+Profil: %s\r\n
+[Profile size: %I64u Bytes\r\n]
+Rozmiar profilu: %I64u Bytes\r\n
+[Profile creation date: %s\r\n]
+Data utworzenia profilu: %s\r\n
+[Nightly: %s\r\n]
+Nightly: %s\r\n
+[Unicode: %s\r\n]
+Unicode: %s\r\n
+[Unicode]
+Unicode
+[\r\nLoaded Modules:\r\n---------------------------------------------------------------\r\n]
+\r\nWczytane modu³y:\r\n---------------------------------------------------------------\r\n
+[Crash Report write location is inaccesible]
+Nie mo¿na zapisaæ raportu o b³êdach
+[Miranda crashed. Crash report stored in the folder:\n %s\n\n Would you like store it in the clipboard as well?]
+Wyst¹pi³ b³¹d Mirandy. Raport b³êdów zachowany w folderze:\n %s\n\n Czy zapisaæ raport?
+[Miranda Crashed. dbghelp.dll v. 6.8 required to provide a crash report]
+Wyst¹pi³ b³¹d Mirandy. Potrzebujesz dbghelp.dll w. 6.8 aby dostarczyæ raport.
+[VersionInfo upload successful,\n %d old plugins]
+Wys³ano informacje o wersji. Starych wtyczek: %d
+[Cannot upload VersionInfo. Incorrect username or password]
+Nie mo¿na wys³aæ informacji o wersji. Niepoprawna nazwa u¿ytkownika lub has³o.
+[Cannot upload VersionInfo. User is banned]
+Nie mo¿na wys³aæ informacji o wersji. U¿ytkownik jest zbanowany.
+[Cannot upload VersionInfo. Daily upload limit exceeded]
+Nie mo¿na wys³aæ informacji o wersji. Przekroczono dzienny limit wysy³ania.
+[Cannot upload VersionInfo. Unknown error]
+Nie mo¿na wys³aæ informacji o wersji. Nieznany b³¹d.
+[Cannot upload VersionInfo. Host unreachable.]
+Nie mo¿na wys³aæ informacji o wersji. Host nieosi¹galny.
+[Crash Dumper HTTP connections]
+Po³¹czenie HTTP Crash Dumper
+[More then one crash reporting plugin installed. This will result in inability of creating crash reports]
+Masz wiêcej ni¿ jedn¹ wtyczkê raportowania b³êdów. Uniemo¿liwia to generowanie raportów o b³êdach
+[Open crash report directory]
+Otwórz katalog z b³êdami
+[Open miranda-vi.org]
+Otwórz miranda-vi.org
+[Get Version Info]
+Przechwyæ informacje o wersji
+[Use classic dates]
+U¿yj klasycznych dat
