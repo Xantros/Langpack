@@ -1,7 +1,7 @@
 ;============================================================
 ;  File: miranda32.exe
 ;  Module: Miranda Core
-;  Versions: 0.10.0.1
+;  Versions: 0.10.0.2
 ;============================================================
 [Account is online. Disable account?]
 Konto jest uruchomione. Wy³¹czyæ to konto?

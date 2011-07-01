@@ -3,5 +3,5 @@ Language: Polish
 Locale: 0415
 Version: 11.02.18
 Last-Modified-Using: Miranda IM Version: 0.10.0 alpha build #2 Unicode
-Author:  MojaMiranda
+Author: www.MojaMiranda.pl
 Author-email: MojaMiranda@gmail.com

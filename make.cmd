@@ -4,7 +4,7 @@ rem It can be used (probably) with any localisation but tested only with russian
 rem Положить рядом с make.cmd файл VersionInfo.txt - получите лангпак под вашу сборку.
 rem ПЕРЕВОДЫ ПЛАГИНОВ ДОЛЖНЫ НАХОДИТЬСЯ В ПАПКЕ \Plugins (не стоит складывать все в папку с мирандой)
 setlocal ENABLEDELAYEDEXPANSION
-title Ru-Langpack Generator v0.4 by BasiL
+title Langpack Generator v0.4 by BasiL
 
 rem set variables
 set lp=Langpack_polish.txt
@@ -12,9 +12,9 @@ set vi=VersionInfo.txt
 set PluginsDir=.\Plugins
 set WeatherDir=.\Weather
 if /i "%1"=="fast" (
-	set MirandaPath=d:\BasiL\miranda\
+	set MirandaPath=C:\Program Files\Miranda PL\
 	rem DO NOT PUT .dat to profile name!
-	set profile=tst)
+	set profile=Podstawowy)
 
 if not exist %vi% echo %vi% not found, making full langpack...
 
