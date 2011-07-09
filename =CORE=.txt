@@ -3,6 +3,7 @@
 ;  Module: Miranda Core
 ;  Versions: 0.10.0.2
 ;============================================================
+
 [Account is online. Disable account?]
 Konto jest uruchomione. Wy³¹czyæ to konto?
 [Miranda is trying upgrade your profile structure.\nIt cannot move profile %s to the new location %s\nBecause profile with this name already exist. Please resolve the issue manually.]

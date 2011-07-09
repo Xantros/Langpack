@@ -1,6 +1,6 @@
 ;============================================================
 ;  File: seenplugin.dll
-;  Module: Last Seen Plugin (NSN Compatible)
+;  Module: Last Seen Plugin
 ;  Versions: 5.0.4.7
 ;============================================================
 [last seen history]

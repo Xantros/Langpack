@@ -16,7 +16,7 @@ Czy jestes pewien? ustawienia zostan¹ usuniête z bazy danych i Explorera
 [Disable/Remove shlext]
 Wy³¹cz/unuñ shlext
 [Shell context menus]
-Menu kontekstowe shell
+Integracja z pow³ok¹
 [Display contacts in their assigned groups (if any)]
 Poka¿ kontakty w grupach
 [Only if/when the contact list is using them]
