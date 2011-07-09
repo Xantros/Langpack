@@ -1,0 +1,1 @@
+W tym repozytorium znajduj¹ siê pliki potrzebne do wygodnego tworzenia, uzpe³niania i poprawiania polskiego t³umaczenia komunikatora Miranda IM oraz polskiego instalatora dostepnego na stronie www.MojaMiranda.pl.
