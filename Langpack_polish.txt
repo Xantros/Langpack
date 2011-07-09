@@ -6,10 +6,8 @@ Last-Modified-Using: Miranda IM Version: 0.10.0 alpha build #2 Unicode
 Author: www.MojaMiranda.pl
 Author-email: MojaMiranda@gmail.com
 
-Plugins-included: Actman, AddContactPlus, advaimg, AdvSplashScreen, Alarms, assocmgr, AutoRun, AutoShutdown, avatarHistory_ALAStyleW, Avs, Bass_interface, Bonsai, BossKey, BuddyExpectator, Clist_modern, dbx_mmap_sa, db_autobackups, extraicons, facebook, Fingerprint, Folders, GG, GTalkExt, HistoryEvents, HistoryKeeper, HistoryPP, HistoryStats, IgnoreState, Import_sa, Jabber, LastSeen, ListeningTo, mContacts, MenuEx, mRadio, NewXstatusNotify, Nudge, PackUpdater, PasteIt, Ping, Pmanager, PopUp, QuickSearch, RSS, SeenPlugin, SendSS, ShlExt, simplear, simplestatusmsg, SIP, SMCN, SmileyAdd, SMS, Spam-o-tron, SpellChecker, StatusPlugin, StopSpam, Svc_crshdmp, Svc_DBEPP, TabSRMM, Tipper, UInfoEx, Updater, useactions, Variables, voiceservice, Watrack, Weather, WindowsStartPosition, WorldTimeProtocol, XFire, YAMN.
-;
-; FLID: Polish langpack 11.02.18
-; Generated on 2011-02-18 09:24 Local Time
+Plugins-included: Actman, AddContactPlus, advaimg, AdvSplashScreen, Alarms, assocmgr, avatarHistory_ALAStyleW, Avs, Bass_interface, Bonsai, BossKey, Clist_modern, db_autobackups, dbx_mmap_sa, extraicons, facebook, Fingerprint, Folders, GG, GTalkExt, historykeeper, HistoryPP, Jabber, mContacts, MenuEx, mRadio, NewXstatusNotify, Nudge, PackUpdater, PasteIt, PopUp, QuickSearch, RSS, SeenPlugin, SendSS, shlext, simplear, simplestatusmsg, smileyadd, spellchecker, Svc_crshdmp, Svc_DBEPP, TabSRMM, Tipper, uinfoex, Updater, useactions, Variables, Watrack, Weather, XFire, YAMN.
+
 
 
 
@@ -2561,198 +2559,6 @@ Zaufane protoko≥y
 Manager powiπzaÒ protoko≥Ûw
 
 ;============================================================
-;  File: autorun.dll
-;  Module: AutoRun
-;  Versions: 0.1.0.1
-;============================================================
-[Autorun]
-Automatyczne uruchamianie
-[Launch Miranda IM at system startup]
-Uruchom MirandÍ IM przy starcie systemu
-[Note: At startup Miranda IM will use current profile]
-WiadomoúÊ: Przy starcie Miranda IM uøyje obecnego profilu
-
-;============================================================
-;  File: autoshutdown.dll
-;  Module: AutoShutdown
-;  Versions: 1.4.0.2
-;============================================================
-[AutoShutdown]
-AutoShutdown
-[Adds the possibility to shutdown the computer when a specified event occurs.]
-Dodaje moøliwoúÊ wy≥πczenia komputera po wystπpieniu okreúlonych zdarzeÒ.
-[AutoShutdown Plugin]
-Wtyczka AutoShutdown
-[The AutoShutdown plugin can not be loaded. It requires Miranda IM %hs or later.]
-Nie moøna za≥adowaÊ wtyczki AutoShutdown, poniewaø wymaga ona Mirandy IM %hs lub nowszej.
-[Automatic &shutdown...]
-Automatyczne wy≥πczanie...
-[Stop automatic &shutdown]
-Zatrzymaj automatyczne wy≥πczanie
-[Start/Stop automatic shutdown]
-Rozpocznij/Zatrzymaj automatyczne wy≥πczanie
-[Start automatic shutdown]
-Rozpocznij automatyczne wy≥πczanie
-[Stop automatic shutdown]
-Zatrzymaj automatyczne wy≥πczanie
-[Automatic Shutdown Countdown]
-Odliczanie automatycznego wy≥πczania
-[Toggle Automatic Shutdown]
-Prze≥πcz automatyczne wy≥πczanie
-[Active]
-Aktywny
-[Inactive]
-Nieaktywny
-[Countdown on Frame]
-Odliczanie w ramce
-[Progress Bar]
-Pasek postÍpu
-[Select the automatic shutdown event]
-Wybierz zdarzenie powodujπce automatyczne wy≥πczenie
-[Shutdown at &specific time]
-Wy≥πcz o okreúlonym czasie
-[Shutdown a&t:]
-Wy≥πcz o:
-[Shutdown i&n:]
-Wy≥πcz za:
-[Second(s)]
-Sekund(y)
-[Minute(s)]
-Minut(y)
-[Hour(s)]
-Godzin(y)
-[Day(s)]
-Dni
-[Week(s)]
-Tygodnie
-[Month(s)]
-Miesiπc(e)
-[Shutdown when a &message is received containing the following text:]
-Wy≥πcz po otrzymaniu wiadomoúci o nastÍpujπcej treúci:
-[Shutdown when all &file transfers are finished]
-Wy≥πcz po zakoÒczeniu wszystkich transferÛw
-[Shutdown when &prozessor usage drops below:]
-Wy≥πcz kiedy zuøycie procesora przekroczy:
-[(current: %u%%)]
-(obecnie: %u%%)
-[Shutdown when Miranda IM becomes &idle]
-Wy≥πcz kiedy Miranda przejdzie w bezczynnoúÊ
-[Shutdown when all contacts are &offline]
-Wy≥πcz jeúli wszystkie kontakty bÍdπ roz≥πczone
-[&Action:]
-Akcja:
-[Close Miranda IM]
-Zamknij MirandÍ IM
-[Sets all Miranda IM protocols to offline and closes Miranda IM.]
-Roz≥πcza wszystkie protoko≥y i wy≥πcza MirandÍ IM.
-[Set Miranda IM offline]
-Roz≥πcz MirandÍ IM
-[Sets all Miranda IM protocols to offline.]
-Roz≥πcza wszystkie protoko≥y Mirandy.
-[Log off user]
-Wyloguj uøytkownika
-[Logs the current Windows user off so that another user can log in.]
-Wylogowuje aktualnego uøytkownika Windows, aby ktoú inny mÛg≥ siÍ zalogowaÊ.
-[Restart computer]
-Zrestartuj komputer
-[Shuts down Windows and then restarts Windows.]
-Wy≥πcza Windows i restartuje komputer.
-[Shutdown computer]
-Wy≥πcz komputer
-[Closes all running programs and shuts down Windows to a point at which it is safe to turn off the power.]
-Zamyka wszystkie uruchomione programy i wy≥πcza Windows co pozwala wy≥πczyÊ zasilanie.
-[Standby mode]
-Tryb oczekiwania
-[Saves the current Windows session in memory and sets the system to suspend mode.]
-Zapisuje aktualnπ sesjÍ Windows w pamiÍci i ustawia system w tryb wstrzymania.
-[Hibernate mode]
-Tryb hibernacji
-[Saves the current Windows session on harddisc, so that the power can be turned off.]
-Zapisuje aktualnπ sesjÍ Windows na dysku twardym øeby moøna by≥o wy≥πczyÊ zasilanie.
-[Lock workstation]
-Zablokuj komputer
-[Locks the computer. To unlock the computer, you must log in.]
-Blokuje komputer. Aby go odblokowaÊ musisz siÍ zalogowaÊ.
-[Hang up dialup connections]
-Zawieú aktywne po≥πczenia
-[Sets all protocols to offline and closes all RAS connections.]
-Roz≥πcza wszystkie protoko≥y i zamyka sesje wszystkie RAS.
-[Shutdown]
-Wy≥πczanie
-[&Show confirmation dialog before shutdown]
-Pokaø okno potwierdzenia przed zamkniÍciem
-[&Countdown starts at:]
-Odliczaj od:
-[Shutdown Events]
-Zdarzenia zwiπzane z wy≥πczaniem
-[&Activate automatic shutdown with the same settings again if Miranda IM was closed with automatic shutdown enabled]
-Aktywuj ponownie automatyczne wy≥πczanie z tymi samymi opcjami jeúli Miranda zostanie zamkniÍta przez tÍ wtyczkÍ
-[&Ignore hidden or temporary contacts when watching for all contacts being offline]
-Ignoruj ukryte lub tymczasowe kontakty kiedy obserwujesz czy kontakty sπ po≥πczone
-[Critical Shutdown Events]
-Wy≥πczanie w sytuacjach krytycznych
-[&Thunderstorm warning is issued  (Weather)]
-Og≥oszono burzÍ z piorunami (Pogoda)
-[&Harddrive overheats (HDD Info)]
-Przegrzany dysk twardy (HDD Info)
-[Shutdown: Close Miranda IM]
-Wy≥πczanie: Zamknij MirandÍ IM
-[Shutdown: Set Miranda IM offline]
-Wy≥πczanie: Roz≥πcz MirandÍ IM
-[Shutdown: Log off user]
-Wy≥πczanie: Wyloguj uøytkownika
-[Shutdown: Restart computer]
-Wy≥πczanie: Zrestartuj komputer
-[Shutdown: Shutdown computer]
-Wy≥πczanie: Wy≥πcz komputer
-[Shutdown: Standby mode]
-Wy≥πczanie: Tryb oczekiwania
-[Shutdown: Hibernate mode]
-Wy≥πczanie: Tryb hibernacji
-[Shutdown: Lock workstation]
-Wy≥πczanie: Zablokuj komputer
-[Shutdown: Hang up dialup connections]
-Wy≥πczanie: Zawieú aktywne po≥πczenia
-[Miranda IM is going to be automatically closed in %i second(s).]
-Miranda IM zostanie automatycznie wy≥πczona za %i sekund(y).
-[You will be logged off automatically in %i second(s).]
-Zostaniesz automatycznie wylogowany za %i sekund(y).
-[The computer will automatically be restarted in %i second(s).]
-Komputer zostanie automatycznie zrestartowany za %i sekund(y).
-[The computer will automatically be set to standby mode in %i second(s).]
-Komputer zostanie automatycznie ustawiony na tryb oczekiwania za %i sekund(y).
-[The computer will automatically be set to hibernate mode in %i second(s).]
-Komputer automatycznie przejdzie w stan hibernacji za %i sekund(y).
-[The workstation will automatically get locked in %i second(s).]
-Komputer zostanie automatycznie zablokowany za %i sekund(y).
-[The computer will automatically be shut down in %i second(s).]
-Komputer zostanie automatycznie zamkniÍty za %i sekund(y).
-[All dialup connections will be closed in %i second(s).]
-Wszystkie nawiπzane po≥πczenia zostanπ przerwane za %i sekund(y).
-[Unsaved data in open applications except Miranda IM might get lost.]
-Niezapisane dane w otwartych programach (poza Mirandπ) mogπ zostaÊ utracone.
-[Please click "Cancel" if you would like to abort the process.]
-Kliknij na "Anuluj" jeúli chcesz przerwaÊ proces.
-[&Now!]
-Teraz!
-[Time left:]
-Pozosta≥y czas:
-[Shutdown at:]
-Wy≥πcz o:
-[Paused]
-Pauza
-[&Cancel Countdown]
-Anuluj odliczanie
-[&Pause Countdown]
-Zatrzymaj odliczanie
-[&Unpause Countdown]
-WznÛw odliczanie
-[Automatic Shutdown Error]
-B≥πd automatycznego wy≥πczania
-[The shutdown process failed!\nReason: %s]
-Proces wy≥πczania nie powiÛd≥ siÍ!\nPowÛd: %s
-
-;============================================================
 ;  Module: avatarHistory_ALAStyleW.dll
 ;  Plugin: Avatar History ALA Style Mod
 ;  Versions: 0.0.1.10
@@ -3077,118 +2883,6 @@ Ukryj/Pokaø MirandÍ
 pobiera nazwÍ BossKey
 [Main]
 OgÛlne
-
-;============================================================
-;  File: buddyexpectator.dll
-;  Module: Buddyexpectator plugin
-;  Versions: 0.1.2.3
-;============================================================
-[Reacts to the return of contacts, or the the extended absence of contacts, with notifications and other actions]
-Reaguje na powrÛt kontaktÛw lub d≥uøszego braku aktywnoúci kontaktu z powiadomieÒ lub innych akcji
-[Buddy Expectator]
-Powiadomienie o aktywnoúci
-[has gone online for the first time.]
-dostÍpny po raz pierwszy.
-[has returned after a long absence.]
-powrÛci≥ po d≥uøszym braku aktywnoúci.
-[has returned after being absent since %#x]
-powrÛci≥ po braku aktywnoúci od %#x
-[has not returned after being absent since %#x]
-nieaktywny od %#x
-[has not returned after a long absence.]
-nieaktywny od %#x
-[not detected]
-nie wykryto
-[This contact has been absent for an extended period of time.]
-Ten kontakt jest nieaktywny przez d≥uøszy okres czasu.
-[has returned after being absent since %d days]
-powrÛci≥ po braku aktywnoúci od %d dni
-[Contact returned]
-PowrÛt kontaktu
-[Contact still absent]
-Kontakt nadal nieaktywny
-[Miss you event]
-Powiadomienie o zdarzeniach
-[Hide contact event]
-Ukryj zdarzenia kontaktu
-[You awaited this contact!]
-Czeka≥eú na ten kontakt!
-[Enable Miss You]
-W≥πcz "Daj mi znaÊ"
-[Disable Miss You]
-Wy≥πcz "Daj mi znaÊ"
-[Tray/popup icon]
-Ikona w zasobniku/popupie
-[Last seen online:]
-Ostatnio widziany:
-[Last input message:]
-Ostatnia wiadomoúÊ:
-[Custom absence period:]
-W≥asny okres aktywnosci:
-[Never hide this contact]
-Nigdy nie ukrywaj tego kontaktu
-[Return notification]
-Powiadom mnie o aktywnoúci
-[When a contact returns after]
-Kiedy kontakt bedzie aktywny po:
-[When a contact returns after ]
-Kiedy kontakt bedzie aktywny po: 
-[or comes online for the first time]
-lub stanie siÍ aktywny po raz pierwszy.
-[Show a popup]
-Pokaø popup
-[Add an event (flashing icon) to the contact]
-Dodaj zdarzenie (migajπca ikona) dla kontaktu
-[On event action (double click) or popup click:]
-Akcja zdarzenia (podwÛjne klikniÍcie) lub popup:
-[Open User Details]
-OtwÛrz dane kontaktu
-[Long time no see]
-D≥ugi czas braku aktywnoúci
-[When a contact is absent for]
-Kiedy kontakt jest nieaktywny od:
-[Hide when no messages for]
-Ukryj kiedy brak wiadomoúci od:
-[Delete the contact]
-UsuÒ kontakt
-[Enable "Miss you" feature]
-W≥πcz funkcjÍ "Daj mi znaÊ"
-[Use Popups colors]
-Uøyj kolorÛw Popup
-[days]
-dni
-[weeks]
-tygodni
-[months]
-miesiÍcy
-[years]
-lat
-[NeverHide]
-Nie ukrywaj
-[Absence period]
-Brak okresu
-[Last input message]
-Ostatnia wiadomoúÊ
-[Last seen online]
-Ostatnio widziany
-[Note: in additional you may specify any sound  on 'Sounds' panel]
-Uwaga: dodatkowo moøna ustawic dowolny düwiÍk w Personalizacja > DüwiÍki.
-[Notify after an absence of ]
-Powiadamiaj po braku aktywnoúci
-[On event action (double click):]
-Akcja zdarzenia (podwÛjne klikniÍcie):
-[This plugin notifies you when any contact comes online after an absence of long period.]
-Ta wtyczka s≥uøy do powiadamiania uøytkownika o zmianach aktywnoúci kontaktÛw trwajπcej d≥uøszy czas.
-[BuddyExpectator: contact returned]
-BuddyExpectator: kontakt aktywny
-[has returned after an absence of long period.]
-powrÛci≥ po d≥ugim okresie braku aktywnoúci.
-[has returned after an absence since %#x]
-powrÛci≥ po %#x
-[It's already necessary to notify of this contact - an absence has been detected.]
-Powiadomienie o tym kontakcie nie jest juø potrzebne - brak zosta≥ wykryty.
-[monthes]
-mieisecy
 
 ;============================================================
 ;  File: clist_modern.dll
@@ -4173,6 +3867,46 @@ Podúwietlany tekst
 Nowa grupa
 
 ;============================================================
+;  File: db_autobackups.dll
+;  Module: DB AutoBackups
+;  Versions: 0.0.0.8
+;============================================================
+[Backup Profile]
+Kopia zapasowa profilu
+[Automatic Backups]
+Automatyczne kopie zapasowe
+[When Miranda starts]
+TwÛrz podczas uruchamiania Mirandy
+[When Miranda exits]
+TwÛrz podczas wy≥πczania Mirandy
+[Periodically:]
+TwÛrz okresowo:
+[Every:]
+TwÛrz co:
+[Number of backups to keep:]
+Liczba trzymanych kopii zapasowych:
+[Backup to folder:]
+Zapisuj kopie do folderu:
+[Disable progress bar]
+Wy≥πcz okienko ze wskaünikiem postÍpu kopiowania
+[Disable Popups]
+Wy≥πcz popupy
+[Backup NOW]
+ZrÛb TERAZ kopiÍ
+[Backup in Progress]
+Tworzenie kopii zapasowej...
+[Copying database file...]
+Kopiowanie pliku bazy danych...
+[Go to the "Customize -> Folders" to change settings]
+Idü do Personalizacja -> Foldery aby zmieniÊ ustawienia
+[Site:]
+Strona:
+[Backup Folder]
+Folder kopii zapasowych
+[Database encryption]
+Szyfrowanie
+
+;============================================================
 ;  File: dbx_mmap_sa.dll
 ;  Module: Miranda SecuredMMAP database driver
 ;  Versions: 0.7.5.4
@@ -4223,46 +3957,6 @@ Has≥a nie sπ jednakowe!
 Przygotowanie plikÛw do skopiowania...
 [Backup progress]
 Tworzenie kopii zapasowej profilu...
-
-;============================================================
-;  File: db_autobackups.dll
-;  Module: DB AutoBackups
-;  Versions: 0.0.0.8
-;============================================================
-[Backup Profile]
-Kopia zapasowa profilu
-[Automatic Backups]
-Automatyczne kopie zapasowe
-[When Miranda starts]
-TwÛrz podczas uruchamiania Mirandy
-[When Miranda exits]
-TwÛrz podczas wy≥πczania Mirandy
-[Periodically:]
-TwÛrz okresowo:
-[Every:]
-TwÛrz co:
-[Number of backups to keep:]
-Liczba trzymanych kopii zapasowych:
-[Backup to folder:]
-Zapisuj kopie do folderu:
-[Disable progress bar]
-Wy≥πcz okienko ze wskaünikiem postÍpu kopiowania
-[Disable Popups]
-Wy≥πcz popupy
-[Backup NOW]
-ZrÛb TERAZ kopiÍ
-[Backup in Progress]
-Tworzenie kopii zapasowej...
-[Copying database file...]
-Kopiowanie pliku bazy danych...
-[Go to the "Customize -> Folders" to change settings]
-Idü do Personalizacja -> Foldery aby zmieniÊ ustawienia
-[Site:]
-Strona:
-[Backup Folder]
-Folder kopii zapasowych
-[Database encryption]
-Szyfrowanie
 
 ;============================================================
 ;  File: extraicons.dll
@@ -4881,148 +4575,6 @@ Standardowy podglπd
 Podstawowy HTML
 
 ;============================================================
-;  File: historyevents.dll
-;  Module: History Events
-;  Versions: 0.0.0.8
-;============================================================
-[History/Events]
-Historia/Zdarzenia
-[Show in message window]
-Pokaø w oknie wiadomoúci
-[Respect text format]
-Zachowaj formatowanie tekstu
-[Respect text font]
-Zachowaj czcionkÍ tekstu
-[Only add if message window is open]
-Dodaj tylko jeúli okno rozmowy jest otwarte
-[Keep in database:]
-Przechowuj w bazie:
-[Forever]
-Zawsze
-[For 1 year]
-Przez rok
-[For 6 months]
-Przez 6 miesiÍcy
-[For 1 month]
-Przez miesiπc
-[For 1 week]
-Przez tydzieÒ
-[For 1 day]
-Przez dzieÒ
-[Only to view in message window]
-Pokazuj tylko w oknie wiadomoúci
-[Max 10 events]
-Maks. 10 zdarzeÒ
-[Max 100 events]
-Maks. 100 zdarzeÒ
-[Don't store]
-Nie przechowuj
-[Event types:]
-Typy zdarzeÒ:
-[Client Change]
-Zmiena klienta
-[Idle Change]
-Zmiena bezczynnoúci
-[Removal]
-UsuniÍto
-[Listening Change]
-Zmiana utworu
-[Status Change]
-Zmiena statusu
-[Status Message Change]
-Zmiana opisu
-[X-Status Change]
-Zmiana xStatus
-[X-Status Message Change]
-Zmiana opisu xStatus
-[Nickname Change]
-Zmiana nicku
-
-;============================================================
-;  File: historykeeperW.dll
-;  Module: History Keeper
-;  Versions: 0.2.1.0
-;============================================================
-[is now listening to %new%]
-s≥ucha teraz %new%
-[stopped listening to music]
-przesta≥(-a) s≥uchaÊ muzyki
-[changed his/her %s to %%new%%: %%msg%% (was %%old%%)]
-zmieni≥(-a) swÛj/swojπ %s na %%new%%: %%msg%% (by≥(-a) %%old%%)
-[X-Status Message]
-Opis xStatus
-[Speak]
-Rozmowa
-[changed his/her %s to %%new%% (was %%old%%)]
-zmieni≥(-a) swÛj %s na %%new%% (by≥o %%old%%)
-[%%contact%% changed his/her %s to %%new%%]
-%%contact%% zmieni≥ swÛj %s na %%new%%
-[Log when contacts change their %s]
-Loguj kiedy kontakty zmieniπ swÛj %s
-[Log when contacts remove their %s]
-Loguj kiedy kontakty usunπ swÛj %s
-[Announce when contacts change their %s]
-Informuj kiedy kontakty zmieniπ swÛj %s
-[Announce when contacts remove their %s]
-Informuj kiedy kontakty usunπ swÛj %s
-[Show when contacts change their %s]
-Pokaø kiedy kontakty zmieniπ swÛj %s
-[Show when contacts remove their %s]
-Pokaø kiedy kontakty usunπ swÛj %s
-[Show history]
-Pokaø historiÍ
-[Contact Name]
-Nazwa kontaktu
-[ Tracking ]
- åledzenie
-[ Actions ]
- Akcje
-[ Track ]
- åledzenie 
-[Wait]
-Czekaj
-[s before notifying (to avoid duplications)]
-s przed powiadomieniem (øeby uniknπÊ duplikatÛw)
-[Don't notify on protocol connection]
-Nie powiadamiaj przy ≥πczeniu z sieciπ
-[ Protocols ]
- Protoko≥y 
-[Enable tracking for these protocols:]
-W≥πcz úledzenie dla tych protoko≥Ûw:
-[ Log to file ]
- Zapisuj do pliku 
-[Filename:]
-Nazwa pliku:
-[Log to History]
-Zapisuj do historii
-[Log to File]
-Zapisuj do pliku
-[Notify using Popups]
-Powiadamiaj uøywajπc popupÛw
-[Notify using Sounds]
-Powiadamiaj uøywajπc düwiÍkÛw
-[Notify using Speak plugin]
-Powiadamiaj uøywajπc wtyczki Speak
-[Ignore %s changes]
-Ignoruj zmiany %s
-[Log %s changes]
-Pokazuj zmiany %s
-[Don't log %s changes]
-Nie pokazuj zmian %s
-[Notify %s changes]
-Powiadamiaj o zmianach %s
-[Don't notify %s changes]
-Nie powiadamiaj o zmianie %s
-[%s change]
-Zmiana %s
-[%s removal]
-UsuniÍcie %s
-[X-Status]
-xStatus
-[Listening]
-UtwÛr
-
-;============================================================
 ;  File: historypp.dll
 ;  Module: History++ (Unicode + ANSI)
 ;  Versions: 1.5.1.4
@@ -5629,1200 +5181,6 @@ OtwÛrz link w nowym oknie
 Idü do Personalizacja -> Czcionki aby zmienic opcje.
 [Searching...]
 Wyszukiwanie...
-
-;============================================================
-;  File: historystats.dll
-;  Module:  History Statistics
-;  Versions: 0.1.5.3
-;============================================================
-["Split" timeline]
-"Split"osi czasu
-["Split" type]
-"Split" typ
-[#{count} contacts]
-#{count} kontaktu
-[#{count} contacts / [First] #{first_time} / [Last] #{last_time}]
-#{count} kontakty / [Pierwsza] #{first_time} / [Ostatnia] #{last_time}
-[#{data} per #{unit}]
-#{data} za #{unit}
-[#{distict_words} distinct]
-#{distict_words} s≥Ûw
-[#{type} for #{data}]
-#{type} dla #{data}
-[#{words} total]
-#{words} wszystkich
-[#{words} total / #{distict_words} distinct]
-#{words} ≥πcznie / #{distict_words} s≥Ûw
-[(default nick)]
-(domyúlny nick)
-[(multiple)]
-(wieloraki)
-[(none)]
-(brak)
-[(nothing)]
-(nic)
-[(unknown)]
-(nieznany)
-[...after date (none=no limit)]
-...po terminie (nic = bez limitu)
-[...before date (none=no limit)]
-...przed datπ (nic = bez limitu)
-[...can be output as: ]
-...moøe byÊ efekt jak:
-[...is less than]
-...jest mniejsza niø
-[...older than (days, 0=no limit)]
-...powyøej (dni, 0 = bez limitu)
-[...on Miranda IM's startup]
-...na starcie Mirandy IM
-[...via Miranda IM's main menu]
-...przez g≥Ûwne menu Mirandy IM
-[...via button "Create statistics" in options]
-...za pomocπ przycisku "StwÛrz statystyki" w opcjach
-[...will be output as: ]
-...bÍdzie efekt jak:
-[AM]
-Rano
-[About sets]
-O zbiorach
-[Absolute]
-Ca≥kowite
-[Absolute in tooltip if average selected and vice versa]
-Ca≥kowicie w podpowiedzi jeúli úrednia stron i vice versa
-[Add column...]
-Dodaj kolumnÍ...
-[Add menu items to contact menu]
-Dodaj element menu do menu kontaktu
-[Add menu items to main menu]
-Dodaj element menu do menu g≥Ûwnego
-[Add set]
-Dodaj zestaw
-[Additional info in tooltip (depends on type)]
-Dodaj info do tooltipa (zaleøy od typu)
-[Align on day boundary]
-Dostosowanie granicy dnia
-[Align on week boundary]
-Dostosowanie granicy tygodnia
-[Characters (all)]
-ZnakÛw (wszystkie)
-[Characters (all, absolute)]
-ZnakÛw (wszystkie, ca≥kowite)
-[Characters (all, average per week)]
-ZnakÛw (wszystkie, úrednio w tygodniu)
-[Characters (all, average)]
-ZnakÛw (wszystkie, úrednie)
-[Characters (in/out ratio)]
-ZnakÛw (przych. / wych. ratio)
-[Characters (incoming)]
-ZnakÛw (rozmowy przychodzπce)
-[Characters (incoming, absolute)]
-ZnakÛw (rozmowy przychodzπce, ca≥kowite)
-[Characters (incoming, average per week)]
-ZnakÛw (rozmowy, úrednio w tygodniu)
-[Characters (incoming, average)]
-ZnakÛw (rozmowy przychodzπce, úrednie)
-[Characters (outgoing)]
-ZnakÛw (wychodzπce)
-[Characters (outgoing, absolute)]
-ZnakÛw (wychodzπcych, ca≥kowite)
-[Characters (outgoing, average per week)]
-ZnakÛw (wychodzπcych, úrednio w tygodniu)
-[Characters (outgoing, average)]
-ZnakÛw (wychodzπcych, úrednie)
-[Chat duration]
-Czas trwania rozmowy
-[Chat duration (average)]
-Czas trwania rozmowy (úrednio)
-[Chat duration (maximum)]
-Czas trwania rozmowy (maksymalny)
-[Chat duration (minimum)]
-Czas trwania rozmowy (minimum)
-[Chat duration (total)]
-Czas trwania rozmowy (≥πcznie)
-[Chat duration (total, hours)]
-Czas trwania rozmowy (≥πcznie godzin)
-[Chat duration type]
-Wpisz czas trwania rozmowy
-[Chats (all)]
-Rozmowy (wszystkie)
-[Chats (all, absolute)]
-Rozmowy (wszystkie, ca≥kowite)
-[Chats (all, average per week)]
-Rozmowy (wszystkie, úrednia w tygodniu)
-[Chats (all, average)]
-Rozmowy (wszystkie, úrednie)
-[Chats (in/out ratio)]
-Rozmowy (przych. / wych. ratio)
-[Chats (incoming)]
-Rozmowy (rozmowy przychodzπce)
-[Chats (incoming, absolute)]
-Rozmowy (rozmowy przychodzπce, ca≥kowite)
-[Chats (incoming, average per week)]
-Rozmowy (rozmowy, úrednio na tydzieÒ)
-[Chats (incoming, average)]
-Rozmowy (rozmowy przychodzπce, úrednie)
-[Chats (outgoing)]
-Rozmowy (wychodzπce)
-[Chats (outgoing, absolute)]
-Rozmowy (wychodzπcych, ca≥kowite)
-[Chats (outgoing, average per week)]
-Rozmowy (wychodzπcych, úrednio na tydzieÒ)
-[Chats (outgoing, average)]
-Rozmowy (wychodzπcych, úrednie)
-[Checkbox]
-Pole
-[Checkbox (checked & disabled)]
-Pole wyboru (sprawdzone i wy≥πczone)
-[Checkbox (checked)]
-Pole wyboru (sprawdzone
-[Checkbox (disabled)]
-Pole wyboru (wy≥πczone)
-[Color words according to in/out ratio]
-Koloruj s≥owa zgodnie z przych. / wych. ratio
-[Column holding a graphical overview of your chatting amount split by day of week or by hour of day. Different chatting amount measures are available.]
-Graficzny podglπd rozmowy w podziale na dni tygodnia lub godziny. RÛønica iloúci rozmÛw jest dostÍpna.
-[Column holding a graphical overview of your chatting behaviour (out, in, total, in/out ratio) from the first to the last day of your history on an daily basis. Multiple days can be grouped. Different chatting behaviour measures are available.]
-Graficzny podglπd rozmowy w podziale na wychodzπce, przyhcodzπce, wszystkie, przych. / wych. ratio. RÛønica iloúci rozmÛw jest dostÍpna.
-[Column settings]
-Ustawienia kolumn
-[Column setup]
-Ustawienia kolumn
-[Column specific settings]
-Specyficzne ustawienia kolumny
-[Columns]
-Kolumny
-[Combo box]
-Pole kombi
-[Combo box (disabled)]
-Pole kombi (wy≥πczone)
-[Configure HistoryStats]
-Konfiguruj HistoryStats
-[Configure statistics...]
-Konfiguruj statystyki...
-[Configure... (main menu)]
-Konfiguruj... (menu g≥Ûwne)
-[Contact filtering]
-Filtrowanie kontaktu
-[Contact filtering and totals]
-Filtrowanie i sumowanie kontaktu
-[Copy history]
-Kopiuj historiÍ
-[Create]
-StwÛrz
-[Create statistics]
-StwÛrz statystyki
-[Create statistics (main menu)]
-StwÛrz statystyki (menu g≥Ûwne)
-[Create statistics (there are warnings)]
-StwÛrz statystyki (z moøliwymi b≥Ídami)
-[Create statistics for meta-contacts and their subcontacts]
-StwÛrz statystyki
-[Create statistics on Miranda IM's startup]
-Tworzenie statystyk na starcie Mirandy IM
-[Created with #{plugin} #{version} on #{date} at #{time}]
-Stworzono przez #{plugin} #{version} dnia #{date} o godzinie #{time} [ Spolszczenie by bunnyhoney:) ]
-[Creating HTML]
-Tworzenie HTML
-[Don't hide menu items for pseudo protocols]
-Nie ukrywaj menu dla pseudo protoko≥Ûw
-[Enforce PNG output, possibly ignoring some column options]
-Egzekwowanie wyjúcia PNG, ewentualnie pomijajπc niektÛre kolumny opcji
-[Exclude]
-Wykluczone
-[Fall back to HTML output, if column options require HTML output]
-PowrÛÊ do wypisania HTML, jeúli opcje kolumny wymaga wyjúcia HTML
-[Generate PNG files to represent graphics]
-Generuj pliki PNG do reprezentowania grafik
-[Generate statistics in background thread with low priority]
-Generuje statystyki w tle z niskim priorytetem
-[Graphics]
-Grafika
-[Hide menu items for protocol...]
-Ukryj menu dla protoko≥u...
-[HistoryStats supports several plugins. Click to hide info...]
-HistoryStats obs≥uguje kilka wtyczek. Kliknij aby ukryÊ info...
-[Hours of day]
-Godziny dnia
-[Integration]
-Integracja
-[Only use HTML to simulate graphics]
-Uøyj tylko HTML do symulacji graficznej
-[Path to browser (leave blank for system default)]
-åcieøka do przeglπdarki (nie wype≥niaÊ w domyúlnych ustawieniach)
-[Prefer HTML output over PNG output, if available]
-Preferuj wyjúcie HTML nad wyjúcie PNG, jeúli jest dostÍpne
-[Provided features:]
-Za≥oøone funkcje:
-[Put menu items into submenu]
-UmieúÊ element menu w podmenu
-[Radio button]
-Przycisk radio
-[Radio button (checked & disabled)]
-Przycisk radio (sprawdzone i wy≥πczone)
-[Radio button (checked)]
-Przycisk radio (sprawdzone)
-[Radio button (disabled)]
-Przycisk radio (wy≥πczone)
-[Rank]
-Nr.
-[Ratio total/distinct words]
-Zestawienie wszystkich / wyraünych s≥Ûw
-[Reading database]
-Czytanie bazy danych
-[Remove contacts with empty history]
-UsuÒ kontakty z pustπ historiπ rozmÛw
-[Remove contacts with only incoming chats]
-UsuÒ kontakty tylko z rozmowami przychodzπcymi
-[Remove contacts with only outgoing chats]
-UsuÒ kontakty tylko z rozmowami wychodzπcymi
-[Remove only if contact never answered]
-UsuÒ tylko wtedy, gdy kontakt nie odpowiedzia≥
-[Remove only if you never answered]
-UsuÒ tylko wtedy, gdy nigdy nie odpowiedzia≥
-[Removing contacts]
-UsÛwanie kontaktÛw
-[Repeat header every n contacts (0=don't repeat)]
-Powtarzaj cyklicznie n kontaktÛw (0 = nie powtarzaj) 
-[Set mode:]
-Ustaw tryb:
-[Set name:]
-Ustaw nazwÍ:
-[Sets:]
-Okreúl:
-[Setting ignored due to PNG output.]
-Ustawienie ignorowanie ze wzglÍdu na PNG.
-[Show additional column info...]
-Pokaø dodatkowe informacje kolumny ...
-[Show bar graph for chat duration type]
-Pokaø wykres s≥upkowy dla czasu trwania rozmÛw
-[Show countact count for omitted/totals (tooltip)]
-Pokaø liczby kontaktu dla pominiÍtych / wszystkich (tooltip)
-[Show separate counts for incoming/outgoing]
-Pokaø oddzielone liczby dla przych. / wych.
-[Show statistics]
-Pokaø statystyki
-[Show statistics (main menu)]
-Pokaø statystyki (g≥Ûwne menu)
-[Show sum of incoming and outgoing]
-Pokaø sumÍ przyhcodzπcych i wychodzπcych
-[Show tooltips with detailed information in column titles]
-Pokazuj podpowiedzi ze szczegÛ≥owymi informacjami w tytule kolumny
-[Show warnings...]
-Pokaø b≥Ídy...
-[Some files were temporarily stored in another location to avoid overwriting already existing files. If you always want to overwrite existing files there is an option for this.]
-NiektÛre pliki sπ tymczasowo przechowywane w innej lokalizacji w celu unikniÍcia nadpisania juø istniejπcych plikÛw. Jeúli zawsze chcesz zastπpiÊ istniejπce pliki nie ma opcji do tego.
-[Sorting]
-Sortowanie
-[Sorting contacts]
-Sortowanie kontaktÛw
-[Statistics for #{nick}]
-Statystyki dla wszystkich kontaktÛw
-[Statistics for #{nick} - HistoryStats]
-Statystyki dla wszystkich kontaktÛw - HistoryStats
-[Strip BBCode tags from messages]
-PomiÒ tagi BBCode w wiadomoúciach
-[Strip raw RTF control sequences from message]
-PomiÒ surowy RTF sekwencji w wiadomoúciach
-[Subfolder for additional files]
-Podfolder dla dodatkowych plikÛw
-[Substitute variables in output file name and subfolder for additional files]
-Zastepowanie zmiennych w nazwie pliku i podfolder dla dodatkowych plikÛw
-[Successfully read #{success} events of which #{fail_add} couldn't be added to the target history. #{fail} events couldn't be read from the source history.]
-Pomyúlnie przeczytano zdarzenia #{scuccess},#{fail_add} ktÛre nie mogπ byÊ dodawane do historii docelowych
-[Supported plugins (double-click to learn more):]
-Obs≥ugiwane wtyczki (kliknij dwukrotnie, aby dowiedzieÊ siÍ wiÍcej):
-[Total word count]
-Ca≥kowita liczba s≥Ûw
-[Totals]
-Wszystkich
-[week]
-tydzieÒ
-[outgoing characters]
-wychodzπcych znakÛw
-[outgoing chats]
-rozmowy wychodzπce
-[outgoing messages]
-wiadomoúci wychodzπcych
-[pm]
-popo≥udniu
-[all characters]
-wszystkich znakÛw
-[all chats]
-wszystkich rozmÛw
-[all messages]
-wszystkich wiadomoúci
-[am]
-rano
-[in/out ratio of characters]
-zestawienie przych. / wych. znakÛw
-[in/out ratio of chats]
-zestawienie przych. / wych. rozmÛw
-[in/out ratio of messages]
-zestawienie przych. / wych. wiadomoúci
-[incoming characters]
-przychodzπce znaki
-[incoming chats]
-przychodzπce rozmowy
-[You can't access the options of HistoryStats as long as the stand-alone configuration dialog of HistoryStats is open. Please close the stand-alone dialog before opening the options dialog of Miranda IM to see the options of HistoryStats here.\r\n\r\nNote that the options offered by both dialogs are the same.]
-Nie moøna przejúÊ do okna konfiguracji HistoryStats tak d≥ugo jak opcje dialogowe Mirandy IM sπ otwarte. ProszÍ zamknπÊ okno dialogowe opcje i sprÛbowaÊ ponownie.\r\n\r\nTa moøliwoúÊ daje takie same opcje jak w oknie dialogowym Mirandy IM.
-[You can't access the stand-alone configuration dialog of HistoryStats as long as the options dialog of Miranda IM is open. Please close the options dialog and try again.\r\n\r\nNote that the options offered by both dialogs are the same.]
-Nie moøna przejúÊ do okna konfiguracji HistoryStats tak d≥ugo jak opcje dialogowe Mirandy IM sπ otwarte. ProszÍ zamknπÊ okno dialogowe opcje i sprÛbowaÊ ponownie.\r\n\r\nTa moøliwoúÊ daje takie same opcje jak w oknie dialogowym Mirandy IM.
-[You have unsaved settings. Do you want to save before running HistoryStats?]
-Ustawienia nie zosta≥y zapisane. Czy chcesz zapisaÊ przed uruchomieniem HistoryStats?
-[You're going to copy the complete history of #{source_name} (#{source_proto}) to #{target_name} (#{target_proto}). Afterwards, the target history will contain entries from both histories. There is no way to revert this operation. Be careful! This is a rather big operation and has the potential to damage your database. Be sure to have a backup of this database before performing this operation.\r\n\r\nAre you sure you would like to continue?]
-Masz zamiar skopiowaÊ ca≥π historiÍ #{source_name} (#{source_proto}) do #{target_name} (#{target_proto}). Skopiowana historia moøe zawieraÊ wpisy z historii. Nie ma moøliwoúci cofniÍcia tej operacji. Uwaøaj! Jest to doúÊ duøa operacja i moøe przyczyniÊ siÍ do uszkodzenia bazy danych. Upewnij siÍ, øe masz kopiÍ zapasowπ bazy danych przed wykonaniem tej operacji.\r\n\r\nCzy na pewno chcesz kontynuowaÊ?
-[Weeks]
-Tygodni
-[Word count]
-Licznik s≥Ûw
-[Word count for each word (tooltip)]
-Liczba s≥Ûw w zestawieniu do kaødego s≥owa (tooltip)
-[Word count type]
-Typ liczby s≥Ûw
-[Word delimiting characters]
-S≥owo wyznaczajπce znaki
-[Words]
-S≥owa
-[Words type]
-Typ s≥Ûw
-[Writing omitted contacts]
-Pisanie pominiÍtych kontaktÛw
-[Writing totals]
-Pisanie wszystkiego
-[URLs (all)]
-Linki (wszystkie)
-[URLs (incoming)]
-Linki (przychodzπce)
-[URLs (outgoing)]
-Linki (wychodzπce)
-[Unexcluded contacts]
-Wy≥πczone kontakty
-[Units per bar]
-Jednostek na s≥upek
-[Units per block]
-Jednostek na blok
-[Units per day]
-Jednostek na dzieÒ
-[Units per month (30 days)]
-Jednostek na miesiπÊ (30 dni)
-[Units per week]
-Jednostek na tydzieÒ
-[Use meta-contact's history and its subcontacts' histories]
-Uøyj historii metakontaktÛw i ich historii subkontaktÛw
-[Use only meta-contact's history]
-Uøyj tylko historii metakontaktÛw
-[Use only subcontacts' histories (for one meta-contact)]
-Uøyj tylko historii subkontaktÛw (dla jednego metakontaktu)
-[Use this plugin if you'd like to be automatically notified when a new version of HistoryStats is published. This plugin can install the updated version, too. As always, be sure to use a recent version though this shouldn't be a big problem with this plugin.]
-Uøyj tego pluginu jeúli chcesz byÊ automatycznie powiadamiany gdy zostanie opublikowana nowa wersja HistoryStats. Plugin moøna zainstalowaÊ w zaktualizowanej wersji. Jak zawsze nazleøy uøywaÊ najnowszej wersji pluginu choÊ nie powinna ona powodowaÊ b≥ÍdÛw.
-[Use this plugin if you'd like to customize most of the icons HistoryStats' user interface. Please be sure to use version 0.0.1.0 or above. Otherwise HistoryStats won't show up in IcoLib's options. If you're running Miranda IM 0.7.0 alpha #3 or above you don't need a separate plugin for this.]
-Uøyj tego pluginu jeúli chcesz dostosowaÊ wiÍkszoúÊ ikon interfejsu HistoryStats. Upewnij siÍ aby czy posiadasz wersjÍ 0.0.1.0 lub nowszπ. W innym przypadku HistoryStats nie pokaøe opcji IcoLib. Jeúli uøywasz Mirandy IM 0.7.0 alpha #3 lub wyøej nie potrzebujesz juø dodatkowego pluginu
-[Then sort by]
-Sortuj wg
-[There are some potential conflicts in your settings. However, this is only a warning and can in general be ignored. The details:]
-Istnieje kilka potencjalnych konfliktÛw w ustawieniach. Jednak jest to tylko ostrzeøenie i moøe w ogÛle byÊ ignorowane. SzczegÛ≥y:
-[Time a chat session must last to be counted (seconds)]
-Czas sesji rozmowy musi trwaÊ aby by≥ zaliczony (w sekundach)
-[Time between two chat sessions (seconds)]
-Czas pomiÍdzy dwoma rozmowami (w sekundach)
-[Time of first message to/from contact]
-Czas pierwszej wiadomoúci do / od kontaktu
-[Time of last message to/from contact]
-Czas ostatniej wiadomoúci do / od kontaktu
-[Timeline]
-Harmonogram
-[Timeline for #{data}]
-Harmonogram dla #{data}
-[Title (default if empty)]
-Tytu≥ (domyúlnie pusty)
-[Total (sum of all chats)]
-£πcznie (suma wszystkich rozmÛw)
-[Total chat duration]
-Ca≥kowity czas rozmowy
-[Total words]
-£πcznie s≥Ûw
-[Transforming data]
-Przekszta≥canie danych
-[Treat meta-contacts and subcontacts as normal contacts]
-Traktuj metakontakty i subkontakty jako normalny kontakt
-[PM]
-Popo≥udniu
-[PNG, ignoring some sttings]
-PNG, ignorowanie niektÛrych ustawieÒ
-[Paste history...]
-Wklej historiÍ...
-[Percentage in bar graph]
-Procentowe w wykresie s≥upkowym
-[Percentage in tooltip]
-Procentowe w tooltipie
-[Plugin/extension name:]
-Plugini / nazwa rozszerzenia:
-[Postcollecting column data]
-Postcollecting danych kolumny
-[Precollecting column data]
-Precollecting danych kolumny
-[Table header]
-Nag≥Ûwek tabeli
-[The following files could not be written because files with the same names already existed. Please decide whether to overwrite the existing or to discard the generated files.]
-Poniøszy plik nie moøe byÊ zapisany, poniewaø plik o takiej samej nazwie juø istnieje. ZastanÛw siÍ, czy zastπpiÊ istniejπcy lub usunπÊ generowany plik.
-[The following information are only relevant if your already use MetaContacts. In case you do please use version 0.9.10.6 or above.\r\n\r\nHistoryStats perfectly integrates with MetaContacts and is able to collect the data from the meta-contact as well as from the subcontacts. It is able to intelligently merge all subcontacts histories and more. You can configure MetContacts integration in the "Input" options.]
-NastÍpujπce informacje sπ w≥aúciwe tylko wtedy, jeúli uøywasz metakontaktÛw. W przypadku, gdy nie naleøy uøywaÊ w wersji 0.9.10.6 lub nowszej. \r\n\r\nHistoryStats doskonale integruje siÍ z metakontakami i jest w stanie zbieraÊ dane z metakontaktÛw, jak rÛwnieø z subkontaktÛw. Jest w stanie inteligentnie ≥πczyÊ historiÍ wszystkich subkontaktÛw i wiÍcej. Moøesz skonfigurowaÊ integracjÍ metakontaktÛw w opcjach.
-[The selected set is in use by at least one other column. If you remove it it won't be available to all other columns that use it. Are you sure you want to remove the set?]
-Wybrany zestaw jest uøywany przez co najmniej jednπ kolumnÍ. Jeúli usuniesz bÍdzie dostÍpna dla innych kolumn. Czy napewno chcesz usunπc ten zestaw?
-[The statistics can't be found. Either you never created them or the last created statistics were moved to a different location and can't be found anymore.]
-Nie moøna znaleüÊ statystyk. Statystyki nie zosta≥y stworzone lub zosta≥y przeniesione do innej lokalizacji.
-[Output file]
-Wyjúciowe pliki
-[Output files and folders]
-Wyjúciowe pliki i foldery
-[Output header]
-Nag≥Ûwek wyjúciowy
-[Output settings]
-Ustawienia wyjúciowe
-[Overwrite existing]
-Zastπp istniejπcy
-[Own nick for statistics]
-Nick dla w≥asnych statystyk
-[HistoryStats supports several plugins. Click to learn more...]
-HistoryStats obs≥uguje kilka wtyczek. Kliknij aby pokazaÊ info ...
-[History interpretation]
-Interpretacja historii
-[Minimum time to assume when calculating average (days)]
-Minimalny czas do przyjÍcia przy obliczaniu úredniej (dni)
-[Ignore all contacts with protocol...]
-Ignoruj wszystkie kontakty z protoko≥u...
-[Merge contacts with same name]
-Scal kontakty o tej samej nazwie
-[Only merge if contacts are in the same group]
-Scal tylko jeúli kontakty sπ w tej samej grupie
-[Duplicate detection when reading merged contacts]
-Wykrywanie zduplikowanych kontaktÛw
-[Merge events (strict)]
-Scal zdarzenia (úciúle)
-[Merge events (tolerant)]
-Scal zdarzenia (tolerancyjnie)
-[Don't merge events]
-Nie scalaj zdarzeÒ
-[Message filtering]
-Filtrowanie wiadomoúci
-[Ignore messages...]
-Ignoruj wiadomoúci...
-[Limit number of contacts in statistics]
-Limit kontatkÛw w statystykach
-[Criteria]
-Kryteria
-[Omit contacts that didn't produce a certain amount of data]
-PomiÒ kontakty ktÛre nie wytworzy≥y okreúlonej iloúci danych
-[Omit if]
-PomiÒ jeúli
-[Omit contacts that were inactive for some time]
-PomiÒ kontakty, ktÛre by≥y nieaktywne przez pewien czas
-[Maximum inactivity time (days)]
-Maksymalny czasz bezczynnoúci (dni)
-[Omit all contacts not in "Top n"]
-PomiÒ wszystkie kontakty ktÛre nie sπ "Top n"
-[Include omitted contacts in totals]
-W≥πcz sumy pominiÍtych kontaktÛw
-[Include totals in statistics]
-W≥πcz sumy w statystykach
-[Include totals of omitted contacts in additional row]
-W≥πcz sumy pominiÍtych kontaktÛw w dodatkowym wierszu
-[Only show if a custom title was entered or if titles are not verbose]
-Pokaø tylko jeúli wpisany niestandardowy tytu≥ lub tytu≥y nie sπ pe≥ne
-[Finally sort by]
-KoÒcowe sortowanie wg
-[First sort by]
-Sortowanie wg
-[Descending]
-Malejπco
-[Ascending]
-Rosnπco
-[HTML file generation]
-Generowanie pliku HTML
-[Output additional files to subfolder]
-Dodatkowe wyjúcie pliku do subfolderu
-[Auto open statistics already existing files (dangerous!)]
-Automatycznie otwieraj statystyki z juø instejπcych plikÛw (niebezpieczne!)
-[Auto open statistics after begin generated...]
-Automatycznie otwÛrz statystyki po rozpoczÍciu generowania...
-[Hide additional column info...]
-Ukryj dodatkowe info kolumn...
-[For this config the selected column...]
-W tej konfiguracji zaznaczona kolumna...
-[General column settings]
-G≥Ûwne ustawiania kolumn
-[Number of contacts in "Top n"]
-Liczba kontaktÛw w "Top n"
-[Icons Library Manager]
-Manager Ikon
-[Ignore words longer than (chars, 0=no limit)]
-Ignoruj s≥owa d≥uøsze niø (znakÛw, 0 = bez limitu)
-[Ignore words shorter than (chars)]
-Ignoruj s≥owa krÛtsze niø (znakÛw)
-[In/out]
-Przych. / Wych.
-[In/out details (tooltip)]
-Detale przych. / wych. (tooltip)
-[In/out graph]
-Wykres przych. / wych.
-[Incoming URLs]
-Przychodzπce linki
-[Incoming characters]
-Przyhcodzπce znaki
-[Incoming chats]
-Przychodzπce rozmowy
-[Incoming files]
-Przychodzπce pliki
-[incoming messages]
-przychodzπcych wiadomoúci
-[Initializing]
-Inicjalizacja
-[Input settings]
-Ustawienia wejúciowe
-[First/last message time (tooltip)]
-Pierwszy / ostatni czas wiadomoúci (tooltip)
-[Events to count]
-Zdarzenia do sumowania
-[Data source]
-èrÛd≥o danych
-[Characters]
-ZnakÛw
-[Display as]
-Pokaø jako
-[Average]
-årednia
-[Extract words from]
-Forma s≥Ûw
-[All messages]
-Wszystkich wiadomoúci
-[Files (all)]
-Pliki (wszystkie)
-[Files (incoming)]
-Pliki (przychodzπce)
-[Files (outgoing)]
-Pliki (wychodzπce)
-[Filter URLs/e-mail addresses]
-Filtruj linki / e-maile
-[Filter messages containing]
-Filtruj wiadomoúci zawierajπce
-[Filter messages ending with]
-Filtruj wiadomoúci zakoÒczone
-[Filter messages matching]
-Filtruj wiadomoúci pasujπce
-[Filter messages starting with]
-Filtruj wiadomoúci zaczynajπce siÍ na literÍ
-[Filter words containing]
-Filtruj s≥owa zawierajπce
-[Filter words ending with]
-Filtruj s≥owa zakoÒczone
-[Filter words matching]
-Filtruj s≥owa pasujπce
-[Filter words starting with]
-Filtruj s≥owa zaczynajπce siÍ na literÍ
-[Filter words/messages]
-Filtruj s≥owa / wiadomoúci
-[Distinct words]
-OdrÛønienie s≥Ûw
-[Omitted]
-PominiÍte
-[Omitted contacts]
-PominiÍte kontakty
-[Options tree]
-Drzewko opcji
-[Other information in tooltip]
-Inne informacje w tooltipie
-[Outgoing URLs]
-Wychodzπce linki
-[Outgoing characters]
-Wychodzπce znaki
-[Outgoing chats]
-Wychodzπce rozmowy
-[Outgoing files]
-Wychodzπce pliki
-[Delete column]
-UsuÒ kolumnÍ
-[Detailed description:]
-SzczegÛ≥owy opis:
-[HistoryStats - Add column]
-HistoryStats - Dodaj kolumnÍ
-[HistoryStats - Confirm]
-HistoryStats - Zatwierdz
-[HistoryStats - Conflicting files]
-HistoryStats - Sporne pliki
-[HistoryStats - Error]
-HistoryStats - B≥πd
-[HistoryStats - Filter words/messages]
-HistoryStats - Filtr s≥Ûw / wiadomoúci
-[HistoryStats - Information]
-HistoryStats - Informacje
-[HistoryStats - Plugin/extension info]
-HistoryStats - Plugin / przed≥uøone info
-[HistoryStats - Warning]
-HistoryStats - Ostrzeøenie
-[HistoryStats - Working...]
-HistoryStats - PracujÍ...
-[Details for every bar (tooltip)]
-SzczegÛ≥y dla kaødego s≥upka (tooltip)
-[Graph alignment]
-Dostosowanie wykresu
-[Custom (for experts only)]
-W≥asne (tylko dla ekspertÛw)
-[Days of week]
-Dni w tygodniu
-[Bar unit]
-Jednostka s≥upkÛw
-[Bars per graph]
-S≥upkÛw na wykresie
-[Discard generated]
-OdrzuÊ generowane
-[Already existing file]
-Plik juø istnieje
-[month3:Apr]
-month3:Kwi
-[month3:Aug]
-month3:Sie
-[month3:Dec]
-month3:Gru
-[month3:Feb]
-month3:Lut
-[month3:Jan]
-month3:Sty
-[month3:Jul]
-month3:Lip
-[month3:Jun]
-month3:Cze
-[month3:Mar]
-month3:Mar
-[month3:May]
-month3:Maj
-[month3:Nov]
-month3:Lis
-[month3:Oct]
-month3:Paü
-[month3:Sep]
-month3:Wrz
-[monthF:April]
-monthF:KwiecieÒ
-[monthF:August]
-monthF:SierpieÒ
-[monthF:December]
-monthF:GrudzieÒ
-[monthF:February]
-monthF:Luty
-[monthF:January]
-monthF:StyczeÒ
-[monthF:July]
-monthF:Lipiec
-[monthF:June]
-monthF:Czerwiec
-[monthF:March]
-monthF:Marzec
-[monthF:May]
-monthF:Maj
-[monthF:November]
-monthF:Listopad
-[monthF:October]
-monthF:Paüdziernik
-[monthF:September]
-monthF:WrzesieÒ
-[wday2:Fr]
-wday2:Pi
-[wday2:Mo]
-wday2:Po
-[wday2:Sa]
-wday2:So
-[wday2:Su]
-wday2:Ni
-[wday2:Th]
-wday2:Cz
-[wday2:Tu]
-wday2:Wt
-[wday2:We]
-wday2:år
-[wday3:Fri]
-wday3:Piπ
-[wday3:Mon]
-wday3:Pon
-[wday3:Sat]
-wday3:Sob
-[wday3:Sun]
-wday3:Nie
-[wday3:Thu]
-wday3:Czw
-[wday3:Tue]
-wday3:Wto
-[wday3:Wed]
-wday3:åro
-[wdayF:Friday]
-wdayF:Piπtek
-[wdayF:Monday]
-wdayF:Poniedzia≥ek
-[wdayF:Saturday]
-wdayF:Sobota
-[wdayF:Sunday]
-wdayF:Niedziela
-[wdayF:Thursday]
-wdayF:Czwartek
-[wdayF:Tuesday]
-wdayF:Wtorek
-[wdayF:Wednesday]
-wdayF:åroda
-[[Avg] #{amount}]
-[årednio] #{amount}
-[[First] #{first_time} / [Last] #{last_time}]
-[Pierwsza] #{first_time} / [Ostatnia] #{last_time}
-[[Max] #{amount}]
-[Maksymalnie] #{amount}
-[[Min] #{amount}]
-[Minimalnie] #{amount}
-[[Out] #{out_amount} (#{out_ratio}) / [In] #{in_amount} (#{in_ratio})]
-[Wychodzπcych] #{out_amount} (#{out_ratio}) / [Przychodzπcych] #{in_amount} (#{in_ratio})
-[[Out] #{out_amount} / [In] #{in_amount}]
-[Wychodzπcych] #{out_amount} / [Przychodzπcych] #{in_amount}
-[[Out] #{out_words} / [In] #{in_words}]
-[Wychodzπcych] #{out_words} / [Przychodzπcych] #{in_words}
-[[Sum] #{amount}]
-[Suma] #{amount}
-[Maximum]
-Maksymalnie
-[Maximum chat duration]
-Maksymalny czas rozmowy
-[Messages (all)]
-Wiadomoúci (wszystkie)
-[Messages (all, absolute)]
-Wiadomoúci (wszystkie, ca≥kowite)
-[Messages (all, average per week)]
-Wiadomoúci (wszystkie, úrednia na tydzieÒ)
-[Messages (all, average)]
-Wiadomoúci (wszystkie, úrednie)
-[Messages (in/out ratio)]
-Wiadomoúci (zestawienie przych. / wych.)
-[Messages (incoming)]
-Wiadomoúci (przychodzπce)
-[Messages (incoming, absolute)]
-Wiadomoúci (przychodzπce, ca≥kowite)
-[Messages (incoming, average per week)]
-Wiadomoúci (przychodzπce, úrednia na tydzieÒ)
-[Messages (incoming, average)]
-Wiadomoúci (przychodzπce, 
-[Messages (outgoing)]
-Wiadomoúci (wychodzπce)
-[Messages (outgoing, absolute)]
-Wiadomoúci (wychodzπce, ca≥kowite)
-[Messages (outgoing, average per week)]
-Wiadomoúci (wychodzπce, úrednia na tydzieÒ)
-[Messages (outgoing, average)]
-Wiadomoúci (wychodzπce, úrednia)
-[Minimum]
-Minimalny
-[Minimum chat duration]
-Minimalny czas rozmowy
-[Most common words]
-NajczÍstsze s≥owa
-[Nothing (column will be skipped)]
-Nic (kolumna zostanie pominiÍta)
-[Number of columns to group]
-Liczba kolumn do grupy
-[Number of days to group]
-Liczba dni do grupy
-[Number of weeks to group]
-Liczba tygodni do grupy
-[Number of words]
-Liczba s≥Ûw
-[Number of words to skip in output]
-Liczba s≥Ûw pominiÍtych w wychodzπcych
-[[#{date}] #{out_amount} (out) / #{in_amount} (in)]
-[#{date}] #{out_amount} (wychodzπcych) / #{in_amount} (przychodzπcych)
-[[#{start_date}-#{end_date}] #{out_amount} (out) / #{in_amount} (in)]
-[#{start_date}-#{end_date}] #{out_amount} (wychodzπcych) / #{in_amount} (przychodzπcych)
-[Drop everything older than (days, 0=no limit)]
-OdrzuÊ starsze niø (dni, 0 = bez limitu)
-[Easily exchange icons in HistoryStats' user interface]
-£atwo zmieniaÊ ikony w interfejsie uøytkownika HistoryStats
-[Edit control]
-Edycja kontroli
-[Edit control (disabled)]
-Edycja kontroli (wy≥πczone)
-[Exclude contacts]
-Wyklucz kontakty
-[Exclude from statistics]
-Wy≥πczenie z statystyki
-[Excluded contacts]
-Wy≥πczone kontakty
-[Fallback to HTML due to setting.]
-Przenieú siÍ na HTML, ze wzglÍdu na ustawienie.
-[Folder (disabled)]
-Folder (wy≥πczone)
-[Global settings]
-Globalne ustawienia
-[HTML as fallback]
-HTML jako awaryjne
-[HTML output unsupported.]
-Nieobs≥ugiwane wyjúcia HTML.
-[History read mode for MetaContacts]
-Tryb odczytu historii dla metakontaktÛw
-[HistoryStats couldn't create a required folder (#{folder}).\r\n\r\nPlease check the output filename and additional output folder you have chosen for correctness. Additionally, please check whether the file, folder, and/or disk is writable.]
-HistoryStats nie moøe utworzyÊ wymaganego folderu (#{folder}).\r\n\r\nProszÍ sprawdziÊ nazwÍ pliku wyjúciowego i dodatkowo jego poprawnoúci. Dodatkowo naleøy sprawdziÊ czy plik, folder i/lub dysk nie jest zape≥niony
-[HistoryStats couldn't open the output file (#{file}) for write access.\r\n\r\nPlease check the output filename you have chosen for correctness. Additionally, please check whether the file, folder, and/or disk is writable.]
-HistoryStats nie moøe otworzyÊ pliku wyjúciowego (#{file}) dla zapisu. \r\n\r\nProszÍ sprawdziÊ nazwÍ pliku wyjúciowego. Dodatkowo naleøy sprawdziÊ czy plik, folder i/lub dysk nie jest zape≥niony.
-[HistoryStats is already generating statistics. Please wait for the already running process to be finished or cancel it and try again.]
-HistoryStats juø generuje statystyki. ProszÍ poczekaÊ na zakoÒczenie procesu lub anulowanie i ponownπ prÛbÍ.
-[Hours of day timeline]
-Godziny dnia osi czasu
-[Least common words]
-Najmniej popularne s≥owa
-[Limiting number of contacts]
-Ograniczenie liczby kontaktÛw
-[Longest words]
-Najd≥uøsze s≥owa
-[Make column titles more verbose]
-Dodaj do tytu≥u kolumny wiÍcej szczegÛ≥Ûw
-[Column holding the amount of time you have chatted with the given contact.]
-Graficzny podglπd akcji w czasie rozmowy z danym kontaktem.
-[Column holding the contact list's group name the contact is in.]
-Graficzny podglπd nazwy grupy listy kontaktÛw.
-[Column holding the contact's nick and first/last message time if selected.]
-Graficzny podglπd nicku kontaktu i pierwszego / ostatniego czasu wiadomoúci jeúli wybrany.
-[Column holding the contact's placing according to your sorting criteria.]
-Graficzny podglπd kontaktu w zaleønoúci od kryteriÛw stortowania.
-[Column holding the contact's protocol.]
-Graficzny podglπd kontaktÛw protoko≥u.
-[Column holding the number of (distinct) words used by you, by your contact, or by both of you.]
-Graficzny podglπd liczb (wyraünych) s≥Ûw uøytych przez uøytkownika, przez kontakt lub obu. 
-[Date/time picker]
-Data / czas wyboru
-[Date/time picker (disabled)]
-Data / czas wyboru (wy≥πczone)
-[Days of week timeline]
-Dni tygodnia osi czasu
-[Define...]
-Definiuj...
-[Delete set]
-UsuÒ zestaw
-[Details for every bar (tooltip) are only available with HTML output.]
-SzczegÛ≥y dotyczπce kaødego s≥upka (tooltip) sπ dostÍpne tylko w HTML.
-[Distinct word count]
-Wyraüna liczba s≥Ûw
-[Column holding in/out bar graphs for characters, messages or chats.]
-Graficzny podglπd przych. / wych. s≥upkÛw dla znakÛw, wiadomoúci lub rozmÛw.
-[Column holding event counts for incoming, outgoing or total number of files or URLs.]
-Graficzny podglπd liczby zdarzeÒ dla przychodzπcych, wychodzπcych lub ≥aczna liczba plikÛw lub linkÛw.
-[Column holding counts for incoming, outgoing or total characters, messages or chats. This column can display absolute and average values.]
-Graficzny podglπd liczby dla przyhcodzπcych, wychodzπcych lub ≥πcznie znakÛw, wiadomoúci lub rozmÛw. Ta kolumna moøe wyúwietlaÊ ca≥kowite i úrednie wartoúci.
-[Column holding a list of a specified number of most/least common words or longest words used by you, by your contact, or by both of you.]
-Graficzny podglπd listy dla secyficznej liczby najbardziej / najmniej popularnych s≥Ûw lub najd≥uøsze s≥owa uøyte przez uøytkownika, kontakt lub obu.
-[Column holding a graphical overview of your chatting behaviour (out, in, total, in/out ratio) from the first to the last day of your history. The information is spread along x- and y-axis and the values are encoded as color values. Different chatting behaviour measures are available.]
-Graficzny podglπd zachowaÒ w rozmowie (wychodzπce, przychodzπce, wszystkie, zestawienie przych. / wych.) od pierwszego do ostatniego dnia historii. Informacje znajdujπ siÍ wzd≥uø osi x i osi y i wartoúci sπ zakodowane jako wartoúci kolorÛw. årodki zachowania rÛønych rozmÛw sπ dostÍpne.
-
-;============================================================
-;  File: IgnoreState.dll
-;  Module: Show ignore state of contact in contacts list
-;  Versions: 0.0.3.0
-;============================================================
-[Plugin settings]
-Ustawienia
-[Use]
-Uøyj
-[slot to draw the icon]
-slotu do wyúwietlenia ikony
-[Warning: classic contact list plugin doesn`t have ability to use extraicons]
-Uwaga: plugin klasycznej listy kontaktÛw nie wspiera extraicons
-[Filtered events:]
-Filtrowane zdarzenia:
-[Use Miranda ignore settings for All Contacts]
-Uøyj opcji ignorowania Mirandy dla wszystkich kontaktÛw
-[Extraicons plugin is used, use Contact list > Extraicons for customize.]
-Plugin Extraicons jest w≥πczony, dostosuj opcje wyúwietlania ikon w Lista kontaktÛw -> Dodatkowe ikony.
-[Full Ignore]
-Pe≥ne ignorowanie
-[Partial Ignore]
-CzÍúciowe ignorowanie
-[Message Ignore]
-Ignorowanie wiadomoúci
-
-;============================================================
-;  File: import_sa.dll
-;  Module: SecuredMMAP Import contacts and messages
-;  Versions: 0.10.0.1
-;============================================================
-[Failed to add %s contact %s]
-Nie uda≥o siÍ dodaÊ %s kontaktu %s
-[Added %s contact %s, '%s']
-Dodano %s kontakt %s, "%s"
-[Added %s contact %s]
-Dodano %s kontakt %s
-[Ignored event from/to self]
-Ignorowanie zdarzenia od/do siebie
-[Added contact %u (found in history)]
-Dodano kontakt %u (znaleziony w historii)
-[Skipping duplicate group %s.]
-Pomijanie zduplikowanej grupy %s.
-[The given file does not exist. Please check that you have entered the name correctly.]
-Dany plik nie istnieje. Sprawdü czy wpisa≥eú poprawnie jego nazwÍ.
-[Mirabilis Import]
-Import Mirabilis
-[Mirabilis ICQ database indexes (*.idx)\0*.IDX\0All Files (*)\0*\0]
-Indeksty bazy Mirabilis ICQ (*.idx)\0*.IDX\0Wszystkie pliki (*)\0*\0
-[This looks like a ICQ 99a database.]
-To wyglπda na bazÍ danych ICQ 99a.
-[This looks like a ICQ 99b database.]
-To wyglπda na bazÍ danych ICQ 99b.
-[This looks like a ICQ 2000a database.]
-To wyglπda na bazÍ danych ICQ 2000a.
-[This looks like a ICQ 2000b database.]
-To wyglπda na bazÍ danych ICQ 2000b.
-[This looks like a ICQ 2001, 2002 or 2003a database.]
-To wyglπda na bazÍ danych ICQ 2001, 2002 lub 2003a.
-[This database is an unknown version.]
-Ta baza danych ma nieznanπ wersjÍ.
-[Attempting to parse sub list at offset %u.]
-PrÛba sparsowania sub listy w offsecie %u.
-[Error: Unknown sub list type (%u) at offset %u.]
-B≥πd: Nieznany typ sub listy (%u) w offsecie %u.
-[Attempting to parse property block at offset %u.]
-PrÛba sparsowania bloku w≥aúciwoúci w offsecie %u.
-[Error: Unknown datatype (%u) at offset %u.]
-B≥πd: Nieznany tyo danych (%u) w offsecie %u.
-[Attempting to parse property block list at offset %u.]
-PrÛba sparsowania listy w≥aúciwoúci bloku w offsecie %u.
-[Failed to read Property block.]
-Nie uda≥o siÍ odczytaÊ bloku w≥asnoúci.
-[Attempting to parse wav file list at offset %u.]
-PrÛba sparsowania listy pliku wav w offsecie %u.
-[Attempting to parse group list, type %d.]
-PrÛba parsowania listy grup, typ %d.
-[ERROR: Failed to find owner information.]
-B≥πd: Nie uda≥o siÍ znaleüÊ posiadacza informacji
-[ERROR: Failed to find contact list groups.]
-B£•D: Nie znaleziono grup listy kontaktÛw.
-[Importing groups.]
-Import grup.
-[This database does not contain any contact groups.]
-Ta baza danych nie zawiera øadnych grup ani kontaktÛw. 
-[ERROR: An error occurred while importing groups.]
-B≥πd: Wystπpi≥ b≥πd podczas importowania grup.
-[All groups may not have not been imported.]
-Moøliwe, øe nie wszystkie grupy zosta≥y zaimportowane.
-[Skipping inactive contact.]
-Pomijanie nieaktywnego kontaktu.
-[Skipping contact with unsupported version.]
-Pomijanie kontaktu z niewspieranπ wersjπ.
-[Skipping unrecognizable contact.]
-Pomijanie nierozpoznanego kontaktu.
-[Skipping non-ICQ contact %u.]
-Pomijanie kontaktu innej sieci niø ICQ %u.
-[Skipping duplicate ICQ contact %u, %s]
-Pomijanie zduplikowanego kontaktu ICQ %u, %s
-[Skipping duplicate ICQ contact %u]
-Pomijanie zduplikowanego kontaktu ICQ %u
-[Ignoring msg from user %d at ofs %d.]
-Ignorowanie wiad. od uøytkownika %d w ofs %d.
-[Ignoring msg with no text from %d ofs %d.]
-Ignorowanie pustej wiad. z %d ofs %d.
-[Skipping event with ID < 2001.]
-Pomijanie zdarzeÒ z ID < 2001.
-[Skipping 'Request for auth.' msg, ofs %d.]
-Pomijanie wiad. "Proúba o autoryzacjÍ", ofs %d.
-[Skipping 'Auth. denied' msg, ofs %d.]
-Pomiajnie wiad. "Autoryzacja odrzucona", ofs %d. 
-[Skipping 'Auth. accepted' msg, ofs %d.]
-Pomijanie wiad. "Autoryzacja zaakceptowana", ofs %d.
-[Skipping 'System message', ofs %d.]
-Pomijanie wiad. "WiadomoúÊ systemowa", ofs %d.
-[Skipping 'You were added' msg, ofs %d.]
-Pomijanie wiad. "Zosta≥eú dodany", ofs %d.
-[Skipping 'WWW Pager' msg, ofs %d.]
-Pomijanie wiad. "Pager WWW", ofs %d.
-[Skipping 'Email Express' msg, ofs %d.]
-Pomijanie wiad. "Email Express", ofs %d.
-[Skipping 'Contact' msg, ofs %d.]
-Pomijanie wiad. "Kontakt", ofs %d.
-[Skipping 'Phonecall' msg (?), ofs %d.]
-Pomijanie wiad. (?) "Rozmowa telefoniczna", ofs %d.
-[Skipping 'SMS' msg (?), ofs %d.]
-Pomijanie wiad. (?) "SMS" , ofs %d.
-[Skipping 29 msg, ofs %d.]
-Pomijanie wiad. 29, ofs %d.
-[Skipping 'Birthday' msg (?), ofs %d.]
-Pomijanie wiad. "Urodziny", ofs %d.
-[Skipping 32 msg, ofs %d.]
-Pomijanie wiad. 32, ofs %d.
-[Skipping unknown 0xE0 subtype (%d), ofs %d.]
-Pomijanie nieznanego podtypu 0xE0 (%d), ofs %d.
-[Skipping 'Chat request' msg, ofs %d.]
-Pomijanie wiad. "Proúba o czat", ofs %d.
-[Skipping file message offset %d.]
-Pomijanie offsetu %d wiadomoúci o pliku.
-[Skipping message type 0xE3 at offset %d.]
-Pomijanie typu 0xE3 wiadomoúci w offsecie %d.
-[Skipping unknown event type %d at offset %d.]
-Pomijanie nieznanego typu %d zdarzenia w offsecie %d.
-[Failed to open index file]
-Nie uda≥o siÍ otworzyÊ pliku indeksu
-[Import aborted]
-Import przerwany
-[Failed to open database file]
-Nie uda≥o siÍ otworzyÊ pliku bazy danych
-[Group import was not completed.]
-Import grup nie zosta≥ zakoÒczony.
-[ICQ plugin is not installed.]
-Wtyczka ICQ nie jest zainstalowana.
-[No ICQ contacts or history will be imported.]
-Øadne kontakty ani historia z ICQ nie zostanπ zaimportowane.
-[Importing contacts]
-Import kontaktÛw
-[Importing history (this may take a while)]
-Import historii (to moøe chwilÍ zajπÊ)
-[Import completed in %d seconds.]
-ZakoÒczono import po %d sekundach.
-[Added %d contacts and %d groups.]
-Dodano %d kontaktÛw i %d grup.
-[Added %d events and skipped %d duplicates.]
-Dodano %d zdarzeÒ i pominiÍto %d duplikatÛw.
-[Miranda Import]
-Import Mirandy
-[Miranda IM database (*.dat)\0*.DAT\0All Files (*)\0*\0]
-Baza Mirandy IM (*.dat)\0*.DAT\0Wszystkie pliki (*)\0*\0
-[Signature mismatch]
-NiezgodnoúÊ sygnatury
-[This looks like a Miranda database, version 0.1.0.0 or above.]
-To wyglπda na bazÍ danych Mirandy, wersjÍ 0.1.0.0 nowszπ.
-[Version mismatch]
-NiezgodnoúÊ wersji
-[Failed to find setting %s]
-Nie znaleziono ustawienia %s
-[Failed to find module %s]
-Nie znaleziono modu≥u %s
-[DEBUG: Deleted setting treated as 0-length setting]
-DEBUG: UsuniÍte ustawienie traktowane jako ustawienie o d≥ugoúci 0
-[ERROR: Faulty settings chain]
-B£•D: Z≥y ≥aÒcuch ustawieÒ
-[Found module: %s]
-Znaleziono modu≥: %s
-[Ignoring module: %s]
-Ignorowanie modu≥u: %s
-[Warning: Found module with no name]
-Ostrzerzenie: Znaleziono modu≥ bez nazwy
-[Ignoring setting: %s]
-Ignorowanie ustawienia: %s
-[Getting type %u value for setting: %s]
-Pobieranie wartoúci typu %u dla ustawienia: %s
-[Modulename corrupted]
-B≥πd nazwy modu≥u
-[No owner found.]
-Nie znaleziono w≥aúciciela.
-[Skipping contact with no protocol]
-Pomijanie kontaktu bez przypisanego protoko≥u
-[Skipping contact, %s not installed.]
-Pomijanie kontaktu, %s jest niezainstalowane.
-[Skipping non-IM contact (%s)]
-Pomijanie kontaktÛw nie-IM (%s)
-[Skipping %s contact, ID not found]
-Pomijanie kontaktu %s, nie znaleziono ID
-[Skipping duplicate %s contact %s]
-Pomijanie zduplikowanego %s contaktu %s
-[Unknown error while adding %s contact %s]
-Wystπpi≥ nieznany b≥πd w czasie dodawania %s kontaktu %s
-[Failed to add message]
-Nie uda≥o siÍ dodaÊ wiadomoúci
-[Could not open file.]
-Nie uda≥o siÍ otworzyÊ pliku.
-[This is not a valid Miranda IM database.]
-To nie jest prawid≥owa baza danych Mirandy IM.
-[Read failure.]
-Nieudany odczyt.
-[Number of contacts in database: %d]
-Liczba kontaktÛw w bazie: %d
-[Group import failed.]
-Nie uda≥o siÍ zaimportowaÊ grupy
-[Importing contacts.]
-Import kontaktÛw.
-[ERROR: Chain broken, no valid contact at %d]
-B£•D: Uszkodzony ≥aÒcuch, brak poprawnego kontaktu w %d
-[Skipping new contacts import.]
-Pomijanie importu nowych kontaktÛw.
-[Importing system history.]
-Import historii systemowej.
-[Skipping system history import.]
-Pomijanie importu historii systemowej.
-[Importing history.]
-Import historii.
-[Skipping history import.]
-Pomijanie imoprtowania historii.
-[Added %d contacts, %d groups and %d events.]
-Dodano %d kontaktÛw, %d grup i %d zdarzenia. 
-[Skipped %d contacts.]
-PominiÍto %d kontaktÛw.
-[Skipped %d duplicates and %d filtered events.]
-PominiÍto %d duplikatÛw i %d przefiltrowanych zdarzeÒ.
-[Skipped %d duplicates.]
-PominiÍto %d duplikatÛw.
-[Choose how you would like to import:]
-Wybierz skπd chcesz importowaÊ:
-[From a Miranda IM database.]
-Z bazy danych Mirandy IM.
-[From a Mirabilis ICQ (99a - 2003a) database.]
-Z bazy danych Mirabilis ICQ (99a - 2003a).
-[Use the Find/Add contacts tool to populate my contact list.]
-Uøyj "Znajdü/Dodaj kontakty" aby dodaÊ kontakty.
-[This wizard will help you import contacts and message history from Mirabilis ICQ, as well as letting you import from other Miranda IM profiles.]
-Ten kreator pomoøe ci zaimportowaÊ kontakty i historiÍ rozmÛw z Mirabilis ICQ podobnie jak z innych profili Mirany.
-[Click "Next" to choose the information you wish to import, or click "Cancel" to exit the wizard and continue using Miranda.]
-Kliknij "Dalej" øeby wybraÊ informacje, ktÛre chcesz zaimportowaÊ lub "Anuluj" øeby opuúciÊ kreator i dalej uøywaÊ Mirandy.
-[It is recommended that you create a backup of your current Miranda profile before importing.]
-Zaleca siÍ utworzenie kopii obecnego profilu Mirandy przed kontynuacjπ importowania.
-[If you wish to import more information, click "Next" to return to the start of the wizard, otherwise click "Finish" to start using Miranda.]
-Jeúli chcesz zaimportowaÊ wiÍcej informacji kliknij "Dalej" øeby wrÛciÊ na poczπtek kreatora. W innym razie kliknij "ZakoÒcz" øeby zaczπÊ uøywaÊ Mirandy.
-[You will probably never need to use this wizard again, so you can save memory by not loading it every time you start Miranda. This will mean that the import menu item will no longer be available.]
-Prawdopodobnie nie bÍdziesz wiÍcej potrzebowa≥ tego kreatora, wiÍc moøesz zaoszczÍdziÊ pamiÍÊ nie wczytujπc go przy starcie Mirandy. To oznacza, øe menu importowania nie bÍdzie d≥uøej dostÍpne.
-[Do not load the import plugin at startup again]
-Nie ≥aduj wtyczki importowania przy starcie
-[Import completed]
-Import zakoÒczony
-[If at a future date you wish to use the wizard again, you can make it load again by going to the Plugins section of the Options dialog box.]
-Jeúli w przysz≥oúci bÍdziesz chcia≥ uøyÊ kreatora ponownie, moøesz go w≥πczyÊ w sekcji Wtyczki w oknie ustawieÒ.
-[Miranda has found Mirabilis ICQ databases corresponding to the following ICQ numbers. Please select the one you wish to import, or click "Other Database" if your database is not listed.]
-Miranda znalaz≥a bazy danych Mirabilis ICQ odpowiadajπce nastepujπcym numerom ICQ. Wybierz tÍ, ktÛrπ chcesz zaimportowaÊ lub kliknij na "Inna baza danych" jeúli nie ma jej na liúcie.
-[&Other Database...]
-Inna baza danych...
-[&Filename:]
-Nazwa pliku
-[Warning: Mirabilis ICQ running. Import may not be reliable.]
-Ostrzeøenie: Mirabilis ICQ jest uruchomione. Import moøe siÍ nie udaÊ.
-[Miranda has found Miranda profiles with the following names. Please select the one you wish to import, or click "Other Profile" if your profile is not listed, or if the list is empty.]
-Miranda znalaz≥a swoje profile z nastÍpujπcymi nazwami. Wybierz te, ktÛre chcesz zaimportowaÊ lub kliknij "Inne profile" jeúli twÛj profil nie jest na liúcie albo lista jest pusta.
-[&Other Profile...]
-Inne profile
-[Now importing...]
-Teraz importuje...
-[Import Information Wizard]
-Kreator importowania informacji
-[Import all contacts and all messages]
-Importuj wszystkie kontakty i wiadomoúci
-[Only import contacts]
-Importuj tylko kontakty
-[Custom import]
-Importuj niestandardowe
-[Select this if you want to import as much data as possible. This is the recommended option.]
-Wybierz tπ opcjÍ jeúli chcesz zaimportowaÊ tyle danych ile to moøliwe. Ta opcja jest zalecana.
-[Select this if you want to import contacts but don't want to import any message history.]
-Wybierz tπ opcjÍ jeúli chcesz zaimportowaÊ kontakty, ale bez wiadomoúci i historii.
-[Select this if you want to cutomize what to import.]
-Wybierz tπ opcjÍ jeúli chcesz ustaliÊ informacje do zaimportowania.
-[Miranda has now been configured to automatically download the contacts in your server-side contact list the next time you connect to ICQ.]
-Miranda od nastÍpnego po≥πczenia z sieciπ ICQ bÍdzie automatycznie pobiera≥a kontakty z listy na serwerze.
-[If you want to change the way Miranda handles server-side contacts at a later time, you can do this in the "ICQ Contacts" page in the Miranda options.]
-Jeúli pÛüniej bÍdziesz chcia≥ zmieniÊ sposÛb traktowania kontaktÛw po stronie serwera przez MirandÍ, moøesz to zrobiÊ na stronie "Kontakty ICQ" w opcjach Mirandy.
-[New contacts && groups]
-Nowe kontakty i grupy
-[System history]
-Historia systemowa
-[Select items to import:]
-Wybierz rzeczy do importu:
-[Only since:]
-Tylko od:
-[Finish]
-ZakoÒcz
 
 ;============================================================
 ;  File: jabber.dll
@@ -8853,156 +7211,6 @@ Brak proxy Bytestream
 Proxy Bytestream nie jest dostÍpne
 
 ;============================================================
-;  File: lastseen.dll
-;  Module: Last seen
-;  Versions: 5.0.4.7
-;============================================================
-[When a contact returns after ]
-Gdy wraca kontakt po
-[Show a popup]
-Pokaø popup
-[Add an event (flashing icon) to the contact]
-Dodaj wydarzenie (migajπca ikona) do kontaktu
-[On event action (double click) or popup click:]
-W akcji zdarzenie (podwÛjny klik) lub kliknij popup:
-[Open User Details]
-OtwÛrz szczegÛ≥y uøytkownika
-[Open message window]
-OtwÛrz okno wiadomoúci
-[Return notification]
-PowrÛt powiadomienia
-[When a contact is absent for]
-Gdy kontakt jest nieobecny
-[Long time no see]
-Dawno siÍ nie widzieliúmy
-[or comes online for the first time]
-lub przyszed≥ jako dostÍpny pierwszy raz
-[Enable \"Miss you\" feature]
-W≥πcz funkcjÍ \"TÍsknie\"
-[Hide when no messages for]
-Ukryj kiedy brak wiadomoúci dla
-[Use Popups colors]
-Uøyj kolorÛw popup
-[Use Windows colors]
-Uøyj kolorÛw windows
-[Last seen online:]
-Ostatnio widziany:
-[Last input message:]
-Ostatnia wiadomoúÊ:
-[Custom absence period:]
-Czas nieobecnoúci:
-[Never hide this contact]
-Nigdy nie ukrywaj kontaktu
-[Enable Miss You]
-W≥πcz TÍsknie
-[Notify always]
-Zawsze powiadom
-[weeks]
-tygodni
-[months]
-miesiÍcy
-[years]
-lat
-[Delete the contact]
-UsuÒ kontakt
-
-;============================================================
-;  File: listeningtoW.dll
-;  Module: ListeningTo
-;  Versions: 0.3.0.0
-;============================================================
-[Send to all protocols]
-Wyúlij do wszystkich protoko≥Ûw
-[Toggle send to all protocols]
-Prze≥πcz wysy≥anie do wszystkich protoko≥Ûw
-[Don't send to any protocols]
-Nie wysy≥aj do øadnego protoko≥u
-[Send to %s]
-Wyúlij do %s
-[Enable/Disable sending Listening To info (to all protocols)]
-W≥πcz/Wy≥πcz wysy≥anie info o s≥uchanym utworze (wszystkie protoko≥y)
-[Listening info]
-Info o utworze
-[Players]
-Odtwarzacze
-[ Listening to information ]
- Informacje o s≥uchanym utworze
-[Enable sending listening information to contacts:]
-W≥πcz wysy≥anie informacji do kontaktÛw o:
-[You also have to enable it per protocol in the main menu]
-Musisz to takøe w≥πczyÊ dla kaødego protoko≥u w g≥Ûwnym menu
-[For protocols that don't support listening to but support XStatus:]
-Dla protoko≥Ûw, ktÛre nie obs≥ugujπ info o utworze, ale obs≥ugujπ xStatus:
-[Set XStatus to Music and show listening info]
-Ustaw xStatus na Muzyka i pokaø info o utworze
-[If other XStatus is not set, set XStatus to Music and show listening info]
-Jeúli nie ma innego xSatusu, ustaw go na MuzykÍ i pokaø info o utworze
-[If XStatus is Music, show listening info]
-Jeúli xStatus to Muzyka pokaø info o utworze
-[ Contacts ]
- Kontakty
-[Apply template for info from contacts (overrides contacts template)]
-Zastosuj szablon dla info od kontaktÛw (nadpisuje szablon kontaktÛw)
-[Show advanced icon in slot]
-Pokaø ikonÍ w slocie
-[Get info from WATrack plugin]
-Pobierz informacje z wtyczki WATrack
-[Get info from these players:]
-Pobierz informacje z tych odtwarzaczy:
-[foobar2000 (need to install the plugin manually)]
-foobar2000 (musisz rÍcznie zainstalowaÊ wtyczkÍ)
-[Other players]
-Inne odtwarzacze
-[Ask for new info every]
-Sprawdzaj co
-[Allow auto-loading plugins into players (affect players with *)]
-ZezwÛl na automatyczne wczytywanie wtyczek do odtwarzacza (dotyczy tych z *)
-[ Listening to ]
- Informacje o s≥uchanym utworze
-[Variables:]
-Zmienne:
-[%artist% - Artist name]
-%artist% - Wykonawca
-[%album% - Album name]
-%album% - Nazwa albumu
-[%title% - Song title]
-%title% - Tytu≥
-[%track% - Track number]
-%track% - Numer úcieøki
-[%year% - Song year]
-%year% - Rok wydania
-[%genre% - Song genre]
-%genre% - gatunek
-[%length% - Song length]
-%length% - d≥ugoúÊ úcieøki
-[%player% - Player name]
-%player% - nazwa odtwarzacza
-[%type% - Media type (Music, Radio, Video, etc)]
-%type% - typ (muzyka, radio, video, itp.)
-[When variable not found, use:]
-Jeúli nie znajdziesz zmiennej uøyj:
-[Other Variables:]
-Inne zmienne:
-[%listening% - Listening to info (as set above)]
-%listening% - Informacje o s≥uchanym utworze (jak wyøej)
-[When nothing is playing, replace %listening% with:]
-Jeúli niczego nie s≥ucham zamieÒ %listening% na:
-[Music]
-Muzyka
-[Message:]
-WiadomoúÊ:
-[No player found at this time]
-Odtwarzacz nie gra w tym czasie
-[Music Info from ]
-Info muzyczne z 
-[ListeningTo (Unicode)]
-Informacje o utworze
-[<Nothing>]
-<Brak>
-[<Unknown>]
-<Nieznany>
-
-;============================================================
 ;  File: mContacts.dll
 ;  Module: mContacts
 ;  Versions: 0.0.1.1
@@ -9791,522 +7999,6 @@ ZmieÒ kodowanie
 1 miesiπc
 
 ;============================================================
-;  File: pingproto.dll
-;  Module: Ping Protocol
-;  Versions: 1.0.0.3
-;============================================================
-[PING]
-Ping
-[Enable All Pings]
-W≥πcz Wszystkie Pingi
-[Disable All Pings]
-Wy≥πcz Wszystkie Pingi
-[Graph]
-Wykres
-[Edit...]
-Edycja...
-[Install the FontService plugin to change the font and font colour.]
-Zainstaluj wtyczkÍ FontService aby zmieniÊ czcionkÍ i jej kolor. 
-[PING Destinations]
-Pinguj adresy docelowe
-[Ping Plugin]
-Wtyczka Ping
-[Ping labelled IP addresses or domain names.]
-Pinguj zaznaczone adresy IP lub nazwy domen.
-[Failed to initialize. Plugin disabled.]
-Nieudana inicjalizacja. Wtyczka wy≥πczona.
-[Delay between pings (secs):]
-OpÛünienie pomiÍdzy pingami (sek):
-[Ping timeout (secs):]
-Timeout pingu (sek):
-[Log to File]
-Log do Pliku
-[Log Filename:]
-Nazwa pliku Logu
-[Reply]
-Odpowiedü
-[Block Repetitions]
-Blokuj powtÛrzenia
-[View Log]
-Pokaø Log
-[Interface]
-Interfejs
-[Do not change icon when testing]
-Nie zmieniaj ikony podczas testu
-[Use the Customize/Fonts options to change text size and colour.]
-Rozmiar i kolor tekstu zmienisz w Personalizacja -> Czcionka.
-[Row height:]
-WysokoúÊ wiersza:
-[Repeats for success/failure:]
-Odpowiedzi na sukces/poraøkÍ:
-[Attach to contact list]
-Za≥πcz do listy kontaktÛw
-[Ping Destinations]
-Cele pingÛw
-[Ping Destination]
-Cel pingÛw
-[Address:]
-Adres:
-[Control Protocol:]
-Kontroluj protokÛ≥:
-[Set my status to:]
-Ustaw mÛj status na:
-[On success, if my status is:]
-Po sukcesie, jeúli mÛj status to:
-[Execute the following command on double-click:]
-Wykonaj tÍ komendÍ po podwÛjnym klikniÍciu:
-[Disable all pings]
-Wy≥πcz wszystkie pingi:
-[Enable all pings]
-W≥πcz wszystkie pingi
-[Options...]
-Opcje...
-[Destinations...]
-Cele...
-[Show/Hide &Ping Window]
-Pokaø/Ukryj okno Pingu
-[Host %s requests that you reduce the amount of traffic you are sending.]
-Host %s prosi o zredukowanie produkowanego przez ciebie ruchu.
-[Unknown Address]
-Nieznany Adres
-[Responding]
-Odpowiadaj
-[Not Responding]
-Nie Odpowiadaj
-[Testing]
-Testowanie
-
-;============================================================
-;  File: pmanager.dll
-;  Module: Miranda IM Profile Changer by Roman Gemini
-;  Versions: 0.0.0.3
-;============================================================
-[Closes Miranda IM and starts Profile Manager]
-Zamknij MirandÍ IM i uruchom managera profili
-[&Change Profile...]
-&ZmieÒ profil...
-[Are you sure want to change your profile? Miranda will be closed.]
-Jesteú pewien øe chcesz zmieniÊ profil? Miranda zostanie zamkniÍta.
-[&Show Profile Manager...]
-&Pokaø managera profili...
-[Starts Profile Manager]
-Uruchom managera profili
-[Profile manager]
-Manager profili
-[Load profile]
-Uruchom profil
-[Change profile]
-ZmieÒ profil
-
-;============================================================
-;  File: popup.dll
-;  Module: Popup Interoperability, PopUp Plus
-;  Versions: 2.1.1.5
-;============================================================
-[Time]
-Pokaø zegar
-[non rectangular]
-nie prostokπtne
-[Process Clist events]
-Przetwarzanie zdarzeÒ listy
-[Classes]
-Klasy
-[Fade in/out]
-Rozjaúnianie
-[Square fading]
-BlakniÍcie
-[Default Timeout]
-Czas oczekiwania
-[Slide Popup]
-Wysuwany Popup
-[Effect:]
-Efekt:
-[Time (in)..:]
-Czas (wych)..:
-[Time (out):]
-Czas (przych)..:
-[Simplified clock]
-Uproszczony zegar
-[Show time]
-Pokaø czas
-[* Popup Classic]
-* Klasyczny popup
-[PopUp 1.0.1.x compatability]
-KompatybilnoúÊ z wersjπ 1.0.1.x
-[You need the png2dib plugin v. 0.1.3.x or later to process PNG images]
-Potrzebujesz wtyczki png2dib 0.1.3.x lub nowszej øeby wyúwietlaÊ obrazki PNG
-[Provides a common popup interface for different plugins.]
-Wyúwietla taki sam interfejs popupÛw dla rÛønych wtyczek.
-[Test preview for the popup plugin settings. This is supposed to be long enough not to fit in one line...]
-Test ustawieÒ wtyczki Popup. Ten tekst powinien byÊ wystarczajπco d≥ugi øeby nie zmieúciÊ siÍ w jednej linii...
-[This is a notification message]
-To jest wiadomoúÊ powiadamiajπca
-[This is a warning message]
-To jest wiadomoúÊ ostrzegawcza
-[This is an error message]
-To jest wiadomoúÊ z b≥Ídem
-[Popups are enabled]
-Popupy sπ w≥πczone
-[Popups are disabled]
-Popupy sπ wy≥πczone
-[Refresh skin list]
-Odúwieø listÍ skÛrek
-[Popup Placement]
-Rozmieszczenie
-[Popup History]
-Historia popupÛw
-[Notification]
-Powiadamianie
-[Skins]
-SkÛrki
-[Toggle Popups]
-Prze≥πcz Popupy
-[Enable &popup module]
-W≥πcz Popupy
-[Disable &popup module]
-Wy≥πcz Popupy
-[Error: I could not register the PopUp Window class.\nThe plugin will not operate.]
-B≥πd: Nie moøna zarejestrowaÊ klasy okien popupÛw.\nWtyczka nie bÍdzie dzia≥aÊ.
-[<empty>]
- <pusty>
-[Infinite]
-NieskoÒczone
-[1 second]
-1 sekunda
-[2 seconds]
-2 sekundy
-[3 seconds]
-3 sekundy
-[4 seconds]
-4 sekundy
-[5 seconds]
-5 sekund
-[7 seconds]
-7 sekund
-[10 seconds]
-10 sekund
-[15 seconds]
-15 sekund
-[Popup Area]
-Obszar
-[upper left corner]
-lewy gÛrny rÛg
-[lower left corner]
-lewy dolny rÛg
-[lower right corner]
-prawy dolny rÛg
-[upper right corner]
-prawy gÛrny rÛg
-[vertical]
-pionowe
-[You cannot specify a value lower than %d and higher than %d.]
-Nie moøesz ustawiÊ wartoúci niøszej niø %d ani wyøszej niø %d.
-[Skin preview]
-Podglπd skÛrki
-[Just take a look at this skin... ;)]
-SpÛjrz tylko na tÍ skÛrkÍ... ;)
-[Refresh List]
-Odúwieø listÍ
-[Content && Style]
-ZawartoúÊ i wyglπd
-[Display time]
-Pokaø czas
-[Dynamically resize the popups]
-Automatyczny rozmiar popupÛw
-[Minimum width]
-Min. szerokoúÊ
-[Maximum width]
-Maks. szerokoúÊ
-[Use transparency (Windows 2000+)]
-PrzezroczystoúÊ (Windows 2000+)
-[Popup delay:]
-Pokazuj przez:
-[Default color]
-Domyúlny kolor
-[Default text color]
-Domyúlny kolor tekstu
-[Disable popups in fullscreen mode]
-Wy≥. popupy w trybie pe≥noekranowym
-[Slide popups while reordering]
-Przesuwaj popupy przy reorganizowaniu
-[Do not close hovered popups]
-Nie zamykaj aktywnych popupÛw
-[Infinite popup delay]
-Nie chowaj popupÛw
-[Size && Position]
-Rozmiar i pozycja
-[Draw avatar borders]
-Rysuj obramowanie awatarÛw
-[Round corners by]
-Zaokrπglij rogi o
-[Draw borders for semitransparent avatars too]
-Rysuj obramowanie dla pÛ≥przezroczystych awatarÛw
-[Live Preview]
-Podglπd
-[Debug]
-Analizuj
-[opacity:]
-WidocznoúÊ:
-[You may set up custom fonts and colors in Customize > Fonts section in Miranda IM options.]
-Moøesz ustawiÊ czcionki i kolory w sekcji Personalizacja -> Czcionki opcji Mirandy.
-[Window sliding]
-Wysuwanie okna
-[Reorder Popups]
-Reorganizuj popupy
-[Display time:]
-Pojawianie siÍ:
-[Vanish time:]
-Zanikanie:
-[Opaque popups under cursor]
-Wy≥πcz pod kursorem
-[Layout:]
-U≥oøenie:
-[Multimonitor (98/ME/2000/XP)]
-Multimonitor (98/ME/2000/XP)
-[Start the popups in the monitor with]
-Pokaø popupy na monitorze zawierajπcym
-[Miranda's window]
-Okno Mirandy
-[the active window]
-Aktywne okno
-[Disable when:]
-Wy≥πcz, kiedy:
-[Use advanced text render]
-Zaawansowany rendering tekstu
-[Enable popup history]
-W≥πcz historiÍ popupÛw
-[Store last]
-Trzymaj
-[events]
-zdarzeÒ
-[Use History++ to render log]
-Uøyj wtyczki History++
-[Always (has priority)]
-Zawsze (ma priorytet)
-[Open history]
-OtwÛrz historiÍ
-[Left Click:]
-Lewy przycisk:
-[Right Click:]
-Prawy przycisk:
-[Background:]
-T≥o:
-[Use Default]
-Uøyj domyúlnych
-[Timeout:]
-Timeout:
-[Interaction]
-Interakcja
-[Display when]
-Wyúwietlaj, kiedy
-[Drop shadow effect (Windows XP+)]
-Rzucaj cieÒ (Windows XP+)
-[* - built-in skins]
-* - wbudowane
-[Never show news]
-Nie pokazuj nowoúci
-[Whole Screen]
-Ca≥y ekran
-[pixel(s)]
-pikseli
-[Spacing:]
-OdstÍp:
-[Go to Customize > Fonts && Colors for fonts and colors options]
-Przejdü do Dostosuj -> Czcionki øeby ustawiÊ czcionki i kolory
-[* Effect:]
-* Efekt:
-[No effect]
-Brak efektu
-[Fading]
-Rozszerzanie
-[Configure popup area]
-PrzestrzeÒ wyúwietlania
-[Draw gradient background]
-Rysuj gradientowe t≥o
-[Flat borders]
-P≥askie obramowanie
-[Enable popup actions]
-W≥πcz akcje popupÛw
-[Popup Actions are those tiny buttons below notification text.]
-Akcje popupÛw to ma≥e przyciski pod tekstem powiadomienia.
-[Common Actions]
-WspÛlne akcje
-[Please choose in what cases default actions should be added:]
-Wybierz w jakich przypadkach powinny zostaÊ dodane wspÛlne akcje:
-[Add info && menu for IM contacts only]
-Dodaj info i menu tylko dla kontaktÛw
-[Add default actions for contacts only]
-Domyúlne akcje tylko dla kontaktÛw
-[Don't close popups on default actions]
-Nie zamykaj popupÛw przy akcjach
-[Use large icons]
-Uøyj duøych ikon
-[Popup actions will be displayed as:]
-Akcje popupÛw bÍdπ wyúwietlane jako:
-[Icons and labels below text]
-Ikony i etykiety pod tekstem
-[Icons on the left]
-Ikony po lewej
-[Icons aligned to the right]
-Ikony przesuniÍte w prawo
-[Show Actions: (requires apply)]
-Pokaø akcje (wymaga zaakceptowania):
-[Action]
-Akcja
-[Add permanently]
-Dodaj na sta≥e
-[Pin popup]
-Przypnij popup
-[User details]
-Dane kontaktu
-[One more action]
-Jeszcze jedna akcja
-[Second test action]
-Druga akcja testowa
-[Test action]
-Akcja testowa
-[Enable this notification]
-W≥πcz to powiadomienie
-[Popup timeout:]
-Czas wyúwietlania:
-[Left click action:]
-Lewy przycisk:
-[Right click action:]
-Prawy przycisk
-[Disable when global status is...]
-Wy≥πcz, kiedy globalny status to...
-[Disable when relevant protocol's status is...]
-Wy≥πcz, jeúli stosowany status protoko≥u to...
-[Colors can be configured in\r\nCustomize > Fonts && Colors]
-Kolory moøna ustawiÊ w\r\nPersonalizacja -> Czcionki.
-[Per-contact settings]
-Osobne ustawienia kontaktÛw
-[Show default]
-Pok. domyúlnie
-[Show always]
-Zawsze pokazuj
-[Ignore fullscreen]
-Ignoruj pe≥. ekran
-[Never show]
-Nie pokazuj
-[Performance && Tweaks]
-WydajnoúÊ
-[Limit window amount to:]
-Ogranicz iloúÊ okien do:
-[Enable Win 9x/Me transparency]
-W≥πcz przezroczystoúÊ Win 9x/ME
-[Enable freeform shadows (XP+)]
-W≥πcz dowolne cieniowanie (XP+)
-[Enable Aero Glass (Vista+)]
-W≥πcz Aero Glass (Vista+)
-[Enable avatar updates]
-W≥πcz aktualizacjÍ awatarÛw
-[Make action icons customizable*]
-MoøliwoúÊ zmiany ikon akcji *
-[Make OK/Cancel icons customizable*]
-MoøliwoúÊ zmiany ikon OK/Anuluj *
-[Global Status]
-Globalny status
-[Protocol Status]
-Status protoko≥u
-[Test effect]
-Test efektu
-[Show avatars]
-Pokaø awatar
-[Add info & menu for IM contacts only]
-Dodaj info i menu tylko dla kontaktÛw IM
-[Align avatar to right]
-WyrÛwnaj awatar do prawej
-[Show colours]
-Pokaø kolory
-[Black background]
-Czarne t≥o
-[Use different colours]
-Uøyj rÛønych kolorÛw
-[Show clock]
-Pokaø zegar
-[Avatar to right]
-Awatar do prawej
-[Draw clock background]
-Rysuj t≥o zegara
-[Show Avatar]
-Pokaø awatar
-[Reverse gradient background]
-OdwrÛÊ t≥o gradientowe
-[Block]
-Blokuj
-[Favourite]
-Ulubiony
-[Show in Fullscreen]
-Pokaø w pe≥nym ekranie
-[Favorite Contact]
-Ulubione kontakty
-[Blocked Contact]
-Kontakt zablokowany
-[Show Default]
-Pokaø domyúlnie
-[Error (colors only)]
-B≥πd (tylko kolor)
-[Notification (colors only)]
-Akcja (tylko kolor)
-[Warning (colors only)]
-Ostrzeøenie (tylko kolor)
-[Popup Plus]
-Popupy
-[Contact Menu]
-Menu kontaktu
-[Popup Mode: Auto]
-Tryb Popup: Auto
-[Popup Mode: Favourtite]
-Tryb Popup: Ulubione
-[Popup Mode: Ignore fullscreen]
-Tryb Popup: Ignoruj pe≥ny ekran
-[Popup Mode: Block contact]
-Tryb Popup: Zablokuj kontakt
-[Quick Reply]
-Szybka odpowiedü
-[Add Contact Permanently]
-Dodaj pernamentnie kontakt
-[Pin Popup]
-Przypnij popup
-[Pinned Popup]
-PrzypiÍty popup
-[Popup Group]
-Grupa popupÛw
-[Clock]
-Zegar
-[Gender]
-P≥eÊ
-[IP internal]
-IP WewnÍtrzne
-[Preset items:]
-SkonfigÛrowane elementy:
-[With "favourite" overlay]
-Nak≥adka "ulubione"
-[With "fullscreen" overlay]
-Nak≥adka na "pe≥nym ekranie"
-[Mouse Actions Overwrite]
-Akcje myszy
-[LeftButton]
-Lewy
-[RightButton]
-Prawy
-[MiddleButton]
-årodkowy
-[no overwrite]
-Nic nie rÛb
-[Quick reply]
-Szybka odpowiedü
-[Desktop]
-Pulipit
-[Distance between popups]
-Odleg≥oúÊ pomiÍdzy popupami
-[Send Message]
-Wyúlij wiadomoúÊ
-[Dismiss Popup]
-OdrzuÊ popup
-
-;============================================================
 ;  File: quicksearch.dll
 ;  Module: Quick Search
 ;  Versions: 1.4.1.18
@@ -10839,46 +8531,6 @@ Serwer nie odpowiada.
 Wyúlij zrzut ekranu
 
 ;============================================================
-;  File: shlext.dll
-;  Module: shlext - Shell context menus for transfers
-;  Versions: 2.0.1.2
-;============================================================
-[Problem, registration missing/deleted.]
-Problem, rejestracja uszkodzona/cofniÍta.
-[Successfully created shell registration.]
-Rejestracja shell ukoÒczona pomyúlnie.
-[Not Approved]
-Nie zatwierdzono
-[Approved]
-Zatwierdzono
-[Are you sure? this will remove all the settings stored in your database and all registry entries created for shlext to work with Explorer]
-Czy jestes pewien? ustawienia zostanπ usuniÍte z bazy danych i Explorera
-[Disable/Remove shlext]
-Wy≥πcz/unuÒ shlext
-[Shell context menus]
-Integracja z pow≥okπ
-[Display contacts in their assigned groups (if any)]
-Pokaø kontakty w grupach
-[Only if/when the contact list is using them]
-Tylko jeøeli uøywa ich lista kontaktÛw
-[Display hidden, ignored or temporary contacts]
-Ukryj tymczasowe kontakty
-[Do not display the profile name in use]
-Nie pokazuj nazwy profilu
-[Contact Status]
-Status kontaktu
-[Show contacts that you have set privacy rules for]
-Pokaø kontakty z listy prywatnoúci
-[Do not show status icons in menus]
-Nie pokazuj ikon w menu
-[Do not show contacts that are offline, even if my contact list does]
-Nie pokazuj kontaktÛw roz≥πczonych
-[Click 'n' send support from Explorer/Common dialogs/Desktop, Right click on a file/folder to be presented with all your Miranda contact lists and then select the profile/contact you want to send to. Built on 2003/07/02 at 16:59:47]
-Kliknij i wyúlij potwierdzenie do Explorera/Pulpitu, prawy klik na pliku/folderze prezentuje liste kontaktÛw Mirandy i wybÛr profilu/kontaktu do ktorego chcesz go wys≥aÊ.
-[Shell context menus for transfers]
-Menu kontekstowe transferÛw shell
-
-;============================================================
 ;  File: simplear.dll
 ;  Module: Simple Auto Replier
 ;  Versions: 2.0.2.2
@@ -11071,882 +8723,6 @@ OtwÛrz link z opisu
 OtwÛrz link z opisu
 [Go to URL in Away Message]
 OtwÛrz link z opisu
-
-;============================================================
-;  File: sipw.dll
-;  Module: SIP Protocol
-;  Versions: 0.1.4
-;============================================================
-[Domain:]
-Domena:
-[Registrar:]
-Rejestruj:
-[Proxy Server:]
-Serwer proxy:
-[STUN Server:]
-Serwer STUN:
-[Publish status]
-Publikuj status
-[Send keep-alives]
-Wyúlij utrzymywanie aktywnoúci
-
-;============================================================
-;  File: smcn.dll, smcnotify.dll
-;  Module: StatusMessageChangeNotify
-;  Versions: 0.0.3.21
-;============================================================
-[Toggle status notification]
-Prze≥πcznik powiadomieÒ statusu
-[Status Message Change Notify]
-Powiadomienie o zmianie opisu
-[Do not log empty status messages]
-Nie powiadamiaj o pustych opisach
-[Disable protocols which you don't wish to be notified for]
-Protoko≥y, dla ktÛrych bÍdzie widoczne powiadomienie
-[Keep history of up to]
-Trzymaj w historii
-[status messages]
-wpisÛw
-[History template]
-Szablon historii
-[Message Window]
-Okno wiadomoúci
-[Clear status messages history for all contacts]
-WyczyúÊ historiÍ opisÛw dla wszystkich kontaktÛw
-[Show status message changes in message window]
-Pokaø zmiany opisÛw w oknie wiadomoúci
-[Message removed]
-UsuniÍcie opisu
-[Message changed]
-Zmiana opisu
-[Logging]
-Dziennik
-[Log template]
-Szablon dziennika
-[You can use %c with log filename to append nicknames]
-Moøesz uøyÊ %c z nazwπ pliku dziennika aby do≥πczyÊ nazwy
-[Show PopUps]
-Pokaz popupy
-[Keep History]
-Zapisuj historiÍ
-[Log To File]
-Zapisuj do pliku
-[Enable PopUps]
-W≥πcz popupy
-[Only if status message has changed]
-Tylko kiedy nastπpi zmiana opisu
-[Ignore empty status messages]
-Ignoruj puste opisy
-[Open contact details]
-OtwÛrz dane kontaktu
-[View status message history]
-Pokaø historiÍ opisÛw
-[User has changed status message]
-Zmiana opisu
-[Go To URL in Status Message]
-OtwÛrz link z opisu
-[List Contacts with Status Message]
-Lista kontaktÛw z opisem
-[Status Message History]
-Historia opisÛw
-[Clear history]
-CzyúÊ historiÍ
-[Enable/Disable popups for this contact]
-W≥πcz/Wy≥πcz popupy dla tego kontaktu
-[Enable/Disable history for this contact]
-W≥πcz/Wy≥πcz historiÍ dla tego kontaktu
-[Enable/Disable logging to file for this contact]
-W≥πcz/Wy≥πcz zapisywanie do pliku dla tego kontaktu
-
-;============================================================
-;  File: SmileyAdd.dll, SmileyAddW.dll
-;  Module: SmileyAdd
-;  Versions: 0.2.3.16
-;============================================================
-[Show Smiley Selection Window]
-Pokaø okno wyboru emotek
-[SmileyAdd HTTP connections]
-Po≥πczenie HTTP SmileyAdd
-[Smiley support for Miranda Instant Messanger]
-Wsparcie dla emotikon w Mirandzie IM
-[Button Smiley]
-Przycisk emotek
-[Assign Smiley Category]
-Przypisz kategoriÍ emotek
-[Smileys]
-Emotikony
-[Smiley Packs]
-Paczka emotek
-[Smiley Categories]
-Kategorie emotikon
-[Specify Smiley Pack for each category]
-Okreúl paczkÍ emotek dla kaødej z kategorii
-[Replace only smileys surrounded by spaces]
-ZamieÒ tylko emotikony oddzielone spacjami
-[Scale smiley to textheight]
-Skaluj emotikony do wysokoúci tekstu
-[Disable custom smileys]
-Wy≥πcz w≥asne emotikony
-[High Quality smiley scaling]
-Skalowanie emot HQ
-[Min smiley height]
-Minimalna wysokoúÊ emotÛw
-[Max "Custom Smiley" height]
-Maksymalna wysokoúÊ emotÛw
-[Smiley Selector]
-Okno wyboru emotikon
-[Surround inserted smiley with spaces]
-Odzielaj wstawione emotikony spacjami
-[Use first smiley for selection size]
-Pierwsza emotka okreúla rozmiar zaznaczenia
-[IEView style window]
-Styl okna jak w IEView
-[Input Area]
-Pole wpisywania
-[Enable Smileys]
-W≥πcz emotikony
-[Don't replace at cursor]
-Nie zamieniaj przy kursorze
-[Built-In Message Dialog Support]
-Wbudowane wsparcie dla okna rozmowy
-[Disable]
-Wy≥πcz
-[Smiley Button]
-Przycisk emotek
-[Max Custom smiley height]
-Maks. wysokoúÊ emotikon
-[There were problems loading smiley pack (it should be corrected).\nSee Network Log for details.]
-Wystπpi≥y problemy z wczytaniem paczki emotikon (powinny juø dzia≥aÊ).\nPo szczegÛ≥y zajrzyj do dziennika.
-[Standard]
-Standardowe
-[Smiley Pack %s not found.\nSelect correct Smiley Pack in the Miranda Options | Customize | Smileys.]
-Paczka emotikon %s nie odnaleziona.\nZaznacz prawid≥owπ paczke emotikon Opcje | Personalizacja | Emotkiony.
-
-;============================================================
-;  File: SMSbox.dll
-;  Module: SMSbox
-;  Versions: 0.1.0.7
-;============================================================
-[Received SMS]
-Otrzymane SMS-y
-[Read Next]
-Czytaj dalej
-[Message received:]
-Otrzymana wiadomoúÊ:
-[Number:]
-Numer:
-[Send SMS]
-Wyúlij SMS
-[Multiple >>]
-Wiele >>
-[Add number to list]
-Dodaj numer do listy
-[Save number]
-Zapisz numer
-[Enter message:]
-Wpisz wiadomoúÊ:
-[Chars:]
-Znaki:
-[SMS Message Didn't Send]
-WiadomoúÊ SMS nie zosta≥a wys≥ana
-[&Try again]
-SprÛbuj ponownie
-[The SMS message send timed out]
-Minπ≥ czas wysy≥ania wiadomoúci SMS
-[SMS Plugin]
-Wtyczka SMS
-[Begining]
-Poczπtek
-[End]
-Koniec
-[Show server notifications:]
-Pokaø powiadomienia serwera:
-[Put signature at the:]
-UmieúÊ podpis:
-[Use Signature?]
-UøyÊ podpisu?
-[Save window position per contact:]
-Zapisz pozycjÍ okna za kontaktem:
-[Auto popup on new message:]
-Auto popup przy nowej wiadomoúci:
-[SMS Message Sent]
-Wys≥ane wiadomoúci SMS
-[Message ID:]
-ID:
-[Source:]
-èrÛd≥o:
-[Network:]
-SieÊ:
-[SMS Messages]
-Wiadomoúci SMS
-[From %s on ICQ:\r\n\r\n]
-Od %s ICQ:\r\n\r\n
-[Received SMS Confirmation]
-Otrzymano potwierdzenie wys≥ania SMS-a
-[SMS message didn't send by ICQ to %s because :\r\n]
-WiadomoúÊ SMS nie zosta≥a wys≥ana przez ICQ do %s, poniewaø:\r\n
-[SMS Confirmation from %s]
-Potwierdzenie SMS od %s
-[SMS Message from %s]
-WiadomoúÊ SMS od %s
-[Incoming SMS Message]
-Przychodzπce wiadomoúci SMS
-[Incoming SMS Confirmation]
-Przychodzπce potwierdzenie SMS
-[Send &SMS...]
-Wyúlij SMS
-[&SMS Message]
-WiadomoúÊ SMS
-[Can't load SMS Plugin, ICQ protocol must be loaded.]
-Nie moøna za≥adowaÊ wtyczki SMS, protokÛ≥ ICQ musi byÊ za≥adowany.
-[SMS Plugin Error]
-B≥πd wtyczki SMS
-[Add Number To The Multiple List]
-Dodaj numer do wielu list
-[Save Number To The User's Details Phonebook]
-Zapisz numer do Ksiπøki tel. w Danych uøytkownika
-[Show/Hide Multiple List]
-Pokaø/Ukryj wiele list
-[Shows How Much Chars You've Typed]
-Pokazuje ile znakÛw zosta≥o wpisanych
-[The SMS message send to %s timed out.]
-Minπ≥ czas wysy≥ania SMS do %s
-[<< Single]
-<< Jedna
-[Message is too long, press OK to continue.]
-WiadomoúÊ jest zbyt d≥uga, naciúnij OK, aby kontynuowaÊ.
-[Error - Message too long]
-B≥πd - Zbyt d≥uga wiadomoúÊ
-[Valid phone numbers are of the form '+(country code)(phone number)'. The contents of the phone number portion is dependent on the national layout of phone numbers, but often omits the leading zero.]
-Prawid≥owe numery majπ formÍ "+(prefiks kraju)(numer telefonu)". ZawartoúÊ numeru telefonu jest zaleøna od narodowego schematu, ale czÍsto pomijane jest zero na poczπtku.
-[Invalid phone number]
-Nieprawid≥owy numer telefonu
-[There must be numbers in the list first.]
-Najpierw numer musi byÊ na liúcie.
-[No Numbers]
-Brak numerÛw
-[Disable notify]
-Wy≥πcz notyfikacjÍ
-[SMSBox Main]
-MÛj SMSBox
-[SMS was sent]
-SMS wys≥any
-[Enable notify]
-W≥πcz notyfikacje
-[Archives]
-Archiwum
-
-;============================================================
-;  File: spamotron.dll
-;  Module: Spam-o-tron plugin
-;  Versions: 0.10.0.1
-;============================================================
-[Enabled accounts:]
-W≥πczone konta:
-[Auto approve on:]
-Zatwierdzanie:
-[Incoming message with any word from list:]
-Wiadomoúci przychodzπce z dowolnego s≥owa z listy:
-[Hide contact until verified]
-Ukryj kontakt do czasu weryfikacji
-[Add permanently to list on verified]
-Dodaj na sta≥e do listy po weryfikacji
-[Log actions to system history]
-Dziennik w historii systemowej
-[Flood protection]
-Ochrona antyspamowa
-[Do not send more than]
-Nie wysy≥aj wiÍcej niø
-[messages to one contact per day]
-wiadomoúci do jednego kontaktu na dzieÒ
-[Do not reply to the same message more than]
-Nie odpowiadaj na tπ samπ wiadomoúÊ wiÍcej niø
-[times a day]
-razy dziennie
-[Do not reply to messages with words in this list:]
-Nie odpowiadaj na wiadomoúci z s≥owami z listy:
-[Mode:]
-Tryb:
-[Simple]
-Prosty
-[Send challenge on incoming message:]
-Wyúlij zapytanie na przychodzπcπ wiadomoúÊ:
-[Responses: (saved in %response%, %response-n% variables)]
-Odpowiedzi: (zapisano zmiennych %response%, %response-n%)]
-[Reply on success:]
-Odpowiedü na sukces:
-[Send challenge on authorization request:]
-Wyúlij zapytanie na pytanie o autoryzacjÍ:
-[Keep blocked messages in contact history]
-Trzymaj blokowane wiadomoúci w historii kontaktu
-[and mark them unread after approval]
-oraz oznacz je nowymi po zatwierdzeniu
-[Learned spam messages:]
-Nauczone wiadomoúci spam:
-[Learned ham messages:]
-Nauczona pamiÍÊ wiadomoúci:
-[Filtering options]
-Opcje filtrowania
-[Do not send challenge request if message score above]
-Nie wysy≥aj zapytania, gdy ratiojest wiÍksze od
-[Auto approve contact if message score below]
-Auto-zatwierdzanie kontaktu, gdy ratio jest wiÍksze od
-[and learn as ham]
-i ucz siÍ z pamiÍci
-[Do not enable any of these options until Spam-o-tron have learned at least 20 of ham and 50 of spam messages.]
-Nie w≥πczaj øadnej z tych opcji Spam-o-trona, gdy nauczono siÍ co najmniej 20 pamiÍci i 50 wiadomoúci spamowych.
-[Learning options]
-Opcje uczenia
-[Auto-learn messages from approved contacts as ham]
-Auto-uczenie siÍ wiadomoúci z zatwierdzonych kontaktÛw pamiÍci
-[Auto-learn messages from contacts if not approved in]
-Auto-uczenie siÍ wiadomoúci jeúli nie zatwierdzone
-[days as spam]
-dni jako spam
-[Auto-learn outgoing messages as ham]
-Auto-uczenie siÍ wychodzπcych wiadomoúci jako pamiÍÊ
-[Learn message:]
-Ucz siÍ wiadomoúci:
-[Ham]
-PamiÍÊ
-[Analyze]
-Analiza
-
-;============================================================
-;  File: spellchecker.dll, spellcheckerW.dll
-;  Module: Spell Checker
-;  Versions: 0.2.5.0
-;============================================================
-[Ignore all]
-Ignoruj wszystkie
-[Spell Checker]
-Sprawdzanie pisowni
-[Line]
-Linia
-[Dotted]
-Kropkowany
-[Dash]
-Kreska
-[Dash dot]
-Kreska kropka
-[Dash dot dot]
-Kreska kropka kropka
-[Wave]
-Fala
-[Thick]
-Gruby
-[ Spell Checker ]
- Sprawdzanie pisowni
-[Default language:]
-Domyúlny jÍzyk:
-[Auto-replace words with dictionary suggestions]
-Automatycznie zastÍpuj sugestiami ze s≥ownika
-[Auto-replace words with user defined replacements]
-Automatycznie zastÍpuj w≥asnymi sugestiami
-[Ignore words in UPPER CASE]
-Ignoruj wyrazy pisane WIELKIMI LITERAMI
-[Download more dictionaries]
-Pobierz wiÍcej s≥ownikÛw
-[ Advanced ]
- Zaawansowane 
-[Underline type:]
-Styl podkreúlenia:
-[Show corrections in submenu]
-Pokaø korekty w podmenu
-[Show all corrections in context menu (takes more time to show)]
-Pokaø wszystkie poprawki w menu kontekstowym (zabiera wiÍcej czasu)
-[Show wrong word]
-Pokaø b≥Ídny wyraz
-[Use flags]
-Uøyj flagi
-[Use input language to select dictionary]
-Wybierz jÍzyk, aby wybraÊ s≥ownik
-[Use dictionaries from other programs]
-Uøyj s≥ownika z innego programu
-[Add auto-replace word]
-Dodaj wyraz autokorekty
-[Wrong word]
-Z≥y wyraz
-[OLD WORD]
-STARY WYRAZ
-[Correction:]
-Korekta:
-[Dictionaries]
-S≥owniki
-[Custom Dictionaries]
-W≥asny s≥ownik
-[Flags DLL]
-Flags.dll
-[Languages/Flags]
-JÍzyk/Flagi
-[Other...]
-Inne...
-[Always replace with]
-Zawsze zastÍpuj
-[Add to dictionary]
-Dodaj do s≥ownika
-[Corrections]
-Korekty
-[Wrong word: %s]
-B≥Ídny wyraz: %s
-[Language:]
-JÍzyk:
-[Enable spell checking]
-W≥πcz sprawdzanie pisowni
-[Wrong words]
-B≥Ídne wyrazy
-[Could not find the message dialog. This usually means one of two things:\n- In tabSRMM the checkbox 'Enable event API' is disabled or\n- You are using SRMM (which don't support Spell Checker)]
-Nie moøna znaleüÊ okna rozmowy. Oznacza to zazwyczaj jednπ z dwÛch rzeczy:\n- W tabSRMM opcja "W≥πcz API" jest wy≥πczona lub\n- Uøywasz SRMM (ktÛre nie obs≥uguje sprawdzanie pisowni)
-[Unknown Flag]
-Nieznana flaga
-[Spell Checker/Flags]
-Sprawdzanie pisowni/Flagi
-[Auto-correct words]
-Automatycznie poprawiaj wyrazy
-[Show all corrections]
-Pokaø wszystkie korekty
-[Flag icons]
-Ikona flagi
-[The correction can't be an empty word!]
-Korekta nie moøe byÊ pustym s≥owem!
-[The correction can't be the equal to the wrong word!]
-Korekta nie moøe byÊ rÛwna z≥ym s≥owem!
-[Wrong Correction]
-Z≥a korekta
-[Auto-replacements]
-Automatyczna zamiana
-[Correction]
-Korekta
-[No separators and all lowercase chars]
-Bez separatorÛw i wszystkich ma≥ych znakÛw
-[Use variables in correction]
-Uøyj zmiennej w korekcie
-[Spell checker for the message windows. Uses Hunspell to do the checking.]
-Sprawdzanie pisowni w oknie rozmowy. Uøywa Hunspell do sprawdzania.
-[Replacements]
-Zamiennik
-[Ignore words with numbers]
-Ignoruj s≥owa z cyframi
-[Ask before sending a message with spelling errors]
-Pytaj przed wys≥aniem wiadomoúci z b≥Ídami ortograficznymi
-[Enable auto-replacements]
-W≥πcz automatycznπ zamiane
-[Avoid removing underscores (slows down checking of long texts)]
-Unikaj usuwania podkreúlenia (spawalnia sprawdzanie d≥ugich tekstÛw)
-[Enable/disable spell checker]
-W≥πcz/wy≥πcz sprawdzanie pisowni
-[Languages]
-JÍzyki
-[Flags]
-Flagi
-[Language]
-JÍzyk
-[Wrong word:]
-Z≥e s≥owo:
-
-;============================================================
-;  File:  AdvancedAutoAway.dll, KeepStatus.dll, StartupStatus.dll
-;  Module: Advanced Auto Away, KeepStatus, StartupStatus
-;============================================================
-[Apply to all protocols]
-Zastosuj do wszystkich protoko≥Ûw
-[Requested Status]
-Oczekiwany status
-[Current Status]
-Aktualny status
-[Short Idle]
-KrÛtka bezczynnoúÊ
-[Only if my requested status is:]
-Tylko jeøeli mÛj oczekiwany status to:
-[Long Idle]
-D≥uga bezczynnoúÊ
-[If Windows is inactive]
-Jeøeli Windows jest nieaktywny
-[Not Idle]
-Aktywny
-[Use GetLastInputInfo()]
-Uøyj GetLastInputInfo()
-[If Miranda is inactive]
-Jeøeli Miranda jest nieaktywna
-[Force short idle if:]
-Wymuú krÛtkπ bezczynnoúÊ gdy:
-[Workstation is Locked (2K/XP)]
-Komputer jest zablokowany
-[Inactivity times:]
-Czasy nieaktywnoúci
-[Short idle after]
-KrÛtka nieaktywnoúÊ po
-[Long idle after]
-D≥uga nieaktywnoúÊ po
-[Do not share my idle info.]
-Nie pokazuj mojej informacji o nieaktywnoúci
-[Do not set "Not Idle" automaticaly]
-Nie ustawiaj "Aktywny" automatycznie
-[Set "Not Idle" on manual status change]
-Ustaw "Aktywny" podczas rÍcznej zmiany statusu
-[Simulate Idle]
-Symulacja bezczynnoúci
-[Be Not Idle]
-Aktywny
-[Be Short Idle]
-KrÛtka bezczynnoúÊ
-[Be Long Idle]
-D≥uga bezczynnoúÊ
-[Disable Idle menu. (restart is required)]
-Wy≥πcz menu Aktywnoúci
-[AdvancedAutoAway, an Auto Away module with some more options than the original.]
-AdvancedAutoAway, modu≥ Auto Away wzbogacony o dodatkowe opcje.
-[minutes of %s mode]
-minutach "%s"
-[Rules]
-Zasady
-[Auto Away Rules]
-Zasady Auto Away
-[Auto Away]
-Auto Away
-[Auto Away General]
-Auto Away - OgÛlne
-[when workstation is locked]
-kiedy komputer jest zablokowany
-[Del]
-UsuÒ
-
-;=====================KeepStatus==========================
-[%s Connected from another location]
-%s Po≥πczono z innej lokalizacji.
-[%s Login error (next retry (%d) in %ds)]
-%s B≥πd logowania (nastÍpna prÛba (%d) za %ds)
-[%s Login error, cancel reconnecting]
-%s B≥πd logowania, zatrzymano wznawianie.
-[%s Status error (next retry (%d) in %ds)]
-%s B≥πd po≥πczenia (nastÍpna prÛba (%d) za %ds)
-[%s\t(will be set to %s)\r\n]
-%s\t(przywracany status: %s)\r\n
-[<from trigger>]
-<od inicjacji>
-[Activate status profile]
-W≥πcz profil statusu
-[Add new profile]
-Dodaj nowy profil
-[after]
-po
-[Allow override]
-Pozwalaj nadpisywaÊ
-[Automatically dial on startup]
-Automatycznie ≥πcz na starcie
-[Automatically hang up on exit]
-Automatycznie roz≥πcz przy wyjúciu
-[Becoming active without status change]
-Przywracanie aktywnoúci bez zmiany statusu
-[Cancel all if a protocol connects from another location]
-Anuluj wszystko, jeúli protokÛ≥ ≥πczy siÍ z innej lokalizacji
-[Cancel reconnecting]
-Anuluj ponowne ≥πczenie
-[Check interval (secs)]
-Sprawdzaj co (sek)
-[Command Line:]
-Linia poleceÒ:
-[Command Line]
-Linia poleceÒ
-[Confirm dialog timeout (secs)]
-Czas wyúwietlania okna potwierdzenia
-[Confirm resetting status]
-Potwierdü resetowanie statusu
-[Confirm Status]
-Potwierdü status
-[Consider connection lost after]
-Reaguj na utratÍ po≥πczenia po
-[Continuously check for internet connection]
-Ca≥y czas szukaj po≥πczenia z internetem
-[Continuously check interval (secs)]
-Ciπg≥e odstÍpy sprawdzania (sek)
-[Copy to Clipboard]
-Kopiuj do schowka
-[Create a TopToolBar button]
-UtwÛrz przycisk paska narzÍdzi
-[Create Shortcut]
-UtwÛrz skrÛt
-[Delay between retries (secs)]
-Przerwa miÍdzy powtÛrzeniami
-[Dial-up (experimental)]
-Po≥πczenie (eksperymentalne)
-[Dial-Up]
-Po≥πczenie
-[Disable checking]
-Wy≥πcz sprawdzanie
-[Do so by pinging host]
-Poprzez pingowanie hosta
-[Don't reconnect if no internet connection seems available]
-Nie prÛbuj ≥πczyÊ ponownie, jeúli nie wykryjesz po≥πczenia z internetem
-[Enable checking]
-W≥πcz sprawdzanie
-[Entering first auto-away status]
-Wprowadzanie pierwszego statusu auto-away
-[Entering second auto-away status]
-Wprowadzanie drugiego statusu auto-away
-[failed pings]
-stracone pingi
-[Give it up, I'm not in!]
-Daj spokÛj, nie ma mnie!
-[Giving up]
-Rezygnacja z przywracania statusu.
-[I'm a chatbot!]
-Jestem botem!
-[Ignore any key combination with above keys]
-Ignoruj wszystkie kombinacje z tymi klawiszami
-[Ignore caps-lock, num-lock and scroll-lock keys]
-Ignoruj caps-lock, num-lock i scroll-lock
-[Ignore CRTL, ALT, SHIFT, TAB, ESC and Windows keys]
-Ignoruj CTRL, ALT, SHIFT, TAB, ESC i klawisz Windows
-[Ignore locked status of protocols]
-Ignoruj zablokowane statusy protoko≥Ûw
-[In submenu]
-W podmenu
-[Increase delay exponential]
-ZwiÍksz opÛünienie wyúwietlania
-[Leaving first auto-away status]
-Zostawianie pierwszego statusu auto-away
-[Leaving second auto-away status]
-Zostawianie drugiego statusu auto-away
-[Max. delay (secs)]
-Maks. opÛünienie (s)
-[Max. protocol connecting time (secs)]
-Maks. czas prÛby po≥πczenia protoko≥u
-[minutes of inactivity]
-minutach bezczynnoúci
-[minutes of level 1 mode]
-minutach trybu poziomu 1
-[Monitor keyboard activity]
-åledü aktywnoúÊ klawiatury
-[Monitor Miranda's activity only]
-Monitoruj tylko aktywnoúÊ Mirandy
-[Monitor mouse activity]
-åledü aktywnoúÊ myszki
-[No internet connection seems available... (last try (%d))]
-Brak po≥πczenia z internetem... (ostatnia prÛba (%d))
-[No internet connection seems available... (next retry (%d) in %ds)]
-Brak po≥πczenia z internetem... (nastÍpna prÛba (%d) za %ds)
-[Note: status profiles can be created in the 'Status Profiles' options screen]
-Info: profile statusÛw mogπ zostaÊ utworzone w menu "Profile statusÛw"
-[Only set if current status is]
-Ustaw tylko, gdy obecny status to:
-[only set when inactive]
-ustaw tylko przy bezczynnoúci
-[Profile name]
-Nazwa profilu
-[Protocol Connection]
-Po≥πczenie protoko≥u
-[Protocols to check]
-Protoko≥y do sprawdzenia
-[React on login errors]
-Reakcja na b≥Ídy logowania
-[Reconnect on APM resume]
-Po≥πcz po przywrÛceniu APM
-[Reconnecting]
-Ponowne ≥πczenie
-[Reset status on return]
-PrzywrÛÊ status po powrocie
-[Resetting status... (last try (%d))%s]
-Zerowanie statusu...(ostatnia prÛba (%d)) %s
-[Resetting status... (next retry (%d) in %ds)%s]
-Zerowanie statusu... (nastÍpna prÛba (%d) za %ds) %s
-[Set after]
-Ustaw po
-[Set delay to]
-Ustaw opÛünienie na
-[Set docked]
-Strona dokowania
-[Set protocol offline before a connection attempt]
-Roz≥πcz protokÛ≥ przed prÛbπ po≥πczenia
-[Set status message]
-Ustaw opis
-[Set status to offline before exit]
-Przy wyjúciu zmieÒ na niepo≥πczony
-[Set window location]
-Po≥oøenie okna
-[Set window size]
-Rozmiar okna
-[Set window state]
-Stan okna
-[Show additional information in popups]
-Pokaø dodatkowe informacje w popupach
-[Show CMDL]
-Pokaø CMDL
-[Show confirm dialog when loading]
-Pokaø okno potwierdzania przy za≥adunku
-[Show dialog]
-Pokaø okno
-[Show other messages]
-Pokaø inne wiadomoúci
-[Show popups]
-Pokaø popupy
-[Show when a connection attempt is made]
-Pokaø w trakcie prÛby po≥πczenia
-[Show when connection is lost]
-Pokaø po utarcie po≥πczenia
-[Show when reconnection has finished]
-Pokaø po ponownym po≥πczeniu
-[Specify settings for each protocol]
-Ustaw kaødy protokÛ≥ osobn
-[Status error (next retry (%d) in %ds)]
-B≥πd po≥πczenia (nastÍpna prÛba (%d) za %ds)
-[Status on startup]
-Status podczas startu
-[Status Profiles]
-Profile statusÛw
-[Status was set ok]
-Status przywrÛcony pomyúlnie.
-[Status: The status the protocol will change to\r\nProtocol: The protocol changing state]
-Status: Status protoko≥u zosta≥ zmieniony do\r\ProtokÛ≥: ProtokÛ≥ zmieni≥ status
-[Stop trying to reconnect]
-Przerwij prÛby ponownego ≥πczenia
-[Timeout]
-Czas wyúwietlania
-[Timers]
-Stopery
-[Trigger when a login error occurs]
-Zainicjuj po b≥Ídzie logowania
-[Trigger when connection loss is detected]
-Zainicjuj po wykryciu utraty po≥πczenia
-[Trigger when giving up reconnecting]
-Zainicjuj po przerwaniu ponownego ≥πczenia
-[Trigger when reconnected from another location]
-Zainicjuj po ponownym po≥πczeniu z innej lokalizacji
-[Trigger when reconnection attempt is made]
-Zainicjuj przy prÛbie ponownego po≥πczenia
-[Trigger when successfull reconnected]
-Zainicjuj po ponownym po≥πczeniu
-[TriggerData]
-Wywo≥ywanie danych
-[Use Miranda's message setting]
-Uøyj ustawieÒ opisu Mirandy
-[Use same settings for all protocols]
-Uøyj takich samych ustawieÒ dla wszystkich protoko≥Ûw
-[Use this message:]
-Uøyj tego opisu:
-[when screen saver engages]
-gdy w≥πczy siÍ wygaszacz
-[when workstation is locked]
-kiedy komputer jest zablokowany
-[will be set to]
-przywracany status:
-[Window on startup]
-Okno podczas startu
-[You broke the Internet!]
-Problem z nawiπzaniem po≥πczenia!
-[You enabled "Change my status mode to" in the "Idle" options dialog, AdvancedAutoAway's options are ignored.]
-W≥πczy≥eú "ZmieÒ mÛj status na" w opcjach "Bezczynnoúci", ustawienia AdvancedAutoAway bÍdπ ignorowane.
-[Max. retries]
-Maks. powtÛrzeÒ
-[Check connection]
-Sprawdü po≥πczenie
-
-;=====================StartupStatus==========================
-
-[At least one profile must exist]
-Musi istnieÊ przynajmniej 1 profil
-[Hidden]
-Ukryte
-[loc: %d x %d]
-po≥: %d x %d
-[New global status message.]
-Nowy globalny status.
-[size: %d x %d]
-rozmiar: %d x %d
-[Startup requires Miranda IM of version 0.8, get it at www.miranda-im.org]
-Startup wymaga Mirandy IM w wersji 0.8, moøesz jπ pobraÊ z www.miranda-im.org
-[There is a maximum of 6 menu items]
-Moøe byÊ maks. 6 wpisÛw w menu
-[Your default profile will be changed]
-TwÛj domyúlny profil zostanie zmieniony
-[Set %s message for %s.]
-Ustaw opis %s dla %s.
-[<n/a>]
-<niedostÍpny>
-[<last>]
-<ostatni>
-
-;============================================================
-;  File: stopspam.dll
-;  Module: StopSpam, StopSpam+, StopSpam Mod
-;  Versions: 0.0.1.4
-;============================================================ 
-[No more spam! Robots can't go! Only human beings invited!\r\n\r\nThis plugin works pretty simple:\r\nWhile messages from users on your contact list go as there is no any anti-spam software, messages from unknown users are not delivered to you. But also they are not ignored, this plugin replies with a simple question, and if user gives the right answer plugin adds him to your contact list so that he can contact you.]
-Nigdy wiÍcej spamu! Roboty siÍ nie przedrπ! Tylko ludzie przejdπ zabezpieczenie!\r\n\r\nPlugin dzia≥a bardzo prosto:\r\nWiadomoúci od uøytkownikÛw z listy kontaktÛw zostanπ dostarczone, poniewaø nie ma øadnego oprogramowania anty-spamowego, wiadomoúci od nieznanych uøytkownikÛw nie bÍdπ dostarczane. Ale teø nie sπ one ignorowane, plugin zadaje proste pytanie, a jeúli uøytkownik poda poprawnπ odpowiedü, plugin doda go do twojej listy kontaktÛw aby mÛg≥ siÍ z tobπ skontaktowaÊ.
-[Do not send more than ]
-Nie wysy≥aj wiecej niø 
-[ questions to one contact (0 - for no limit)]
-  pytaÒ do jednego kontaktu (0 - brak limitu)
-[Enable StopSpam-StopSpam infinite talk protection]
-W≥πcz ochronÍ nieskoÒczonej rozmowy StopSpam-StopSpam
-[Add contact permanently]
-Dodaj kontakt na sta≥e
-[Enable auth. requests blocking]
-W≥πcz blokowanie pytaÒ o autoryzacjÍ
-[Hide unanswered contacts and spammers from contact list]
-Ukryj spamerÛw oraz  kontakty, ktÛre nie odpowiedzia≥y z listy
-[Ignore spammers (do not write messages to history)]
-Ignoruj spamerÛw (nie zapisuj wiadomoúci do historii)
-[Log spam to file]
-Zapisuj dziennik do pliku
-[Question: (Ctrl-Enter for carriage return)]
-Pytanie: (Ctrl+Enter dla nowej linii)
-[Spammers made me to install small anti-spam system you are now speaking with. Please reply \"nospam\" without quotes and spaces if you want to contact me.]
-Spamerzy zmusili mnie do zainstalowania ma≥ego systemu anty-spamowego z ktÛrym w≥aúnie rozmawiasz. ProszÍ napsiaÊ \"nospam"\ bez cudzys≥owÛw i spacji, jeúli chcesz siÍ ze mnπ skontaktowaÊ.
-[Answer:]
-Odpowiedü:
-[Congratulation:]
-Gratulacje:
-[Congratulations! You just passed human/robot test. Now you can write me a message.]
-Gratulacje! Przeszed≥eú test. Teraz moøesz napisaÊ do mnie wiadomoúÊ.
-[Auth. request reply:]
-Odpowiedü na pytanie o autoryzacjÍ:
-[StopSpam: send a message and reply to a anti-spam bot question.]
-StopSpam: wyúlij wiadomoúÊ i odpowiedz na pytania bota.
-[Restore defaults]
-PrzywrÛÊ domyúlne
-[Available accounts:]
-DostÍpne konta:
-[Filtered accounts:]
-Filtrowane konta:
-[Add contacts to specified group:]
-Dodaj kontakty do specjalnej grupy
-[Exclude contacts which we sending something from spam check]
-Wyklucz ze sprawdzania kontakty, ktÛrym napiszesz wiadomoúÊ
-[Remove Excluded contacts after restart]
-UsuÒ wykluczone kontakty po restarcie
-[Remove all tempory contacts after restart]
-UsuÒ wszystkie tymczasowe kontakty po restarcie
-[Case insensitive answer checking]
-Sprawdzaj wielkoúÊ liter w odpowiedzi
-[Disable question in invisible mode]
-Wy≥πcz pytanie w trybie niewidocznym
-[Enable integration with DOS plugin]
-W≥πcz integracje z pluginem DOS
-[Ignore URL in messages and auth requests]
-Ignoruj linki w wiadomoúciach i pytaniach o autoryzacjÍ
-[Use regex for answers checking]
-Uøyj  regex dla kontroli odpowiedzi
-[Log Spammers to system history]
-Dziennik spamu w historii systemowej
-[After congratulation (ICQ only)]
-Po potwierdzeniu (tyko ICQ)
-[Add contact to server list]
-Dodaj kontakt do listy na serwerze
-[Automatically grant authorization]
-Automatycznie udzielaj autoryzacji
-[Request authorization from contacts which pass stopspam test]
-Pytanie o autoryzacjÍ od kontaktÛw, ktÛre przechodzπ test stopspam
-[Answer (Use divider to separate answers):]
-Odpowiedü (Uøyj separatora do oddzielenia odpowiedzi):
-[Divider:]
-Separator:
-[Disable protection for following protocols:]
-Wy≥πcz ochronÍ dla poniøszych protoko≥Ûw:
-[StopSpam automatic message:\r\n]
-Automatyczna odpowiedü StopSpam:\r\n
-[Answer is not case sensitive]
-Nie sprawdzaj wielkoúci liter
 
 ;============================================================
 ;  File: scv_crshdmp.dll
@@ -15035,602 +11811,6 @@ DÛ≥
 xStatus
 
 ;============================================================
-;  File: userinfoex.dll
-;  Module: UserInfoEx
-;  Versions: 0.8.4.2
-;============================================================
-[Contact: %s (%S)]
-Kontakt: %s (%S)
-[Settings: %S]
-Ustawienie: %S
-[Events: %S]
-Zdarzenie: %S
-[Importing...\nPlease wait!]
-Importowanie...\nProszÍ poczekaÊ!
-[Setting/Event (20/100)]
-Ustawienia/Zdarzenia (20/100)
-[added contacts: %u / %u\nadded settings: %u / %u\nadded events %u / %u\nduplicated events: %u]
-Dodano kontaktÛw: %u / %u\nDodano ustawieÒ: %u / %u\nDodano zdarzeÒ: %u / %u\nPowielonych zdarzeÒ: %u
-[Country Flags]
-Flagi krajÛw
-[Show country flag as &status icon on message window]
-Pokaø ikone kraju w oknie wiadomoúci
-[Show 'Restart' menu item]
-Pokaø 'Restart' w menu
-[&Export User Details]
-Eksportuj dane kontaktu
-[&Import User Details]
-Importuj dane kontaktu
-[Buttons]
-Przyciski
-[AccountMenu]
-Menu konta
-[Edit Contact Information]
-Edytuj informacje o kontakcie
-[View personal user details and more]
-Pokaø osobiste dane uøytkownika
-[&Update]
-Aktualizuj
-[Naming]
-ImiÍ i nazwisko
-[Second name:]
-Drugie imiÍ:
-[Prefix:]
-Prefiks:
-[Display Name:]
-Wyúwietlana nazwa:
-[Your contact's local time is:]
-Czas lokalny twojego kontaktu:
-[Marital status:]
-Stan cywilny:
-[Person]
-Osoba
-[not found]
-nie znaleziono
-[Anniversaries]
-Rocznice
-[Remind me]
-Przypomnij mi
-[days before.]
-dni przed.
-[Origin]
-Pochodzenie
-[County/State:]
-Hrabstwo/Stan:
-[Birthday]
-Urodziny
-[Reminder settings:]
-Ustawienia przypominania:
-[Contact added to ContactList:]
-Kontakt zosta≥ dodany do listy kontaktÛw:
-[Office:]
-Urzπd:
-[Superior:]
-Kierownik:
-[Assistant:]
-Asystent:
-[1. language:]
-1. jÍzyk:
-[2. language:]
-2. jÍzyk:
-[3. language:]
-3. jÍzyk
-[Company]
-SpÛ≥ka
-[Language skills]
-Znane jÍzyki
-[Enter a category for this number:]
-Wpisz kategoriÍ dla tego numeru
-[Add E-Mail]
-Dodaj e-mail
-[Enter a representitive name for the e-mail address here.]
-Podaj nazwÍ dla adresu e-mail.
-[Enter the e-mail address here.]
-Wpisz adres e-mail tutaj.
-[Show menu items]
-Pokaø wpisy menu
-[hours]
-godziny
-[CList extra icon:]
-Ikona listy:
-[Icon flashing on event]
-Migajπce ikony przy zdarzeniu
-[Perform check on each startup]
-Sprawdzaj na starcie
-[Time of last check:]
-Czas ostatniego sprawdzenia:
-[Birthday compatibility mode:]
-Tryb kompatybilnoúci urodzin:
-[Automatically backup and keep protocol based birthdays up to date]
-Automatycznie twÛrz kopie bezpieczeÒstwa i aktualizuj dane o urodzinach
-[Play sound]
-Odtwarzaj düwiÍk
-[Use ignore list]
-Uøyj listy blokowania
-[What do you want to export?]
-Co chcesz wyeksportowaÊ?
-[Contact Information]
-Informacje o kontakcie 
-[Contact History]
-Historia kontaktu
-[Birthday popup colours]
-Kolory popupÛw urodzin
-[Show reminder messages as popups (if reminder is enabled)]
-Pokaø wiad. przypominacza w popupach (jeúli jest w≥πczony)
-[Anniversary popup colours]
-Kolory popupÛw rocznic
-[Address]
-Adres
-[Phone]
-Telefon
-[e-mail]
-E-mail
-[Add Affiliation]
-PrzynaleønoúÊ
-[Add Past]
-Przesz≥oúÊ
-[Add Interest]
-Zainteresowanie
-[Select Modules]
-Wybierz modu≥y
-[Check the Modules in the TreeView which you want to export for the contact. To add    the file as a new list entry later you need to export at least the protocol module.]
-Sprawdü modu≥y w drzewku ktÛre chcesz wyeksportowaÊ wraz z kontaktem. Aby dodaÊ nowy wpis na nowej liúcie bÍdziesz musia≥ eksportowaÊ co najmniej modu≥y protoko≥u.
-[Check all]
-Zaznacz wszystkie
-[Uncheck all]
-Odznacz wszystkie
-[Add Anniversary]
-Dodaj rocznicÍ
-[You can edit the annviversary here.]
-Tutaj moøesz edytowaÊ rocznice.
-[Enter a name for the anniversary here please:]
-Podaj nazwÍ rocznicy:
-[Select a date here:]
-Wybierz datÍ:
-[Remind me of this anniversary.]
-Przypominaj o tej rocznicy.
-[Anniversary list]
-Lista rocznic
-[No anniversaries to remind of]
-Brak rocznic do przypomnienia
-[This list gives you some overview about all your contact's anniversaries.]
-Ta lista daje ci podglπd na wszystkie rocznice twoich kontaktÛw.
-[Statistics:]
-Statystyki
-[with birthday:]
-z urodzinami:
-[female:]
-kobiet:
-[male:]
-mÍøczyzn:
-[number of contacts:]
-liczba kontaktÛw:
-[average age:]
-úredni wiek:
-[Show &during the next]
-Pokazuj przez nastÍpne
-[day(s)]
-dni.
-[Reminder]
-Przypomnienie
-[Popup this dialog on a contact's anniversary]
-Wyúwietl to okno przy rocznicy kontaktu
-[Reset factory defaults]
-PrzywrÛÊ domyúlne
-[Check file version of default IconPack to prevent wrong icon display]
-Sprawdü wersjÍ domyúlnej paczki ikon aby zapobiec ich b≥Ídnemu wyúwietlaniu
-[Copy UserInfo and mBirthday module from SubContact to set missing information]
-Kopiuj modu≥y UserInfo i mBirthday z subkontaktÛw aby ustawiÊ brakujπce informacje
-[MetaContacts]
-Metakontakty
-[Scan SubContacts for missing information]
-Skanuj subkontakty øeby znaleüÊ brakujπce informacje
-[Display icons on each dialog button]
-Pokazuj ikony na kaødym przycisku
-[(*) Requires Miranda to be restarted.]
-(*) Miranda musi zostaÊ zrestartowana.
-[Enable extended 'GetContactInfo' module (*)]
-W≥πcz rozszerzony modu≥ "GetContactInfo" (*)
-[Use Windows Timezone]
-Uøyj strefy czasowej z Windows
-[Enable extended 'send/receive email' service (*)]
-W≥πcz rozszerzonπ us≥ugÍ "wyúlij/odbierz email" (*)
-[Protocol's information]
-Informacje o protokole
-[Custom information]
-W≥asne informacje
-[Overwritten information]
-Nadpisanie informacji
-[Changed information]
-Zmiana informacji
-[Enable colours to give information about information's status.]
-W≥πcz kolory do informowania o statusie.
-[Make protocol based contact information readonly.]
-Informacje oparte na protokole kontaktu tylko do odczytu.
-[Enable groups in details dialog's treeview.]
-W≥πcz grupy w drzewku okna szczegÛ≥Ûw.
-[Sort all tree items alphabetically.]
-Sortuj wpisy alfabetycznie.
-[Info of a MetaContact's SubContact]
-Info o subkontaktach metakontaktÛw
-[Common]
-WspÛlne
-[Change my ICQ details with UserInfoEx. (Disabled if ICQ doesn't support it)]
-ZmieÒ dane ICQ uøywajπc UserInfoEx. (Wy≥πczone jeúli ICQ tego nie obs≥uguje)
-[Make item labels readonly.]
-Etykiety wpisÛw tylko do odczytu.
-[Importing contacts. Please wait...]
-Import kontaktÛw. ProszÍ czekaÊ...
-[Enable contact menu items to export/import vCards]
-Dodaj wpisy importu/eksportu vCard w menu kontaktÛw
-[Cascade main menu items]
-Kaskaduj wpisy w menu
-[Cascade contact menu:]
-Kaskaduj menu kontaktu:
-[Ex-/Import items]
-Eks/Import wpisÛw
-[Cascading menu items is available only if the genmenu plugin is installed.]
-Kaskadowanie wpisÛw w menu jest moøliwe tylko jeúli masz wtyczkÍ genmenu.
-[Homepage]
-Strona WWW
-[E-Mail]
-E-Mail
-[Replace the following default icons:]
-ZamieÒ nastÍpujπce domyúlne ikony:
-[This options require a contact list which supports extra icons.]
-Ta opcja wymaga listy kontaktÛw obs≥ugujπcej dodatkowe ikony.
-[Question]
-Pytanie
-[All Contacts]
-Wszystkie kontakty
-[Required modules]
-Wymagane modu≥y
-[Optional modules]
-Opcjonalne modu≥y
-[Shows Miranda's installation directory.]
-Pokaø katalog instalacyjny Mirandy
-[Shows the directory with all your Miranda's profiles.]
-Pokaø katalog wszystkich twoich profili.
-[Import complete]
-Import zakoÒczony
-[all Contacts]
-Wszystkie kontakty
-[Select a destination file...]
-Wybierz miejsce przeznaczenia pliku...
-[Import User Details from VCard]
-Importuj dane uøytkownika z wizytÛwki
-[%s provides a new birthday via protocol.\nIt is %s. The old one was %s.\n\nDo you want to use this as the new birthday for this contact?]
-%s wprowadzi≥ nowπ datÍ urodzenia przez protokÛ≥.\nJest to %s. Poprzednio by≥o to %s.\n\nCzy chcesz zmieniÊ datÍ urodzenia tego kontaktu?
-[Rename Item]
-ZmieÒ nazwÍ przedmiotu
-[Hide Item]
-Ukryj przedmiot
-[Show Items:]
-Pokaø przedmiot:
-[Reset to defaults]
-Ustaw domyúlnie
-[The phone number should start with a + and consist of\nnumbers, spaces, brackets and hyphens only.]
-Numer telefonu powinien zaczynaÊ siÍ od + i sk≥adaÊ siÍ tylko z\nnumerÛw, spacji, nawiasÛw i ≥πcznikÛw.
-[Syntax Error]
-B≥πd sk≥adni
-[Choose the item to display.]
-Wybierz przedmiot do wyúwietlenia
-[Edit the currently displayed item.]
-Edytuj obecnie wyúwietlany przedmiot.
-[Add a new custom item.]
-Dodaj nowy, w≥asny przedmiot.
-[Delete the selected item.]
-Skasuj zaznaczony przedmiot
-[Do you really want to delete the current selected item?\n\t%s\n\t%s]
-Czy na prawdÍ chcesz skasowaÊ obecnie zaznaczony przedmiot?\n\t%s\n\t%s
-[Removes an item from the list]
-UsuÒ przedmiot z listy
-[All contacts]
-Wszystkie kontakty
-[Birthdays only]
-Tylko urodziny
-[Anniversaries only]
-Tylko rocznice
-[Disabled reminder]
-Przypominanie wy≥πczone
-[Upload Details]
-Wyúlij dane
-[You are not currently connected to the ICQ network.\nYou must be online in order to update your information on the server.\n\nYour changes will be saved to database only.]
-Obecnie nie jesteú pod≥πczony do sieci ICQ.\n Musisz byÊ online aby uaktualniÊ informacje na serwer.\n\nTwoje zmian zostanπ zapisane tylko do bazy danych.
-[Uploading]
-Wysy≥anie
-[Contact (private)]
-Kontakt (Prywatne)
-[Contact (Work)]
-Kontakt (Praca)
-[About]
-O kontakcie
-[IM Naming]
-Nazewnictwo IM
-[Timezone]
-Strefa czasowa
-[Marital status]
-Stan cywilny
-[Anniversary]
-Rocznica
-[Export: Modules]
-Eksport: Modu≥y
-[Export: Folder]
-Eksport: Folder
-[Aquarius]
-Wodnik
-[Aries]
-Baran
-[Cancer]
-Rak
-[Capricorn]
-Kozioroøec
-[Gemini]
-BliüniÍta
-[Leo]
-Lew
-[Libra]
-Waga
-[Pisces]
-Ryby
-[Sagittarius]
-Strzelec
-[Scorpio]
-Skorpion
-[Taurus]
-Byk
-[Virgo]
-Panna
-[Details Infobar]
-Infobar - dane
-[Phone Infobar]
-Infobar - telefon
-[E-Mail Infobar]
-Infobar - E-mail
-[Export VCard]
-Eksport VCard
-[Import VCard]
-Import VCard
-[Anniversary Infobar]
-Infobar - rocznice
-[Export]
-Eksport
-[Goto]
-Idü do
-[Custom Phone]
-Telefon
-[Ex-/Import]
-Eks/Import
-[Backup Birthday]
-PrzywrÛÊ urodziny
-[Birthday today]
-Dzisiejsze urodziny
-[Birthday tomorrow]
-Jutrzejsze urodziny
-[Birthday in 2 days]
-Urodziny w ciπgu 2 dni
-[Birthday in 3 days]
-Urodziny w ciπgu 3 dni
-[Birthday in 4 days]
-Urodziny w ciπgu 4 dni
-[Birthday in 5 days]
-Urodziny w ciπgu 5 dni
-[Birthday in 6 days]
-Urodziny w ciπgu 6 dni
-[Birthday in 7 days]
-Urodziny w ciπgu 7 dni
-[Birthday in 8 days]
-Urodziny w ciπgu 8 dni
-[Birthday in 9 days]
-Urodziny w ciπgu 9 dni
-[Birthday later]
-PÛüniejsze urodziny
-[Anniversary today]
-Dzisiejsze rocznice
-[Anniversary tomorrow]
-Jutrzejsze rocznice
-[Anniversary in 2 days]
-Rocznice w ciπgu 2 dni
-[Anniversary in 3 days]
-Rocznice w ciπgu 3 dni
-[Anniversary in 4 days]
-Rocznice w ciπgu 4 dni
-[Anniversary in 5 days]
-Rocznice w ciπgu 5 dni
-[Anniversary in 6 days]
-Rocznice w ciπgu 6 dni
-[Anniversary in 7 days]
-Rocznice w ciπgu 7 dni
-[Anniversary in 8 days]
-Rocznice w ciπgu 8 dni
-[Anniversary in 9 days]
-Rocznice w ciπgu 9 dni
-[Anniversary later]
-PÛüniejsze rocznice
-[Ex-/Import contact]
-Import / Eksport
-[Export all contacts]
-Eksportuj wszystkie kontakty
-[Import all contacts]
-Importuj wszystkie kontakty
-[Backup birthdays]
-PrzywrÛÊ urodziny
-[Check anniversaries]
-Sprawdü rocznice
-[&Export group]
-Eksportuj grupÍ
-[Ready]
-Gotowy
-[Reminder disabled]
-Przypominanie wy≥πczone 
-[Bithdays only]
-Tylko urodziny
-[everything]
-Wszystko
-[mBirthday (default)]
-mBirthday (domyúlnie)
-[Extended UserInfo]
-Dane kontaktu
-[Details Dialog]
-SzczegÛ≥y okna
-[Open in Browser]
-OtwÛrz w przeglπdarce
-[Primary e-mail]
-Pierwszy e-mail
-[Secondary e-mail]
-Drugi e-mail
-[Tertiary e-mail]
-Trzeci e-mail
-[My Notes:]
-Moje notatki:
-[Add a new anniversary]
-Dodaj nowπ rocznicÍ
-[Delete an existing anniversary]
-UsuÒ istniejπcπ rocznicÍ
-[Unspecified]
-Nieokreúlone
-[Do you really want to delete the %s?]
-Czy na prawdÍ chcesz skasowaÊ %s?
-[Edit Category]
-Edytuj kategoriÍ
-[Edit Value]
-Edytuj wartoúÊ
-[Your png2dib.dll is either obsolete or damaged.]
-Plik png2dib.dll jest nieaktualny lub uszkodzony.
-[Memory allocation error!]
-B≥πd alokacji pamiÍci!
-[User has no valid homepage]
-Uøytkownik nie poda≥ strony domowej
-[View Homepage]
-Pokaø stronÍ domowπ
-[&Homepage]
-Strona domowa
-[%s has birthday today.]
-%s ma dziú urodziny.
-[an anniversary]
-rocznica
-[He]
-On
-[She]
-Ona
-[He/She]
-On/Ona
-[%s has the following anniversaries:]
-%s obchodzi nastÍpujπce rocznice:
-[%d. %s today]
-%d. %s dziú
-[%d. %s tomorrow]
-%d. %s jutro
-[%d. %s in %d days]
-%d. %s w %d dniach
-[%s has birthday tomorrow.]
-%s ma jutro urodziny.
-[\n%s becomes %d years old.]
-\n%s ma teraz %d urodziny.
-[%s has birthday in %d days.]
-%s ma urodziny w przeciπgu %d dni
-[Check birthdays]
-Sprawdü urodziny
-[Birthday reminder]
-Przypominanie o urodzinach
-[Birthday reminder: it's coming]
-Przypominanie o urodzinach: nadchodzπcych
-[Anniversary Reminder]
-Przypominanie o rocznicach
-[TreeView]
-"Widok drzewa"
-[Popup Anniversary list]
-Lista rocznic
-[Refresh Contact Details]
-Odúwieø detale kontaktu
-[UserInfoEx]
-Rozszerzone dane kontkatu
-[Replace progress dialogs with popups]
-Nadpisz dialogi popupÛw
-[Replace message boxes with popups]
-Nadpisz okienka wiadomoúci popupÛw
-[Cascade:]
-Kaskada:
-[Show Menu Item]
-Pokaø w menu
-[UserInfo (default)]
-UserInfo (domyúlny)
-[Use Zodiac as default avatar]
-Uøyj znak zodiaku jako domyúlny awatar
-[Anniversary Editor\nAdd/Edit your anniversary here.]
-Edytor Rocznic\nDodaj/Edytuj rocznice tutaj.
-[Zodiac:]
-Znak zodiaku:
-[Don't remind me of this anniversary.]
-Nie przypominaj mi o tej rocznicy.
-[Affiliation]
-PrzynaleønoúÊ
-[Just from the beginning.]
-Jestem poczπtkujπcy.
-[Delete an entry]
-UsuÒ rocznicÍ
-[<Unspecified>]
-<Nieokreúlony>
-[Address & Contact]
-Adres i Kontakt
-[Do you really want to delete this entry?]
-Czy napewno chcesz usunπÊ te dane?
-[Interest]
-Zainteresowanie
-[Enter your phone number\nand don't worry about formating.]
-Wpisz swÛj numer telefonu\ni nie martw siÍ o formatowanie.
-[Enter your full e-mail address.\n(e.g.: john.doe@provider.com)]
-Wpisz swÛj pe≥ny adres e-mail.\n(np.: bunnyhoney@o2.pl)
-[Use global reminder settings.]
-Uøyj globalnych opcji przypomnienia.
-[Adapt propertysheet pages to aero mode.]
-Dostosuj do trybu aero.
-[Update custom birthday]
-Aktualizacja rocznic
-[Backing up and syncing all birthdays complete!]
-Wykonywanie kopii zapasowych i synchronizacji wszystkich urodzin kompletny!
-[[b]%s (%S)...[/b]\n%d Contacts remaning]
-[b]%s (%S)...[/b]\n%d do odúwieøenia
-[Grender]
-P≥eÊ
-[Reminder (uinfoex)]
-Rocznice (uinfoex)
-[Homepage (uinfoex)]
-Strona domowa (uinfoex)
-[&Export Group]
-Eksportuj grupÍ
-[&Import Group]
-Importuj grupÍ
-[AnnivList]
-Lista rocznic
-[&Save changes]
-Zapisz zmiany
-[This is the reminder message]
-To jest wiadomoúÊ przypominajπca
-[Upcomming anniversaries\nThis list gives you some overview about all your contact's anniversaries.]
-Nadchodzπce rocznice\nTa lista pokazuje informacje o wszystkich rocznicach kontaktÛw.
-[Proto]
-ProtokÛ≥
-[Age/Nr.]
-Wiek/Nr.
-[Single]
-Singiel
-[Close relationships]
-Bliskie stosunki
-[Engaged]
-ZarÍczony(-a)
-[Married]
-Øonaty/MÍøatka
-[Divorced]
-Rozwiedziony(-a)
-[Separated]
-W separacji
-[Widowed]
-Wdowa/Wdowiec
-[Down arrow]
-Strza≥ka w dÛ≥
-
-;============================================================
 ;  File: updater.dll
 ;  Module: Updater
 ;  Versions: 6.0.1.4
@@ -16051,110 +12231,6 @@ przytnij x do d≥ugoúci y, trzymajπc pierwszy znak y
 liczba lini w ciπgu x
 [TRUE if process x is running]
 TRUE, jeøeli proces x jest uruchomiony
-
-;============================================================
-;  File: voiceservice.dll, voiceserviceW.dll
-;  Module: Provide services for protocols that support voice calls
-;  Versions: 0.1.2.0
-;============================================================
-[User '%s' not found on the server!]
-Uøytkownik '%s' nie zosta≥ znaleziony na serwerze!
-[%s wants to start a voice call with you. What you want to do?\n\nIf you answer the call, the current call will be put on hold.]
-%s chce rozpoczπÊ rozmowÍ telefonicznπ z Tobπ. Co chcesz zrobiÊ?\n\nOdbierzesz czy bieøπce po≥πczenie zostanie zawieszone?
-[Answer]
-Odbierz
-[From now on, repeat this action for this contact]
-Od teraz, powtarzaj tÍ czynnoúÊ dla tego kontaktu
-[Drop]
-ZakoÒcz
-[New Voice Call]
-Nowa rozmowa
-[Auto-size frame]
-Automatyczny rozmiar ramki
-[Automatic Actions]
-Automatyczne akcje
-[Auto actions]
-Automatyczne akcje
-[Auto accept this contact calls]
-Automatycznie odbierz gdy kontakt dzwoni
-[Auto drop this contacts calls]
-Automatycznie zawieú gdy kontakt dzwoni
-[Devices]
-Sterowniki
-[Audio]
-DüwiÍk
-[Input:]
-Wchodzπce:
-[Output:]
-Wychodzπce:
-[Echo cancelation]
-Zapobiegaj echom
-[Microphone boost]
-Wzmocnienie mikrofonu
-[Show dialpad]
-Pokaø klawiature numerycznπ
-[Make call]
-DzwoÒ
-[Voice Calls]
-Rozmowy g≥osowe
-[Test Contact]
-Test kontaktu
-[Test description]
-Opis testu
-[Voice call ended]
-Rozmowa zakoÒczona
-[Talking]
-Rozmawiam
-[Calling]
-DzwoniÍ
-[Ended]
-ZakoÒczono
-[On Hold]
-Zawieszono
-[Ringing]
-Dzwonienie
-[Voice Call]
-Rozmowa
-[Answer Voice Call]
-Odbierz rozmowÍ g≥osowπ
-[Hold Voice Call]
-Zawieú po≥πczenie
-[Drop Voice Call]
-ZakoÒcz rozmowÍ g≥osowπ
-[Incoming &Event]
-Kliknij aby odebraÊ
-[Voice call ringing]
-Ktoú dzwoni
-[%s wants to start a voice call with you. What you want to do?]
-%s chce rozpoczπÊ rozmowÍ g≥osowπ. Co chcesz zrobiÊ?
-[Provide services for protocols that support voice calls]
-åwiadczenia us≥ug dla protoko≥Ûw, ktÛre obs≥ugujπ po≥πczenia g≥osowe
-[ Frame ]
-Ramka
-[Calling %s]
-£πczenie z %s
-[Ringing call from %s]
-%s dzwoni
-[Call from %s has started]
-RozpoczÍto rozmowÍ z %s
-[Voice call started]
-Rozmowa rozpoczÍta
-[Call from %s is on hold]
-Zawieszono po≥πczenie z %s
-[Voice call on hold]
-Zawieú rozmowÍ
-[Answer call]
-Odbierz
-[Drop call]
-OdrzuÊ
-[Hold call]
-Zawieú
-[Call from %s has ended]
-ZakoÒczono rozmowÍ z %s
-[Call with SIP]
-ZadzwoÒ przez SIP
-[Use SRTP]
-Uøyj SRTP
 
 ;============================================================
 ;  File: watrack.dll
@@ -17522,96 +13598,6 @@ Mgla
 zamglenia
 
 ;============================================================
-;  File: start_position.dll
-;  Module: Windows Start Position
-;  Versions: 0.2.0.2
-;============================================================
-[Window Start Position]
-Pozycja startowa okna
-[Contact List Window Start Position]
-Pozycja startowa listy kontaktÛw
-[Pixels from Top]
-Piksele od gÛry
-[Pixels from Bottom]
-Piksele od do≥u
-[Pixels from Side]
-Piksele od strony
-[Always start...]
-Zawsze startuj...
-[Minimized to System Tray]
-Minimalizuj do traya
-[Opened]
-Otwarty
-
-;============================================================
-;  File: WorldTime.dll
-;  Module: World Time Protocol
-;  Versions: 0.3.1.0
-;============================================================
-[World Time]
-Czas na åwiecie
-[Configuration]
-Konfiguracja
-[Times]
-Czasy
-[Engine]
-Silnik
-[Engine/Voice]
-Silnik/G≥os
-[Engine Settings]
-Ustawienia silnika
-[Welcome Message]
-WiadomoúÊ Powitalna
-[Status Changes]
-Zmiany statusu
-[Occuring Events]
-Wystepujπce zdarzenia
-[Authorisation Request]
-Wymagana autoryzacja
-[Added to Contact List]
-Dodane do listy kontaktowej
-[Announce status changes on connect]
-Powiadomienie o zmianie statusu przy ≥πczeniu
-[Message Events]
-Zdarzenia wiadomoúci
-[Ignore event if message dialog is open]
-Ignoruj zdarzenie gdy okno rozmowy jest otwarte
-[Read message if less characters than]
-Czytaj wiadomoúÊ jeúli jest mniej znakÛw niø
-[Ignore event if message dialog is focused]
-Ignoruj zdarzenie gdy okno jest wyúrodkowane
-[Remove]
-UsuÒ
-[Format Date]
-Format daty
-[and Time]
-i czasu
-[%n = label]
-%n = etykieta
-[%d = date]
-%d = data
-[%t = time]
-%t = czas
-[Contact List:]
-Lista kontaktÛw:
-[Hide in status bar and status menu (requires restart - uncheck to set icons)]
-Ukryj protokÛ≥ w pasku i menu statusu (wymaga restartu - odznacz øeby anulowaÊ)
-[%o = offset]
-%o = offset
-[Time Details]
-Dane czasu
-[Alphabetical]
-Alfabetycznie
-[Geographical]
-Geograficznie
-[Sort Order:]
-Sortuj w porzπdku:
-[World Time Protocol]
-ProtokÛ≥ Czasu na åwiecie
-[Adds 'contacts' showing the time at specified locations around the world.]
-Dodaj 'kontakty' pokazujπce czas w okreúlonej lokacji wokÛ≥ úwiata.
-
-;============================================================
 ;  File: XFire.dll
 ;  Module: XFire protocol
 ;  Versions: 0.1.7.10
@@ -18243,15 +14229,1372 @@ Kopiuj zaznaczone
 UsuÒ wybrane
 
 ;============================================================
-;  Module: Unsorted strings.
+;  File: historykeeperW.dll
+;  Module: History Keeper
+;  Versions: 0.2.1.0
 ;============================================================
-[Pre-conditions]
-WstÍpne warunki
-[horizontal]
-poziome
-[Unknown error]
-Nieznany b≥πd
-[Fatal error, image services not found. Flags Module will be disabled.]
-B≥πd, nie znaleziono wtyczki 'advaimg.dll'. Us≥uga Flag zostanie wy≥πczona.
-[PopUps]
+[is now listening to %new%]
+s≥ucha teraz %new%
+[stopped listening to music]
+przesta≥(-a) s≥uchaÊ muzyki
+[changed his/her %s to %%new%%: %%msg%% (was %%old%%)]
+zmieni≥(-a) swÛj/swojπ %s na %%new%%: %%msg%% (by≥(-a) %%old%%)
+[X-Status Message]
+Opis xStatus
+[Speak]
+Rozmowa
+[changed his/her %s to %%new%% (was %%old%%)]
+zmieni≥(-a) swÛj %s na %%new%% (by≥o %%old%%)
+[%%contact%% changed his/her %s to %%new%%]
+%%contact%% zmieni≥ swÛj %s na %%new%%
+[Log when contacts change their %s]
+Loguj kiedy kontakty zmieniπ swÛj %s
+[Log when contacts remove their %s]
+Loguj kiedy kontakty usunπ swÛj %s
+[Announce when contacts change their %s]
+Informuj kiedy kontakty zmieniπ swÛj %s
+[Announce when contacts remove their %s]
+Informuj kiedy kontakty usunπ swÛj %s
+[Show when contacts change their %s]
+Pokaø kiedy kontakty zmieniπ swÛj %s
+[Show when contacts remove their %s]
+Pokaø kiedy kontakty usunπ swÛj %s
+[Show history]
+Pokaø historiÍ
+[Contact Name]
+Nazwa kontaktu
+[ Tracking ]
+ åledzenie
+[ Actions ]
+ Akcje
+[ Track ]
+ åledzenie 
+[Wait]
+Czekaj
+[s before notifying (to avoid duplications)]
+s przed powiadomieniem (øeby uniknπÊ duplikatÛw)
+[Don't notify on protocol connection]
+Nie powiadamiaj przy ≥πczeniu z sieciπ
+[ Protocols ]
+ Protoko≥y 
+[Enable tracking for these protocols:]
+W≥πcz úledzenie dla tych protoko≥Ûw:
+[ Log to file ]
+ Zapisuj do pliku 
+[Filename:]
+Nazwa pliku:
+[Log to History]
+Zapisuj do historii
+[Log to File]
+Zapisuj do pliku
+[Notify using Popups]
+Powiadamiaj uøywajπc popupÛw
+[Notify using Sounds]
+Powiadamiaj uøywajπc düwiÍkÛw
+[Notify using Speak plugin]
+Powiadamiaj uøywajπc wtyczki Speak
+[Ignore %s changes]
+Ignoruj zmiany %s
+[Log %s changes]
+Pokazuj zmiany %s
+[Don't log %s changes]
+Nie pokazuj zmian %s
+[Notify %s changes]
+Powiadamiaj o zmianach %s
+[Don't notify %s changes]
+Nie powiadamiaj o zmianie %s
+[%s change]
+Zmiana %s
+[%s removal]
+UsuniÍcie %s
+[X-Status]
+xStatus
+[Listening]
+UtwÛr
+
+;============================================================
+;  File: popup.dll
+;  Module: Popup Interoperability, PopUp Plus
+;  Versions: 2.1.1.5
+;============================================================
+[Time]
+Pokaø zegar
+[non rectangular]
+nie prostokπtne
+[Process Clist events]
+Przetwarzanie zdarzeÒ listy
+[Classes]
+Klasy
+[Fade in/out]
+Rozjaúnianie
+[Square fading]
+BlakniÍcie
+[Default Timeout]
+Czas oczekiwania
+[Slide Popup]
+Wysuwany Popup
+[Effect:]
+Efekt:
+[Time (in)..:]
+Czas (wych)..:
+[Time (out):]
+Czas (przych)..:
+[Simplified clock]
+Uproszczony zegar
+[Show time]
+Pokaø czas
+[* Popup Classic]
+* Klasyczny popup
+[PopUp 1.0.1.x compatability]
+KompatybilnoúÊ z wersjπ 1.0.1.x
+[You need the png2dib plugin v. 0.1.3.x or later to process PNG images]
+Potrzebujesz wtyczki png2dib 0.1.3.x lub nowszej øeby wyúwietlaÊ obrazki PNG
+[Provides a common popup interface for different plugins.]
+Wyúwietla taki sam interfejs popupÛw dla rÛønych wtyczek.
+[Test preview for the popup plugin settings. This is supposed to be long enough not to fit in one line...]
+Test ustawieÒ wtyczki Popup. Ten tekst powinien byÊ wystarczajπco d≥ugi øeby nie zmieúciÊ siÍ w jednej linii...
+[This is a notification message]
+To jest wiadomoúÊ powiadamiajπca
+[This is a warning message]
+To jest wiadomoúÊ ostrzegawcza
+[This is an error message]
+To jest wiadomoúÊ z b≥Ídem
+[Popups are enabled]
+Popupy sπ w≥πczone
+[Popups are disabled]
+Popupy sπ wy≥πczone
+[Refresh skin list]
+Odúwieø listÍ skÛrek
+[Popup Placement]
+Rozmieszczenie
+[Popup History]
+Historia popupÛw
+[Notification]
+Powiadamianie
+[Skins]
+SkÛrki
+[Toggle Popups]
+Prze≥πcz Popupy
+[Enable &popup module]
+W≥πcz Popupy
+[Disable &popup module]
+Wy≥πcz Popupy
+[Error: I could not register the PopUp Window class.\nThe plugin will not operate.]
+B≥πd: Nie moøna zarejestrowaÊ klasy okien popupÛw.\nWtyczka nie bÍdzie dzia≥aÊ.
+[<empty>]
+ <pusty>
+[Infinite]
+NieskoÒczone
+[1 second]
+1 sekunda
+[2 seconds]
+2 sekundy
+[3 seconds]
+3 sekundy
+[4 seconds]
+4 sekundy
+[5 seconds]
+5 sekund
+[7 seconds]
+7 sekund
+[10 seconds]
+10 sekund
+[15 seconds]
+15 sekund
+[Popup Area]
+Obszar
+[upper left corner]
+lewy gÛrny rÛg
+[lower left corner]
+lewy dolny rÛg
+[lower right corner]
+prawy dolny rÛg
+[upper right corner]
+prawy gÛrny rÛg
+[vertical]
+pionowe
+[You cannot specify a value lower than %d and higher than %d.]
+Nie moøesz ustawiÊ wartoúci niøszej niø %d ani wyøszej niø %d.
+[Skin preview]
+Podglπd skÛrki
+[Just take a look at this skin... ;)]
+SpÛjrz tylko na tÍ skÛrkÍ... ;)
+[Refresh List]
+Odúwieø listÍ
+[Content && Style]
+ZawartoúÊ i wyglπd
+[Display time]
+Pokaø czas
+[Dynamically resize the popups]
+Automatyczny rozmiar popupÛw
+[Minimum width]
+Min. szerokoúÊ
+[Maximum width]
+Maks. szerokoúÊ
+[Use transparency (Windows 2000+)]
+PrzezroczystoúÊ (Windows 2000+)
+[Popup delay:]
+Pokazuj przez:
+[Default color]
+Domyúlny kolor
+[Default text color]
+Domyúlny kolor tekstu
+[Disable popups in fullscreen mode]
+Wy≥. popupy w trybie pe≥noekranowym
+[Slide popups while reordering]
+Przesuwaj popupy przy reorganizowaniu
+[Do not close hovered popups]
+Nie zamykaj aktywnych popupÛw
+[Infinite popup delay]
+Nie chowaj popupÛw
+[Size && Position]
+Rozmiar i pozycja
+[Draw avatar borders]
+Rysuj obramowanie awatarÛw
+[Round corners by]
+Zaokrπglij rogi o
+[Draw borders for semitransparent avatars too]
+Rysuj obramowanie dla pÛ≥przezroczystych awatarÛw
+[Live Preview]
+Podglπd
+[Debug]
+Analizuj
+[opacity:]
+WidocznoúÊ:
+[You may set up custom fonts and colors in Customize > Fonts section in Miranda IM options.]
+Moøesz ustawiÊ czcionki i kolory w sekcji Personalizacja -> Czcionki opcji Mirandy.
+[Window sliding]
+Wysuwanie okna
+[Reorder Popups]
+Reorganizuj popupy
+[Display time:]
+Pojawianie siÍ:
+[Vanish time:]
+Zanikanie:
+[Opaque popups under cursor]
+Wy≥πcz pod kursorem
+[Layout:]
+U≥oøenie:
+[Multimonitor (98/ME/2000/XP)]
+Multimonitor (98/ME/2000/XP)
+[Start the popups in the monitor with]
+Pokaø popupy na monitorze zawierajπcym
+[Miranda's window]
+Okno Mirandy
+[the active window]
+Aktywne okno
+[Disable when:]
+Wy≥πcz, kiedy:
+[Use advanced text render]
+Zaawansowany rendering tekstu
+[Enable popup history]
+W≥πcz historiÍ popupÛw
+[Store last]
+Trzymaj
+[events]
+zdarzeÒ
+[Use History++ to render log]
+Uøyj wtyczki History++
+[Always (has priority)]
+Zawsze (ma priorytet)
+[Open history]
+OtwÛrz historiÍ
+[Left Click:]
+Lewy przycisk:
+[Right Click:]
+Prawy przycisk:
+[Background:]
+T≥o:
+[Use Default]
+Uøyj domyúlnych
+[Timeout:]
+Timeout:
+[Interaction]
+Interakcja
+[Display when]
+Wyúwietlaj, kiedy
+[Drop shadow effect (Windows XP+)]
+Rzucaj cieÒ (Windows XP+)
+[* - built-in skins]
+* - wbudowane
+[Never show news]
+Nie pokazuj nowoúci
+[Whole Screen]
+Ca≥y ekran
+[pixel(s)]
+pikseli
+[Spacing:]
+OdstÍp:
+[Go to Customize > Fonts && Colors for fonts and colors options]
+Przejdü do Dostosuj -> Czcionki øeby ustawiÊ czcionki i kolory
+[* Effect:]
+* Efekt:
+[No effect]
+Brak efektu
+[Fading]
+Rozszerzanie
+[Configure popup area]
+PrzestrzeÒ wyúwietlania
+[Draw gradient background]
+Rysuj gradientowe t≥o
+[Flat borders]
+P≥askie obramowanie
+[Enable popup actions]
+W≥πcz akcje popupÛw
+[Popup Actions are those tiny buttons below notification text.]
+Akcje popupÛw to ma≥e przyciski pod tekstem powiadomienia.
+[Common Actions]
+WspÛlne akcje
+[Please choose in what cases default actions should be added:]
+Wybierz w jakich przypadkach powinny zostaÊ dodane wspÛlne akcje:
+[Add info && menu for IM contacts only]
+Dodaj info i menu tylko dla kontaktÛw
+[Add default actions for contacts only]
+Domyúlne akcje tylko dla kontaktÛw
+[Don't close popups on default actions]
+Nie zamykaj popupÛw przy akcjach
+[Use large icons]
+Uøyj duøych ikon
+[Popup actions will be displayed as:]
+Akcje popupÛw bÍdπ wyúwietlane jako:
+[Icons and labels below text]
+Ikony i etykiety pod tekstem
+[Icons on the left]
+Ikony po lewej
+[Icons aligned to the right]
+Ikony przesuniÍte w prawo
+[Show Actions: (requires apply)]
+Pokaø akcje (wymaga zaakceptowania):
+[Action]
+Akcja
+[Add permanently]
+Dodaj na sta≥e
+[Pin popup]
+Przypnij popup
+[User details]
+Dane kontaktu
+[One more action]
+Jeszcze jedna akcja
+[Second test action]
+Druga akcja testowa
+[Test action]
+Akcja testowa
+[Enable this notification]
+W≥πcz to powiadomienie
+[Popup timeout:]
+Czas wyúwietlania:
+[Left click action:]
+Lewy przycisk:
+[Right click action:]
+Prawy przycisk
+[Disable when global status is...]
+Wy≥πcz, kiedy globalny status to...
+[Disable when relevant protocol's status is...]
+Wy≥πcz, jeúli stosowany status protoko≥u to...
+[Colors can be configured in\r\nCustomize > Fonts && Colors]
+Kolory moøna ustawiÊ w\r\nPersonalizacja -> Czcionki.
+[Per-contact settings]
+Osobne ustawienia kontaktÛw
+[Show default]
+Pok. domyúlnie
+[Show always]
+Zawsze pokazuj
+[Ignore fullscreen]
+Ignoruj pe≥. ekran
+[Never show]
+Nie pokazuj
+[Performance && Tweaks]
+WydajnoúÊ
+[Limit window amount to:]
+Ogranicz iloúÊ okien do:
+[Enable Win 9x/Me transparency]
+W≥πcz przezroczystoúÊ Win 9x/ME
+[Enable freeform shadows (XP+)]
+W≥πcz dowolne cieniowanie (XP+)
+[Enable Aero Glass (Vista+)]
+W≥πcz Aero Glass (Vista+)
+[Enable avatar updates]
+W≥πcz aktualizacjÍ awatarÛw
+[Make action icons customizable*]
+MoøliwoúÊ zmiany ikon akcji *
+[Make OK/Cancel icons customizable*]
+MoøliwoúÊ zmiany ikon OK/Anuluj *
+[Global Status]
+Globalny status
+[Protocol Status]
+Status protoko≥u
+[Test effect]
+Test efektu
+[Show avatars]
+Pokaø awatar
+[Add info & menu for IM contacts only]
+Dodaj info i menu tylko dla kontaktÛw IM
+[Align avatar to right]
+WyrÛwnaj awatar do prawej
+[Show colours]
+Pokaø kolory
+[Black background]
+Czarne t≥o
+[Use different colours]
+Uøyj rÛønych kolorÛw
+[Show clock]
+Pokaø zegar
+[Avatar to right]
+Awatar do prawej
+[Draw clock background]
+Rysuj t≥o zegara
+[Show Avatar]
+Pokaø awatar
+[Reverse gradient background]
+OdwrÛÊ t≥o gradientowe
+[Block]
+Blokuj
+[Favourite]
+Ulubiony
+[Show in Fullscreen]
+Pokaø w pe≥nym ekranie
+[Favorite Contact]
+Ulubione kontakty
+[Blocked Contact]
+Kontakt zablokowany
+[Show Default]
+Pokaø domyúlnie
+[Error (colors only)]
+B≥πd (tylko kolor)
+[Notification (colors only)]
+Akcja (tylko kolor)
+[Warning (colors only)]
+Ostrzeøenie (tylko kolor)
+[Popup Plus]
 Popupy
+[Contact Menu]
+Menu kontaktu
+[Popup Mode: Auto]
+Tryb Popup: Auto
+[Popup Mode: Favourtite]
+Tryb Popup: Ulubione
+[Popup Mode: Ignore fullscreen]
+Tryb Popup: Ignoruj pe≥ny ekran
+[Popup Mode: Block contact]
+Tryb Popup: Zablokuj kontakt
+[Quick Reply]
+Szybka odpowiedü
+[Add Contact Permanently]
+Dodaj pernamentnie kontakt
+[Pin Popup]
+Przypnij popup
+[Pinned Popup]
+PrzypiÍty popup
+[Popup Group]
+Grupa popupÛw
+[Clock]
+Zegar
+[Gender]
+P≥eÊ
+[IP internal]
+IP WewnÍtrzne
+[Preset items:]
+SkonfigÛrowane elementy:
+[With "favourite" overlay]
+Nak≥adka "ulubione"
+[With "fullscreen" overlay]
+Nak≥adka na "pe≥nym ekranie"
+[Mouse Actions Overwrite]
+Akcje myszy
+[LeftButton]
+Lewy
+[RightButton]
+Prawy
+[MiddleButton]
+årodkowy
+[no overwrite]
+Nic nie rÛb
+[Quick reply]
+Szybka odpowiedü
+[Desktop]
+Pulipit
+[Distance between popups]
+Odleg≥oúÊ pomiÍdzy popupami
+[Send Message]
+Wyúlij wiadomoúÊ
+[Dismiss Popup]
+OdrzuÊ popup
+
+;============================================================
+;  File: SmileyAdd.dll, SmileyAddW.dll
+;  Module: SmileyAdd
+;  Versions: 0.2.3.16
+;============================================================
+[Show Smiley Selection Window]
+Pokaø okno wyboru emotek
+[SmileyAdd HTTP connections]
+Po≥πczenie HTTP SmileyAdd
+[Smiley support for Miranda Instant Messanger]
+Wsparcie dla emotikon w Mirandzie IM
+[Button Smiley]
+Przycisk emotek
+[Assign Smiley Category]
+Przypisz kategoriÍ emotek
+[Smileys]
+Emotikony
+[Smiley Packs]
+Paczka emotek
+[Smiley Categories]
+Kategorie emotikon
+[Specify Smiley Pack for each category]
+Okreúl paczkÍ emotek dla kaødej z kategorii
+[Replace only smileys surrounded by spaces]
+ZamieÒ tylko emotikony oddzielone spacjami
+[Scale smiley to textheight]
+Skaluj emotikony do wysokoúci tekstu
+[Disable custom smileys]
+Wy≥πcz w≥asne emotikony
+[High Quality smiley scaling]
+Skalowanie emot HQ
+[Min smiley height]
+Minimalna wysokoúÊ emotÛw
+[Max "Custom Smiley" height]
+Maksymalna wysokoúÊ emotÛw
+[Smiley Selector]
+Okno wyboru emotikon
+[Surround inserted smiley with spaces]
+Odzielaj wstawione emotikony spacjami
+[Use first smiley for selection size]
+Pierwsza emotka okreúla rozmiar zaznaczenia
+[IEView style window]
+Styl okna jak w IEView
+[Input Area]
+Pole wpisywania
+[Enable Smileys]
+W≥πcz emotikony
+[Don't replace at cursor]
+Nie zamieniaj przy kursorze
+[Built-In Message Dialog Support]
+Wbudowane wsparcie dla okna rozmowy
+[Disable]
+Wy≥πcz
+[Smiley Button]
+Przycisk emotek
+[Max Custom smiley height]
+Maks. wysokoúÊ emotikon
+[There were problems loading smiley pack (it should be corrected).\nSee Network Log for details.]
+Wystπpi≥y problemy z wczytaniem paczki emotikon (powinny juø dzia≥aÊ).\nPo szczegÛ≥y zajrzyj do dziennika.
+[Standard]
+Standardowe
+[Smiley Pack %s not found.\nSelect correct Smiley Pack in the Miranda Options | Customize | Smileys.]
+Paczka emotikon %s nie odnaleziona.\nZaznacz prawid≥owπ paczke emotikon Opcje | Personalizacja | Emotkiony.
+
+;============================================================
+;  File: spellchecker.dll, spellcheckerW.dll
+;  Module: Spell Checker
+;  Versions: 0.2.5.0
+;============================================================
+[Ignore all]
+Ignoruj wszystkie
+[Spell Checker]
+Sprawdzanie pisowni
+[Line]
+Linia
+[Dotted]
+Kropkowany
+[Dash]
+Kreska
+[Dash dot]
+Kreska kropka
+[Dash dot dot]
+Kreska kropka kropka
+[Wave]
+Fala
+[Thick]
+Gruby
+[ Spell Checker ]
+ Sprawdzanie pisowni
+[Default language:]
+Domyúlny jÍzyk:
+[Auto-replace words with dictionary suggestions]
+Automatycznie zastÍpuj sugestiami ze s≥ownika
+[Auto-replace words with user defined replacements]
+Automatycznie zastÍpuj w≥asnymi sugestiami
+[Ignore words in UPPER CASE]
+Ignoruj wyrazy pisane WIELKIMI LITERAMI
+[Download more dictionaries]
+Pobierz wiÍcej s≥ownikÛw
+[ Advanced ]
+ Zaawansowane 
+[Underline type:]
+Styl podkreúlenia:
+[Show corrections in submenu]
+Pokaø korekty w podmenu
+[Show all corrections in context menu (takes more time to show)]
+Pokaø wszystkie poprawki w menu kontekstowym (zabiera wiÍcej czasu)
+[Show wrong word]
+Pokaø b≥Ídny wyraz
+[Use flags]
+Uøyj flagi
+[Use input language to select dictionary]
+Wybierz jÍzyk, aby wybraÊ s≥ownik
+[Use dictionaries from other programs]
+Uøyj s≥ownika z innego programu
+[Add auto-replace word]
+Dodaj wyraz autokorekty
+[Wrong word]
+Z≥y wyraz
+[OLD WORD]
+STARY WYRAZ
+[Correction:]
+Korekta:
+[Dictionaries]
+S≥owniki
+[Custom Dictionaries]
+W≥asny s≥ownik
+[Flags DLL]
+Flags.dll
+[Languages/Flags]
+JÍzyk/Flagi
+[Other...]
+Inne...
+[Always replace with]
+Zawsze zastÍpuj
+[Add to dictionary]
+Dodaj do s≥ownika
+[Corrections]
+Korekty
+[Wrong word: %s]
+B≥Ídny wyraz: %s
+[Language:]
+JÍzyk:
+[Enable spell checking]
+W≥πcz sprawdzanie pisowni
+[Wrong words]
+B≥Ídne wyrazy
+[Could not find the message dialog. This usually means one of two things:\n- In tabSRMM the checkbox 'Enable event API' is disabled or\n- You are using SRMM (which don't support Spell Checker)]
+Nie moøna znaleüÊ okna rozmowy. Oznacza to zazwyczaj jednπ z dwÛch rzeczy:\n- W tabSRMM opcja "W≥πcz API" jest wy≥πczona lub\n- Uøywasz SRMM (ktÛre nie obs≥uguje sprawdzanie pisowni)
+[Unknown Flag]
+Nieznana flaga
+[Spell Checker/Flags]
+Sprawdzanie pisowni/Flagi
+[Auto-correct words]
+Automatycznie poprawiaj wyrazy
+[Show all corrections]
+Pokaø wszystkie korekty
+[Flag icons]
+Ikona flagi
+[The correction can't be an empty word!]
+Korekta nie moøe byÊ pustym s≥owem!
+[The correction can't be the equal to the wrong word!]
+Korekta nie moøe byÊ rÛwna z≥ym s≥owem!
+[Wrong Correction]
+Z≥a korekta
+[Auto-replacements]
+Automatyczna zamiana
+[Correction]
+Korekta
+[No separators and all lowercase chars]
+Bez separatorÛw i wszystkich ma≥ych znakÛw
+[Use variables in correction]
+Uøyj zmiennej w korekcie
+[Spell checker for the message windows. Uses Hunspell to do the checking.]
+Sprawdzanie pisowni w oknie rozmowy. Uøywa Hunspell do sprawdzania.
+[Replacements]
+Zamiennik
+[Ignore words with numbers]
+Ignoruj s≥owa z cyframi
+[Ask before sending a message with spelling errors]
+Pytaj przed wys≥aniem wiadomoúci z b≥Ídami ortograficznymi
+[Enable auto-replacements]
+W≥πcz automatycznπ zamiane
+[Avoid removing underscores (slows down checking of long texts)]
+Unikaj usuwania podkreúlenia (spawalnia sprawdzanie d≥ugich tekstÛw)
+[Enable/disable spell checker]
+W≥πcz/wy≥πcz sprawdzanie pisowni
+[Languages]
+JÍzyki
+[Flags]
+Flagi
+[Language]
+JÍzyk
+[Wrong word:]
+Z≥e s≥owo:
+
+;============================================================
+;  File: userinfoex.dll
+;  Module: UserInfoEx
+;  Versions: 0.8.4.2
+;============================================================
+[Contact: %s (%S)]
+Kontakt: %s (%S)
+[Settings: %S]
+Ustawienie: %S
+[Events: %S]
+Zdarzenie: %S
+[Importing...\nPlease wait!]
+Importowanie...\nProszÍ poczekaÊ!
+[Setting/Event (20/100)]
+Ustawienia/Zdarzenia (20/100)
+[added contacts: %u / %u\nadded settings: %u / %u\nadded events %u / %u\nduplicated events: %u]
+Dodano kontaktÛw: %u / %u\nDodano ustawieÒ: %u / %u\nDodano zdarzeÒ: %u / %u\nPowielonych zdarzeÒ: %u
+[Country Flags]
+Flagi krajÛw
+[Show country flag as &status icon on message window]
+Pokaø ikone kraju w oknie wiadomoúci
+[Show 'Restart' menu item]
+Pokaø 'Restart' w menu
+[&Export User Details]
+Eksportuj dane kontaktu
+[&Import User Details]
+Importuj dane kontaktu
+[Buttons]
+Przyciski
+[AccountMenu]
+Menu konta
+[Edit Contact Information]
+Edytuj informacje o kontakcie
+[View personal user details and more]
+Pokaø osobiste dane uøytkownika
+[&Update]
+Aktualizuj
+[Naming]
+ImiÍ i nazwisko
+[Second name:]
+Drugie imiÍ:
+[Prefix:]
+Prefiks:
+[Display Name:]
+Wyúwietlana nazwa:
+[Your contact's local time is:]
+Czas lokalny twojego kontaktu:
+[Marital status:]
+Stan cywilny:
+[Person]
+Osoba
+[not found]
+nie znaleziono
+[Anniversaries]
+Rocznice
+[Remind me]
+Przypomnij mi
+[days before.]
+dni przed.
+[Origin]
+Pochodzenie
+[County/State:]
+Hrabstwo/Stan:
+[Birthday]
+Urodziny
+[Reminder settings:]
+Ustawienia przypominania:
+[Contact added to ContactList:]
+Kontakt zosta≥ dodany do listy kontaktÛw:
+[Office:]
+Urzπd:
+[Superior:]
+Kierownik:
+[Assistant:]
+Asystent:
+[1. language:]
+1. jÍzyk:
+[2. language:]
+2. jÍzyk:
+[3. language:]
+3. jÍzyk
+[Company]
+SpÛ≥ka
+[Language skills]
+Znane jÍzyki
+[Enter a category for this number:]
+Wpisz kategoriÍ dla tego numeru
+[Add E-Mail]
+Dodaj e-mail
+[Enter a representitive name for the e-mail address here.]
+Podaj nazwÍ dla adresu e-mail.
+[Enter the e-mail address here.]
+Wpisz adres e-mail tutaj.
+[Show menu items]
+Pokaø wpisy menu
+[hours]
+godziny
+[CList extra icon:]
+Ikona listy:
+[Icon flashing on event]
+Migajπce ikony przy zdarzeniu
+[Perform check on each startup]
+Sprawdzaj na starcie
+[Time of last check:]
+Czas ostatniego sprawdzenia:
+[Birthday compatibility mode:]
+Tryb kompatybilnoúci urodzin:
+[Automatically backup and keep protocol based birthdays up to date]
+Automatycznie twÛrz kopie bezpieczeÒstwa i aktualizuj dane o urodzinach
+[Play sound]
+Odtwarzaj düwiÍk
+[Use ignore list]
+Uøyj listy blokowania
+[What do you want to export?]
+Co chcesz wyeksportowaÊ?
+[Contact Information]
+Informacje o kontakcie 
+[Contact History]
+Historia kontaktu
+[Birthday popup colours]
+Kolory popupÛw urodzin
+[Show reminder messages as popups (if reminder is enabled)]
+Pokaø wiad. przypominacza w popupach (jeúli jest w≥πczony)
+[Anniversary popup colours]
+Kolory popupÛw rocznic
+[Address]
+Adres
+[Phone]
+Telefon
+[e-mail]
+E-mail
+[Add Affiliation]
+PrzynaleønoúÊ
+[Add Past]
+Przesz≥oúÊ
+[Add Interest]
+Zainteresowanie
+[Select Modules]
+Wybierz modu≥y
+[Check the Modules in the TreeView which you want to export for the contact. To add    the file as a new list entry later you need to export at least the protocol module.]
+Sprawdü modu≥y w drzewku ktÛre chcesz wyeksportowaÊ wraz z kontaktem. Aby dodaÊ nowy wpis na nowej liúcie bÍdziesz musia≥ eksportowaÊ co najmniej modu≥y protoko≥u.
+[Check all]
+Zaznacz wszystkie
+[Uncheck all]
+Odznacz wszystkie
+[Add Anniversary]
+Dodaj rocznicÍ
+[You can edit the annviversary here.]
+Tutaj moøesz edytowaÊ rocznice.
+[Enter a name for the anniversary here please:]
+Podaj nazwÍ rocznicy:
+[Select a date here:]
+Wybierz datÍ:
+[Remind me of this anniversary.]
+Przypominaj o tej rocznicy.
+[Anniversary list]
+Lista rocznic
+[No anniversaries to remind of]
+Brak rocznic do przypomnienia
+[This list gives you some overview about all your contact's anniversaries.]
+Ta lista daje ci podglπd na wszystkie rocznice twoich kontaktÛw.
+[Statistics:]
+Statystyki
+[with birthday:]
+z urodzinami:
+[female:]
+kobiet:
+[male:]
+mÍøczyzn:
+[number of contacts:]
+liczba kontaktÛw:
+[average age:]
+úredni wiek:
+[Show &during the next]
+Pokazuj przez nastÍpne
+[day(s)]
+dni.
+[Reminder]
+Przypomnienie
+[Popup this dialog on a contact's anniversary]
+Wyúwietl to okno przy rocznicy kontaktu
+[Reset factory defaults]
+PrzywrÛÊ domyúlne
+[Check file version of default IconPack to prevent wrong icon display]
+Sprawdü wersjÍ domyúlnej paczki ikon aby zapobiec ich b≥Ídnemu wyúwietlaniu
+[Copy UserInfo and mBirthday module from SubContact to set missing information]
+Kopiuj modu≥y UserInfo i mBirthday z subkontaktÛw aby ustawiÊ brakujπce informacje
+[MetaContacts]
+Metakontakty
+[Scan SubContacts for missing information]
+Skanuj subkontakty øeby znaleüÊ brakujπce informacje
+[Display icons on each dialog button]
+Pokazuj ikony na kaødym przycisku
+[(*) Requires Miranda to be restarted.]
+(*) Miranda musi zostaÊ zrestartowana.
+[Enable extended 'GetContactInfo' module (*)]
+W≥πcz rozszerzony modu≥ "GetContactInfo" (*)
+[Use Windows Timezone]
+Uøyj strefy czasowej z Windows
+[Enable extended 'send/receive email' service (*)]
+W≥πcz rozszerzonπ us≥ugÍ "wyúlij/odbierz email" (*)
+[Protocol's information]
+Informacje o protokole
+[Custom information]
+W≥asne informacje
+[Overwritten information]
+Nadpisanie informacji
+[Changed information]
+Zmiana informacji
+[Enable colours to give information about information's status.]
+W≥πcz kolory do informowania o statusie.
+[Make protocol based contact information readonly.]
+Informacje oparte na protokole kontaktu tylko do odczytu.
+[Enable groups in details dialog's treeview.]
+W≥πcz grupy w drzewku okna szczegÛ≥Ûw.
+[Sort all tree items alphabetically.]
+Sortuj wpisy alfabetycznie.
+[Info of a MetaContact's SubContact]
+Info o subkontaktach metakontaktÛw
+[Common]
+WspÛlne
+[Change my ICQ details with UserInfoEx. (Disabled if ICQ doesn't support it)]
+ZmieÒ dane ICQ uøywajπc UserInfoEx. (Wy≥πczone jeúli ICQ tego nie obs≥uguje)
+[Make item labels readonly.]
+Etykiety wpisÛw tylko do odczytu.
+[Importing contacts. Please wait...]
+Import kontaktÛw. ProszÍ czekaÊ...
+[Enable contact menu items to export/import vCards]
+Dodaj wpisy importu/eksportu vCard w menu kontaktÛw
+[Cascade main menu items]
+Kaskaduj wpisy w menu
+[Cascade contact menu:]
+Kaskaduj menu kontaktu:
+[Ex-/Import items]
+Eks/Import wpisÛw
+[Cascading menu items is available only if the genmenu plugin is installed.]
+Kaskadowanie wpisÛw w menu jest moøliwe tylko jeúli masz wtyczkÍ genmenu.
+[Homepage]
+Strona WWW
+[E-Mail]
+E-Mail
+[Replace the following default icons:]
+ZamieÒ nastÍpujπce domyúlne ikony:
+[This options require a contact list which supports extra icons.]
+Ta opcja wymaga listy kontaktÛw obs≥ugujπcej dodatkowe ikony.
+[Question]
+Pytanie
+[All Contacts]
+Wszystkie kontakty
+[Required modules]
+Wymagane modu≥y
+[Optional modules]
+Opcjonalne modu≥y
+[Shows Miranda's installation directory.]
+Pokaø katalog instalacyjny Mirandy
+[Shows the directory with all your Miranda's profiles.]
+Pokaø katalog wszystkich twoich profili.
+[Import complete]
+Import zakoÒczony
+[all Contacts]
+Wszystkie kontakty
+[Select a destination file...]
+Wybierz miejsce przeznaczenia pliku...
+[Import User Details from VCard]
+Importuj dane uøytkownika z wizytÛwki
+[%s provides a new birthday via protocol.\nIt is %s. The old one was %s.\n\nDo you want to use this as the new birthday for this contact?]
+%s wprowadzi≥ nowπ datÍ urodzenia przez protokÛ≥.\nJest to %s. Poprzednio by≥o to %s.\n\nCzy chcesz zmieniÊ datÍ urodzenia tego kontaktu?
+[Rename Item]
+ZmieÒ nazwÍ przedmiotu
+[Hide Item]
+Ukryj przedmiot
+[Show Items:]
+Pokaø przedmiot:
+[Reset to defaults]
+Ustaw domyúlnie
+[The phone number should start with a + and consist of\nnumbers, spaces, brackets and hyphens only.]
+Numer telefonu powinien zaczynaÊ siÍ od + i sk≥adaÊ siÍ tylko z\nnumerÛw, spacji, nawiasÛw i ≥πcznikÛw.
+[Syntax Error]
+B≥πd sk≥adni
+[Choose the item to display.]
+Wybierz przedmiot do wyúwietlenia
+[Edit the currently displayed item.]
+Edytuj obecnie wyúwietlany przedmiot.
+[Add a new custom item.]
+Dodaj nowy, w≥asny przedmiot.
+[Delete the selected item.]
+Skasuj zaznaczony przedmiot
+[Do you really want to delete the current selected item?\n\t%s\n\t%s]
+Czy na prawdÍ chcesz skasowaÊ obecnie zaznaczony przedmiot?\n\t%s\n\t%s
+[Removes an item from the list]
+UsuÒ przedmiot z listy
+[All contacts]
+Wszystkie kontakty
+[Birthdays only]
+Tylko urodziny
+[Anniversaries only]
+Tylko rocznice
+[Disabled reminder]
+Przypominanie wy≥πczone
+[Upload Details]
+Wyúlij dane
+[You are not currently connected to the ICQ network.\nYou must be online in order to update your information on the server.\n\nYour changes will be saved to database only.]
+Obecnie nie jesteú pod≥πczony do sieci ICQ.\n Musisz byÊ online aby uaktualniÊ informacje na serwer.\n\nTwoje zmian zostanπ zapisane tylko do bazy danych.
+[Uploading]
+Wysy≥anie
+[Contact (private)]
+Kontakt (Prywatne)
+[Contact (Work)]
+Kontakt (Praca)
+[About]
+O kontakcie
+[IM Naming]
+Nazewnictwo IM
+[Timezone]
+Strefa czasowa
+[Marital status]
+Stan cywilny
+[Anniversary]
+Rocznica
+[Export: Modules]
+Eksport: Modu≥y
+[Export: Folder]
+Eksport: Folder
+[Aquarius]
+Wodnik
+[Aries]
+Baran
+[Cancer]
+Rak
+[Capricorn]
+Kozioroøec
+[Gemini]
+BliüniÍta
+[Leo]
+Lew
+[Libra]
+Waga
+[Pisces]
+Ryby
+[Sagittarius]
+Strzelec
+[Scorpio]
+Skorpion
+[Taurus]
+Byk
+[Virgo]
+Panna
+[Details Infobar]
+Infobar - dane
+[Phone Infobar]
+Infobar - telefon
+[E-Mail Infobar]
+Infobar - E-mail
+[Export VCard]
+Eksport VCard
+[Import VCard]
+Import VCard
+[Anniversary Infobar]
+Infobar - rocznice
+[Export]
+Eksport
+[Goto]
+Idü do
+[Custom Phone]
+Telefon
+[Ex-/Import]
+Eks/Import
+[Backup Birthday]
+PrzywrÛÊ urodziny
+[Birthday today]
+Dzisiejsze urodziny
+[Birthday tomorrow]
+Jutrzejsze urodziny
+[Birthday in 2 days]
+Urodziny w ciπgu 2 dni
+[Birthday in 3 days]
+Urodziny w ciπgu 3 dni
+[Birthday in 4 days]
+Urodziny w ciπgu 4 dni
+[Birthday in 5 days]
+Urodziny w ciπgu 5 dni
+[Birthday in 6 days]
+Urodziny w ciπgu 6 dni
+[Birthday in 7 days]
+Urodziny w ciπgu 7 dni
+[Birthday in 8 days]
+Urodziny w ciπgu 8 dni
+[Birthday in 9 days]
+Urodziny w ciπgu 9 dni
+[Birthday later]
+PÛüniejsze urodziny
+[Anniversary today]
+Dzisiejsze rocznice
+[Anniversary tomorrow]
+Jutrzejsze rocznice
+[Anniversary in 2 days]
+Rocznice w ciπgu 2 dni
+[Anniversary in 3 days]
+Rocznice w ciπgu 3 dni
+[Anniversary in 4 days]
+Rocznice w ciπgu 4 dni
+[Anniversary in 5 days]
+Rocznice w ciπgu 5 dni
+[Anniversary in 6 days]
+Rocznice w ciπgu 6 dni
+[Anniversary in 7 days]
+Rocznice w ciπgu 7 dni
+[Anniversary in 8 days]
+Rocznice w ciπgu 8 dni
+[Anniversary in 9 days]
+Rocznice w ciπgu 9 dni
+[Anniversary later]
+PÛüniejsze rocznice
+[Ex-/Import contact]
+Import / Eksport
+[Export all contacts]
+Eksportuj wszystkie kontakty
+[Import all contacts]
+Importuj wszystkie kontakty
+[Backup birthdays]
+PrzywrÛÊ urodziny
+[Check anniversaries]
+Sprawdü rocznice
+[&Export group]
+Eksportuj grupÍ
+[Ready]
+Gotowy
+[Reminder disabled]
+Przypominanie wy≥πczone 
+[Bithdays only]
+Tylko urodziny
+[everything]
+Wszystko
+[mBirthday (default)]
+mBirthday (domyúlnie)
+[Extended UserInfo]
+Dane kontaktu
+[Details Dialog]
+SzczegÛ≥y okna
+[Open in Browser]
+OtwÛrz w przeglπdarce
+[Primary e-mail]
+Pierwszy e-mail
+[Secondary e-mail]
+Drugi e-mail
+[Tertiary e-mail]
+Trzeci e-mail
+[My Notes:]
+Moje notatki:
+[Add a new anniversary]
+Dodaj nowπ rocznicÍ
+[Delete an existing anniversary]
+UsuÒ istniejπcπ rocznicÍ
+[Unspecified]
+Nieokreúlone
+[Do you really want to delete the %s?]
+Czy na prawdÍ chcesz skasowaÊ %s?
+[Edit Category]
+Edytuj kategoriÍ
+[Edit Value]
+Edytuj wartoúÊ
+[Your png2dib.dll is either obsolete or damaged.]
+Plik png2dib.dll jest nieaktualny lub uszkodzony.
+[Memory allocation error!]
+B≥πd alokacji pamiÍci!
+[User has no valid homepage]
+Uøytkownik nie poda≥ strony domowej
+[View Homepage]
+Pokaø stronÍ domowπ
+[&Homepage]
+Strona domowa
+[%s has birthday today.]
+%s ma dziú urodziny.
+[an anniversary]
+rocznica
+[He]
+On
+[She]
+Ona
+[He/She]
+On/Ona
+[%s has the following anniversaries:]
+%s obchodzi nastÍpujπce rocznice:
+[%d. %s today]
+%d. %s dziú
+[%d. %s tomorrow]
+%d. %s jutro
+[%d. %s in %d days]
+%d. %s w %d dniach
+[%s has birthday tomorrow.]
+%s ma jutro urodziny.
+[\n%s becomes %d years old.]
+\n%s ma teraz %d urodziny.
+[%s has birthday in %d days.]
+%s ma urodziny w przeciπgu %d dni
+[Check birthdays]
+Sprawdü urodziny
+[Birthday reminder]
+Przypominanie o urodzinach
+[Birthday reminder: it's coming]
+Przypominanie o urodzinach: nadchodzπcych
+[Anniversary Reminder]
+Przypominanie o rocznicach
+[TreeView]
+"Widok drzewa"
+[Popup Anniversary list]
+Lista rocznic
+[Refresh Contact Details]
+Odúwieø detale kontaktu
+[UserInfoEx]
+Rozszerzone dane kontkatu
+[Replace progress dialogs with popups]
+Nadpisz dialogi popupÛw
+[Replace message boxes with popups]
+Nadpisz okienka wiadomoúci popupÛw
+[Cascade:]
+Kaskada:
+[Show Menu Item]
+Pokaø w menu
+[UserInfo (default)]
+UserInfo (domyúlny)
+[Use Zodiac as default avatar]
+Uøyj znak zodiaku jako domyúlny awatar
+[Anniversary Editor\nAdd/Edit your anniversary here.]
+Edytor Rocznic\nDodaj/Edytuj rocznice tutaj.
+[Zodiac:]
+Znak zodiaku:
+[Don't remind me of this anniversary.]
+Nie przypominaj mi o tej rocznicy.
+[Affiliation]
+PrzynaleønoúÊ
+[Just from the beginning.]
+Jestem poczπtkujπcy.
+[Delete an entry]
+UsuÒ rocznicÍ
+[<Unspecified>]
+<Nieokreúlony>
+[Address & Contact]
+Adres i Kontakt
+[Do you really want to delete this entry?]
+Czy napewno chcesz usunπÊ te dane?
+[Interest]
+Zainteresowanie
+[Enter your phone number\nand don't worry about formating.]
+Wpisz swÛj numer telefonu\ni nie martw siÍ o formatowanie.
+[Enter your full e-mail address.\n(e.g.: john.doe@provider.com)]
+Wpisz swÛj pe≥ny adres e-mail.\n(np.: bunnyhoney@o2.pl)
+[Use global reminder settings.]
+Uøyj globalnych opcji przypomnienia.
+[Adapt propertysheet pages to aero mode.]
+Dostosuj do trybu aero.
+[Update custom birthday]
+Aktualizacja rocznic
+[Backing up and syncing all birthdays complete!]
+Wykonywanie kopii zapasowych i synchronizacji wszystkich urodzin kompletny!
+[[b]%s (%S)...[/b]\n%d Contacts remaning]
+[b]%s (%S)...[/b]\n%d do odúwieøenia
+[Grender]
+P≥eÊ
+[Reminder (uinfoex)]
+Rocznice (uinfoex)
+[Homepage (uinfoex)]
+Strona domowa (uinfoex)
+[&Export Group]
+Eksportuj grupÍ
+[&Import Group]
+Importuj grupÍ
+[AnnivList]
+Lista rocznic
+[&Save changes]
+Zapisz zmiany
+[This is the reminder message]
+To jest wiadomoúÊ przypominajπca
+[Upcomming anniversaries\nThis list gives you some overview about all your contact's anniversaries.]
+Nadchodzπce rocznice\nTa lista pokazuje informacje o wszystkich rocznicach kontaktÛw.
+[Proto]
+ProtokÛ≥
+[Age/Nr.]
+Wiek/Nr.
+[Single]
+Singiel
+[Close relationships]
+Bliskie stosunki
+[Engaged]
+ZarÍczony(-a)
+[Married]
+Øonaty/MÍøatka
+[Divorced]
+Rozwiedziony(-a)
+[Separated]
+W separacji
+[Widowed]
+Wdowa/Wdowiec
+[Down arrow]
+Strza≥ka w dÛ≥
+
+;============================================================
+;  File: meteogroup.ini
+;  Module: weather
+;============================================================
+; Sunny
+[# Weather Sunny 1 #]
+Rozpogodzenia
+[# Weather Sunny 2 #]
+Przejaúnienia
+[# Weather Sunny 3 #]
+Przewaønie S≥onecznie
+[# Weather Sunny 4 #]
+S≥onecznie, bezchmurnie
+[# Weather Sunny 5 #]
+Pogodnie
+[# Weather Sunny 6 #]
+Przejaúnienia
+[# Weather Sunny 7 #]
+Bezchmurnie
+
+;==============================
+; Partly Cloudy
+[# Weather Partly Cloudy 1 #]
+Umiarkowane zachmurzenie
+[# Weather Partly Cloudy 2 #]
+Pogodnie, rozwÛj chmur
+[# Weather Partly Cloudy 3 #]
+Niewielkie zachmurzenie
+[# Weather Partly Cloudy 4 #]
+Przewaønie bezchmurnie
+
+;==============================
+; Cloudy
+[# Weather Cloudy 1 #]
+Duøe zachmurzenie
+[# Weather Cloudy 2 #]
+Pochmurno
+
+;==============================
+; Rain
+[# Weather Rain 1 #]
+Moøliwe opady przelotne
+[# Weather Rain 2 #]
+Okresami deszcz
+[# Weather Rain 3 #]
+Deszcz przelotny
+[# Weather Rain 4 #]
+Moøliwy S≥aby Deszcz
+
+;==============================
+; Rain Shower
+[# Weather Rain Shower 1 #]
+S≥aba møawka
+
+;==============================
+; Snow
+[# Weather Snow 1 #]
+ZamieÊ
+
+;==============================
+; Snow Shower
+[# Weather Snow Shower 1 #]
+Okresami ånieg
+[# Weather Snow Shower 2 #]
+Okresami s≥aby únieg
+[# Weather Snow Shower 3 #]
+Moøliwy przelotny únieg
+[# Weather Snow Shower 4 #]
+ånieg z deszczem
+
+;==============================
+; Lightning
+[# Weather Lightning 1 #]
+Moøliwe burze
+[# Weather Lightning 2 #]
+Ulewy/burze
+[# Weather Lightning 3 #]
+Wichura
+
+;==============================
+; Fog
+[# Weather Fog 1 #]
+Zamglenia
+[# Weather Fog 2 #]
+Mg≥a Osadzajπca Szadü
+
