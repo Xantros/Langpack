@@ -3,7 +3,7 @@ rem This is [xxxx] sting(s) dupes finder.
 rem Used for finding duplicate strings in Mirana IM translation files
 title FindDupes v0.2
 setlocal ENABLEDELAYEDEXPANSION
-set target="=CORE=.txt" "=UNsorted=.txt" "=dbtool=.txt" "=DUPES=.txt" .\plugins\*.txt
+set target="=CORE=.txt" "=UNsorted=.txt" "=dbtool=.txt" "=DUPES=.txt" .\plugins\*.txt .\weather\*.txt
 @echo.
 @echo Be informed, that very long sting not recognized and will be placed
 @echo to %new% even if exist in any of %target%
