@@ -333,7 +333,7 @@ Wybierz program do uruchomienia
 [(often %d)]
 (czêsto %d)
 [Network]
-Sieci
+Sieci i konta
 [Miranda IM Options]
 Opcje Mirandy IM
 [<all modules>]
