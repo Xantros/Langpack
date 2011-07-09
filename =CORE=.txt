@@ -332,7 +332,7 @@ Wybierz program do uruchomienia
 [(often %d)]
 (czêsto %d)
 [Network]
-Protoko³y
+Sieci
 [Miranda IM Options]
 Opcje Mirandy IM
 [<all modules>]
@@ -1222,7 +1222,7 @@ Wersja stabilna
 [Preview releases (beta)]
 Wersja testowa (beta)
 [Development releases (alpha)]
-Wczesna wersja testowa (alpha)
+Wersja rozwojowa (alpha)
 [&Offline\tCtrl+0]
 Niepo³¹czony\tCtrl+0
 [On&line\tCtrl+1]

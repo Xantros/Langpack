@@ -7,7 +7,7 @@ setlocal ENABLEDELAYEDEXPANSION
 title Langpack Generator v0.4 by BasiL
 
 rem set variables
-set lp=Langpack_polish.txt
+set lp=langpack_polish.txt
 set vi=VersionInfo.txt
 set PluginsDir=.\Plugins
 set WeatherDir=.\Weather

@@ -3,11 +3,9 @@ Language: Polish
 Locale: 0415
 Version: 11.02.18
 Last-Modified-Using: Miranda IM Version: 0.10.0 alpha build #2 Unicode
-Author:  MojaMiranda
+Author: www.MojaMiranda.pl
 Author-email: MojaMiranda@gmail.com
-
-Plugins-included: actman, AddContactPlus, advaimg, AdvSplashScreen, assocmgr, Avs, Bass_interface, Bonsai, BossKey, BuddyExpectator, Clist_modern, dbx_mmap_sa, db_autobackups, extraicons, facebook, Fingerprint, Folders, GG, GTalkExt, HistoryEvents, HistoryKeeper, HistoryPP, HistoryStats, IgnoreState, Import_sa, Jabber, ListeningTo, mContacts, MenuEx, mRadio, NewXstatusNotify, Nudge, PackUpdater, Pmanager, PopUp, RSS, SeenPlugin, SendSS, ShlExt, simplear, simplestatusmsg, SIP, SMCN, SmileyAdd, SMS, Spam-o-tron, SpellChecker, StatusPlugin, StopSpam, Svc_crshdmp, Svc_DBEPP, TabSRMM, Tipper, UInfoEx, useactions, Variables, voiceservice, Watrack, Weather, XFire, YAMN.
-
+Plugins-included: actman, AddContactPlus, advaimg, AdvSplashScreen, Alarms, assocmgr, AutoRun, AutoShutdown, avatarHistory_ALAStyleW, Avs, Bass_interface, Bonsai, BossKey, BuddyExpectator, Clist_modern, dbx_mmap_sa, db_autobackups, extraicons, facebook, Fingerprint, Folders, GG, GTalkExt, HistoryEvents, HistoryKeeper, HistoryPP, HistoryStats, IgnoreState, Import_sa, Jabber, LastSeen, ListeningTo, mContacts, MenuEx, mRadio, NewXstatusNotify, Nudge, PackUpdater, PasteIt, Ping, Pmanager, PopUp, QuickSearch, RSS, SeenPlugin, SendSS, ShlExt, simplear, simplestatusmsg, SIP, SMCN, SmileyAdd, SMS, Spam-o-tron, SpellChecker, StatusPlugin, StopSpam, Svc_crshdmp, Svc_DBEPP, TabSRMM, Tipper, UInfoEx, Updater, useactions, Variables, voiceservice, Watrack, Weather, WindowsStartPosition, WorldTimeProtocol, XFire, YAMN.
 ; FLID: Polish langpack 11.02.18
 ; Generated on 2011-02-18 09:24 Local Time
 
@@ -16,7 +14,7 @@ Plugins-included: actman, AddContactPlus, advaimg, AdvSplashScreen, assocmgr, Av
 ;============================================================
 ;  File: miranda32.exe
 ;  Module: Miranda Core
-;  Versions: 0.10.0.1
+;  Versions: 0.10.0.2
 ;============================================================
 [Account is online. Disable account?]
 Konto jest uruchomione. Wy³¹czyæ to konto?
@@ -347,7 +345,7 @@ Wybierz program do uruchomienia
 [(often %d)]
 (czêsto %d)
 [Network]
-Protoko³y
+Sieci
 [Miranda IM Options]
 Opcje Mirandy IM
 [<all modules>]
@@ -430,20 +428,24 @@ Wtyczka ANSI
 Uruchomione wtyczki 
 [Unloaded plugin]
 Nieza³adowane wtyczki
+[Free for chat]
+Porozmawiajmy
+[Online]
+Dostêpny
 [Away]
 Zaraz wracam
 [NA]
-Niedostêpny
+Wrócê póŸniej
 [Occupied]
 Zajêty
 [DND]
 Nie przeszkadzaæ
-[Free for chat]
-Chêtny do rozmowy
 [Invisible]
 Niewidoczny
+[Offline]
+Roz³aczony
 [On the phone]
-Przy telefonie
+Pod telefonem
 [Out to lunch]
 Na obiedzie
 [%s Icons]
@@ -1233,7 +1235,7 @@ Wersja stabilna
 [Preview releases (beta)]
 Wersja testowa (beta)
 [Development releases (alpha)]
-Wczesna wersja testowa (alpha)
+Wersja rozwojowa (alpha)
 [&Offline\tCtrl+0]
 Niepo³¹czony\tCtrl+0
 [On&line\tCtrl+1]
@@ -1402,8 +1404,7 @@ Aktualizacja
 Menu g³ówne
 [E&xit]
 WyjdŸ
-[Online]
-Po³¹czony
+
 [This plugin requires db3x plugin version 0.5.1.0 or later]
 Ta wtyczka wymaga db3x w wersji 0.5.1.0 lub nowszej
 [(Unknown Contact)]
@@ -1422,8 +1423,6 @@ Personalizacja
 Menu
 [Protocols]
 Protoko³y
-[Offline]
-Roz³¹czony
 [StatusMenu]
 Menu statusu
 [%s Custom Status]
@@ -2459,6 +2458,14 @@ ms
 Poka¿ splash
 
 ;============================================================
+;  Module: alarms.dll
+;  Plugin: Alarms
+;  Versions: 0.4.0.5
+;============================================================
+[Alarms]
+Alarmy
+
+;============================================================
 ;  Module: assocmgr.dll
 ;  Plugin: File Association Manager
 ;  Versions: 0.1.1.3
@@ -2549,6 +2556,294 @@ Obs³ugiwane pliki
 Zaufane protoko³y
 [File Association Manager]
 Manager powi¹zañ protoko³ów
+
+;============================================================
+;  File: autorun.dll
+;  Module: AutoRun
+;  Versions: 0.1.0.1
+;============================================================
+[Autorun]
+Automatyczne uruchamianie
+[Launch Miranda IM at system startup]
+Uruchom Mirandê IM przy starcie systemu
+[Note: At startup Miranda IM will use current profile]
+Wiadomoœæ: Przy starcie Miranda IM u¿yje obecnego profilu
+
+;============================================================
+;  File: autoshutdown.dll
+;  Module: AutoShutdown
+;  Versions: 1.4.0.2
+;============================================================
+[AutoShutdown]
+AutoShutdown
+[Adds the possibility to shutdown the computer when a specified event occurs.]
+Dodaje mo¿liwoœæ wy³¹czenia komputera po wyst¹pieniu okreœlonych zdarzeñ.
+[AutoShutdown Plugin]
+Wtyczka AutoShutdown
+[The AutoShutdown plugin can not be loaded. It requires Miranda IM %hs or later.]
+Nie mo¿na za³adowaæ wtyczki AutoShutdown, poniewa¿ wymaga ona Mirandy IM %hs lub nowszej.
+[Automatic &shutdown...]
+Automatyczne wy³¹czanie...
+[Stop automatic &shutdown]
+Zatrzymaj automatyczne wy³¹czanie
+[Start/Stop automatic shutdown]
+Rozpocznij/Zatrzymaj automatyczne wy³¹czanie
+[Start automatic shutdown]
+Rozpocznij automatyczne wy³¹czanie
+[Stop automatic shutdown]
+Zatrzymaj automatyczne wy³¹czanie
+[Automatic Shutdown Countdown]
+Odliczanie automatycznego wy³¹czania
+[Toggle Automatic Shutdown]
+Prze³¹cz automatyczne wy³¹czanie
+[Active]
+Aktywny
+[Inactive]
+Nieaktywny
+[Countdown on Frame]
+Odliczanie w ramce
+[Progress Bar]
+Pasek postêpu
+[Select the automatic shutdown event]
+Wybierz zdarzenie powoduj¹ce automatyczne wy³¹czenie
+[Shutdown at &specific time]
+Wy³¹cz o okreœlonym czasie
+[Shutdown a&t:]
+Wy³¹cz o:
+[Shutdown i&n:]
+Wy³¹cz za:
+[Second(s)]
+Sekund(y)
+[Minute(s)]
+Minut(y)
+[Hour(s)]
+Godzin(y)
+[Day(s)]
+Dni
+[Week(s)]
+Tygodnie
+[Month(s)]
+Miesi¹c(e)
+[Shutdown when a &message is received containing the following text:]
+Wy³¹cz po otrzymaniu wiadomoœci o nastêpuj¹cej treœci:
+[Shutdown when all &file transfers are finished]
+Wy³¹cz po zakoñczeniu wszystkich transferów
+[Shutdown when &prozessor usage drops below:]
+Wy³¹cz kiedy zu¿ycie procesora przekroczy:
+[(current: %u%%)]
+(obecnie: %u%%)
+[Shutdown when Miranda IM becomes &idle]
+Wy³¹cz kiedy Miranda przejdzie w bezczynnoœæ
+[Shutdown when all contacts are &offline]
+Wy³¹cz jeœli wszystkie kontakty bêd¹ roz³¹czone
+[&Action:]
+Akcja:
+[Close Miranda IM]
+Zamknij Mirandê IM
+[Sets all Miranda IM protocols to offline and closes Miranda IM.]
+Roz³¹cza wszystkie protoko³y i wy³¹cza Mirandê IM.
+[Set Miranda IM offline]
+Roz³¹cz Mirandê IM
+[Sets all Miranda IM protocols to offline.]
+Roz³¹cza wszystkie protoko³y Mirandy.
+[Log off user]
+Wyloguj u¿ytkownika
+[Logs the current Windows user off so that another user can log in.]
+Wylogowuje aktualnego u¿ytkownika Windows, aby ktoœ inny móg³ siê zalogowaæ.
+[Restart computer]
+Zrestartuj komputer
+[Shuts down Windows and then restarts Windows.]
+Wy³¹cza Windows i restartuje komputer.
+[Shutdown computer]
+Wy³¹cz komputer
+[Closes all running programs and shuts down Windows to a point at which it is safe to turn off the power.]
+Zamyka wszystkie uruchomione programy i wy³¹cza Windows co pozwala wy³¹czyæ zasilanie.
+[Standby mode]
+Tryb oczekiwania
+[Saves the current Windows session in memory and sets the system to suspend mode.]
+Zapisuje aktualn¹ sesjê Windows w pamiêci i ustawia system w tryb wstrzymania.
+[Hibernate mode]
+Tryb hibernacji
+[Saves the current Windows session on harddisc, so that the power can be turned off.]
+Zapisuje aktualn¹ sesjê Windows na dysku twardym ¿eby mo¿na by³o wy³¹czyæ zasilanie.
+[Lock workstation]
+Zablokuj komputer
+[Locks the computer. To unlock the computer, you must log in.]
+Blokuje komputer. Aby go odblokowaæ musisz siê zalogowaæ.
+[Hang up dialup connections]
+Zawieœ aktywne po³¹czenia
+[Sets all protocols to offline and closes all RAS connections.]
+Roz³¹cza wszystkie protoko³y i zamyka sesje wszystkie RAS.
+[Shutdown]
+Wy³¹czanie
+[&Show confirmation dialog before shutdown]
+Poka¿ okno potwierdzenia przed zamkniêciem
+[&Countdown starts at:]
+Odliczaj od:
+[Shutdown Events]
+Zdarzenia zwi¹zane z wy³¹czaniem
+[&Activate automatic shutdown with the same settings again if Miranda IM was closed with automatic shutdown enabled]
+Aktywuj ponownie automatyczne wy³¹czanie z tymi samymi opcjami jeœli Miranda zostanie zamkniêta przez tê wtyczkê
+[&Ignore hidden or temporary contacts when watching for all contacts being offline]
+Ignoruj ukryte lub tymczasowe kontakty kiedy obserwujesz czy kontakty s¹ po³¹czone
+[Critical Shutdown Events]
+Wy³¹czanie w sytuacjach krytycznych
+[&Thunderstorm warning is issued  (Weather)]
+Og³oszono burzê z piorunami (Pogoda)
+[&Harddrive overheats (HDD Info)]
+Przegrzany dysk twardy (HDD Info)
+[Shutdown: Close Miranda IM]
+Wy³¹czanie: Zamknij Mirandê IM
+[Shutdown: Set Miranda IM offline]
+Wy³¹czanie: Roz³¹cz Mirandê IM
+[Shutdown: Log off user]
+Wy³¹czanie: Wyloguj u¿ytkownika
+[Shutdown: Restart computer]
+Wy³¹czanie: Zrestartuj komputer
+[Shutdown: Shutdown computer]
+Wy³¹czanie: Wy³¹cz komputer
+[Shutdown: Standby mode]
+Wy³¹czanie: Tryb oczekiwania
+[Shutdown: Hibernate mode]
+Wy³¹czanie: Tryb hibernacji
+[Shutdown: Lock workstation]
+Wy³¹czanie: Zablokuj komputer
+[Shutdown: Hang up dialup connections]
+Wy³¹czanie: Zawieœ aktywne po³¹czenia
+[Miranda IM is going to be automatically closed in %i second(s).]
+Miranda IM zostanie automatycznie wy³¹czona za %i sekund(y).
+[You will be logged off automatically in %i second(s).]
+Zostaniesz automatycznie wylogowany za %i sekund(y).
+[The computer will automatically be restarted in %i second(s).]
+Komputer zostanie automatycznie zrestartowany za %i sekund(y).
+[The computer will automatically be set to standby mode in %i second(s).]
+Komputer zostanie automatycznie ustawiony na tryb oczekiwania za %i sekund(y).
+[The computer will automatically be set to hibernate mode in %i second(s).]
+Komputer automatycznie przejdzie w stan hibernacji za %i sekund(y).
+[The workstation will automatically get locked in %i second(s).]
+Komputer zostanie automatycznie zablokowany za %i sekund(y).
+[The computer will automatically be shut down in %i second(s).]
+Komputer zostanie automatycznie zamkniêty za %i sekund(y).
+[All dialup connections will be closed in %i second(s).]
+Wszystkie nawi¹zane po³¹czenia zostan¹ przerwane za %i sekund(y).
+[Unsaved data in open applications except Miranda IM might get lost.]
+Niezapisane dane w otwartych programach (poza Mirand¹) mog¹ zostaæ utracone.
+[Please click "Cancel" if you would like to abort the process.]
+Kliknij na "Anuluj" jeœli chcesz przerwaæ proces.
+[&Now!]
+Teraz!
+[Time left:]
+Pozosta³y czas:
+[Shutdown at:]
+Wy³¹cz o:
+[Paused]
+Pauza
+[&Cancel Countdown]
+Anuluj odliczanie
+[&Pause Countdown]
+Zatrzymaj odliczanie
+[&Unpause Countdown]
+Wznów odliczanie
+[Automatic Shutdown Error]
+B³¹d automatycznego wy³¹czania
+[The shutdown process failed!\nReason: %s]
+Proces wy³¹czania nie powiód³ siê!\nPowód: %s
+
+;============================================================
+;  Module: avatarHistory_ALAStyleW.dll
+;  Plugin: Avatar History ALA Style Mod
+;  Versions: 0.0.1.10
+;============================================================
+[Delete avatar log?]
+Usun¹æ log awatara?
+[Are you sure you wish to delete this avatar shortcut?\nOnly shortcut will be deleted, bitmap file will be kept!]
+Na pewno chcesz usun¹æ skrót do tego awataru?\nUsuniêty zostanie tylko skrót, plik z obrazkiem zostanie zachowany!
+[Are you sure you wish to delete this archived avatar?\nThis will delete the history entry and the bitmap file.\nWARNING:This can affect more than one entry in history!]
+Na pewno chcesz usun¹æ ten zarchiwizowany awatar?\nUsuniêty zostanie wpis historii i plik z obrazkiem.\nUWAGA: Mo¿e to wp³yn¹æ na wiêcej ni¿ jeden wpis w historii!
+[Delete avatar?]
+Usun¹æ awatar?
+[Are you sure you wish to delete this archived avatar?\nThis will delete the shortcut and the bitmap file.\nWARNING:This can affect more than one shortcut!]
+Na pewno chcesz usun¹æ zarchiwizowany awatar?\nUsuniêty zostanie skrót i plik z obrazkiem.\nUWAGA: Mo¿e to wp³yn¹æ na wiêcej ni¿ jeden skrót!
+[View Avatar History]
+Poka¿ historiê awatara
+[Avatar History]
+Historia awatara
+[Unknown UIN]
+Nieznane UIN
+[Unknown Protocol]
+Nieznany protokó³
+[Avatar List Popup]
+Popup listy awatarów
+[Save As...]
+Zapisz jako...
+[Delete this entry]
+Usuñ ten wpis
+[Delete this entry and the bitmap file]
+Usuñ ten wpis i plik z obrazkiem
+[Open Folder]
+Otwórz folder
+[Store this user's old avatars in disk]
+Przechowuj stare awatary tego kontaktu na dysku
+[Log this user's avatars changes to history]
+Zapisuj zmiany awatara tego kontaktu w historii
+[Show popups for this user]
+Poka¿ popupy dla tego u¿ytkownika
+[MetaContacts have special handling: the info is always copied from subcontacts (notifications from a meta are ignored)]
+Meta kontakty zachowuj¹ siê w specyficzny sposób: informacje s¹ kopiowane z subkontaktów (powiadomienia z meta s¹ ignorowane)
+[Show popup when a contact change his avatar]
+Poka¿ popup kiedy kontakt zmieni swój awatar
+[ Delay ]
+OpóŸnienie
+[From popup plugin]
+Z wtyczki PopUp
+[ Actions ]
+Akcje
+[On right click:]
+Prawy przycisk:
+[On left click:]
+Lewy przycisk:
+[ Track ]
+Œledzenie
+[Avatar change:]
+Zmiana awataru:
+[Avatar removal:]
+Usuniêcie awataru:
+[Avatar History: Select how to store history avatars]
+Historia awataru: Wybierz sposób przechowywania awatarów
+[Please select how the avatar history should be stored. This setting can NOT be changed in future, because it would cause all previous history to be lost.]
+Proszê wybraæ sposób przechowywania historii awatarów. Te ustawienia NIE bêd¹ mog³y byæ zmienione, poniewa¿ spowodowa³oby to utratê ca³ej poprzedniej historii
+[Store history in miranda history and all history avatars in same folder]
+Przechowuj historiê w profilu Mirandy, a wszystkie awatary w tym samym folderze
+[Store history in miranda history and history avatars in per protocol folders]
+Przechowuj historiê w profilu Mirandy, a awatary w folderach protoko³ów
+[Store history in miranda history and history avatars in per contact folders using shortcuts]
+Przechowuj historiê w profilu Mirandy, a awatary w folderach kontaktów u¿ywaj¹c skrótów
+[Store history avatars in per contact folders using shortcuts]
+Przechowuj historiê awatarów w folderach kontaktów u¿ywaj¹c skrótów
+[Store history avatars in per contact folders]
+Przechowuj historiê awatarów w folderach kontaktów
+[History is stored inside miranda db. It can be seen by History++ or Avatar History internal viewer.]
+Historia bêdzie zapisana w bazie Mirandy, aby j¹ zobaczyæ u¿yj History++ lub wew. przegl¹darki.
+[All avatars are stored as <Profile>\\Avatars History\\<Avatar Hash>]
+Awatary s¹ przechowywane w <Profil>\\Avatars History\\<Hash awataru>
+[All avatars are stored as <Profile>\\Avatars History\\<Protocol>\\<Avatar Hash>]
+Awatary s¹ przechowywane w <Profil>\\Avatars History\\<Protokó³>\\<Hash awataru>
+[All avatars are stored as <Profile>\\Avatars History\\<Protocol>\\<Avatar Hash> and have a shortcut per history entry in <Profile>\\Avatars History\\<Protocol>\\<Contact ID>\\<Timestamp>]
+Awatary s¹ przechowywane w <Profil>\\Avatars History\\<Protokó³>\\<Hash awataru> i posiadaj¹ skróty we wpisach historii w <Profil>\\Avatars History\\<Protokó³>\\<ID kontaktu>\\<Data i czas>
+[History is stored only in disk. It can be seen by Avatar History internal viewer.]
+Historia bêdzie zapisana tylko na dysku. Mo¿esz j¹ zobaczyæ dziêki wbudowanej przegl¹darce.
+[All avatars are stored as <Profile>\\Avatars History\\<Protocol>\\<Contact ID>\\<Timestamp> (the same image can be stored lot of times)]
+Awatary s¹ przechowywane w <Profil>\\Avatars History\\<Protokó³>\\<ID kontaktu>\\<Data i czas> (ten sam obrazek mo¿e byæ zapisany wiele razy)
+[Avatar Change]
+Zmiana awataru
+[Show avatar history]
+Poka¿ historiê awatara
+[Show contact history]
+Poka¿ historiê kontaktu
+[Test Contact]
+Testowy kontakt
+[Test description]
+Testowy opis
 
 ;============================================================
 ;  File: avs.dll
@@ -8555,6 +8850,60 @@ Brak proxy Bytestream
 Proxy Bytestream nie jest dostêpne
 
 ;============================================================
+;  File: lastseen.dll
+;  Module: Last seen
+;  Versions: 5.0.4.7
+;============================================================
+[When a contact returns after ]
+Gdy wraca kontakt po
+[Show a popup]
+Poka¿ popup
+[Add an event (flashing icon) to the contact]
+Dodaj wydarzenie (migaj¹ca ikona) do kontaktu
+[On event action (double click) or popup click:]
+W akcji zdarzenie (podwójny klik) lub kliknij popup:
+[Open User Details]
+Otwórz szczegó³y u¿ytkownika
+[Open message window]
+Otwórz okno wiadomoœci
+[Return notification]
+Powrót powiadomienia
+[When a contact is absent for]
+Gdy kontakt jest nieobecny
+[Long time no see]
+Dawno siê nie widzieliœmy
+[or comes online for the first time]
+lub przyszed³ jako dostêpny pierwszy raz
+[Enable \"Miss you\" feature]
+W³¹cz funkcjê \"Têsknie\"
+[Hide when no messages for]
+Ukryj kiedy brak wiadomoœci dla
+[Use Popups colors]
+U¿yj kolorów popup
+[Use Windows colors]
+U¿yj kolorów windows
+[Last seen online:]
+Ostatnio widziany:
+[Last input message:]
+Ostatnia wiadomoœæ:
+[Custom absence period:]
+Czas nieobecnoœci:
+[Never hide this contact]
+Nigdy nie ukrywaj kontaktu
+[Enable Miss You]
+W³¹cz Têsknie
+[Notify always]
+Zawsze powiadom
+[weeks]
+tygodni
+[months]
+miesiêcy
+[years]
+lat
+[Delete the contact]
+Usuñ kontakt
+
+;============================================================
 ;  File: listeningtoW.dll
 ;  Module: ListeningTo
 ;  Versions: 0.3.0.0
@@ -9353,6 +9702,178 @@ Przycisk 'Nie'
 Po³¹czenie HTTP Pack Updater
 
 ;============================================================
+;  File: pasteit.dll
+;  Module: PasteIt
+;  Versions: 1.0.0.3
+;============================================================
+[Paste It]
+Wklej To
+[Uploads the text to web page and sends the URL to your friends.]
+Umieszcza tekst na stronie www i wysy³a link do twoich przyjació³.
+[Paste It - Select file]
+Wklej To - Wybierz plik
+[Paste It HTTP connections]
+Wklej To po³¹czenia HTTP
+[You've entered invalid codepage. Select codepage from combo box or enter correct number.]
+Wprowadzi³eœ nieprawid³ow¹ stronê kodow¹. Wybierz j¹ z combo boxa lub wprowadŸ poprawn¹ liczbê.
+[Invalid codepage]
+Nieprawid³owa strona kodowa
+[You can only paste 1 file]
+Mo¿esz wkleiæ tylko 1 plik
+[Cannot get data from clipboard]
+Nie mo¿na pobraæ danych ze schowka
+[File size is %dKB, do you realy want to paste such large file?]
+Rozmiar pliku wynosi %dKB, napewno chcesz wkleiæ tak du¿y plik?
+[Cannot read file '%s']
+Nie mo¿na wczytaæ pliku '%s'
+[File size is larger then 10MB, cannot be send]
+Rozmiar pliku jest wiêkszy ni¿ 10MB, nie mo¿e zostaæ wys³any
+[Cannot open file '%s']
+Nie mo¿na otworzyæ pliku '%s'
+[File '%s' is empty]
+Plik '%s' jest pusty
+[Error during sending text to web page: %s]
+B³¹d podczas wysy³ania tekstu do strony www: %s
+[Error during sending text to web page]
+B³¹d podczas wysy³ania tekstu do strony www
+[Error during getting user key from web page: %s]
+B³¹d podczas pobierania klucza u¿ytkownika ze strony www: %s
+[Paste from clipboard]
+Wklej ze schowka
+[Paste from file]
+Wklej z pliku
+[Default web page]
+Domyœlna strona www
+[Default file encoding]
+Domyœlne kodowanie pliku
+[Auto-detect UTF-8]
+Auto-wykrywanie UTF-8
+[Show confirmation dialog box]
+Poka¿ okno potwierdzenia
+[Web page settings]
+Ustawienia strony www
+[Web page to configure]
+Strona www do konfiguracji
+[Default formatting]
+Domyœlne formatowanie
+[Auto-detect format from file extension]
+Auto-wykrywanie formatu z rozszerzenia pliku
+[Public paste]
+Publiczna wklejka
+[Paste expire date]
+Data wa¿noœci wklejki
+[Login as guest]
+Zaloguj siê jako goœæ
+[User key]
+Klucz u¿ytkownika
+[Get user key]
+Pobierz klucz
+[Configure formatting]
+Konfiguruj formatowanie
+[Download more]
+Pobierz wiêcej
+[Login to pastebin.com]
+Logowanie do pastebin.com
+[Encoding]
+Kodowanie
+[Recode]
+Zmieñ kodowanie
+[10 minutes]
+10 munut
+[1 hour]
+1 godzina
+[1 day]
+1 dzieñ
+[1 month]
+1 miesi¹c
+
+;============================================================
+;  File: pingproto.dll
+;  Module: Ping Protocol
+;  Versions: 1.0.0.3
+;============================================================
+[PING]
+Ping
+[Enable All Pings]
+W³¹cz Wszystkie Pingi
+[Disable All Pings]
+Wy³¹cz Wszystkie Pingi
+[Graph]
+Wykres
+[Edit...]
+Edycja...
+[Install the FontService plugin to change the font and font colour.]
+Zainstaluj wtyczkê FontService aby zmieniæ czcionkê i jej kolor. 
+[PING Destinations]
+Pinguj adresy docelowe
+[Ping Plugin]
+Wtyczka Ping
+[Ping labelled IP addresses or domain names.]
+Pinguj zaznaczone adresy IP lub nazwy domen.
+[Failed to initialize. Plugin disabled.]
+Nieudana inicjalizacja. Wtyczka wy³¹czona.
+[Delay between pings (secs):]
+OpóŸnienie pomiêdzy pingami (sek):
+[Ping timeout (secs):]
+Timeout pingu (sek):
+[Log to File]
+Log do Pliku
+[Log Filename:]
+Nazwa pliku Logu
+[Reply]
+OdpowiedŸ
+[Block Repetitions]
+Blokuj powtórzenia
+[View Log]
+Poka¿ Log
+[Interface]
+Interfejs
+[Do not change icon when testing]
+Nie zmieniaj ikony podczas testu
+[Use the Customize/Fonts options to change text size and colour.]
+Rozmiar i kolor tekstu zmienisz w Personalizacja -> Czcionka.
+[Row height:]
+Wysokoœæ wiersza:
+[Repeats for success/failure:]
+Odpowiedzi na sukces/pora¿kê:
+[Attach to contact list]
+Za³¹cz do listy kontaktów
+[Ping Destinations]
+Cele pingów
+[Ping Destination]
+Cel pingów
+[Address:]
+Adres:
+[Control Protocol:]
+Kontroluj protokó³:
+[Set my status to:]
+Ustaw mój status na:
+[On success, if my status is:]
+Po sukcesie, jeœli mój status to:
+[Execute the following command on double-click:]
+Wykonaj tê komendê po podwójnym klikniêciu:
+[Disable all pings]
+Wy³¹cz wszystkie pingi:
+[Enable all pings]
+W³¹cz wszystkie pingi
+[Options...]
+Opcje...
+[Destinations...]
+Cele...
+[Show/Hide &Ping Window]
+Poka¿/Ukryj okno Pingu
+[Host %s requests that you reduce the amount of traffic you are sending.]
+Host %s prosi o zredukowanie produkowanego przez ciebie ruchu.
+[Unknown Address]
+Nieznany Adres
+[Responding]
+Odpowiadaj
+[Not Responding]
+Nie Odpowiadaj
+[Testing]
+Testowanie
+
+;============================================================
 ;  File: pmanager.dll
 ;  Module: Miranda IM Profile Changer by Roman Gemini
 ;  Versions: 0.0.0.3
@@ -9783,6 +10304,138 @@ Wyœlij wiadomoœæ
 Odrzuæ popup
 
 ;============================================================
+;  File: quicksearch.dll
+;  Module: Quick Search
+;  Versions: 1.4.1.18
+;============================================================
+[Quick Search]
+Szybkie Szukanie
+[%d) ]
+%d)
+[: %d ]
+: %d
+[ %d]
+ %d
+[Protocols:]
+Protoko³y:
+[MoveToGroup]
+PrzesuñDoGrupy
+[Cant register global hotkey\r\n]
+Niemo¿na zapisaæ globalnego skrótu\r\n
+[QuickSearch error]
+B³¹d SzybkiegoSzukania
+[Cant register local hotkey]
+Niemo¿na zapisaæ lokalnego skrótu
+[FIRSTNAME]
+IMIÊ
+[LASTNAME]
+NAZWISKO
+[NICK]
+KSYWKA
+[CUSTOMNICK]
+W£ASNAKSYWKA
+[EMAIL]
+EMAIL
+[CITY]
+MIASTO
+[STATE]
+STAN
+[COUNTRY]
+KRAJ
+[PHONE]
+TELEFON
+[HOMEPAGE]
+STRONADOMOWA
+[ABOUT]
+O
+[GENDER]
+P£EÆ
+[AGE]
+Wiek
+[FIRSTLAST]
+IMIÊNAZWISKO
+[UNIQUEID]
+UNIKALNYID
+[Not Selected]
+Nie Zaznaczone
+[Title test]
+Test tytu³u
+[Module/InfoType]
+Modu³/TypInfo
+[Title]
+Tytu³
+[&New]
+Nowy
+[Setting:]
+Ustawienia:
+[Width:]
+Szerokoœæ:
+[De&fault]
+Domyœlne
+[&Set Item]
+Ustaw element
+[At Start Sort by Status]
+Na starcie sortuj wg statusu
+[Global scope hotkey:]
+Globalny skrót:
+[Miranda scope hotkey:]
+Skrót Mirandy:
+[Add Item to Main Menu]
+Dodaj Pozycjê do G³ównego Menu
+[Show Only Users in List]
+Poka¿ Tylko U¿ytkowników na Liœcie
+[Add Button to TopToolBar]
+Dodaj Przycisk do TopToolBar
+[Additional Options]
+Dodatkowe Opcje
+[HotKeys]
+Skróty
+[Columns && Data]
+Kolumny i Dane
+[Auto Close mode]
+Tryb Autozamykania
+[InfoType:]
+TypInfo:
+[Sort by Status]
+Sortuj wg statusu
+[Only Users in List]
+Tylko u¿ytkownicy na liœcie
+[Draw Grid]
+Rysuj kratkê
+[Show Client Icons]
+Poka¿ ikony Klienta
+[Save search pattern]
+Zapisz wzorzec szukania
+[Item in Main Menu]
+W menu g³ównym
+[Button on TopToolBar]
+Przycisk paska narzêdzi
+[Tool Window Style]
+Styl okna narzêdzi
+[Copy line to CSV]
+Kopiuj liniê do CSV
+[CSV with headers]
+CSV z nag³ówkami
+[Skip minimized columns]
+Pomiñ zminimali. kolumny
+[Save Item]
+Zapisz
+[Open main window]
+Otwórz okno g³ówne
+[Previous item]
+Poprzedni
+[Next item]
+Nastêpny
+[Show Offline contacts]
+Poka¿ Niedostêpnych
+[Colorize]
+Koloruj
+[UserID]
+ID U¿ytkownika
+[%u users found (%u) Online: %u]
+Znaleziono (%u z %u) Dostêpnych: %u
+
+;============================================================
 ;  File: rss.dll, RSSNews.dll
 ;  Module: RSSNews plugin
 ;  Versions: 0.0.3.24
@@ -9924,7 +10577,7 @@ Po³¹czenie RSS
 
 ;============================================================
 ;  File: seenplugin.dll
-;  Module: Last Seen Plugin (NSN Compatible)
+;  Module: Last Seen Plugin
 ;  Versions: 5.0.4.7
 ;============================================================
 [last seen history]
@@ -10200,7 +10853,7 @@ Czy jestes pewien? ustawienia zostan¹ usuniête z bazy danych i Explorera
 [Disable/Remove shlext]
 Wy³¹cz/unuñ shlext
 [Shell context menus]
-Menu kontekstowe shell
+Integracja z pow³ok¹
 [Display contacts in their assigned groups (if any)]
 Poka¿ kontakty w grupach
 [Only if/when the contact list is using them]
@@ -14975,6 +15628,167 @@ Wdowa/Wdowiec
 Strza³ka w dó³
 
 ;============================================================
+;  File: updater.dll
+;  Module: Updater
+;  Versions: 6.0.1.4
+;============================================================
+[Updater]
+Aktualizacje
+[New Version]
+Nowa wersja
+[Current Version]
+Obecna wersja
+[Update]
+Aktualizuj
+[Could not create data file for restart.]
+Nie uda³o siê utworzyæ pliku z danymi dla restartu.
+[Could not create data file for restart]
+Nie uda³o siê utworzyæ pliku z danymi dla restartu
+[Miranda's not 'OK TO EXIT'.]
+Nie mo¿na wy³¹czyæ Mirandy.
+[Restart]
+Restart
+[Update and Exit]
+Aktualizuj i wyjdŸ
+[FORCED]
+WYMUSZONE
+[TRUE]
+TAK
+[-]
+-
+[FALSE]
+NIE
+[Update on major version change.]
+Aktualizuj przy wiêkszej zmianie.
+[Update on minor version change.]
+Aktualizuj przy drobnej zmianie.
+[Update on release number change.]
+Aktualizuj przy zmianie numeru wydania.
+[Update on build number change.]
+Aktualizuj przy zmianie numeru buildu.
+[Use Beta?]
+Œci¹gaj wersjê Beta
+[Select Folder]
+Wybierz folder
+[Updates]
+Aktualizacje
+[Progress - %d%%]
+Postêp - %d%%
+[Downloading Updates]
+Œci¹ganie uaktualnieñ
+[Progress - Downloading updates...]
+Postêp - Œci¹ganie uaktualnieñ...
+[Downloading]
+Œci¹ganie
+[Downloading plugin: %s]
+Œci¹gana wtyczka: %s
+[Skipping plugin: %s]
+Pomijanie wtyczki: %s
+[No network - aborting update check]
+Brak sieci - anulowanie sprawdzania uaktualnieñ
+[Checking for Updates]
+Sprawdzanie uaktualnieñ
+[Progress - Checking for updates...]
+Postêp - Sprawdzanie uaktualnieñ...
+[Downloading XML data]
+Œci¹ganie danych XML
+[Checking for updates]
+Sprawdzanie uaktualnieñ
+[Scanning plugins folder]
+Skanowanie folderu z wtyczkami
+[Scanning language packs]
+Skanowanie plików jêzykowych
+[Updating component file listing ids]
+Aktualizacja listy komponentów
+[Checking plugin: %s]
+Sprawdzanie wtyczki: %s
+[Updates Available]
+Dostêpne s¹ aktualizacje
+[Click here to install]
+Kliknij tu ¿eby zainstalowaæ
+[Could not create backup folder]
+Nie uda³o siê utworzyæ folderu z kopi¹ zapasow¹
+[Check for updates]
+SprawdŸ aktualizacje
+[Failed to download "%s" - Invalid response, code %d]
+Nie uda³o siê pobraæ "%s" - Nieprawid³owa odpowiedŸ, kod %d
+[Failed to download "%s": ]
+Nie uda³o siê pobraæ "%s": 
+[Updater connection]
+Po³¹czenie Updatera
+[Check for Plugin Updates]
+SprawdŸ aktualizacje wtyczek
+[You are using the wrong version of this plugin.\nPlease download the NON-UNICODE version.\nPlugin disabled.]
+U¿ywasz nieodpowiedni¹ wersjê wtyczki.\nŒci¹gnij wersjê NON-UNICODE.\nWtyczka zosta³a wy³¹czona.
+[You are using the wrong version of this plugin.\nPlease download the UNICODE version.\nPlugin disabled.]
+U¿ywasz nieodpowiedni¹ wersjê wtyczki.\nŒci¹gnij wersjê UNICODE.\nWtyczka zosta³a wy³¹czona.
+[Confirm Files]
+PotwierdŸ pliki
+[Invert Selection]
+Odwróæ zaznaczenie
+[(But only once per day)]
+(Ale tylko raz dziennie)
+[Check daily]
+Sprawdzaj codziennie
+[Install without confirmation if idle]
+Bez potwierdzenia w stanie bezczynnoœci
+[Backup updated files]
+Twórz kopiê bezpieczeñstwa
+[Global Status Control]
+Globalna kontrola statusu
+[Start offline, restore after update check]
+Po³¹cz z sieciami dopiero po sprawdzeniu aktualizacji
+[Use popups for progress info]
+Poka¿ info o postêpie w popupach
+[Show 'Restart' menu item]
+Poka¿ "Restartuj" w menu
+[Show 'Update and Exit' menu item]
+Poka¿ "Aktualizuj i wyjdŸ" w menu
+[Keep downloaded archives]
+Zachowuj œci¹gniête archiwa
+[Only install DLLs automatically]
+Automatycznie instaluj tylko pliki DLL
+[Don't unzip]
+Nie rozpakowuj
+[Confirm Updates]
+PotwierdŸ aktualizacjê
+[Updates are available for the following components:]
+Dostêpne s¹ aktualizacje dla nastêpuj¹cych komponentów:
+[Confirm install for individual files]
+PotwierdŸ instalacjê dla ka¿dego pliku
+[Download but do not install]
+Œci¹gnij ale nie instaluj
+[Changelog]
+Lista zmian
+[Progress]
+Postêp
+[Data:]
+Dane:
+[Backups:]
+Kopie bezpieczeñstwa:
+[Saved archives:]
+Zapisane archiwa:
+[BZ2 Decompression, configuration error]
+Dekompresja BZ2, b³¹d konfiguracji
+[BZ2 Decompression, parameter error]
+Dekompresja BZ2 b³¹d parametru
+[DB2 Decompression, memory error]
+Dekompresja DB2, b³¹d pamiêci
+[Updater: Error getting data - too many redirects]
+Updater: B³¹d pobierania danych - za du¿o przekierowañ
+[Failed to download XML data: ]
+Nie uda³o siê pobraæ danych XML: 
+[Updater: Error Downloading XML Data]
+Updater: B³¹d pobierania danych XML
+[Failed to download XML data - Response is NULL]
+Nie uda³o siê pobraæ danych - OdpowiedŸ to NULL
+[Failed to download XML data - Invalid response, code %d]
+Nie uda³o siê pobraæ danych XML - B³êdna odpowiedŸ, kod %d
+[Failed to decompress XML data]
+Nie uda³o siê zdekompresowaæ danych XML
+
+
+;============================================================
 ;  File: useactions.dll
 ;  Versions: 0.0.0.4
 ;============================================================
@@ -16703,6 +17517,96 @@ wichura
 Mgla
 [# Weather Fog 2 #]
 zamglenia
+
+;============================================================
+;  File: start_position.dll
+;  Module: Windows Start Position
+;  Versions: 0.2.0.2
+;============================================================
+[Window Start Position]
+Pozycja startowa okna
+[Contact List Window Start Position]
+Pozycja startowa listy kontaktów
+[Pixels from Top]
+Piksele od góry
+[Pixels from Bottom]
+Piksele od do³u
+[Pixels from Side]
+Piksele od strony
+[Always start...]
+Zawsze startuj...
+[Minimized to System Tray]
+Minimalizuj do traya
+[Opened]
+Otwarty
+
+;============================================================
+;  File: WorldTime.dll
+;  Module: World Time Protocol
+;  Versions: 0.3.1.0
+;============================================================
+[World Time]
+Czas na Œwiecie
+[Configuration]
+Konfiguracja
+[Times]
+Czasy
+[Engine]
+Silnik
+[Engine/Voice]
+Silnik/G³os
+[Engine Settings]
+Ustawienia silnika
+[Welcome Message]
+Wiadomoœæ Powitalna
+[Status Changes]
+Zmiany statusu
+[Occuring Events]
+Wystepuj¹ce zdarzenia
+[Authorisation Request]
+Wymagana autoryzacja
+[Added to Contact List]
+Dodane do listy kontaktowej
+[Announce status changes on connect]
+Powiadomienie o zmianie statusu przy ³¹czeniu
+[Message Events]
+Zdarzenia wiadomoœci
+[Ignore event if message dialog is open]
+Ignoruj zdarzenie gdy okno rozmowy jest otwarte
+[Read message if less characters than]
+Czytaj wiadomoœæ jeœli jest mniej znaków ni¿
+[Ignore event if message dialog is focused]
+Ignoruj zdarzenie gdy okno jest wyœrodkowane
+[Remove]
+Usuñ
+[Format Date]
+Format daty
+[and Time]
+i czasu
+[%n = label]
+%n = etykieta
+[%d = date]
+%d = data
+[%t = time]
+%t = czas
+[Contact List:]
+Lista kontaktów:
+[Hide in status bar and status menu (requires restart - uncheck to set icons)]
+Ukryj protokó³ w pasku i menu statusu (wymaga restartu - odznacz ¿eby anulowaæ)
+[%o = offset]
+%o = offset
+[Time Details]
+Dane czasu
+[Alphabetical]
+Alfabetycznie
+[Geographical]
+Geograficznie
+[Sort Order:]
+Sortuj w porz¹dku:
+[World Time Protocol]
+Protokó³ Czasu na Œwiecie
+[Adds 'contacts' showing the time at specified locations around the world.]
+Dodaj 'kontakty' pokazuj¹ce czas w okreœlonej lokacji wokó³ œwiata.
 
 ;============================================================
 ;  File: XFire.dll
