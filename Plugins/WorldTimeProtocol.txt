@@ -1,0 +1,67 @@
+;============================================================
+;  File: WorldTime.dll
+;  Module: World Time Protocol
+;  Versions: 0.3.1.0
+;============================================================
+[World Time]
+Czas na Œwiecie
+[Configuration]
+Konfiguracja
+[Times]
+Czasy
+[Engine]
+Silnik
+[Engine/Voice]
+Silnik/G³os
+[Engine Settings]
+Ustawienia silnika
+[Welcome Message]
+Wiadomoœæ Powitalna
+[Status Changes]
+Zmiany statusu
+[Occuring Events]
+Wystepuj¹ce zdarzenia
+[Authorisation Request]
+Wymagana autoryzacja
+[Added to Contact List]
+Dodane do listy kontaktowej
+[Announce status changes on connect]
+Powiadomienie o zmianie statusu przy ³¹czeniu
+[Message Events]
+Zdarzenia wiadomoœci
+[Ignore event if message dialog is open]
+Ignoruj zdarzenie gdy okno rozmowy jest otwarte
+[Read message if less characters than]
+Czytaj wiadomoœæ jeœli jest mniej znaków ni¿
+[Ignore event if message dialog is focused]
+Ignoruj zdarzenie gdy okno jest wyœrodkowane
+[Remove]
+Usuñ
+[Format Date]
+Format daty
+[and Time]
+i czasu
+[%n = label]
+%n = etykieta
+[%d = date]
+%d = data
+[%t = time]
+%t = czas
+[Contact List:]
+Lista kontaktów:
+[Hide in status bar and status menu (requires restart - uncheck to set icons)]
+Ukryj protokó³ w pasku i menu statusu (wymaga restartu - odznacz ¿eby anulowaæ)
+[%o = offset]
+%o = offset
+[Time Details]
+Dane czasu
+[Alphabetical]
+Alfabetycznie
+[Geographical]
+Geograficznie
+[Sort Order:]
+Sortuj w porz¹dku:
+[World Time Protocol]
+Protokó³ Czasu na Œwiecie
+[Adds 'contacts' showing the time at specified locations around the world.]
+Dodaj 'kontakty' pokazuj¹ce czas w okreœlonej lokacji wokó³ œwiata.

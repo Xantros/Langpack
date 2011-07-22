@@ -1,0 +1,85 @@
+;============================================================
+;  File: meteogroup.ini
+;  Module: weather
+;============================================================
+; Sunny
+[# Weather Sunny 1 #]
+Rozpogodzenia
+[# Weather Sunny 2 #]
+Przejaœnienia
+[# Weather Sunny 3 #]
+Przewa¿nie S³onecznie
+[# Weather Sunny 4 #]
+S³onecznie, bezchmurnie
+[# Weather Sunny 5 #]
+Pogodnie
+[# Weather Sunny 6 #]
+Przejaœnienia
+[# Weather Sunny 7 #]
+Bezchmurnie
+
+;==============================
+; Partly Cloudy
+[# Weather Partly Cloudy 1 #]
+Umiarkowane zachmurzenie
+[# Weather Partly Cloudy 2 #]
+Pogodnie, rozwój chmur
+[# Weather Partly Cloudy 3 #]
+Niewielkie zachmurzenie
+[# Weather Partly Cloudy 4 #]
+Przewa¿nie bezchmurnie
+
+;==============================
+; Cloudy
+[# Weather Cloudy 1 #]
+Du¿e zachmurzenie
+[# Weather Cloudy 2 #]
+Pochmurno
+
+;==============================
+; Rain
+[# Weather Rain 1 #]
+Mo¿liwe opady przelotne
+[# Weather Rain 2 #]
+Okresami deszcz
+[# Weather Rain 3 #]
+Deszcz przelotny
+[# Weather Rain 4 #]
+Mo¿liwy S³aby Deszcz
+
+;==============================
+; Rain Shower
+[# Weather Rain Shower 1 #]
+S³aba m¿awka
+
+;==============================
+; Snow
+[# Weather Snow 1 #]
+Zamieæ
+
+;==============================
+; Snow Shower
+[# Weather Snow Shower 1 #]
+Okresami Œnieg
+[# Weather Snow Shower 2 #]
+Okresami s³aby œnieg
+[# Weather Snow Shower 3 #]
+Mo¿liwy przelotny œnieg
+[# Weather Snow Shower 4 #]
+Œnieg z deszczem
+
+;==============================
+; Lightning
+[# Weather Lightning 1 #]
+Mo¿liwe burze
+[# Weather Lightning 2 #]
+Ulewy/burze
+[# Weather Lightning 3 #]
+Wichura
+
+;==============================
+; Fog
+[# Weather Fog 1 #]
+Zamglenia
+[# Weather Fog 2 #]
+Mg³a Osadzaj¹ca SzadŸ

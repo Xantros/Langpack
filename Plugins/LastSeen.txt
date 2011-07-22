@@ -1,0 +1,53 @@
+;============================================================
+;  File: lastseen.dll
+;  Module: Last seen
+;  Versions: 5.0.4.7
+;============================================================
+[When a contact returns after ]
+Gdy wraca kontakt po
+[Show a popup]
+Poka¿ popup
+[Add an event (flashing icon) to the contact]
+Dodaj wydarzenie (migaj¹ca ikona) do kontaktu
+[On event action (double click) or popup click:]
+W akcji zdarzenie (podwójny klik) lub kliknij popup:
+[Open User Details]
+Otwórz szczegó³y u¿ytkownika
+[Open message window]
+Otwórz okno wiadomoœci
+[Return notification]
+Powrót powiadomienia
+[When a contact is absent for]
+Gdy kontakt jest nieobecny
+[Long time no see]
+Dawno siê nie widzieliœmy
+[or comes online for the first time]
+lub przyszed³ jako dostêpny pierwszy raz
+[Enable \"Miss you\" feature]
+W³¹cz funkcjê \"Têsknie\"
+[Hide when no messages for]
+Ukryj kiedy brak wiadomoœci dla
+[Use Popups colors]
+U¿yj kolorów popup
+[Use Windows colors]
+U¿yj kolorów windows
+[Last seen online:]
+Ostatnio widziany:
+[Last input message:]
+Ostatnia wiadomoœæ:
+[Custom absence period:]
+Czas nieobecnoœci:
+[Never hide this contact]
+Nigdy nie ukrywaj kontaktu
+[Enable Miss You]
+W³¹cz Têsknie
+[Notify always]
+Zawsze powiadom
+[weeks]
+tygodni
+[months]
+miesiêcy
+[years]
+lat
+[Delete the contact]
+Usuñ kontakt

@@ -1,0 +1,131 @@
+;============================================================
+;  File: quicksearch.dll
+;  Module: Quick Search
+;  Versions: 1.4.1.18
+;============================================================
+[Quick Search]
+Szybkie Szukanie
+[%d) ]
+%d)
+[: %d ]
+: %d
+[ %d]
+ %d
+[Protocols:]
+Protoko³y:
+[MoveToGroup]
+PrzesuñDoGrupy
+[Cant register global hotkey\r\n]
+Niemo¿na zapisaæ globalnego skrótu\r\n
+[QuickSearch error]
+B³¹d SzybkiegoSzukania
+[Cant register local hotkey]
+Niemo¿na zapisaæ lokalnego skrótu
+[FIRSTNAME]
+IMIÊ
+[LASTNAME]
+NAZWISKO
+[NICK]
+KSYWKA
+[CUSTOMNICK]
+W£ASNAKSYWKA
+[EMAIL]
+EMAIL
+[CITY]
+MIASTO
+[STATE]
+STAN
+[COUNTRY]
+KRAJ
+[PHONE]
+TELEFON
+[HOMEPAGE]
+STRONADOMOWA
+[ABOUT]
+O
+[GENDER]
+P£EÆ
+[AGE]
+Wiek
+[FIRSTLAST]
+IMIÊNAZWISKO
+[UNIQUEID]
+UNIKALNYID
+[Not Selected]
+Nie Zaznaczone
+[Title test]
+Test tytu³u
+[Module/InfoType]
+Modu³/TypInfo
+[Title]
+Tytu³
+[&New]
+Nowy
+[Setting:]
+Ustawienia:
+[Width:]
+Szerokoœæ:
+[De&fault]
+Domyœlne
+[&Set Item]
+Ustaw element
+[At Start Sort by Status]
+Na starcie sortuj wg statusu
+[Global scope hotkey:]
+Globalny skrót:
+[Miranda scope hotkey:]
+Skrót Mirandy:
+[Add Item to Main Menu]
+Dodaj Pozycjê do G³ównego Menu
+[Show Only Users in List]
+Poka¿ Tylko U¿ytkowników na Liœcie
+[Add Button to TopToolBar]
+Dodaj Przycisk do TopToolBar
+[Additional Options]
+Dodatkowe Opcje
+[HotKeys]
+Skróty
+[Columns && Data]
+Kolumny i Dane
+[Auto Close mode]
+Tryb Autozamykania
+[InfoType:]
+TypInfo:
+[Sort by Status]
+Sortuj wg statusu
+[Only Users in List]
+Tylko u¿ytkownicy na liœcie
+[Draw Grid]
+Rysuj kratkê
+[Show Client Icons]
+Poka¿ ikony Klienta
+[Save search pattern]
+Zapisz wzorzec szukania
+[Item in Main Menu]
+W menu g³ównym
+[Button on TopToolBar]
+Przycisk paska narzêdzi
+[Tool Window Style]
+Styl okna narzêdzi
+[Copy line to CSV]
+Kopiuj liniê do CSV
+[CSV with headers]
+CSV z nag³ówkami
+[Skip minimized columns]
+Pomiñ zminimali. kolumny
+[Save Item]
+Zapisz
+[Open main window]
+Otwórz okno g³ówne
+[Previous item]
+Poprzedni
+[Next item]
+Nastêpny
+[Show Offline contacts]
+Poka¿ Niedostêpnych
+[Colorize]
+Koloruj
+[UserID]
+ID U¿ytkownika
+[%u users found (%u) Online: %u]
+Znaleziono (%u z %u) Dostêpnych: %u

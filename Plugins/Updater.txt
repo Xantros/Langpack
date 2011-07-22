@@ -1,0 +1,159 @@
+;============================================================
+;  File: updater.dll
+;  Module: Updater
+;  Versions: 6.0.1.4
+;============================================================
+[Updater]
+Aktualizacje
+[New Version]
+Nowa wersja
+[Current Version]
+Obecna wersja
+[Update]
+Aktualizuj
+[Could not create data file for restart.]
+Nie uda³o siê utworzyæ pliku z danymi dla restartu.
+[Could not create data file for restart]
+Nie uda³o siê utworzyæ pliku z danymi dla restartu
+[Miranda's not 'OK TO EXIT'.]
+Nie mo¿na wy³¹czyæ Mirandy.
+[Restart]
+Restart
+[Update and Exit]
+Aktualizuj i wyjdŸ
+[FORCED]
+WYMUSZONE
+[TRUE]
+TAK
+[-]
+-
+[FALSE]
+NIE
+[Update on major version change.]
+Aktualizuj przy wiêkszej zmianie.
+[Update on minor version change.]
+Aktualizuj przy drobnej zmianie.
+[Update on release number change.]
+Aktualizuj przy zmianie numeru wydania.
+[Update on build number change.]
+Aktualizuj przy zmianie numeru buildu.
+[Use Beta?]
+Œci¹gaj wersjê Beta
+[Select Folder]
+Wybierz folder
+[Updates]
+Aktualizacje
+[Progress - %d%%]
+Postêp - %d%%
+[Downloading Updates]
+Œci¹ganie uaktualnieñ
+[Progress - Downloading updates...]
+Postêp - Œci¹ganie uaktualnieñ...
+[Downloading]
+Œci¹ganie
+[Downloading plugin: %s]
+Œci¹gana wtyczka: %s
+[Skipping plugin: %s]
+Pomijanie wtyczki: %s
+[No network - aborting update check]
+Brak sieci - anulowanie sprawdzania uaktualnieñ
+[Checking for Updates]
+Sprawdzanie uaktualnieñ
+[Progress - Checking for updates...]
+Postêp - Sprawdzanie uaktualnieñ...
+[Downloading XML data]
+Œci¹ganie danych XML
+[Checking for updates]
+Sprawdzanie uaktualnieñ
+[Scanning plugins folder]
+Skanowanie folderu z wtyczkami
+[Scanning language packs]
+Skanowanie plików jêzykowych
+[Updating component file listing ids]
+Aktualizacja listy komponentów
+[Checking plugin: %s]
+Sprawdzanie wtyczki: %s
+[Updates Available]
+Dostêpne s¹ aktualizacje
+[Click here to install]
+Kliknij tu ¿eby zainstalowaæ
+[Could not create backup folder]
+Nie uda³o siê utworzyæ folderu z kopi¹ zapasow¹
+[Check for updates]
+SprawdŸ aktualizacje
+[Failed to download "%s" - Invalid response, code %d]
+Nie uda³o siê pobraæ "%s" - Nieprawid³owa odpowiedŸ, kod %d
+[Failed to download "%s": ]
+Nie uda³o siê pobraæ "%s": 
+[Updater connection]
+Po³¹czenie Updatera
+[Check for Plugin Updates]
+SprawdŸ aktualizacje wtyczek
+[You are using the wrong version of this plugin.\nPlease download the NON-UNICODE version.\nPlugin disabled.]
+U¿ywasz nieodpowiedni¹ wersjê wtyczki.\nŒci¹gnij wersjê NON-UNICODE.\nWtyczka zosta³a wy³¹czona.
+[You are using the wrong version of this plugin.\nPlease download the UNICODE version.\nPlugin disabled.]
+U¿ywasz nieodpowiedni¹ wersjê wtyczki.\nŒci¹gnij wersjê UNICODE.\nWtyczka zosta³a wy³¹czona.
+[Confirm Files]
+PotwierdŸ pliki
+[Invert Selection]
+Odwróæ zaznaczenie
+[(But only once per day)]
+(Ale tylko raz dziennie)
+[Check daily]
+Sprawdzaj codziennie
+[Install without confirmation if idle]
+Bez potwierdzenia w stanie bezczynnoœci
+[Backup updated files]
+Twórz kopiê bezpieczeñstwa
+[Global Status Control]
+Globalna kontrola statusu
+[Start offline, restore after update check]
+Po³¹cz z sieciami dopiero po sprawdzeniu aktualizacji
+[Use popups for progress info]
+Poka¿ info o postêpie w popupach
+[Show 'Restart' menu item]
+Poka¿ "Restartuj" w menu
+[Show 'Update and Exit' menu item]
+Poka¿ "Aktualizuj i wyjdŸ" w menu
+[Keep downloaded archives]
+Zachowuj œci¹gniête archiwa
+[Only install DLLs automatically]
+Automatycznie instaluj tylko pliki DLL
+[Don't unzip]
+Nie rozpakowuj
+[Confirm Updates]
+PotwierdŸ aktualizacjê
+[Updates are available for the following components:]
+Dostêpne s¹ aktualizacje dla nastêpuj¹cych komponentów:
+[Confirm install for individual files]
+PotwierdŸ instalacjê dla ka¿dego pliku
+[Download but do not install]
+Œci¹gnij ale nie instaluj
+[Changelog]
+Lista zmian
+[Progress]
+Postêp
+[Data:]
+Dane:
+[Backups:]
+Kopie bezpieczeñstwa:
+[Saved archives:]
+Zapisane archiwa:
+[BZ2 Decompression, configuration error]
+Dekompresja BZ2, b³¹d konfiguracji
+[BZ2 Decompression, parameter error]
+Dekompresja BZ2 b³¹d parametru
+[DB2 Decompression, memory error]
+Dekompresja DB2, b³¹d pamiêci
+[Updater: Error getting data - too many redirects]
+Updater: B³¹d pobierania danych - za du¿o przekierowañ
+[Failed to download XML data: ]
+Nie uda³o siê pobraæ danych XML: 
+[Updater: Error Downloading XML Data]
+Updater: B³¹d pobierania danych XML
+[Failed to download XML data - Response is NULL]
+Nie uda³o siê pobraæ danych - OdpowiedŸ to NULL
+[Failed to download XML data - Invalid response, code %d]
+Nie uda³o siê pobraæ danych XML - B³êdna odpowiedŸ, kod %d
+[Failed to decompress XML data]
+Nie uda³o siê zdekompresowaæ danych XML
