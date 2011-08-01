@@ -5,3 +5,29 @@
 ;============================================================
 [Alarms]
 Alarmy
+[use popup plugin]
+U¿yj wtyczki Popup
+[Loop sound]
+Zapetl dŸwiêk alarmu
+[Default snooze:]
+Domyœlny czas drzemki:
+[Reminder Frame]
+Ramka przypomnienia
+[Row Height:]
+Wysokoœæ wiersza:
+[Intend:]
+Intend:
+[Auto hide/show]
+Auto ukrywanie
+[Hide/show with clist]
+Poka¿/ukryj wraz z list¹ kontaktów
+[Auto size verically]
+Automatyczna wysokoœc
+[Period (hours):]
+Okres
+[Alert Window]
+Okno alarmu
+[Transparency (%):]
+Przezroczystoœæ (%):
+[Don't steal focus unless idle]
+Nie centruj chyba ¿e Miranda IM jest bezczynna
