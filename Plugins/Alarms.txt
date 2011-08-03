@@ -6,28 +6,28 @@
 [Alarms]
 Alarmy
 [use popup plugin]
-U¿yj wtyczki Popup
+UÅ¼yj wtyczki Popup
 [Loop sound]
-Zapetl dŸwiêk alarmu
+Zapetl dÅºwiÄ™k alarmu
 [Default snooze:]
-Domyœlny czas drzemki:
+DomyÅ›lny czas drzemki:
 [Reminder Frame]
 Ramka przypomnienia
 [Row Height:]
-Wysokoœæ wiersza:
+WysokoÅ›Ä‡ wiersza:
 [Intend:]
 Intend:
 [Auto hide/show]
 Auto ukrywanie
 [Hide/show with clist]
-Poka¿/ukryj wraz z list¹ kontaktów
+PokaÅ¼/ukryj wraz z listÄ… kontaktÃ³w
 [Auto size verically]
-Automatyczna wysokoœc
+Automatyczna wysokoÅ›c
 [Period (hours):]
 Okres
 [Alert Window]
 Okno alarmu
 [Transparency (%):]
-Przezroczystoœæ (%):
+PrzezroczystoÅ›Ä‡ (%):
 [Don't steal focus unless idle]
-Nie centruj chyba ¿e Miranda IM jest bezczynna
+Nie centruj chyba Å¼e Miranda IM jest bezczynna
