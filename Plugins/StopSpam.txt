@@ -4,61 +4,61 @@
 ;  Versions: 0.0.1.4
 ;============================================================ 
 [No more spam! Robots can't go! Only human beings invited!\r\n\r\nThis plugin works pretty simple:\r\nWhile messages from users on your contact list go as there is no any anti-spam software, messages from unknown users are not delivered to you. But also they are not ignored, this plugin replies with a simple question, and if user gives the right answer plugin adds him to your contact list so that he can contact you.]
-Nigdy wiêcej spamu! Roboty siê nie przedr¹! Tylko ludzie przejd¹ zabezpieczenie!\r\n\r\nPlugin dzia³a bardzo prosto:\r\nWiadomoœci od u¿ytkowników z listy kontaktów zostan¹ dostarczone, poniewa¿ nie ma ¿adnego oprogramowania anty-spamowego, wiadomoœci od nieznanych u¿ytkowników nie bêd¹ dostarczane. Ale te¿ nie s¹ one ignorowane, plugin zadaje proste pytanie, a jeœli u¿ytkownik poda poprawn¹ odpowiedŸ, plugin doda go do twojej listy kontaktów aby móg³ siê z tob¹ skontaktowaæ.
+Nigdy wiÄ™cej spamu! Roboty siÄ™ nie przedrÄ…! Tylko ludzie przejdÄ… zabezpieczenie!\r\n\r\nPlugin dziaÅ‚a bardzo prosto:\r\nWiadomoÅ›ci od uÅ¼ytkownikÃ³w z listy kontaktÃ³w zostanÄ… dostarczone, poniewaÅ¼ nie ma Å¼adnego oprogramowania anty-spamowego, wiadomoÅ›ci od nieznanych uÅ¼ytkownikÃ³w nie bÄ™dÄ… dostarczane. Ale teÅ¼ nie sÄ… one ignorowane, plugin zadaje proste pytanie, a jeÅ›li uÅ¼ytkownik poda poprawnÄ… odpowiedÅº, plugin doda go do twojej listy kontaktÃ³w aby mÃ³gÅ‚ siÄ™ z tobÄ… skontaktowaÄ‡.
 [Do not send more than ]
-Nie wysy³aj wiecej ni¿ 
+Nie wysyÅ‚aj wiecej niÅ¼ 
 [ questions to one contact (0 - for no limit)]
-  pytañ do jednego kontaktu (0 - brak limitu)
+  pytaÅ„ do jednego kontaktu (0 - brak limitu)
 [Enable StopSpam-StopSpam infinite talk protection]
-W³¹cz ochronê nieskoñczonej rozmowy StopSpam-StopSpam
+WÅ‚Ä…cz ochronÄ™ nieskoÅ„czonej rozmowy StopSpam-StopSpam
 [Add contact permanently]
-Dodaj kontakt na sta³e
+Dodaj kontakt na staÅ‚e
 [Enable auth. requests blocking]
-W³¹cz blokowanie pytañ o autoryzacjê
+WÅ‚Ä…cz blokowanie pytaÅ„ o autoryzacjÄ™
 [Hide unanswered contacts and spammers from contact list]
-Ukryj spamerów oraz  kontakty, które nie odpowiedzia³y z listy
+Ukryj spamerÃ³w oraz  kontakty, ktÃ³re nie odpowiedziaÅ‚y z listy
 [Ignore spammers (do not write messages to history)]
-Ignoruj spamerów (nie zapisuj wiadomoœci do historii)
+Ignoruj spamerÃ³w (nie zapisuj wiadomoÅ›ci do historii)
 [Log spam to file]
 Zapisuj dziennik do pliku
 [Question: (Ctrl-Enter for carriage return)]
 Pytanie: (Ctrl+Enter dla nowej linii)
 [Spammers made me to install small anti-spam system you are now speaking with. Please reply \"nospam\" without quotes and spaces if you want to contact me.]
-Spamerzy zmusili mnie do zainstalowania ma³ego systemu anty-spamowego z którym w³aœnie rozmawiasz. Proszê napsiaæ \"nospam"\ bez cudzys³owów i spacji, jeœli chcesz siê ze mn¹ skontaktowaæ.
+Spamerzy zmusili mnie do zainstalowania maÅ‚ego systemu anty-spamowego z ktÃ³rym wÅ‚aÅ›nie rozmawiasz. ProszÄ™ napsiaÄ‡ \"nospam"\ bez cudzysÅ‚owÃ³w i spacji, jeÅ›li chcesz siÄ™ ze mnÄ… skontaktowaÄ‡.
 [Answer:]
-OdpowiedŸ:
+OdpowiedÅº:
 [Congratulation:]
 Gratulacje:
 [Congratulations! You just passed human/robot test. Now you can write me a message.]
-Gratulacje! Przeszed³eœ test. Teraz mo¿esz napisaæ do mnie wiadomoœæ.
+Gratulacje! PrzeszedÅ‚eÅ› test. Teraz moÅ¼esz napisaÄ‡ do mnie wiadomoÅ›Ä‡.
 [Auth. request reply:]
-OdpowiedŸ na pytanie o autoryzacjê:
+OdpowiedÅº na pytanie o autoryzacjÄ™:
 [StopSpam: send a message and reply to a anti-spam bot question.]
-StopSpam: wyœlij wiadomoœæ i odpowiedz na pytania bota.
+StopSpam: wyÅ›lij wiadomoÅ›Ä‡ i odpowiedz na pytania bota.
 [Restore defaults]
-Przywróæ domyœlne
+PrzywrÃ³Ä‡ domyÅ›lne
 [Available accounts:]
-Dostêpne konta:
+DostÄ™pne konta:
 [Filtered accounts:]
 Filtrowane konta:
 [Add contacts to specified group:]
 Dodaj kontakty do specjalnej grupy
 [Exclude contacts which we sending something from spam check]
-Wyklucz ze sprawdzania kontakty, którym napiszesz wiadomoœæ
+Wyklucz ze sprawdzania kontakty, ktÃ³rym napiszesz wiadomoÅ›Ä‡
 [Remove Excluded contacts after restart]
-Usuñ wykluczone kontakty po restarcie
+UsuÅ„ wykluczone kontakty po restarcie
 [Remove all tempory contacts after restart]
-Usuñ wszystkie tymczasowe kontakty po restarcie
+UsuÅ„ wszystkie tymczasowe kontakty po restarcie
 [Case insensitive answer checking]
-Sprawdzaj wielkoœæ liter w odpowiedzi
+Sprawdzaj wielkoÅ›Ä‡ liter w odpowiedzi
 [Disable question in invisible mode]
-Wy³¹cz pytanie w trybie niewidocznym
+WyÅ‚Ä…cz pytanie w trybie niewidocznym
 [Enable integration with DOS plugin]
-W³¹cz integracje z pluginem DOS
+WÅ‚Ä…cz integracje z pluginem DOS
 [Ignore URL in messages and auth requests]
-Ignoruj linki w wiadomoœciach i pytaniach o autoryzacjê
+Ignoruj linki w wiadomoÅ›ciach i pytaniach o autoryzacjÄ™
 [Use regex for answers checking]
-U¿yj  regex dla kontroli odpowiedzi
+UÅ¼yj  regex dla kontroli odpowiedzi
 [Log Spammers to system history]
 Dziennik spamu w historii systemowej
 [After congratulation (ICQ only)]
@@ -68,14 +68,14 @@ Dodaj kontakt do listy na serwerze
 [Automatically grant authorization]
 Automatycznie udzielaj autoryzacji
 [Request authorization from contacts which pass stopspam test]
-Pytanie o autoryzacjê od kontaktów, które przechodz¹ test stopspam
+Pytanie o autoryzacjÄ™ od kontaktÃ³w, ktÃ³re przechodzÄ… test stopspam
 [Answer (Use divider to separate answers):]
-OdpowiedŸ (U¿yj separatora do oddzielenia odpowiedzi):
+OdpowiedÅº (UÅ¼yj separatora do oddzielenia odpowiedzi):
 [Divider:]
 Separator:
 [Disable protection for following protocols:]
-Wy³¹cz ochronê dla poni¿szych protoko³ów:
+WyÅ‚Ä…cz ochronÄ™ dla poniÅ¼szych protokoÅ‚Ã³w:
 [StopSpam automatic message:\r\n]
-Automatyczna odpowiedŸ StopSpam:\r\n
+Automatyczna odpowiedÅº StopSpam:\r\n
 [Answer is not case sensitive]
-Nie sprawdzaj wielkoœci liter
+Nie sprawdzaj wielkoÅ›ci liter

@@ -4,104 +4,104 @@
 ;  Versions: 0.10.0.1
 ;============================================================
 [Protocols have different avatars]
-Protoko³y maj¹ ró¿ne awatary
+ProtokoÅ‚y majÄ… rÃ³Å¼ne awatary
 [The pictures you can set here are used as default avatars\nfor contacts that don't have their own.\nUse the checkboxes to enable/disable showing avatars for the protocols.]
-Ustawione tutaj obrazki s¹ wyœwietlane jako domyœlne awatary\ndla kontaktów jeœli nie maj¹ w³asnych.\nU¿yj pól wyboru, aby w³¹czyæ/wy³¹czyæ wyœwietlanie awatarów dla protoko³ów.
+Ustawione tutaj obrazki sÄ… wyÅ›wietlane jako domyÅ›lne awatary\ndla kontaktÃ³w jeÅ›li nie majÄ… wÅ‚asnych.\nUÅ¼yj pÃ³l wyboru, aby wÅ‚Ä…czyÄ‡/wyÅ‚Ä…czyÄ‡ wyÅ›wietlanie awatarÃ³w dla protokoÅ‚Ã³w.
 [CAUTION: These pictures are NOT your own avatars.\nTo set your own Avatar goto Main Menu | View/Change My Details | Avatars]
-Uwaga: To NIE s¹ twoje w³asne awatary.\nAby ustawiæ w³asny awatar wchodzimy w Menu | Poka¿/Zmieñ moje dane | Awatar
+Uwaga: To NIE sÄ… twoje wÅ‚asne awatary.\nAby ustawiÄ‡ wÅ‚asny awatar wchodzimy w Menu | PokaÅ¼/ZmieÅ„ moje dane | Awatar
 [Set default picture]
-Wybierz domyœlny obrazek
+Wybierz domyÅ›lny obrazek
 [Delete default picture]
-Usuñ domyœlny obrazek
+UsuÅ„ domyÅ›lny obrazek
 [Try to draw avatar background transparent (for images without transparency)]
-Próbuj rysowaæ przezroczyste t³o awataru (dla obrazku bez przezroczystoœci)
+PrÃ³buj rysowaÄ‡ przezroczyste tÅ‚o awataru (dla obrazku bez przezroczystoÅ›ci)
 [Num of points to define bkg:]
-Licz. punktów do okreœlenia t³a:
+Licz. punktÃ³w do okreÅ›lenia tÅ‚a:
 [Color difference allowed:]
-Dozwolona ró¿nica kolorów:
+Dozwolona rÃ³Å¼nica kolorÃ³w:
 [Make transparency proportional to color diff]
-Przezroczystoœæ proporcjonalna do ró¿. koloru
+PrzezroczystoÅ›Ä‡ proporcjonalna do rÃ³Å¼. koloru
 [Draw avatars grayscale]
-Rysuj awatary w odcieniach szaroœci
+Rysuj awatary w odcieniach szaroÅ›ci
 [Show warning messages]
-Poka¿ komunikaty ostrzegawcze
+PokaÅ¼ komunikaty ostrzegawcze
 [Max allowed file size for avatars: (KBytes)]
-Maks. rozmiar pliku dla awatarów (KB):
+Maks. rozmiar pliku dla awatarÃ³w (KB):
 [When setting avatars, always make them square]
 Kiedy ustawiasz awatary, zawsze zmieniaj je w kwadraty
 [Try to draw own avatar background transparent (for images without transparency)]
-Rysuj przeŸroczyste t³o przy swoim awatarze (dla obrazku bez przeŸroczystoœci)
+Rysuj przeÅºroczyste tÅ‚o przy swoim awatarze (dla obrazku bez przeÅºroczystoÅ›ci)
 [This uses the same additional options as in "Contact Avatars" tab]
-Ten sposób wykorzystuje te same opcje, jak w zak³adce "Kontakt awatary" 
+Ten sposÃ³b wykorzystuje te same opcje, jak w zakÅ‚adce "Kontakt awatary" 
 [Protect the picture and prevent automatic avatars from overwriting it]
-Chroñ obraz i zapobiegaj przed automatycznym zast¹pieniem awataru
+ChroÅ„ obraz i zapobiegaj przed automatycznym zastÄ…pieniem awataru
 [Make the avatar square]
-Zrób kwadratowy awatar
+ZrÃ³b kwadratowy awatar
 [Resize the avatar to fit max allowed protocol size]
-Dopasuj awatar do maks. dozwolonego rozmiaru protoko³u
+Dopasuj awatar do maks. dozwolonego rozmiaru protokoÅ‚u
 [Contact picture]
 Obraz kontaktu
 [Protect the picture]
-Chroñ obraz
+ChroÅ„ obraz
 [Set as hidden]
 Ustaw jako ukryty
 [Try to make picture background transparent]
-Spróbuj zrobiæ t³o obrazu przeŸroczyste
+SprÃ³buj zrobiÄ‡ tÅ‚o obrazu przeÅºroczyste
 [Use defaults]
 Resetuj
 [ Options ]
  Opcje 
 [ Background ]
- T³o 
+ TÅ‚o 
 [Transparent]
 Przezroczysty
 [Points:]
 Punkty:
 [Color diff:]
-Ró¿. koloru:
+RÃ³Å¼. koloru:
 [Use per protocol avatars]
-U¿yj na protokole awataru
+UÅ¼yj na protokole awataru
 [Avatar service (Unicode)]
 Serwis awataru (Unicode)
 [Avatar service]
 Serwis awataru
 [Load and manage contact pictures for other plugins]
-Wczytaj i zarz¹dzaj obrazkami kontaktu dla innych wtyczek
+Wczytaj i zarzÄ…dzaj obrazkami kontaktu dla innych wtyczek
 [Flash Animations]
 Animacja Flash
 [XML Files]
 Pliki XML
 [Set My Avatar]
-Wybierz mój awatar
+Wybierz mÃ³j awatar
 [Set My Avatar for %s]
-Wybierz mój awatar dla %s
+Wybierz mÃ³j awatar dla %s
 [Avatars]
 Awatary
 [My Avatars]
 Moje awatary
 [My Global Avatar Cache]
-Cache mojego g³ównego awataru
+Cache mojego gÅ‚Ã³wnego awataru
 [Contact Avatars]
 Awatar kontaktu
 [Own Avatars]
-W³asne awatary
+WÅ‚asne awatary
 [Set avatar options for %s]
 Ustaw opcje awataru dla %s
 [Delete picture file from disk (may be necessary to force a reload, but will delete local pictures)?]
-Usun¹æ obrazek z dysku (mo¿e byæ konieczne do prze³adowania, ale usunie lokalne obrazki)?
+UsunÄ…Ä‡ obrazek z dysku (moÅ¼e byÄ‡ konieczne do przeÅ‚adowania, ale usunie lokalne obrazki)?
 [Reset contact picture]
 Resetuj obrazek kontaktu
 [Contact has no avatar]
 Kontakt nie ma awataru
 [Are you sure you want to remove your avatar?]
-Czy na pewno chcesz usun¹æ swój awatar?
+Czy na pewno chcesz usunÄ…Ä‡ swÃ³j awatar?
 [Global Avatar]
-G³ówny awatar
+GÅ‚Ã³wny awatar
 [The pictures you can set here are used as default avatars for contacts which don't have their own. Use the checkboxes to enable/disable showing avatars for the protocols.\nUse the checkboxes to enable/disable showing avatars for the protocols.]
-Tu mo¿esz ustawiæ domyœlny obraz dla poszczegolnych protoko³ów. W³¹cz lub wy³¹cz ponizej dla których protoko³ów ma byæ ustawiony.
+Tu moÅ¼esz ustawiÄ‡ domyÅ›lny obraz dla poszczegolnych protokoÅ‚Ã³w. WÅ‚Ä…cz lub wyÅ‚Ä…cz ponizej dla ktÃ³rych protokoÅ‚Ã³w ma byÄ‡ ustawiony.
 [*** Default avatar for all accounts ***]
-*** Domyœlny dla wszystkich ***
+*** DomyÅ›lny dla wszystkich ***
 [Avatar Service]
-Us³uga awatarów
+UsÅ‚uga awatarÃ³w
 [Fatal error, image services not found. Avatar services will be disabled.]
-B³¹d, nie znaleziono wtyczki 'advaimg.dll'. Us³uga awatarów zostanie wy³¹czona.
+BÅ‚Ä…d, nie znaleziono wtyczki 'advaimg.dll'. UsÅ‚uga awatarÃ³w zostanie wyÅ‚Ä…czona.

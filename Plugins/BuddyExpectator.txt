@@ -4,15 +4,15 @@
 ;  Versions: 0.1.2.3
 ;============================================================
 [Reacts to the return of contacts, or the the extended absence of contacts, with notifications and other actions]
-Reaguje na powrÛt kontaktÛw lub d≥uøszego braku aktywnoúci kontaktu z powiadomieÒ lub innych akcji
+Reaguje na powr√≥t kontakt√≥w lub d≈Çu≈ºszego braku aktywno≈õci kontaktu z powiadomie≈Ñ lub innych akcji
 [Buddy Expectator]
-Powiadomienie o aktywnoúci
+Powiadomienie o aktywno≈õci
 [has gone online for the first time.]
-dostÍpny po raz pierwszy.
+dostƒôpny po raz pierwszy.
 [has returned after a long absence.]
-powrÛci≥ po d≥uøszym braku aktywnoúci.
+powr√≥ci≈Ç po d≈Çu≈ºszym braku aktywno≈õci.
 [has returned after being absent since %#x]
-powrÛci≥ po braku aktywnoúci od %#x
+powr√≥ci≈Ç po braku aktywno≈õci od %#x
 [has not returned after being absent since %#x]
 nieaktywny od %#x
 [has not returned after a long absence.]
@@ -20,11 +20,11 @@ nieaktywny od %#x
 [not detected]
 nie wykryto
 [This contact has been absent for an extended period of time.]
-Ten kontakt jest nieaktywny przez d≥uøszy okres czasu.
+Ten kontakt jest nieaktywny przez d≈Çu≈ºszy okres czasu.
 [has returned after being absent since %d days]
-powrÛci≥ po braku aktywnoúci od %d dni
+powr√≥ci≈Ç po braku aktywno≈õci od %d dni
 [Contact returned]
-PowrÛt kontaktu
+Powr√≥t kontaktu
 [Contact still absent]
 Kontakt nadal nieaktywny
 [Miss you event]
@@ -32,55 +32,55 @@ Powiadomienie o zdarzeniach
 [Hide contact event]
 Ukryj zdarzenia kontaktu
 [You awaited this contact!]
-Czeka≥eú na ten kontakt!
+Czeka≈Çe≈õ na ten kontakt!
 [Enable Miss You]
-W≥πcz "Daj mi znaÊ"
+W≈ÇƒÖcz "Daj mi znaƒá"
 [Disable Miss You]
-Wy≥πcz "Daj mi znaÊ"
+Wy≈ÇƒÖcz "Daj mi znaƒá"
 [Tray/popup icon]
 Ikona w zasobniku/popupie
 [Last seen online:]
 Ostatnio widziany:
 [Last input message:]
-Ostatnia wiadomoúÊ:
+Ostatnia wiadomo≈õƒá:
 [Custom absence period:]
-W≥asny okres aktywnosci:
+W≈Çasny okres aktywnosci:
 [Never hide this contact]
 Nigdy nie ukrywaj tego kontaktu
 [Return notification]
-Powiadom mnie o aktywnoúci
+Powiadom mnie o aktywno≈õci
 [When a contact returns after]
 Kiedy kontakt bedzie aktywny po:
 [When a contact returns after ]
 Kiedy kontakt bedzie aktywny po: 
 [or comes online for the first time]
-lub stanie siÍ aktywny po raz pierwszy.
+lub stanie siƒô aktywny po raz pierwszy.
 [Show a popup]
-Pokaø popup
+Poka≈º popup
 [Add an event (flashing icon) to the contact]
-Dodaj zdarzenie (migajπca ikona) dla kontaktu
+Dodaj zdarzenie (migajƒÖca ikona) dla kontaktu
 [On event action (double click) or popup click:]
-Akcja zdarzenia (podwÛjne klikniÍcie) lub popup:
+Akcja zdarzenia (podw√≥jne klikniƒôcie) lub popup:
 [Open User Details]
-OtwÛrz dane kontaktu
+Otw√≥rz dane kontaktu
 [Long time no see]
-D≥ugi czas braku aktywnoúci
+D≈Çugi czas braku aktywno≈õci
 [When a contact is absent for]
 Kiedy kontakt jest nieaktywny od:
 [Hide when no messages for]
-Ukryj kiedy brak wiadomoúci od:
+Ukryj kiedy brak wiadomo≈õci od:
 [Delete the contact]
-UsuÒ kontakt
+Usu≈Ñ kontakt
 [Enable "Miss you" feature]
-W≥πcz funkcjÍ "Daj mi znaÊ"
+W≈ÇƒÖcz funkcjƒô "Daj mi znaƒá"
 [Use Popups colors]
-Uøyj kolorÛw Popup
+U≈ºyj kolor√≥w Popup
 [days]
 dni
 [weeks]
 tygodni
 [months]
-miesiÍcy
+miesiƒôcy
 [years]
 lat
 [NeverHide]
@@ -88,24 +88,24 @@ Nie ukrywaj
 [Absence period]
 Brak okresu
 [Last input message]
-Ostatnia wiadomoúÊ
+Ostatnia wiadomo≈õƒá
 [Last seen online]
 Ostatnio widziany
 [Note: in additional you may specify any sound  on 'Sounds' panel]
-Uwaga: dodatkowo moøna ustawic dowolny düwiÍk w Personalizacja > DüwiÍki.
+Uwaga: dodatkowo mo≈ºna ustawic dowolny d≈∫wiƒôk w Personalizacja > D≈∫wiƒôki.
 [Notify after an absence of ]
-Powiadamiaj po braku aktywnoúci
+Powiadamiaj po braku aktywno≈õci
 [On event action (double click):]
-Akcja zdarzenia (podwÛjne klikniÍcie):
+Akcja zdarzenia (podw√≥jne klikniƒôcie):
 [This plugin notifies you when any contact comes online after an absence of long period.]
-Ta wtyczka s≥uøy do powiadamiania uøytkownika o zmianach aktywnoúci kontaktÛw trwajπcej d≥uøszy czas.
+Ta wtyczka s≈Çu≈ºy do powiadamiania u≈ºytkownika o zmianach aktywno≈õci kontakt√≥w trwajƒÖcej d≈Çu≈ºszy czas.
 [BuddyExpectator: contact returned]
 BuddyExpectator: kontakt aktywny
 [has returned after an absence of long period.]
-powrÛci≥ po d≥ugim okresie braku aktywnoúci.
+powr√≥ci≈Ç po d≈Çugim okresie braku aktywno≈õci.
 [has returned after an absence since %#x]
-powrÛci≥ po %#x
+powr√≥ci≈Ç po %#x
 [It's already necessary to notify of this contact - an absence has been detected.]
-Powiadomienie o tym kontakcie nie jest juø potrzebne - brak zosta≥ wykryty.
+Powiadomienie o tym kontakcie nie jest ju≈º potrzebne - brak zosta≈Ç wykryty.
 [monthes]
 mieisecy

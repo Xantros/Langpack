@@ -6,11 +6,11 @@
 [RSS/Atom reader.]
 Czytnik RSS/Atom.
 [Adding new feed]
-Dodawanie kana≥Ûw informacyjnych
+Dodawanie kana≈Ç√≥w informacyjnych
 [Manage feed]
-Zarzπdzanie kana≥em informacyjnym
+ZarzƒÖdzanie kana≈Çem informacyjnym
 [Main options]
-G≥Ûwne opcje
+G≈Ç√≥wne opcje
 [URL]
 Link
 [Auto &discovery]
@@ -18,39 +18,39 @@ Auto-wykrywanie
 [Authentication]
 Autoryzacja
 [Use &authentication]
-Uøywaj autoryzacji
+U≈ºywaj autoryzacji
 [Visualization]
-Wyglπd
+WyglƒÖd
 [Display news using the following format:]
-Uøywaj nastÍpujπcego formatowania wiadomoúci:
+U≈ºywaj nastƒôpujƒÖcego formatowania wiadomo≈õci:
 [All item's tags are valid. Put them between #. Example: #<author>#]
-Dzia≥ajπ wszystkie znaczniki RSS. UmieúÊ je pomiÍdzy #. Np.: #<author>#
+Dzia≈ÇajƒÖ wszystkie znaczniki RSS. Umie≈õƒá je pomiƒôdzy #. Np.: #<author>#
 [RSSNews - Authentication]
 RSSNews - Autoryzacja
 [This feed seems to need authentication. Please fill username and password fields:]
-Zdaje siÍ, øe ten kana≥ wymaga uwierzytelnienia. ProszÍ podaÊ nazwÍ uøytkownika i has≥o:
+Zdaje siƒô, ≈ºe ten kana≈Ç wymaga uwierzytelnienia. Proszƒô podaƒá nazwƒô u≈ºytkownika i has≈Ço:
 [&Do not ask again for this feed]
-Nie pytaj ponownie o ten kana≥
+Nie pytaj ponownie o ten kana≈Ç
 [There are no new items for this feed for a long period of time.]
-Od d≥uøszego czasu nie by≥o nowych wiadomoúci dla tego kana≥u.
+Od d≈Çu≈ºszego czasu nie by≈Ço nowych wiadomo≈õci dla tego kana≈Çu.
 [What do you want to do?]
-Co chcesz zrobiÊ?
+Co chcesz zrobiƒá?
 [&Continue checking this feed for new items]
-Kontynuuj sprawdzanie tego kana≥u
+Kontynuuj sprawdzanie tego kana≈Çu
 [&Delete this feed]
-UsuÒ ten kana≥
+Usu≈Ñ ten kana≈Ç
 [Do not &warn me again for this feed]
-Nie wyúwietlaj ostrzeøeÒ dla tego kana≥u
+Nie wy≈õwietlaj ostrze≈ºe≈Ñ dla tego kana≈Çu
 [Example]
-Przyk≥ad
+Przyk≈Çad
 [Feed]
-Kana≥
+Kana≈Ç
 [&Add...]
 Dodaj...
 [&Edit...]
 Edytuj...
 [Retrieve news at &startup]
-Pobierz wiadomoúci na &starcie
+Pobierz wiadomo≈õci na &starcie
 [E&xport...]
 Eksportuj...
 [RSSNews - Import]
@@ -58,82 +58,82 @@ RSSNews - Import
 [Import from:]
 Importuj z:
 [&Go]
-Przejdü
+Przejd≈∫
 [Available feeds:]
-DostÍpne kana≥y:
+Dostƒôpne kana≈Çy:
 [Feeds to be imported:]
-Kana≥y do zaimportowania:
+Kana≈Çy do zaimportowania:
 [RSSNews - Export]
 RSSNews - Eksport
 [Feeds to be exported:]
-Kana≥y do wyeksportowania:
+Kana≈Çy do wyeksportowania:
 [Export to file:]
 Exportuj do pliku:
 [Enter a value in Title field.]
-Wype≥nij pole Tytu≥.
+Wype≈Çnij pole Tytu≈Ç.
 [Enter a value in URL field.]
-Wype≥nij pole URL.
+Wype≈Çnij pole URL.
 [Enter a value greater than zero in Minutes field.]
-Wprowadü wartoúÊ wiÍkszπ niø zero w polu Minut(y).
+Wprowad≈∫ warto≈õƒá wiƒôkszƒÖ ni≈º zero w polu Minut(y).
 [Enter a value in Username field.]
-Wype≥nij pole Nazwa uøytkownika.
+Wype≈Çnij pole Nazwa u≈ºytkownika.
 [Enter a value in Password field.]
-Wype≥nij pole Has≥o
+Wype≈Çnij pole Has≈Ço
 [Select a feed to manage.]
-Wybierz kana≥ ktÛry chcesz edytowaÊ.
+Wybierz kana≈Ç kt√≥ry chcesz edytowaƒá.
 [Select a feed to delete.]
-Wybierz kana≥ do usuniÍcia.
+Wybierz kana≈Ç do usuniƒôcia.
 [Invalid path and/or filename.]
-B≥Ídna úcieøka i/lub nazwa pliku.
+B≈Çƒôdna ≈õcie≈ºka i/lub nazwa pliku.
 [Exporting sucessfully completed.]
-Eksportowanie zakoÒczy≥o siÍ sukcesem.
+Eksportowanie zako≈Ñczy≈Ço siƒô sukcesem.
 [There are no items to be exported.]
 Nie wybrano nic do wyeksportowania.
 [RSSNews plugin did not find any feed.]
-Wtyczka RSSNews nie znalaz≥a øadnych kana≥Ûw.
+Wtyczka RSSNews nie znalaz≈Ça ≈ºadnych kana≈Ç√≥w.
 [Importing sucessfully completed.]
-Import zakoÒczy≥ siÍ sukcesem.
+Import zako≈Ñczy≈Ç siƒô sukcesem.
 [There are no items to be imported.]
 Nie wybrano nic do zaimportowania
 [Wait...]
 Czekaj...
 [%s\nis a valid feed's address.]
-%s\njest poprawnym adresem kana≥u.
+%s\njest poprawnym adresem kana≈Çu.
 [RSSNews found a new feed's address]
-RSSNews znalaz≥ nowy adres kana≥u
+RSSNews znalaz≈Ç nowy adres kana≈Çu
 [Do you want to use it?]
-Chcesz go uøyÊ?
+Chcesz go u≈ºyƒá?
 [is no longer available at the server and no forwarding address is known.]
-nie jest juø dostÍpny na serwerze, nie jest teø znany nowy adres.
+nie jest ju≈º dostƒôpny na serwerze, nie jest te≈º znany nowy adres.
 [This condition is expected to be considered permanent.]
-Ta sytuacja prawdopodobnie siÍ nie zmieni.
+Ta sytuacja prawdopodobnie siƒô nie zmieni.
 [Would you like to delete this feed?]
-Czy chcesz usunπÊ ten kana≥?
+Czy chcesz usunƒÖƒá ten kana≈Ç?
 [Forbidden address]
 Zabroniony adres
 [Authorization will not help and the request should not be repeated.]
-Autoryzacja nie pomoøe i øπdanie nie powinno byÊ powtarzane.
+Autoryzacja nie pomo≈ºe i ≈ºƒÖdanie nie powinno byƒá powtarzane.
 [RSSNews plugin requires Miranda IM 0.4.0.0 or above. This plugin will be disabled.]
-Wtyczka RSSNews wymaga Mirandy IM w wersji 0.4.0.0 lub wyøszej. Wtyczka zostanie wy≥πczona.
+Wtyczka RSSNews wymaga Mirandy IM w wersji 0.4.0.0 lub wy≈ºszej. Wtyczka zostanie wy≈ÇƒÖczona.
 [Feed sucessfully added.]
-Kana≥ zosta≥ dodany.
+Kana≈Ç zosta≈Ç dodany.
 [RSSNews]
 RSSNews
 [Retrieve &news]
-Pobierz wiadomoúci
+Pobierz wiadomo≈õci
 [&Check all feeds]
-Sprawdü wszystkie kana≥y
+Sprawd≈∫ wszystkie kana≈Çy
 [&Add new feed...]
-Dodaj nowy kana≥...
+Dodaj nowy kana≈Ç...
 [&Export...]
 Eksportuj...
 [MyFeeds]
-MojeKana≥y
+MojeKana≈Çy
 [OPML File]
 Plik OPML
 [Feed ID]
-ID Kana≥u
+ID Kana≈Çu
 [Feed protocol]
-ProtokÛ≥ RSS
+Protok√≥≈Ç RSS
 [RSSNews connection]
-Po≥πczenie RSS
+Po≈ÇƒÖczenie RSS

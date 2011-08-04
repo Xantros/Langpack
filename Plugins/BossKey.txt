@@ -4,47 +4,47 @@
 ;  Versions: 0.4.1.2
 ;============================================================
 [Please enter password!]
-Proszê wprowadziæ has³o!
+ProszÄ™ wprowadziÄ‡ hasÅ‚o!
 [Password is not correct!]
-Nieprawid³owe has³o!
+NieprawidÅ‚owe hasÅ‚o!
 [Hide Miranda IM]
-Ukryj Mirandê IM
+Ukryj MirandÄ™ IM
 [BossKey\tget the BossKey name]
-BossKey\tpobierz nazwê BossKey
+BossKey\tpobierz nazwÄ™ BossKey
 [Trigger when Miranda is hiding]
-Wywo³aj, kiedy Miranda jest ukryta
+WywoÅ‚aj, kiedy Miranda jest ukryta
 [Trigger when Miranda is showing]
-Wywo³aj, kiedy Miranda jest na wierzchu
+WywoÅ‚aj, kiedy Miranda jest na wierzchu
 [Go to Customize -> Hotkeys to change the hotkey]
-PrzejdŸ do Personalizacja -> Skróty, aby je ustawiæ
+PrzejdÅº do Personalizacja -> SkrÃ³ty, aby je ustawiÄ‡
 [Hotkey:]
-Skrót:
+SkrÃ³t:
 [Use built in to Miranda hotkey module]
-U¿yj wbudowanej w Mirandê obs³ugi skrótów
+UÅ¼yj wbudowanej w MirandÄ™ obsÅ‚ugi skrÃ³tÃ³w
 [When I press the hotkey:]
-Kiedy nacisnê skrót:
+Kiedy nacisnÄ™ skrÃ³t:
 [Change status to]
-Zmieñ status na
+ZmieÅ„ status na
 [Change only if current status is Online]
-Zmieñ tylko, jeœli aktualny status to Po³¹czony
+ZmieÅ„ tylko, jeÅ›li aktualny status to PoÅ‚Ä…czony
 [Use default status message]
-U¿yj domyœlnego opisu
+UÅ¼yj domyÅ›lnego opisu
 [Disable Sounds]
-Wy³¹cz dŸwiêki
+WyÅ‚Ä…cz dÅºwiÄ™ki
 [When I return:]
-Kiedy wrócê:
+Kiedy wrÃ³cÄ™:
 [Request password:]
-Za¿¹daj has³a:
+ZaÅ¼Ä…daj hasÅ‚a:
 [Change status back]
-Przywróæ poprzedni status
+PrzywrÃ³Ä‡ poprzedni status
 [Workstation is Locked (2000/XP+)]
 Komputer jest zablokowany (2000/XP+)
 [Screen Saver is running]
-Wygaszacz jest w³¹czony
+Wygaszacz jest wÅ‚Ä…czony
 [Windows is inactive]
 Okno jest nieaktywne
 [Hide Miranda when:]
-Ukryj Mirandê kiedy:
+Ukryj MirandÄ™ kiedy:
 [Miranda is inactive]
 Miranda jest nieaktywna
 [min]
@@ -54,16 +54,16 @@ Przy telefonie
 [Out to Lunch]
 Na obiedzie
 [Miranda IM is locked.\nEnter password to unlock it.]
-Miranda jest zablokowana.\n Proszê wprowadziæ has³o.
+Miranda jest zablokowana.\n ProszÄ™ wprowadziÄ‡ hasÅ‚o.
 [Password is not correct!\nPlease, enter correct password.]
-B³êdne has³o!\nProszê wpisaæ poprawne has³o.
+BÅ‚Ä™dne hasÅ‚o!\nProszÄ™ wpisaÄ‡ poprawne hasÅ‚o.
 [Miranda is started]
-Miranda siê uruchamia
+Miranda siÄ™ uruchamia
 [Restore hiding on startup after failure]
-Przywróæ ukrywanie na starcie po awarii
+PrzywrÃ³Ä‡ ukrywanie na starcie po awarii
 [Hide/Show Miranda]
-Ukryj/Poka¿ Mirandê
+Ukryj/PokaÅ¼ MirandÄ™
 [get the BossKey name]
-pobiera nazwê BossKey
+pobiera nazwÄ™ BossKey
 [Main]
-Ogólne
+OgÃ³lne

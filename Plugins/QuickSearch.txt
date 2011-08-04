@@ -12,23 +12,23 @@ Szybkie Szukanie
 [ %d]
  %d
 [Protocols:]
-Protoko³y:
+ProtokoÅ‚y:
 [MoveToGroup]
-PrzesuñDoGrupy
+PrzesuÅ„DoGrupy
 [Cant register global hotkey\r\n]
-Niemo¿na zapisaæ globalnego skrótu\r\n
+NiemoÅ¼na zapisaÄ‡ globalnego skrÃ³tu\r\n
 [QuickSearch error]
-B³¹d SzybkiegoSzukania
+BÅ‚Ä…d SzybkiegoSzukania
 [Cant register local hotkey]
-Niemo¿na zapisaæ lokalnego skrótu
+NiemoÅ¼na zapisaÄ‡ lokalnego skrÃ³tu
 [FIRSTNAME]
-IMIÊ
+IMIÄ˜
 [LASTNAME]
 NAZWISKO
 [NICK]
 KSYWKA
 [CUSTOMNICK]
-W£ASNAKSYWKA
+WÅASNAKSYWKA
 [EMAIL]
 EMAIL
 [CITY]
@@ -44,47 +44,47 @@ STRONADOMOWA
 [ABOUT]
 O
 [GENDER]
-P£EÆ
+PÅEÄ†
 [AGE]
 Wiek
 [FIRSTLAST]
-IMIÊNAZWISKO
+IMIÄ˜NAZWISKO
 [UNIQUEID]
 UNIKALNYID
 [Not Selected]
 Nie Zaznaczone
 [Title test]
-Test tytu³u
+Test tytuÅ‚u
 [Module/InfoType]
-Modu³/TypInfo
+ModuÅ‚/TypInfo
 [Title]
-Tytu³
+TytuÅ‚
 [&New]
 Nowy
 [Setting:]
 Ustawienia:
 [Width:]
-Szerokoœæ:
+SzerokoÅ›Ä‡:
 [De&fault]
-Domyœlne
+DomyÅ›lne
 [&Set Item]
 Ustaw element
 [At Start Sort by Status]
 Na starcie sortuj wg statusu
 [Global scope hotkey:]
-Globalny skrót:
+Globalny skrÃ³t:
 [Miranda scope hotkey:]
-Skrót Mirandy:
+SkrÃ³t Mirandy:
 [Add Item to Main Menu]
-Dodaj Pozycjê do G³ównego Menu
+Dodaj PozycjÄ™ do GÅ‚Ã³wnego Menu
 [Show Only Users in List]
-Poka¿ Tylko U¿ytkowników na Liœcie
+PokaÅ¼ Tylko UÅ¼ytkownikÃ³w na LiÅ›cie
 [Add Button to TopToolBar]
 Dodaj Przycisk do TopToolBar
 [Additional Options]
 Dodatkowe Opcje
 [HotKeys]
-Skróty
+SkrÃ³ty
 [Columns && Data]
 Kolumny i Dane
 [Auto Close mode]
@@ -94,38 +94,38 @@ TypInfo:
 [Sort by Status]
 Sortuj wg statusu
 [Only Users in List]
-Tylko u¿ytkownicy na liœcie
+Tylko uÅ¼ytkownicy na liÅ›cie
 [Draw Grid]
-Rysuj kratkê
+Rysuj kratkÄ™
 [Show Client Icons]
-Poka¿ ikony Klienta
+PokaÅ¼ ikony Klienta
 [Save search pattern]
 Zapisz wzorzec szukania
 [Item in Main Menu]
-W menu g³ównym
+W menu gÅ‚Ã³wnym
 [Button on TopToolBar]
-Przycisk paska narzêdzi
+Przycisk paska narzÄ™dzi
 [Tool Window Style]
-Styl okna narzêdzi
+Styl okna narzÄ™dzi
 [Copy line to CSV]
-Kopiuj liniê do CSV
+Kopiuj liniÄ™ do CSV
 [CSV with headers]
-CSV z nag³ówkami
+CSV z nagÅ‚Ã³wkami
 [Skip minimized columns]
-Pomiñ zminimali. kolumny
+PomiÅ„ zminimali. kolumny
 [Save Item]
 Zapisz
 [Open main window]
-Otwórz okno g³ówne
+OtwÃ³rz okno gÅ‚Ã³wne
 [Previous item]
 Poprzedni
 [Next item]
-Nastêpny
+NastÄ™pny
 [Show Offline contacts]
-Poka¿ Niedostêpnych
+PokaÅ¼ NiedostÄ™pnych
 [Colorize]
 Koloruj
 [UserID]
-ID U¿ytkownika
+ID UÅ¼ytkownika
 [%u users found (%u) Online: %u]
-Znaleziono (%u z %u) Dostêpnych: %u
+Znaleziono (%u z %u) DostÄ™pnych: %u

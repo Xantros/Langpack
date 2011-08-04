@@ -2,12 +2,12 @@
 ;  Module: Unsorted strings.
 ;============================================================
 [Pre-conditions]
-Wstêpne warunki
+WstÄ™pne warunki
 [horizontal]
 poziome
 [Unknown error]
-Nieznany b³¹d
+Nieznany bÅ‚Ä…d
 [Fatal error, image services not found. Flags Module will be disabled.]
-B³¹d, nie znaleziono wtyczki 'advaimg.dll'. Us³uga Flag zostanie wy³¹czona.
+BÅ‚Ä…d, nie znaleziono wtyczki 'advaimg.dll'. UsÅ‚uga Flag zostanie wyÅ‚Ä…czona.
 [PopUps]
 Popupy

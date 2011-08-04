@@ -4,27 +4,27 @@
 ;  Versions: 0.0.3.21
 ;============================================================
 [Toggle status notification]
-Prze³¹cznik powiadomieñ statusu
+PrzeÅ‚Ä…cznik powiadomieÅ„ statusu
 [Status Message Change Notify]
 Powiadomienie o zmianie opisu
 [Do not log empty status messages]
 Nie powiadamiaj o pustych opisach
 [Disable protocols which you don't wish to be notified for]
-Protoko³y, dla których bêdzie widoczne powiadomienie
+ProtokoÅ‚y, dla ktÃ³rych bÄ™dzie widoczne powiadomienie
 [Keep history of up to]
 Trzymaj w historii
 [status messages]
-wpisów
+wpisÃ³w
 [History template]
 Szablon historii
 [Message Window]
-Okno wiadomoœci
+Okno wiadomoÅ›ci
 [Clear status messages history for all contacts]
-Wyczyœæ historiê opisów dla wszystkich kontaktów
+WyczyÅ›Ä‡ historiÄ™ opisÃ³w dla wszystkich kontaktÃ³w
 [Show status message changes in message window]
-Poka¿ zmiany opisów w oknie wiadomoœci
+PokaÅ¼ zmiany opisÃ³w w oknie wiadomoÅ›ci
 [Message removed]
-Usuniêcie opisu
+UsuniÄ™cie opisu
 [Message changed]
 Zmiana opisu
 [Logging]
@@ -32,36 +32,36 @@ Dziennik
 [Log template]
 Szablon dziennika
 [You can use %c with log filename to append nicknames]
-Mo¿esz u¿yæ %c z nazw¹ pliku dziennika aby do³¹czyæ nazwy
+MoÅ¼esz uÅ¼yÄ‡ %c z nazwÄ… pliku dziennika aby doÅ‚Ä…czyÄ‡ nazwy
 [Show PopUps]
 Pokaz popupy
 [Keep History]
-Zapisuj historiê
+Zapisuj historiÄ™
 [Log To File]
 Zapisuj do pliku
 [Enable PopUps]
-W³¹cz popupy
+WÅ‚Ä…cz popupy
 [Only if status message has changed]
-Tylko kiedy nast¹pi zmiana opisu
+Tylko kiedy nastÄ…pi zmiana opisu
 [Ignore empty status messages]
 Ignoruj puste opisy
 [Open contact details]
-Otwórz dane kontaktu
+OtwÃ³rz dane kontaktu
 [View status message history]
-Poka¿ historiê opisów
+PokaÅ¼ historiÄ™ opisÃ³w
 [User has changed status message]
 Zmiana opisu
 [Go To URL in Status Message]
-Otwórz link z opisu
+OtwÃ³rz link z opisu
 [List Contacts with Status Message]
-Lista kontaktów z opisem
+Lista kontaktÃ³w z opisem
 [Status Message History]
-Historia opisów
+Historia opisÃ³w
 [Clear history]
-Czyœæ historiê
+CzyÅ›Ä‡ historiÄ™
 [Enable/Disable popups for this contact]
-W³¹cz/Wy³¹cz popupy dla tego kontaktu
+WÅ‚Ä…cz/WyÅ‚Ä…cz popupy dla tego kontaktu
 [Enable/Disable history for this contact]
-W³¹cz/Wy³¹cz historiê dla tego kontaktu
+WÅ‚Ä…cz/WyÅ‚Ä…cz historiÄ™ dla tego kontaktu
 [Enable/Disable logging to file for this contact]
-W³¹cz/Wy³¹cz zapisywanie do pliku dla tego kontaktu
+WÅ‚Ä…cz/WyÅ‚Ä…cz zapisywanie do pliku dla tego kontaktu

@@ -6,13 +6,13 @@
 [History/Events]
 Historia/Zdarzenia
 [Show in message window]
-Poka¿ w oknie wiadomoœci
+PokaÅ¼ w oknie wiadomoÅ›ci
 [Respect text format]
 Zachowaj formatowanie tekstu
 [Respect text font]
-Zachowaj czcionkê tekstu
+Zachowaj czcionkÄ™ tekstu
 [Only add if message window is open]
-Dodaj tylko jeœli okno rozmowy jest otwarte
+Dodaj tylko jeÅ›li okno rozmowy jest otwarte
 [Keep in database:]
 Przechowuj w bazie:
 [Forever]
@@ -20,29 +20,29 @@ Zawsze
 [For 1 year]
 Przez rok
 [For 6 months]
-Przez 6 miesiêcy
+Przez 6 miesiÄ™cy
 [For 1 month]
-Przez miesi¹c
+Przez miesiÄ…c
 [For 1 week]
-Przez tydzieñ
+Przez tydzieÅ„
 [For 1 day]
-Przez dzieñ
+Przez dzieÅ„
 [Only to view in message window]
-Pokazuj tylko w oknie wiadomoœci
+Pokazuj tylko w oknie wiadomoÅ›ci
 [Max 10 events]
-Maks. 10 zdarzeñ
+Maks. 10 zdarzeÅ„
 [Max 100 events]
-Maks. 100 zdarzeñ
+Maks. 100 zdarzeÅ„
 [Don't store]
 Nie przechowuj
 [Event types:]
-Typy zdarzeñ:
+Typy zdarzeÅ„:
 [Client Change]
 Zmiena klienta
 [Idle Change]
-Zmiena bezczynnoœci
+Zmiena bezczynnoÅ›ci
 [Removal]
-Usuniêto
+UsuniÄ™to
 [Listening Change]
 Zmiana utworu
 [Status Change]

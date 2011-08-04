@@ -4,4 +4,4 @@
 ;  Versions: 0.10.0.1
 ;============================================================
 [Generic image services for Miranda IM]
-Us≥uga obrazkÛw dla Mirandy IM
+Us≈Çuga obrazk√≥w dla Mirandy IM

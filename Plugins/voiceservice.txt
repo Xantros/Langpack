@@ -4,15 +4,15 @@
 ;  Versions: 0.1.2.0
 ;============================================================
 [User '%s' not found on the server!]
-U¿ytkownik '%s' nie zosta³ znaleziony na serwerze!
+UÅ¼ytkownik '%s' nie zostaÅ‚ znaleziony na serwerze!
 [%s wants to start a voice call with you. What you want to do?\n\nIf you answer the call, the current call will be put on hold.]
-%s chce rozpocz¹æ rozmowê telefoniczn¹ z Tob¹. Co chcesz zrobiæ?\n\nOdbierzesz czy bie¿¹ce po³¹czenie zostanie zawieszone?
+%s chce rozpoczÄ…Ä‡ rozmowÄ™ telefonicznÄ… z TobÄ…. Co chcesz zrobiÄ‡?\n\nOdbierzesz czy bieÅ¼Ä…ce poÅ‚Ä…czenie zostanie zawieszone?
 [Answer]
 Odbierz
 [From now on, repeat this action for this contact]
-Od teraz, powtarzaj tê czynnoœæ dla tego kontaktu
+Od teraz, powtarzaj tÄ™ czynnoÅ›Ä‡ dla tego kontaktu
 [Drop]
-Zakoñcz
+ZakoÅ„cz
 [New Voice Call]
 Nowa rozmowa
 [Auto-size frame]
@@ -24,37 +24,37 @@ Automatyczne akcje
 [Auto accept this contact calls]
 Automatycznie odbierz gdy kontakt dzwoni
 [Auto drop this contacts calls]
-Automatycznie zawieœ gdy kontakt dzwoni
+Automatycznie zawieÅ› gdy kontakt dzwoni
 [Devices]
 Sterowniki
 [Audio]
-DŸwiêk
+DÅºwiÄ™k
 [Input:]
-Wchodz¹ce:
+WchodzÄ…ce:
 [Output:]
-Wychodz¹ce:
+WychodzÄ…ce:
 [Echo cancelation]
 Zapobiegaj echom
 [Microphone boost]
 Wzmocnienie mikrofonu
 [Show dialpad]
-Poka¿ klawiature numeryczn¹
+PokaÅ¼ klawiature numerycznÄ…
 [Make call]
-Dzwoñ
+DzwoÅ„
 [Voice Calls]
-Rozmowy g³osowe
+Rozmowy gÅ‚osowe
 [Test Contact]
 Test kontaktu
 [Test description]
 Opis testu
 [Voice call ended]
-Rozmowa zakoñczona
+Rozmowa zakoÅ„czona
 [Talking]
 Rozmawiam
 [Calling]
-Dzwoniê
+DzwoniÄ™
 [Ended]
-Zakoñczono
+ZakoÅ„czono
 [On Hold]
 Zawieszono
 [Ringing]
@@ -62,42 +62,42 @@ Dzwonienie
 [Voice Call]
 Rozmowa
 [Answer Voice Call]
-Odbierz rozmowê g³osow¹
+Odbierz rozmowÄ™ gÅ‚osowÄ…
 [Hold Voice Call]
-Zawieœ po³¹czenie
+ZawieÅ› poÅ‚Ä…czenie
 [Drop Voice Call]
-Zakoñcz rozmowê g³osow¹
+ZakoÅ„cz rozmowÄ™ gÅ‚osowÄ…
 [Incoming &Event]
-Kliknij aby odebraæ
+Kliknij aby odebraÄ‡
 [Voice call ringing]
-Ktoœ dzwoni
+KtoÅ› dzwoni
 [%s wants to start a voice call with you. What you want to do?]
-%s chce rozpocz¹æ rozmowê g³osow¹. Co chcesz zrobiæ?
+%s chce rozpoczÄ…Ä‡ rozmowÄ™ gÅ‚osowÄ…. Co chcesz zrobiÄ‡?
 [Provide services for protocols that support voice calls]
-Œwiadczenia us³ug dla protoko³ów, które obs³uguj¹ po³¹czenia g³osowe
+Åšwiadczenia usÅ‚ug dla protokoÅ‚Ã³w, ktÃ³re obsÅ‚ugujÄ… poÅ‚Ä…czenia gÅ‚osowe
 [ Frame ]
 Ramka
 [Calling %s]
-£¹czenie z %s
+ÅÄ…czenie z %s
 [Ringing call from %s]
 %s dzwoni
 [Call from %s has started]
-Rozpoczêto rozmowê z %s
+RozpoczÄ™to rozmowÄ™ z %s
 [Voice call started]
-Rozmowa rozpoczêta
+Rozmowa rozpoczÄ™ta
 [Call from %s is on hold]
-Zawieszono po³¹czenie z %s
+Zawieszono poÅ‚Ä…czenie z %s
 [Voice call on hold]
-Zawieœ rozmowê
+ZawieÅ› rozmowÄ™
 [Answer call]
 Odbierz
 [Drop call]
-Odrzuæ
+OdrzuÄ‡
 [Hold call]
-Zawieœ
+ZawieÅ›
 [Call from %s has ended]
-Zakoñczono rozmowê z %s
+ZakoÅ„czono rozmowÄ™ z %s
 [Call with SIP]
-Zadzwoñ przez SIP
+ZadzwoÅ„ przez SIP
 [Use SRTP]
-U¿yj SRTP
+UÅ¼yj SRTP

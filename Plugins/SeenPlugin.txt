@@ -6,21 +6,21 @@
 [last seen history]
 Historia Last seen
 [Send Instant Message]
-Wyœlij szybk¹ wiadomoœæ
+WyÅ›lij szybkÄ… wiadomoÅ›Ä‡
 [Last seen plugin]
 Wtyczka Last seen
 [Log when a user was last seen online and which users were online while you were away]
-Zapisuje kiedy u¿ytkownik by³ po³¹czony po raz ostatni i którzy u¿ytkownicy byli online kiedy ciebie nie by³o
+Zapisuje kiedy uÅ¼ytkownik byÅ‚ poÅ‚Ä…czony po raz ostatni i ktÃ³rzy uÅ¼ytkownicy byli online kiedy ciebie nie byÅ‚o
 [LastSeen: User status change]
-LastSeen: Zmiana statusu u¿ytkownika
+LastSeen: Zmiana statusu uÅ¼ytkownika
 [Last seen menuitem]
 Last seen - wpis w menu
 [Userinfo tab]
 Karta danych kontaktu
 [Ignore contacts going offline]
-Ignoruj roz³¹czaj¹ce siê kontakty
+Ignoruj rozÅ‚Ä…czajÄ…ce siÄ™ kontakty
 [Enable 'Missed Ones' feature]
-W³¹cz funkcjê "Przegapieni"
+WÅ‚Ä…cz funkcjÄ™ "Przegapieni"
 [Last seen options]
 Opcje Last seen
 [Count times]
@@ -28,17 +28,17 @@ Licz ile razy
 [Variable list]
 Zmienne
 [Protocols to watch:]
-Protoko³y do obserwowania:
+ProtokoÅ‚y do obserwowania:
 [Log to history]
 Zapisuj do historii
 [Maximum size]
 Maks. rozmiar
 [You missed following contacts:]
-Przegapi³eœ nastêpuj¹ce kontakty:
+PrzegapiÅ‚eÅ› nastÄ™pujÄ…ce kontakty:
 [Test\nTest]
 Test\nTest
 [Alert when user status changes]
-Alarmuj kiedy u¿ytkownik zmieni status
+Alarmuj kiedy uÅ¼ytkownik zmieni status
 [-- Date --]
 -- Data -- 
 [year (4 digits)]
@@ -46,13 +46,13 @@ rok (4 znaki)
 [year (2 digits)]
 rok (2 znaki)
 [name of month]
-nazwa miesi¹ca
+nazwa miesiÄ…ca
 [short name of month]
-krótka nazwa miesi¹ca
+krÃ³tka nazwa miesiÄ…ca
 [weekday (full)]
-dzieñ tygodnia (ca³y)
+dzieÅ„ tygodnia (caÅ‚y)
 [weekday (abbreviated)]
-dzieñ tygodnia (skrócony)
+dzieÅ„ tygodnia (skrÃ³cony)
 [-- Time --]
 -- Czas -- 
 [hours (24)]
@@ -60,17 +60,17 @@ godziny (24)
 [hours (12)]
 godziny (12)
 [-- User --]
--- U¿ytkownik -- 
+-- UÅ¼ytkownik -- 
 [username]
 nazwa
 [UIN/handle]
-UIN/nazwa u¿ytkonika
+UIN/nazwa uÅ¼ytkonika
 [status]
 status
 [external IP]
-zewnêtrzne IP
+zewnÄ™trzne IP
 [internal IP]
-wewnêtrzne IP
+wewnÄ™trzne IP
 [-- Format --]
 -- Format --
 [tabulator]
@@ -78,19 +78,19 @@ tabulator
 [line break]
 koniec linii
 [Enable Idle support]
-W³¹cz wsparcie dla bezczynnoœci
+WÅ‚Ä…cz wsparcie dla bezczynnoÅ›ci
 [Use popups]
-U¿yj popup
+UÅ¼yj popup
 [PopUp Colors]
 Kolory
 [Reset colors]
 Resetuj
 [Disable CList Notifications]
-Wy³¹cz notywikacje CList
+WyÅ‚Ä…cz notywikacje CList
 [For watched protocols]
-Dla podgl¹danych protoko³ów
+Dla podglÄ…danych protokoÅ‚Ã³w
 [For non-watched protocols]
-Dla niepodgl¹danych protoko³ów
+Dla niepodglÄ…danych protokoÅ‚Ã³w
 [Last Seen Variables]
 Zmienne Last Seen
 [Old status]
@@ -98,10 +98,10 @@ Stary status
 [Client info]
 Informacje o kliencie
 [Changed to Online]
-Zmiana na Po³¹czony
+Zmiana na PoÅ‚Ä…czony
 [User Logged In]
-U¿ytkownik zalogowany
+UÅ¼ytkownik zalogowany
 [User Logged Off]
-U¿ytkownik wylogowany
+UÅ¼ytkownik wylogowany
 [User status change]
-Zmiana statusu u¿ytkownika
+Zmiana statusu uÅ¼ytkownika

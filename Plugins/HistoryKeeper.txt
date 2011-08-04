@@ -4,51 +4,51 @@
 ;  Versions: 0.2.1.0
 ;============================================================
 [is now listening to %new%]
-s³ucha teraz %new%
+sÅ‚ucha teraz %new%
 [stopped listening to music]
-przesta³(-a) s³uchaæ muzyki
+przestaÅ‚(-a) sÅ‚uchaÄ‡ muzyki
 [changed his/her %s to %%new%%: %%msg%% (was %%old%%)]
-zmieni³(-a) swój/swoj¹ %s na %%new%%: %%msg%% (by³(-a) %%old%%)
+zmieniÅ‚(-a) swÃ³j/swojÄ… %s na %%new%%: %%msg%% (byÅ‚(-a) %%old%%)
 [X-Status Message]
 Opis xStatus
 [Speak]
 Rozmowa
 [changed his/her %s to %%new%% (was %%old%%)]
-zmieni³(-a) swój %s na %%new%% (by³o %%old%%)
+zmieniÅ‚(-a) swÃ³j %s na %%new%% (byÅ‚o %%old%%)
 [%%contact%% changed his/her %s to %%new%%]
-%%contact%% zmieni³ swój %s na %%new%%
+%%contact%% zmieniÅ‚ swÃ³j %s na %%new%%
 [Log when contacts change their %s]
-Loguj kiedy kontakty zmieni¹ swój %s
+Loguj kiedy kontakty zmieniÄ… swÃ³j %s
 [Log when contacts remove their %s]
-Loguj kiedy kontakty usun¹ swój %s
+Loguj kiedy kontakty usunÄ… swÃ³j %s
 [Announce when contacts change their %s]
-Informuj kiedy kontakty zmieni¹ swój %s
+Informuj kiedy kontakty zmieniÄ… swÃ³j %s
 [Announce when contacts remove their %s]
-Informuj kiedy kontakty usun¹ swój %s
+Informuj kiedy kontakty usunÄ… swÃ³j %s
 [Show when contacts change their %s]
-Poka¿ kiedy kontakty zmieni¹ swój %s
+PokaÅ¼ kiedy kontakty zmieniÄ… swÃ³j %s
 [Show when contacts remove their %s]
-Poka¿ kiedy kontakty usun¹ swój %s
+PokaÅ¼ kiedy kontakty usunÄ… swÃ³j %s
 [Show history]
-Poka¿ historiê
+PokaÅ¼ historiÄ™
 [Contact Name]
 Nazwa kontaktu
 [ Tracking ]
- Œledzenie
+ Åšledzenie
 [ Actions ]
  Akcje
 [ Track ]
- Œledzenie 
+ Åšledzenie 
 [Wait]
 Czekaj
 [s before notifying (to avoid duplications)]
-s przed powiadomieniem (¿eby unikn¹æ duplikatów)
+s przed powiadomieniem (Å¼eby uniknÄ…Ä‡ duplikatÃ³w)
 [Don't notify on protocol connection]
-Nie powiadamiaj przy ³¹czeniu z sieci¹
+Nie powiadamiaj przy Å‚Ä…czeniu z sieciÄ…
 [ Protocols ]
- Protoko³y 
+ ProtokoÅ‚y 
 [Enable tracking for these protocols:]
-W³¹cz œledzenie dla tych protoko³ów:
+WÅ‚Ä…cz Å›ledzenie dla tych protokoÅ‚Ã³w:
 [ Log to file ]
  Zapisuj do pliku 
 [Filename:]
@@ -58,11 +58,11 @@ Zapisuj do historii
 [Log to File]
 Zapisuj do pliku
 [Notify using Popups]
-Powiadamiaj u¿ywaj¹c popupów
+Powiadamiaj uÅ¼ywajÄ…c popupÃ³w
 [Notify using Sounds]
-Powiadamiaj u¿ywaj¹c dŸwiêków
+Powiadamiaj uÅ¼ywajÄ…c dÅºwiÄ™kÃ³w
 [Notify using Speak plugin]
-Powiadamiaj u¿ywaj¹c wtyczki Speak
+Powiadamiaj uÅ¼ywajÄ…c wtyczki Speak
 [Ignore %s changes]
 Ignoruj zmiany %s
 [Log %s changes]
@@ -76,8 +76,8 @@ Nie powiadamiaj o zmianie %s
 [%s change]
 Zmiana %s
 [%s removal]
-Usuniêcie %s
+UsuniÄ™cie %s
 [X-Status]
 xStatus
 [Listening]
-Utwór
+UtwÃ³r

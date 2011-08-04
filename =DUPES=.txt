@@ -2,7 +2,7 @@
 ;  Repeat
 ;============================================================
 [Open String Formatting Help]
-Otwórz pomoc nt formatowania tekstu
+OtwÃ³rz pomoc nt formatowania tekstu
 [<current>]
 <aktualny>
 [Static]
@@ -12,35 +12,35 @@ Kopiuj
 [Select All]
 Zaznacz wszystko
 [Warning]
-Ostrze¿enie
+OstrzeÅ¼enie
 [Notify]
 Powiadomienie
 [connection]
-po³¹czenie
+poÅ‚Ä…czenie
 [Version:]
 Wersja:
 [Popup notification]
 Powiadamianie w popupie
 [N/A]
-Niedostêpny
+NiedostÄ™pny
 [Preview]
-Podgl¹d
+PodglÄ…d
 [Permanent]
-Sta³e
+StaÅ‚e
 [From PopUp plugin]
 Z wtyczki PopUp
 [seconds]
 sekund
 [Delay]
-OpóŸnienie
+OpÃ³Åºnienie
 [Text colour]
 Kolor tekstu
 [Background colour]
-Kolor t³a
+Kolor tÅ‚a
 [Colours]
 Kolory
 [Create a main menu item]
-Utwórz wpis w menu g³ównym
+UtwÃ³rz wpis w menu gÅ‚Ã³wnym
 [Avatar]
 Awatar
 [Right]
@@ -48,7 +48,7 @@ Prawa
 [Left]
 Lewa
 [Hotkey]
-Skrót
+SkrÃ³t
 [Days]
 Dni
 [Hours]
@@ -56,45 +56,45 @@ Godzin
 [System tray icon]
 Ikona w zasobniku
 [&Up]
-Góra
+GÃ³ra
 [&Down]
-Dó³
+DÃ³Å‚
 [Nickname]
 Nick
 [Move up]
-Przesuñ w górê
+PrzesuÅ„ w gÃ³rÄ™
 [Move down]
-Przesuñ w dó³
+PrzesuÅ„ w dÃ³Å‚
 [Chats]
 Rozmowy
 [Do nothing]
-Nic nie rób
+Nic nie rÃ³b
 [Close popup]
 Zamknij popup
 [Use Windows colours]
-U¿yj kolorów Windows
+UÅ¼yj kolorÃ³w Windows
 [Use default colours]
-U¿yj domyœlnych kolorów
+UÅ¼yj domyÅ›lnych kolorÃ³w
 [Title:]
 Nazwa:
 [Others]
 Inne
 [Browse]
-Przegl¹daj
+PrzeglÄ…daj
 [Type]
 Typ
 [Enable avatars]
-W³¹cz obs³ugê awatarów
+WÅ‚Ä…cz obsÅ‚ugÄ™ awatarÃ³w
 [Change Password]
-Zmieñ has³o
+ZmieÅ„ hasÅ‚o
 [Keep connection alive]
-Utrzymuj po³¹czenie
+Utrzymuj poÅ‚Ä…czenie
 [Automatically reconnect after unintentional disconnection]
-Automatycznie ³¹cz po niezamierzonym roz³¹czeniu
+Automatycznie Å‚Ä…cz po niezamierzonym rozÅ‚Ä…czeniu
 [Options...]
 Opcje...
 [Protocol icon]
-Ikona protoko³u
+Ikona protokoÅ‚u
 [Conference]
 Konferencja
 [Template:]
@@ -102,25 +102,25 @@ Szablon:
 [Next]
 Dalej
 [Bookmarks]
-Zak³adki
+ZakÅ‚adki
 [Loading...]
 Wczytywanie...
 [Server]
 Serwer
 [closed chat session]
-zamkniête rozmowy
+zamkniÄ™te rozmowy
 [Miscellaneous]
-Ró¿ne
+RÃ³Å¼ne
 [Done]
 Gotowe
 [default]
-domyœlny
+domyÅ›lny
 [Other]
 Inne
 [Video]
 Wideo
 [Request authorization]
-Poproœ o autoryzacjê
+PoproÅ› o autoryzacjÄ™
 [Text]
 Tekst
 [pixels]
@@ -132,29 +132,29 @@ Tekst:
 [Filtering]
 Filtrowanie
 [Open]
-Otwórz
+OtwÃ³rz
 [Notifications]
 Powiadamianie
 [Popups]
 Popupy
 [Open message window]
-Otwórz okno rozmowy
+OtwÃ³rz okno rozmowy
 [Contact menu]
 Menu kontaktu
 [Back]
 Wstecz
 [Privacy]
-Prywatnoœæ
+PrywatnoÅ›Ä‡
 [&Reset]
 Resetuj
 [day]
-dzieñ
+dzieÅ„
 [month]
-miesi¹c
+miesiÄ…c
 [&Import...]
 Importuj...
 [File Transfer]
-Transfer plików
+Transfer plikÃ³w
 [All]
 Wszystko
 [On left click]
@@ -164,71 +164,71 @@ Prawy przycisk
 [Log to file]
 Zapisuj w pliku
 [Show icon]
-Poka¿ ikonê
+PokaÅ¼ ikonÄ™
 [minutes]
 minuty
 [Paste]
 Wklej
 [Top]
-Góra
+GÃ³ra
 [Unknown]
 Nieznany
 [Incoming messages]
-Przychodz¹ce wiadomoœci
+PrzychodzÄ…ce wiadomoÅ›ci
 [Outgoing messages]
-Wychodz¹ce wiadomoœci
+WychodzÄ…ce wiadomoÅ›ci
 [Show PopUps when I connect]
-Poka¿ popupy podczas ³¹czenia
+PokaÅ¼ popupy podczas Å‚Ä…czenia
 [Blink icon in the system tray]
-Migaj ikon¹ w zasobniku systemowym
+Migaj ikonÄ… w zasobniku systemowym
 [Variables]
 Zmienne
 [Hide]
 Ukryj
 [Services]
-Us³ugi
+UsÅ‚ugi
 [Settings]
 Ustawienia
 [Disabled]
-Wy³¹czone
+WyÅ‚Ä…czone
 [milliseconds]
 milisekund
 [Bold]
 Pogrubienie
 [Show headers]
-Poka¿ nag³ówki
+PokaÅ¼ nagÅ‚Ã³wki
 [Status changes]
 Zmiana statusu
 [Nick changes]
-Zmiany nicków
+Zmiany nickÃ³w
 [Incoming message]
-Przychodz¹ca wiadomoœæ
+PrzychodzÄ…ca wiadomoÅ›Ä‡
 [Outgoing message]
-Wychodz¹ca wiadomoœæ
+WychodzÄ…ca wiadomoÅ›Ä‡
 [Upload]
-Wyœlij
+WyÅ›lij
 [Export to file]
 Eksportuj do pliku
 [Use custom colours]
-U¿yj w³asnych kolorów
+UÅ¼yj wÅ‚asnych kolorÃ³w
 [characters]
-znaków
+znakÃ³w
 [&Use Windows colours]
-U¿yj kolorów Windows
+UÅ¼yj kolorÃ³w Windows
 [Skin options]
-Opcje skórki
+Opcje skÃ³rki
 [Actions]
 Akcje
 [Dismiss popup]
-Odrzuæ popup
+OdrzuÄ‡ popup
 [Send message]
-Wyœlij wiadomoœæ
+WyÅ›lij wiadomoÅ›Ä‡
 [Misc]
 Inne
 [General options]
-Opcje ogólne
+Opcje ogÃ³lne
 [Password]
-Has³o:
+HasÅ‚o:
 [&Import]
 Importuj
 [&Export]
@@ -240,13 +240,13 @@ Gotowy
 [Cut]
 Wytnij
 [Off]
-Wy³.
+WyÅ‚.
 [Message Sessions]
 Okno rozmowy
 [Normal]
 Normalne
 [Change]
-Zmieñ
+ZmieÅ„
 [Picture options]
 Opcje obrazu
 [Extra Icons]
@@ -262,23 +262,23 @@ Zaawansowane #3
 [Advanced #4]
 Zaawansowane #4
 [Stretch to width]
-Rozci¹gaj na szerokoœæ
+RozciÄ…gaj na szerokoÅ›Ä‡
 [Stretch to height]
-Rozci¹gaj na wysokoœæ
+RozciÄ…gaj na wysokoÅ›Ä‡
 [Tile horizontally]
-Uk³adaj poziomo
+UkÅ‚adaj poziomo
 [Tile vertically]
-Uk³adaj pionowo
+UkÅ‚adaj pionowo
 [Items]
 Obiekty
 [Appearance]
 Personalizacja
 [Up]
-Do góry
+Do gÃ³ry
 [Down]
-W dó³
+W dÃ³Å‚
 [Use protocol smileys]
-U¿yj emotikonki protoko³u
+UÅ¼yj emotikonki protokoÅ‚u
 [Resize smileys]
 Dopasuj rozmiar emotikonek
 [Border]
@@ -290,7 +290,7 @@ Opis
 [ Colours ]
  Kolory 
 [ Delay ]
-  OpóŸnienie 
+  OpÃ³Åºnienie 
 [From popup plugin]
 Z wtyczki Popup
 [On right click:]
@@ -298,33 +298,33 @@ Lewy przycisk:
 [On left click:]
 Prawy przycisk:
 [Enable SmileyAdd support]
-W³¹cz wsparcie dla SmileyAdd
+WÅ‚Ä…cz wsparcie dla SmileyAdd
 [Statistics]
 Statystyki
 [Input]
-Dane wejœciowe
+Dane wejÅ›ciowe
 [Output]
-Dane wyjœciowe
+Dane wyjÅ›ciowe
 [Description]
 Opis
 [Import from file]
 Importuj z pliku
 [Occupation:]
-Zawód:
+ZawÃ³d:
 [Home]
 Dom
 [Cellular]
-Komórka
+KomÃ³rka
 [Status message:]
 Opis:
 [playing]
 Odtwarzanie...
 [Enable popups]
-W³¹cz popupy
+WÅ‚Ä…cz popupy
 [Avatar size:]
 Rozmiar awatara:
 [More...]
-Wiêcej...
+WiÄ™cej...
 [Title]
 Nazwa
 [Check every]
@@ -332,11 +332,11 @@ Sprawdzaj co
 [Check every]
 Sprawdzaj co
 [Layout]
-Uk³ad
+UkÅ‚ad
 [Author:]
 Autor:
 [Display]
-Wyœwietlanie
+WyÅ›wietlanie
 [Animate]
 Animowane
 [Add...]
@@ -344,13 +344,13 @@ Dodaj...
 [Variables...]
 Zmienne...
 [View]
-Poka¿
+PokaÅ¼
 [disabled]
-wy³¹czony
+wyÅ‚Ä…czony
 [Enabled]
-W³¹czony
+WÅ‚Ä…czony
 [Stretch proportionally]
-Rozci¹gnij proporcjonalnie
+RozciÄ…gnij proporcjonalnie
 [Setting]
 Ustawienia
 [Update]
@@ -363,45 +363,45 @@ Aktualizacja
 [Afrikaans]
 Afrykanerski
 [Albanian]
-Albañski
+AlbaÅ„ski
 [Arabic]
 Arabski
 [Armenian]
-Armeñski
+ArmeÅ„ski
 [Azerbaijani]
 Azerski
 [Belorussian]
-Bia³oruski
+BiaÅ‚oruski
 [Bhojpuri]
-BhodŸpuri
+BhodÅºpuri
 [Bosnian]
-Boœniacki
+BoÅ›niacki
 [Bulgarian]
-Bu³garski
+BuÅ‚garski
 [Burmese]
-Birmañski
+BirmaÅ„ski
 [Cantonese]
-Kantoñski
+KantoÅ„ski
 [Catalan]
-Kataloñski
+KataloÅ„ski
 [Chinese]
-Chiñski
+ChiÅ„ski
 [Croatian]
 Chorwacki
 [Czech]
 Czeski
 [Danish]
-Duñski
+DuÅ„ski
 [Dutch]
 Niderlandzki
 [English]
 Angielski
 [Estonian]
-Estoñski
+EstoÅ„ski
 [Farci]
 Perski
 [Finnish]
-Fiñski
+FiÅ„ski
 [French]
 Francuski
 [Gaelic]
@@ -411,39 +411,39 @@ Niemiecki
 [Greek]
 Grecki
 [Gujarati]
-Gud¿arati
+GudÅ¼arati
 [Hebrew]
 Hebrajski
 [Hindi]
 Hinduski
 [Hungarian]
-Wêgierski
+WÄ™gierski
 [Icelandic]
 Islandzki
 [Indonesian]
 Indonezyjski
 [Italian]
-W³oski
+WÅ‚oski
 [Japanese]
-Japoñski
+JapoÅ„ski
 [Khmer]
 Khmerski
 [Korean]
-Koreañski
+KoreaÅ„ski
 [Kurdish]
 Kurdyjski
 [Lao]
-Laotañski
+LaotaÅ„ski
 [Latvian]
-£otewski
+Åotewski
 [Lithuanian]
 Litewski
 [Macedonian]
-Macedoñski
+MacedoÅ„ski
 [Malay]
 Malajski
 [Mandarin]
-Mandaryñski
+MandaryÅ„ski
 [Mongolian]
 Mongolski
 [Norwegian]
@@ -455,21 +455,21 @@ Polski
 [Portuguese]
 Portugalski
 [Punjabi]
-Pend¿abski
+PendÅ¼abski
 [Romanian]
-Rumuñski
+RumuÅ„ski
 [Russian]
 Rosyjski
 [Serbo-Croatian]
 Chorwackoserbski
 [Slovak]
-S³owacki
+SÅ‚owacki
 [Slovenian]
-S³oweñski
+SÅ‚oweÅ„ski
 [Somali]
 Somalijski
 [Spanish]
-Hiszpañski
+HiszpaÅ„ski
 [Swahili]
 Suahili
 [Swedish]
@@ -477,7 +477,7 @@ Szwedzki
 [Tagalog]
 Tagalog
 [Taiwaness]
-Taiwañski
+TaiwaÅ„ski
 [Tamil]
 Tamilski
 [Tatar]
@@ -487,7 +487,7 @@ Tajski
 [Turkish]
 Turecki
 [Ukrainian]
-Ukraiñski
+UkraiÅ„ski
 [Vietnamese]
 Wietnamski
 [Welsh]
@@ -497,14 +497,14 @@ Jidysz
 [Yoruba]
 Joruba
 [Simplified Chinese]
-Chiñski Uproszczony
+ChiÅ„ski Uproszczony
 [Traditional Chinese]
-Chiñski Tradycyjny
+ChiÅ„ski Tradycyjny
 [Central European]
-Europa Œrodkowa
+Europa Åšrodkowa
 [Latin I]
-£acina I
+Åacina I
 [Vietnamese]
 Wietnamski
 [Korean (Johab)]
-Koreañski (Johab)
+KoreaÅ„ski (Johab)

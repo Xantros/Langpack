@@ -8,11 +8,11 @@ Otrzymane SMS-y
 [Read Next]
 Czytaj dalej
 [Message received:]
-Otrzymana wiadomoœæ:
+Otrzymana wiadomoÅ›Ä‡:
 [Number:]
 Numer:
 [Send SMS]
-Wyœlij SMS
+WyÅ›lij SMS
 [Multiple >>]
 Wiele >>
 [Add number to list]
@@ -20,94 +20,94 @@ Dodaj numer do listy
 [Save number]
 Zapisz numer
 [Enter message:]
-Wpisz wiadomoœæ:
+Wpisz wiadomoÅ›Ä‡:
 [Chars:]
 Znaki:
 [SMS Message Didn't Send]
-Wiadomoœæ SMS nie zosta³a wys³ana
+WiadomoÅ›Ä‡ SMS nie zostaÅ‚a wysÅ‚ana
 [&Try again]
-Spróbuj ponownie
+SprÃ³buj ponownie
 [The SMS message send timed out]
-Min¹³ czas wysy³ania wiadomoœci SMS
+MinÄ…Å‚ czas wysyÅ‚ania wiadomoÅ›ci SMS
 [SMS Plugin]
 Wtyczka SMS
 [Begining]
-Pocz¹tek
+PoczÄ…tek
 [End]
 Koniec
 [Show server notifications:]
-Poka¿ powiadomienia serwera:
+PokaÅ¼ powiadomienia serwera:
 [Put signature at the:]
-Umieœæ podpis:
+UmieÅ›Ä‡ podpis:
 [Use Signature?]
-U¿yæ podpisu?
+UÅ¼yÄ‡ podpisu?
 [Save window position per contact:]
-Zapisz pozycjê okna za kontaktem:
+Zapisz pozycjÄ™ okna za kontaktem:
 [Auto popup on new message:]
-Auto popup przy nowej wiadomoœci:
+Auto popup przy nowej wiadomoÅ›ci:
 [SMS Message Sent]
-Wys³ane wiadomoœci SMS
+WysÅ‚ane wiadomoÅ›ci SMS
 [Message ID:]
 ID:
 [Source:]
-ród³o:
+Å¹rÃ³dÅ‚o:
 [Network:]
-Sieæ:
+SieÄ‡:
 [SMS Messages]
-Wiadomoœci SMS
+WiadomoÅ›ci SMS
 [From %s on ICQ:\r\n\r\n]
 Od %s ICQ:\r\n\r\n
 [Received SMS Confirmation]
-Otrzymano potwierdzenie wys³ania SMS-a
+Otrzymano potwierdzenie wysÅ‚ania SMS-a
 [SMS message didn't send by ICQ to %s because :\r\n]
-Wiadomoœæ SMS nie zosta³a wys³ana przez ICQ do %s, poniewa¿:\r\n
+WiadomoÅ›Ä‡ SMS nie zostaÅ‚a wysÅ‚ana przez ICQ do %s, poniewaÅ¼:\r\n
 [SMS Confirmation from %s]
 Potwierdzenie SMS od %s
 [SMS Message from %s]
-Wiadomoœæ SMS od %s
+WiadomoÅ›Ä‡ SMS od %s
 [Incoming SMS Message]
-Przychodz¹ce wiadomoœci SMS
+PrzychodzÄ…ce wiadomoÅ›ci SMS
 [Incoming SMS Confirmation]
-Przychodz¹ce potwierdzenie SMS
+PrzychodzÄ…ce potwierdzenie SMS
 [Send &SMS...]
-Wyœlij SMS
+WyÅ›lij SMS
 [&SMS Message]
-Wiadomoœæ SMS
+WiadomoÅ›Ä‡ SMS
 [Can't load SMS Plugin, ICQ protocol must be loaded.]
-Nie mo¿na za³adowaæ wtyczki SMS, protokó³ ICQ musi byæ za³adowany.
+Nie moÅ¼na zaÅ‚adowaÄ‡ wtyczki SMS, protokÃ³Å‚ ICQ musi byÄ‡ zaÅ‚adowany.
 [SMS Plugin Error]
-B³¹d wtyczki SMS
+BÅ‚Ä…d wtyczki SMS
 [Add Number To The Multiple List]
 Dodaj numer do wielu list
 [Save Number To The User's Details Phonebook]
-Zapisz numer do Ksi¹¿ki tel. w Danych u¿ytkownika
+Zapisz numer do KsiÄ…Å¼ki tel. w Danych uÅ¼ytkownika
 [Show/Hide Multiple List]
-Poka¿/Ukryj wiele list
+PokaÅ¼/Ukryj wiele list
 [Shows How Much Chars You've Typed]
-Pokazuje ile znaków zosta³o wpisanych
+Pokazuje ile znakÃ³w zostaÅ‚o wpisanych
 [The SMS message send to %s timed out.]
-Min¹³ czas wysy³ania SMS do %s
+MinÄ…Å‚ czas wysyÅ‚ania SMS do %s
 [<< Single]
 << Jedna
 [Message is too long, press OK to continue.]
-Wiadomoœæ jest zbyt d³uga, naciœnij OK, aby kontynuowaæ.
+WiadomoÅ›Ä‡ jest zbyt dÅ‚uga, naciÅ›nij OK, aby kontynuowaÄ‡.
 [Error - Message too long]
-B³¹d - Zbyt d³uga wiadomoœæ
+BÅ‚Ä…d - Zbyt dÅ‚uga wiadomoÅ›Ä‡
 [Valid phone numbers are of the form '+(country code)(phone number)'. The contents of the phone number portion is dependent on the national layout of phone numbers, but often omits the leading zero.]
-Prawid³owe numery maj¹ formê "+(prefiks kraju)(numer telefonu)". Zawartoœæ numeru telefonu jest zale¿na od narodowego schematu, ale czêsto pomijane jest zero na pocz¹tku.
+PrawidÅ‚owe numery majÄ… formÄ™ "+(prefiks kraju)(numer telefonu)". ZawartoÅ›Ä‡ numeru telefonu jest zaleÅ¼na od narodowego schematu, ale czÄ™sto pomijane jest zero na poczÄ…tku.
 [Invalid phone number]
-Nieprawid³owy numer telefonu
+NieprawidÅ‚owy numer telefonu
 [There must be numbers in the list first.]
-Najpierw numer musi byæ na liœcie.
+Najpierw numer musi byÄ‡ na liÅ›cie.
 [No Numbers]
-Brak numerów
+Brak numerÃ³w
 [Disable notify]
-Wy³¹cz notyfikacjê
+WyÅ‚Ä…cz notyfikacjÄ™
 [SMSBox Main]
-Mój SMSBox
+MÃ³j SMSBox
 [SMS was sent]
-SMS wys³any
+SMS wysÅ‚any
 [Enable notify]
-W³¹cz notyfikacje
+WÅ‚Ä…cz notyfikacje
 [Archives]
 Archiwum

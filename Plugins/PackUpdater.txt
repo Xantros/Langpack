@@ -8,7 +8,7 @@ Prosty aktualizator dla paczek Mirandy IM
 [Pack Updater]
 Aktualizator paczek
 [Check for pack updates]
-SprawdŸ aktualizacje paczek
+SprawdÅº aktualizacje paczek
 [Downloading pack updates...]
 Pobieranie aktualizacji paczek...
 [No updates found.]
@@ -16,23 +16,23 @@ Nie znaleziono aktualizacji.
 [Update found!]
 Znaleziono aktualizacje!
 [Current version: %s]
-Bie¿¹ca wersja: %s
+BieÅ¼Ä…ca wersja: %s
 [New version: %s]
 Nowa wersja: %s
 [An error occured while downloading the update.]
-Wyst¹pi³ b³¹d podczas pobierania aktualizacji
+WystÄ…piÅ‚ bÅ‚Ä…d podczas pobierania aktualizacji
 [URL for checking updates not found.]
-URL do sprawdzania aktualizacji nie zosta³ odnaleziony.
+URL do sprawdzania aktualizacji nie zostaÅ‚ odnaleziony.
 [Downloading version info...]
 Pobieranie informacji o wersji...
 [Name of Update's file is not supported.]
-Nazwy aktualizowanych plików nie s¹ wspierane.
+Nazwy aktualizowanych plikÃ³w nie sÄ… wspierane.
 [Download complete. Start updating? All your data will be saved and Miranda IM will be closed.]
-Pobieranie zakoñczone. Rozpocz¹æ aktualizacje? Wszystkie Twoje ustawienia zostan¹ zapisane i Miranda IM zostanie zamkniêta.
+Pobieranie zakoÅ„czone. RozpoczÄ…Ä‡ aktualizacje? Wszystkie Twoje ustawienia zostanÄ… zapisane i Miranda IM zostanie zamkniÄ™ta.
 [No files for update.]
-Brak plików do aktualizacji
+Brak plikÃ³w do aktualizacji
 [Update checking already started!]
-Sprawdzanie aktualizacji ju¿ rozpoczête!
+Sprawdzanie aktualizacji juÅ¼ rozpoczÄ™te!
 [Automatically check for pack updates]
 Automatyczne sprawdzaj aktualizacje
 [Pack update options]
@@ -42,46 +42,46 @@ Przypominaj o nie zainstalowanych aktualizacjach
 [Message boxes (*)]
 Komunikaty
 [Info messages] 
-Wiadomoœci
+WiadomoÅ›ci
 [Progress dialogs]
-Postêp
+PostÄ™p
 [* Needs popup actions to be enabled]
-* Wymaga dzia³añ popup, które zostan¹ w³¹czone
+* Wymaga dziaÅ‚aÅ„ popup, ktÃ³re zostanÄ… wÅ‚Ä…czone
 [Not sets for "Message boxes"]
-Nie okreœla dla "Komunikaty"
+Nie okreÅ›la dla "Komunikaty"
 [Downloads complete. Start updating? All your data will be saved and Miranda IM will be closed.]
-Pobieranie zakoñczone. Rozpocz¹æ aktualizacje? Wszystkie Twoje ustawienia zostan¹ zapisane i Miranda IM zostanie zamkniêta.
+Pobieranie zakoÅ„czone. RozpoczÄ…Ä‡ aktualizacje? Wszystkie Twoje ustawienia zostanÄ… zapisane i Miranda IM zostanie zamkniÄ™ta.
 [Clear pack updates folder]
-Opró¿nij folder aktualizacji
+OprÃ³Å¼nij folder aktualizacji
 [Downloading update...]
 Pobieranie aktualizacji...
 [Use cus&tom colors]
-U¿yj w³asnych kolorów
+UÅ¼yj wÅ‚asnych kolorÃ³w
 [Update is not possible!\nYou have no Administrator's rights.\nPlease run Miranda IM with Administrator's rights.]
-Aktualizacja nie jest mo¿liwa! \nMo¿esz nie mieæ praw administratora. \nProszê uruchomiæ Mirandê IM z prawami administratora.
+Aktualizacja nie jest moÅ¼liwa! \nMoÅ¼esz nie mieÄ‡ praw administratora. \nProszÄ™ uruchomiÄ‡ MirandÄ™ IM z prawami administratora.
 [Component Name]
 Nazwa komponentu
 [Current Version]
-Bie¿¹ca wersja
+BieÅ¼Ä…ca wersja
 [New Version]
 Nowa wersja
 [Updates found!]
 Znaleziono aktualizacje!
 [PackUpdater has detected updated versions\nof the following Miranda components:]
-PackUpdater wykry³ aktualizacje komponentów:
+PackUpdater wykryÅ‚ aktualizacje komponentÃ³w:
 [View info]
-Poka¿ informacje
+PokaÅ¼ informacje
 [You have chosen not to install the pack update immediately.\nYou can install it manually from this location:\n\n%s]
-Wybra³eœ nie instalowanie aktualizacji.\nMo¿esz zaisntalowaæ je rêcznie z lokalizacji:\n\n%s
+WybraÅ‚eÅ› nie instalowanie aktualizacji.\nMoÅ¼esz zaisntalowaÄ‡ je rÄ™cznie z lokalizacji:\n\n%s
 [Boxes]
 Okienka
 [Use Pop&up colours]
-U¿yj kolorów Popup
+UÅ¼yj kolorÃ³w Popup
 [Use &Windows colours]
-U¿yj kolorów Windows
+UÅ¼yj kolorÃ³w Windows
 ['Yes' Button]
 Przycisk 'Tak'
 ['No' Button]
 Przycisk 'Nie'
 [Pack Updater HTTP connection]
-Po³¹czenie HTTP Pack Updater
+PoÅ‚Ä…czenie HTTP Pack Updater

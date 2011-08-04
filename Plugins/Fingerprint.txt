@@ -8,53 +8,53 @@ Fingerprint
 [Fingerprint icons]
 Ikony Fingerprint
 [Base Icon]
-G³ówna ikona
+GÅ‚Ã³wna ikona
 [Show unknown]
-Poka¿ ikonê nieznanego protoko³u
+PokaÅ¼ ikonÄ™ nieznanego protokoÅ‚u
 [Show unicode flag]
-Poka¿ flagê Unicode
+PokaÅ¼ flagÄ™ Unicode
 [Show one icon]
-Poka¿ jedn¹ ikonê
+PokaÅ¼ jednÄ… ikonÄ™
 [Show pack icon (if available)]
-Poka¿ ikonê paczki (jeœli dostêpna)
+PokaÅ¼ ikonÄ™ paczki (jeÅ›li dostÄ™pna)
 [Show jabber transport]
-Poka¿ transporty Jabbera
+PokaÅ¼ transporty Jabbera
 [Show protocol]
-Poka¿ protokó³
+PokaÅ¼ protokÃ³Å‚
 [Use &unknown flag if country can not be determined]
-Poka¿ domyœln¹ flagê je¿eli nie zosta³a okreœlona
+PokaÅ¼ domyÅ›lnÄ… flagÄ™ jeÅ¼eli nie zostaÅ‚a okreÅ›lona
 [Include &IP-to-country lookup in country detection]
-U¿yj IP aby wykryæ kraj
+UÅ¼yj IP aby wykryÄ‡ kraj
 [Show version]
-Poka¿ wersjê
+PokaÅ¼ wersjÄ™
 [Overlay Icon #1]
-Nak³adka na ikonê #1
+NakÅ‚adka na ikonÄ™ #1
 [Overlay Icon #2]
-Nak³adka na ikonê #2
+NakÅ‚adka na ikonÄ™ #2
 [Show Jabber resource]
-Poka¿ zasób Jabbera
+PokaÅ¼ zasÃ³b Jabbera
 [Show Miranda version]
-Poka¿ wersjê Mirandy
+PokaÅ¼ wersjÄ™ Mirandy
 [Overlay Icon #3]
-Nak³adka na ikonê #3
+NakÅ‚adka na ikonÄ™ #3
 [Show +secure]
-Poka¿ +secure
+PokaÅ¼ +secure
 [Show in options icon group:]
-Poka¿ w opcjach grupê ikon:
+PokaÅ¼ w opcjach grupÄ™ ikon:
 [services]
-us³ugi
+usÅ‚ugi
 [Multi-Protocol]
-Multi protoko³y
+Multi protokoÅ‚y
 [Pack overlays]
-Nak³adki
+NakÅ‚adki
 [Web-based]
-Protoko³y webowe
+ProtokoÅ‚y webowe
 [Weather]
 Pogoda
 [Extra icon slot (restart required):]
 Slot ikony (wymaga restartu):
 [Client (default)]
-Klient (domyœlne)
+Klient (domyÅ›lne)
 [Advanced 1]
 Zaawansowane 1
 [Advanced 2]
@@ -90,6 +90,6 @@ Ikony klienta
 [Unknown for fingerprint]
 Nieznany przez fingerprint
 [Unknown for protocol]
-Nieznany przez protokó³
+Nieznany przez protokÃ³Å‚
 [Icon group options will be fully applied after restart]
-Opcje grup ikon bêd¹ w pe³ni funkcjonalne po restarcie.
+Opcje grup ikon bÄ™dÄ… w peÅ‚ni funkcjonalne po restarcie.

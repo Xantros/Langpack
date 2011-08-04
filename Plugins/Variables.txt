@@ -4,9 +4,9 @@
 ;  Versions: 0.2.3.8
 ;============================================================
 [Token]
-Wyra¿enie
+WyraÅ¼enie
 [Tokens]
-Wyra¿enia
+WyraÅ¼enia
 [%subject%]
 %subject%
 [%extratext%]
@@ -26,105 +26,105 @@ Przetwarzaj
 [Auto parse]
 Automatyczne przetwarzanie
 [Parse the following string at startup]
-Przetwórz nastêpuj¹cy tekst na starcie
+PrzetwÃ³rz nastÄ™pujÄ…cy tekst na starcie
 [Automatically strip "end of line" characters]
-Automatycznie usuñ znaki koñca linii
+Automatycznie usuÅ„ znaki koÅ„ca linii
 [Automatically strip white space]
-Automatycznie usuñ bia³e spacje
+Automatycznie usuÅ„ biaÅ‚e spacje
 [Test area]
 Obszar testowy
 [Click on the help button to get more information]
-Kliknij na przycisk pomocy aby uzyskaæ wiêcej informacji
+Kliknij na przycisk pomocy aby uzyskaÄ‡ wiÄ™cej informacji
 [Parse options]
 Opcje przetwarzania
 [Automatically strip all non-parsing characters]
-Automatycznie usuñ wszystkie nieprzetwarzalne znaki
+Automatycznie usuÅ„ wszystkie nieprzetwarzalne znaki
 [Trigger when the following string changes]
-Zainicjuj po zmianie nastêpuj¹cego tekstu
+Zainicjuj po zmianie nastÄ™pujÄ…cego tekstu
 [Please enter your input below]
-Podaj poni¿ej swój tekst
+Podaj poniÅ¼ej swÃ³j tekst
 [ClistControl]
 ClistControl
 [Don't set a contact]
 Nie ustawiaj kontaktu
 [Set to the following contact]
-Ustaw dla nastêpuj¹cego kontaktu
+Ustaw dla nastÄ™pujÄ…cego kontaktu
 [The token %subject% is translated into a special contact, which depends on the situation in which the string is parsed. Use this dialog to simulate the contact to which %subject% translates. An example for using this token is: !cinfo(%subject%,display).]
-Wyra¿enie %subject% jest t³umaczone dla wybranego kontaktu, zale¿nie od sytuacji, w której tekst jest przetwarzany. U¿yj tego okna do symulacji kontaktu, do którego t³umaczone jest %subject%. Przyk³ad u¿ycia tego wyra¿enia: !cinfo(%subject%,display).
+WyraÅ¼enie %subject% jest tÅ‚umaczone dla wybranego kontaktu, zaleÅ¼nie od sytuacji, w ktÃ³rej tekst jest przetwarzany. UÅ¼yj tego okna do symulacji kontaktu, do ktÃ³rego tÅ‚umaczone jest %subject%. PrzykÅ‚ad uÅ¼ycia tego wyraÅ¼enia: !cinfo(%subject%,display).
 [The token %extratext% is translated into a string which depends on the situation in which the string is parsed. Use this dialog to simulate the string to which %extratext% translates.]
-Wyra¿enie %extratext% jest t³umaczone na tekst zale¿ny od tego przy jakiej sytuacji jest przetarzane. U¿yj tego okienka do symulacji tekstu, do którego t³umaczy %extratext%.
+WyraÅ¼enie %extratext% jest tÅ‚umaczone na tekst zaleÅ¼ny od tego przy jakiej sytuacji jest przetarzane. UÅ¼yj tego okienka do symulacji tekstu, do ktÃ³rego tÅ‚umaczy %extratext%.
 [The Variables plugin translates various tokens into a certain value. An example is: I'm running Miranda %mirandaversion%. The substring %mirandaversion% will be translated into the correct version number. The following list shows all available tokens.]
-Wtyczka Variables t³umaczy ró¿ne wyra¿enia na ustalon¹ wartoœæ. Na przyk³ad: U¿ywam Mirandy w wersji %mirandaversion%. Fragment %mirandaversion% zostanie przet³umaczony na prawid³owy numer wersji. Ta lista przetstawia wszystkie mo¿liwe wyra¿enia.
+Wtyczka Variables tÅ‚umaczy rÃ³Å¼ne wyraÅ¼enia na ustalonÄ… wartoÅ›Ä‡. Na przykÅ‚ad: UÅ¼ywam Mirandy w wersji %mirandaversion%. Fragment %mirandaversion% zostanie przetÅ‚umaczony na prawidÅ‚owy numer wersji. Ta lista przetstawia wszystkie moÅ¼liwe wyraÅ¼enia.
 [--- Special characters ---\r\n\r\n\The following characters have a special meaning in a formatting string:\r\n\r\n\?<function>(<arguments>)\r\n\This will parse the function given the arguments, the result will be parsed again. Example: Today is ?cdate(yyyy/MM/dd).\r\n\r\n\!<function>(<arguments>)\r\n\This will parse the function given the arguments, the result will not be parsed again. Example: Message waiting: !message(,first,rcvd,unread).\r\n\r\n\%<field>%\r\n\This will parse the given field. Example: I installed Miranda at: %mirandapath%.\r\n\r\n\`<string>`\r\n\This will not parse the given string, any function, field or special character in the string will shown in the result without being translated. Example: Use `%mirandapath%` to show the installation path.\r\n\r\n\#<comment>\r\n\This will add a comment in the formatting string. Everything from the # character to the end of the line will be removed. Example: %dbprofile% #this is a useless comment.\r\n\r\n\r\n\--- Contacts ---\r\n\r\n\Whenever a functions requires a contact as an argument, you can specify it in two ways:\r\n\r\n\(1) Using a unique id (UIN for ICQ, email for MSN) or, a protocol id followed by a unique id in the form <PROTOID:UNIQUEID>, for example <MSN:miranda@hotmail.com> or <ICQ:123456789>.\r\n\r\n\(2) Using the contact function:\r\n\?contact(x,y)\r\n\A contact will be searched which will have value x for its property y, y can be one of the following:\r\n\first, last, nick, email, id or display\r\n\r\n\For example: ?contact(miranda@hotmail.com,email) or ?contact(Miranda,nick). The contact function will return either a unique contact according to the arguments or nothing if none or multiple contacts exists with the given property.\]
---- Znaki specjalne ---\r\n\r\n\Nastêpuj¹ce znaki maj¹ specjalne znaczenie w formatowaniu stringów:\r\n\r\n\?<funkcja>(<argument>)\r\n\Bêdzie analizowaæ funkcjê z uwagi na argumenty, wynik bêdzie ponownie analizowany. Przyk³ad: Dzisiaj jest ?cdate(yyyy/MM/dd).\r\n\r\n\!<funkcja>(<argument>)\r\n\Bêdzie analizowaæ funkcjê z uwagi na argumenty, wynik nie bêdzie ponownie analizowany. Przyk³ad: Wiadomoœæ czeka: !message(,first,rcvd,unread).\r\n\r\n\%<field>%\r\n\Bêdzie analizowaæ w danej dziedzinie. Przyk³ad: zainstalowa³em Mirandê w: %mirandapath%.\r\n\r\n\`<string>`\r\n\Nie przetworzy podanego ³añcucha znaków, ¿adnych funkcji, pól lub znaków specjalnych w ci¹gu bêd¹ widoczne w wynikach bez translacji. Przyk³ad: U¿ycie `%mirandapath%` by pokazaæ œcie¿kê instalacji.\r\n\r\n\#<comment>\r\n\Doda komentarz w formatowaniu stringu. Wszystko od znaku # do koñca linii bêd¹ usuwane. Przyk³ad: %dbprofile% #To jest bezu¿yteczny komentarz.\r\n\r\n\r\n\---Kontakty ---\r\n\r\n\Gdy wymaga funkcji kontaktu jako argument, mo¿na okreœliæ na dwa sposoby:\r\n\r\n\(1) Korzystanie z unikatowego id (UIN dla GG, email dla MSN) lub, w id protoko³u wystêpuje niepowtarzalny id w postaci <PROTOID:UNIQUEID>, dla przyk³adu <MSN:miranda@hotmail.com> lub <GG:123456789>.\r\n\r\n\(2) Korzystanie z funkcji kontaktu:\r\n\?contact(x,y)\r\n\Bêd¹ przeszukiwane kontakty, które bêd¹ mia³y wartoœæ x dla jego w³asnoœci y, y mog¹ byæ jedn¹ z nastêpuj¹cych czynnoœci:\r\n\first, last, nick, email, id lub display\r\n\r\n\Dla przyk³adu: ?contact(miranda@hotmail.com,email) lub ?contact(Miranda,nick). Funkcja kontaktu zwróci równie¿ wyj¹tkowy kontakt zgodnie z argumentami lub bez, je¿eli nie istnieje lub je¿eli istnieje z wieloma kontaktami bie¿¹cej w³asnoœci.\
+--- Znaki specjalne ---\r\n\r\n\NastÄ™pujÄ…ce znaki majÄ… specjalne znaczenie w formatowaniu stringÃ³w:\r\n\r\n\?<funkcja>(<argument>)\r\n\BÄ™dzie analizowaÄ‡ funkcjÄ™ z uwagi na argumenty, wynik bÄ™dzie ponownie analizowany. PrzykÅ‚ad: Dzisiaj jest ?cdate(yyyy/MM/dd).\r\n\r\n\!<funkcja>(<argument>)\r\n\BÄ™dzie analizowaÄ‡ funkcjÄ™ z uwagi na argumenty, wynik nie bÄ™dzie ponownie analizowany. PrzykÅ‚ad: WiadomoÅ›Ä‡ czeka: !message(,first,rcvd,unread).\r\n\r\n\%<field>%\r\n\BÄ™dzie analizowaÄ‡ w danej dziedzinie. PrzykÅ‚ad: zainstalowaÅ‚em MirandÄ™ w: %mirandapath%.\r\n\r\n\`<string>`\r\n\Nie przetworzy podanego Å‚aÅ„cucha znakÃ³w, Å¼adnych funkcji, pÃ³l lub znakÃ³w specjalnych w ciÄ…gu bÄ™dÄ… widoczne w wynikach bez translacji. PrzykÅ‚ad: UÅ¼ycie `%mirandapath%` by pokazaÄ‡ Å›cieÅ¼kÄ™ instalacji.\r\n\r\n\#<comment>\r\n\Doda komentarz w formatowaniu stringu. Wszystko od znaku # do koÅ„ca linii bÄ™dÄ… usuwane. PrzykÅ‚ad: %dbprofile% #To jest bezuÅ¼yteczny komentarz.\r\n\r\n\r\n\---Kontakty ---\r\n\r\n\Gdy wymaga funkcji kontaktu jako argument, moÅ¼na okreÅ›liÄ‡ na dwa sposoby:\r\n\r\n\(1) Korzystanie z unikatowego id (UIN dla GG, email dla MSN) lub, w id protokoÅ‚u wystÄ™puje niepowtarzalny id w postaci <PROTOID:UNIQUEID>, dla przykÅ‚adu <MSN:miranda@hotmail.com> lub <GG:123456789>.\r\n\r\n\(2) Korzystanie z funkcji kontaktu:\r\n\?contact(x,y)\r\n\BÄ™dÄ… przeszukiwane kontakty, ktÃ³re bÄ™dÄ… miaÅ‚y wartoÅ›Ä‡ x dla jego wÅ‚asnoÅ›ci y, y mogÄ… byÄ‡ jednÄ… z nastÄ™pujÄ…cych czynnoÅ›ci:\r\n\first, last, nick, email, id lub display\r\n\r\n\Dla przykÅ‚adu: ?contact(miranda@hotmail.com,email) lub ?contact(Miranda,nick). Funkcja kontaktu zwrÃ³ci rÃ³wnieÅ¼ wyjÄ…tkowy kontakt zgodnie z argumentami lub bez, jeÅ¼eli nie istnieje lub jeÅ¼eli istnieje z wieloma kontaktami bieÅ¼Ä…cej wÅ‚asnoÅ›ci.\
 [External Applications]
-Aplikacje zewnêtrzne
+Aplikacje zewnÄ™trzne
 [Internet Related]
 Spokrewnione z internetem
 [Logical Expressions]
-Wyra¿enia logiczne
+WyraÅ¼enia logiczne
 [Mathematical Functions]
 Funkcje matematyczne
 [Miranda Related]
-Spokrewnione z Mirand¹
+Spokrewnione z MirandÄ…
 [String Functions]
-Funkcje stringów
+Funkcje stringÃ³w
 [System Functions]
 Funkcje systemowe
 [Regular Expressions]
-Wyra¿enia regularne
+WyraÅ¼enia regularne
 [shows y if x is TRUE, otherwise it shows z]
-poka¿ y je¿eli x jest TRUE, w innym wypadku poka¿ z
+pokaÅ¼ y jeÅ¼eli x jest TRUE, w innym wypadku pokaÅ¼ z
 [shows x if x is TRUE, otherwise it shows y (if(x,x,y))]
-poka¿ x je¿eli x jest TRUE, w innym wypadku poka¿ y (if(x,x,y))
+pokaÅ¼ x jeÅ¼eli x jest TRUE, w innym wypadku pokaÅ¼ y (if(x,x,y))
 [y if w > x, else z]
-y, je¿eli w > x, w innym wypadku poka¿ z
+y, jeÅ¼eli w > x, w innym wypadku pokaÅ¼ z
 [y if string length of w > x, else z]
-y, je¿eli d³ugoœæ ci¹gu znaków w > x, w innym wypadku poka¿ z
+y, jeÅ¼eli dÅ‚ugoÅ›Ä‡ ciÄ…gu znakÃ³w w > x, w innym wypadku pokaÅ¼ z
 [x if x is TRUE, else z]
-x je¿eli x jest True, w innym wypadku poka¿ z
+x jeÅ¼eli x jest True, w innym wypadku pokaÅ¼ z
 [Y if x is TRUE, else z]
-Y, je¿eli x jest TRUE, w innym wypadku poka¿ z
+Y, jeÅ¼eli x jest TRUE, w innym wypadku pokaÅ¼ z
 [TRUE if x = y]
-TRUE, je¿eli x = y
+TRUE, jeÅ¼eli x = y
 [y if w = x, else z]
-y, je¿eli w = x, w innym wypadku poka¿ z
+y, jeÅ¼eli w = x, w innym wypadku pokaÅ¼ z
 [TRUE if x is longer than y]
-TRUE, je¿eli x jest d³u¿szy ni¿ y
+TRUE, jeÅ¼eli x jest dÅ‚uÅ¼szy niÅ¼ y
 [TRUE if file x exists]
-TRUE, je¿eli plik x istnieje
+TRUE, jeÅ¼eli plik x istnieje
 [current date in format y (y is optional)]
 aktualna data w formacie  y (y jest opcjonalne)
 [retrieves song name of the song currently playing in Winamp (Simple Status Message compatible)]
-pobiera nazwê piosenki aktualnie odtwarzanej w Winamp (kompatybilny z Simple Status Message)
+pobiera nazwÄ™ piosenki aktualnie odtwarzanej w Winamp (kompatybilny z Simple Status Message)
 [retrieves song name of the song currently playing in Winamp]
-pobiera nazwê piosenki aktualnie odtwarzanej w Winamp
+pobiera nazwÄ™ piosenki aktualnie odtwarzanej w Winamp
 [TRUE if the first z characters of x equal y, ignoring case]
-TRUE, je¿eli pierszy znak z spoœród x = y, ignoruj¹c przypadek
+TRUE, jeÅ¼eli pierszy znak z spoÅ›rÃ³d x = y, ignorujÄ…c przypadek
 [TRUE if x equals y]
-TRUE, je¿eli x jest równe y
+TRUE, jeÅ¼eli x jest rÃ³wne y
 [TRUE if x > y]
-TRUE, je¿eli x > y
+TRUE, jeÅ¼eli x > y
 [length of x]
-d³ugoœæ x
+dÅ‚ugoÅ›Ä‡ x
 [TRUE if directory x exists]
-TRUE, je¿eli katalog x istnieje
+TRUE, jeÅ¼eli katalog x istnieje
 [get the version of Miranda]
 wersja Mirandy IM
 [protocol name of protocol id x]
-nazwa protoko³u po id x
+nazwa protokoÅ‚u po id x
 [trims x to length y, keeping last y characters]
-przytnij x do d³ugoœci y, trzymaj¹c ostatni znak y
+przytnij x do dÅ‚ugoÅ›ci y, trzymajÄ…c ostatni znak y
 [current time in format y (y is optional)]
 aktualny czas w formacie y (y jest opcjonalne)
 [repeats x y times]
-powtórz x y razy
+powtÃ³rz x y razy
 [retrieves current Winamp state (Playing/Paused/Stopped)]
 pobiera aktualny status Winamp (Odtwarzanie/Pauza/Zatrzymanie)
 [performs logical AND (x && y && ...)]
 wykonuje logiczne AND (x && y && ...)
 [performs w, then shows z and performs y while x is TRUE]
-wykonuje w, nastêpnie pokazuje i wykonuje y, podczas gdy x jest TRUE
+wykonuje w, nastÄ™pnie pokazuje i wykonuje y, podczas gdy x jest TRUE
 [the first argument parsed successfully]
 pierwszy argument analizowany z powodzeniem
 [performs logical NOT (!x)]
@@ -136,11 +136,11 @@ wykonuje logiczny XOR (x ^ y)
 [x divided by y]
 x oddzielonych przez y
 [maximum value of (decimal) arguments]
-maksymalna wartoœæ agrumentu (po przecinku)
+maksymalna wartoÅ›Ä‡ agrumentu (po przecinku)
 [minimum value of (decimal) arguments]
-minimalna wartoœæ argumentu (po przecinku)
+minimalna wartoÅ›Ä‡ argumentu (po przecinku)
 [x modulo y (remainder of x divided by y)]
-x modu³u y (pozosta³y x dzieli siê przez y)
+x moduÅ‚u y (pozostaÅ‚y x dzieli siÄ™ przez y)
 [x times y]
 x, y razy
 [x times y divided by z]
@@ -150,80 +150,80 @@ losowa liczba
 [Miranda Core Global]
 Globalne
 [will return parsed string %miranda_profile%\\Profiles\\%miranda_profilename%\\AvatarCache]
-powróci analizowany ci¹g %miranda_profile%\\Profiles\\%miranda_profilename%\\AvatarCache
+powrÃ³ci analizowany ciÄ…g %miranda_profile%\\Profiles\\%miranda_profilename%\\AvatarCache
 [will return parsed string %miranda_profile%\\Profiles\\%miranda_profilename%\\Logs]
-powróci analizowany ci¹g %miranda_profile%\\Profiles\\%miranda_profilename%\\Logs
+powrÃ³ci analizowany ciÄ…g %miranda_profile%\\Profiles\\%miranda_profilename%\\Logs
 [path to current miranda profile]
-œcie¿ka do bie¿¹cego profilu mirandy
+Å›cieÅ¼ka do bieÅ¼Ä…cego profilu mirandy
 [name of current miranda profile (filename, without extension)]
 nazwa aktualnego profilu mirandy (nazwa pliku bez rozszerzenia)
 [will return parsed string %miranda_profile%\\Profiles\\%miranda_profilename%]
-powróci analizowany ci¹g %miranda_profile%\\Profiles\\%miranda_profilename%
+powrÃ³ci analizowany ciÄ…g %miranda_profile%\\Profiles\\%miranda_profilename%
 [Miranda Core OS]
 OS
 ["Desktop" folder for currently logged-on Windows user]
-folder "Pulpit" aktualnie zalogowanego u¿ytkownika Windows
+folder "Pulpit" aktualnie zalogowanego uÅ¼ytkownika Windows
 [same as environment variable %APPDATA% for currently logged-on Windows user]
-takie samo zmienne œrodowisko %APPDATA% dla aktualnie zalogowanego u¿ytkownika Windows
+takie samo zmienne Å›rodowisko %APPDATA% dla aktualnie zalogowanego uÅ¼ytkownika Windows
 ["My Documents" folder for currently logged-on Windows user]
-folder "Moje dokumenty" aktualnie zalogowanego u¿ytkownika Windows
+folder "Moje dokumenty" aktualnie zalogowanego uÅ¼ytkownika Windows
 [number of contacts with property y described by x, example: (unregistered,nick)]
-liczba kontaktów y opisanej przez x, przyk³ad: (unregistered,nick)
+liczba kontaktÃ³w y opisanej przez x, przykÅ‚ad: (unregistered,nick)
 [Currently played URL]
 Aktualnie odtwarzany URL
 [Currently used decoder]
-Aktualnie u¿ywany kodek
+Aktualnie uÅ¼ywany kodek
 [Current status]
 Aktualny status
 [Current stream title]
-Aktualny tytu³ strumienia
+Aktualny tytuÅ‚ strumienia
 [Station/playlist URL]
-Œcie¿ka/URL do playlisty/stacji
+ÅšcieÅ¼ka/URL do playlisty/stacji
 [info property y of contact x]
 info y kontaktu x
 [translates status code x into a status description]
-t³umaczenie kodu statusu x do opisu statusu
+tÅ‚umaczenie kodu statusu x do opisu statusu
 [user name]
-nazwa u¿ytkownika
+nazwa uÅ¼ytkownika
 [uptime in seconds]
 uptime w sekundach
 [y > 0: line number y from file x, y = 0: the whole file, y < 0: line y counted from the end, y = r: random line]
-y > 0: numer linii y z pliku x, y = 0: ca³ego pliku, y < 0: linii y licz¹c od koñca, y = r: losowa linia
+y > 0: numer linii y z pliku x, y = 0: caÅ‚ego pliku, y < 0: linii y liczÄ…c od koÅ„ca, y = r: losowa linia
 [formats timestamp x (seconds since 1/1/1970) in date format y]
-format ¿¹dania znacznika x (sekund od 1/1/1970) w formacie daty y
+format Å¼Ä…dania znacznika x (sekund od 1/1/1970) w formacie daty y
 [formats timestamp x (seconds since 1/1/1970) in time format y]
-format ¿¹dania znacznika x (sekund od 1/1/1970) w formacie czasu y
+format Å¼Ä…dania znacznika x (sekund od 1/1/1970) w formacie czasu y
 [get last seen time of contact x in format y (y is optional)]
 pobiera czas ostatnio widzianego kontaktu x w formacie y (y jest opcjonalny) 
 [get last seen date of contact x in format y (y is optional)]
-pobiera datê ostatnio widzianego kontaktu x w formacie y (y jest opcjonalny) 
+pobiera datÄ™ ostatnio widzianego kontaktu x w formacie y (y jest opcjonalny) 
 [text from clipboard]
 tekst ze schowka
 [computer name]
 nazwa komputera
 [number of seconds between date x and y (x and y in format: M/d/yy H:m:s)]
-liczba sekund pomiêdzy dat¹ x i y (x i y w formacie: M/d/rr H:m:s
+liczba sekund pomiÄ™dzy datÄ… x i y (x i y w formacie: M/d/rr H:m:s
 [translates x]
-t³umaczenie x
+tÅ‚umaczenie x
 [TRUE if service function is exists]
-TRUE, je¿eli us³uga istnieje
+TRUE, jeÅ¼eli usÅ‚uga istnieje
 [TRUE if x equals y, ignoring case]
-TRUE, je¿eli x = y, ignoruj¹c przypadek
+TRUE, jeÅ¼eli x = y, ignorujÄ…c przypadek
 [get the contact display name]
-pobiera nazwê wyœwietlan¹ kontaktu
+pobiera nazwÄ™ wyÅ›wietlanÄ… kontaktu
 [get the date and time (using Miranda format)]
-pobiera datê i godzinê (w formacie Mirandy)
+pobiera datÄ™ i godzinÄ™ (w formacie Mirandy)
 [db profile path]
-œcie¿ka bazy danych profilu
+Å›cieÅ¼ka bazy danych profilu
 [db profile name]
 nazwa bazy danych profilu
 [db setting z of module y of contact x and return w if z isn't exist (w is optional)]
-ustawienia bazy danych z, modu³u y, kontaktu x oraz powróæ je¿eli nie istnieje (w jest opcjonalne)
+ustawienia bazy danych z, moduÅ‚u y, kontaktu x oraz powrÃ³Ä‡ jeÅ¼eli nie istnieje (w jest opcjonalne)
 [get last seen status of contact x]
 pobierz ostatnio widziny status kontaktu x
 [trims x to length y, keeping first y characters]
-przytnij x do d³ugoœci y, trzymaj¹c pierwszy znak y
+przytnij x do dÅ‚ugoÅ›ci y, trzymajÄ…c pierwszy znak y
 [the number of lines in string x]
-liczba lini w ci¹gu x
+liczba lini w ciÄ…gu x
 [TRUE if process x is running]
-TRUE, je¿eli proces x jest uruchomiony
+TRUE, jeÅ¼eli proces x jest uruchomiony

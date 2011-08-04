@@ -4,23 +4,23 @@
 ;  Versions: 2.0.1.2
 ;============================================================
 [Problem, registration missing/deleted.]
-Problem, rejestracja uszkodzona/cofniêta.
+Problem, rejestracja uszkodzona/cofniÄ™ta.
 [Successfully created shell registration.]
-Rejestracja shell ukoñczona pomyœlnie.
+Rejestracja shell ukoÅ„czona pomyÅ›lnie.
 [Not Approved]
 Nie zatwierdzono
 [Approved]
 Zatwierdzono
 [Are you sure? this will remove all the settings stored in your database and all registry entries created for shlext to work with Explorer]
-Czy jestes pewien? ustawienia zostan¹ usuniête z bazy danych i Explorera
+Czy jestes pewien? ustawienia zostanÄ… usuniÄ™te z bazy danych i Explorera
 [Disable/Remove shlext]
-Wy³¹cz/unuñ shlext
+WyÅ‚Ä…cz/unuÅ„ shlext
 [Shell context menus]
-Integracja z pow³ok¹
+Integracja z powÅ‚okÄ…
 [Display contacts in their assigned groups (if any)]
-Poka¿ kontakty w grupach
+PokaÅ¼ kontakty w grupach
 [Only if/when the contact list is using them]
-Tylko je¿eli u¿ywa ich lista kontaktów
+Tylko jeÅ¼eli uÅ¼ywa ich lista kontaktÃ³w
 [Display hidden, ignored or temporary contacts]
 Ukryj tymczasowe kontakty
 [Do not display the profile name in use]
@@ -28,12 +28,12 @@ Nie pokazuj nazwy profilu
 [Contact Status]
 Status kontaktu
 [Show contacts that you have set privacy rules for]
-Poka¿ kontakty z listy prywatnoœci
+PokaÅ¼ kontakty z listy prywatnoÅ›ci
 [Do not show status icons in menus]
 Nie pokazuj ikon w menu
 [Do not show contacts that are offline, even if my contact list does]
-Nie pokazuj kontaktów roz³¹czonych
+Nie pokazuj kontaktÃ³w rozÅ‚Ä…czonych
 [Click 'n' send support from Explorer/Common dialogs/Desktop, Right click on a file/folder to be presented with all your Miranda contact lists and then select the profile/contact you want to send to. Built on 2003/07/02 at 16:59:47]
-Kliknij i wyœlij potwierdzenie do Explorera/Pulpitu, prawy klik na pliku/folderze prezentuje liste kontaktów Mirandy i wybór profilu/kontaktu do ktorego chcesz go wys³aæ.
+Kliknij i wyÅ›lij potwierdzenie do Explorera/Pulpitu, prawy klik na pliku/folderze prezentuje liste kontaktÃ³w Mirandy i wybÃ³r profilu/kontaktu do ktorego chcesz go wysÅ‚aÄ‡.
 [Shell context menus for transfers]
-Menu kontekstowe transferów shell
+Menu kontekstowe transferÃ³w shell

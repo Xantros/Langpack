@@ -4,27 +4,27 @@
 ;  Versions: 1.3.0.7
 ;============================================================
 [Set user properties by contact menu ( ]
-Ustaw w≥aúciwoúci uøytkownika ( 
+Ustaw w≈Ça≈õciwo≈õci u≈ºytkownika ( 
 [Copy ID]
 Kopiuj ID
 [Copy MirVer]
-Kopiuj wersjÍ klienta
+Kopiuj wersjƒô klienta
 [Always visible]
 Zawsze widoczny
 [Never visible]
 Zawsze niewidoczny
 [Hide from list]
-Ukryj na liúcie
+Ukryj na li≈õcie
 [Ignore...]
 Ignoruj...
 [Protocol...]
-ProtokÛ≥...
+Protok√≥≈Ç...
 [Group...]
 Grupa...
 [Send 'You were added']
-Wyúlij "Zosta≥eú dodany"
+Wy≈õlij "Zosta≈Çe≈õ dodany"
 [Browse Received Files]
-Przeglπdaj otrzymane pliki
+PrzeglƒÖdaj otrzymane pliki
 [Copy Status Message]
 Kopiuj opis
 [Copy IP]
@@ -36,13 +36,13 @@ Pusty
 [DUMMY]
 ATRAPA
 [Shown menu items]
-Pokaø wpisy w menu
+Poka≈º wpisy w menu
 [Show alpha icons]
 Przezroczyste ikony
 [Request Authorization]
-Poproú o autoryzacjÍ
+Popro≈õ o autoryzacjƒô
 [Add protocol name]
-Dodaj nazwÍ protoko≥u
+Dodaj nazwƒô protoko≈Çu
 [Copy Status Message (SMR needed)]
 Kopiuj opis (Wymagany SMR)
 [MenuItemEx]
@@ -50,20 +50,20 @@ Rozszerzone menu
 [Copy to Account (Ctrl+click for move to Account)]
 Kopiuj do Konta (Ctrl+click alby przejsc do Konta)
 [* Use Ctrl+click to see popup with the copied text]
-* Uøyj Ctrl+klick aby zobaczeÊ dodatkowe opcje
+* U≈ºyj Ctrl+klick aby zobaczeƒá dodatkowe opcje
 [Add item name]
-Dodaj pozycjÍ nazwy
+Dodaj pozycjƒô nazwy
 [Copy to Account]
 Kopiuj do konta
 [Open ignore settings]
-OtwÛrz opcje ignorowania
+Otw√≥rz opcje ignorowania
 [Show in list]
-Pokaø na liúcie
+Poka≈º na li≈õcie
 [Copy xStatus Message]
 Kopiuj xStatus
 [Do you want to send authorization request\nto new contact?]
-Czy chcesz wys≥aÊ pytanie o autoryzacje?\ndo nowego kontaktu?
+Czy chcesz wys≈Çaƒá pytanie o autoryzacje?\ndo nowego kontaktu?
 [Show ID in menu item]
-Pokaø ID w menu
+Poka≈º ID w menu
 [Trim too long ID]
-Skracaj d≥ugie ID
+Skracaj d≈Çugie ID

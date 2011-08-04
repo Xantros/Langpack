@@ -4,63 +4,63 @@
 ;  Versions: 3.1.99.6
 ;============================================================
 [Remove Temporary Contacts]
-Usuñ tymczasowe kontakty
+UsuÅ„ tymczasowe kontakty
 [Mark Selected for Removal]
-Oznacz do usuniêcia
+Oznacz do usuniÄ™cia
 [Rest Selected]
-Zaznacz pozosta³e
+Zaznacz pozostaÅ‚e
 [Hold Selected]
 Przytrzymaj zaznaczone
 [Resume Selected]
-Wznów zaznaczone
+WznÃ³w zaznaczone
 [Cancel all Multisend Jobs]
 Anuluj wszystkie zadania
 [Copy Message to Clipboard]
-Kopiuj wiadomoœæ do schowka
+Kopiuj wiadomoÅ›Ä‡ do schowka
 [Configuration issue|The unattended send feature is disabled. The \\b1 send later\\b0  and \\b1 send to multiple contacts\\b0  features depend on it.\n\nYou must enable it under \\b1Options->Message Sessions->Advanced tweaks\\b0. Changing this option requires a restart.]
-Problem konfiguracji|Funkcja wysy³ania wiaodmoœci nienadzorowanych jest wy³¹czona. \\b1 Wyœlij póŸniej\\b0 i \\b1wyslij do wielu\\b0 jest od niej zale¿na.\n\nMusisz w³¹czyæ je w \\b1Opcje -> Okno rozmowy -> Zaawansowane poprawki\\b0. Zmiana tej opcji wymaga ponownego uruchomienia komunikatora.
+Problem konfiguracji|Funkcja wysyÅ‚ania wiaodmoÅ›ci nienadzorowanych jest wyÅ‚Ä…czona. \\b1 WyÅ›lij pÃ³Åºniej\\b0 i \\b1wyslij do wielu\\b0 jest od niej zaleÅ¼na.\n\nMusisz wÅ‚Ä…czyÄ‡ je w \\b1Opcje -> Okno rozmowy -> Zaawansowane poprawki\\b0. Zmiana tej opcji wymaga ponownego uruchomienia komunikatora.
 [Size and scaling options for the bottom avatar display]
-Rozmiar i opcje skalowania dla wyœwietlania awataru
+Rozmiar i opcje skalowania dla wyÅ›wietlania awataru
 [Allow BBCode formatting in outgoing messages]
-Zezwól na formatowanie BBCode w wiadomoœciach wychodz¹cych
+ZezwÃ³l na formatowanie BBCode w wiadomoÅ›ciach wychodzÄ…cych
 [Close session]
-Zamknij sesjê
+Zamknij sesjÄ™
 [Text symbols as event markers]
-Symbole tekstowe dla zdarzeñ
+Symbole tekstowe dla zdarzeÅ„
 [Settings problem|The option \\b1 History->Imitate IEView API\\b0  is enabled and the History++ plugin is active. This can cause problems when using IEView as message log viewer.\n\nShould I correct the option (a restart is required)?]
-B³¹d ustawieñ|Opcja \\b1 Historia -> Imituj API IEView\\b0  jest w³¹czona i plugin History++ jest aktywny. Mo¿e to powodowaæ problemy podczas korzystania z IEView jako dziennik wiadomoœci.\n\nNale¿y skorygowaæ opcje (ponowne uruchomienie jest wymagane)?
+BÅ‚Ä…d ustawieÅ„|Opcja \\b1 Historia -> Imituj API IEView\\b0  jest wÅ‚Ä…czona i plugin History++ jest aktywny. MoÅ¼e to powodowaÄ‡ problemy podczas korzystania z IEView jako dziennik wiadomoÅ›ci.\n\nNaleÅ¼y skorygowaÄ‡ opcje (ponowne uruchomienie jest wymagane)?
 [Loading a theme|Loading a color and font theme can overwrite the settings defined by your skin.\n\nDo you want to continue?]
-£adowanie motywu| Za³adowanie motywu kolorów i czcionek mo¿e nadpisaæ twoje ustawienia.\n\nCzy chcesz kontynuowaæ?
+Åadowanie motywu| ZaÅ‚adowanie motywu kolorÃ³w i czcionek moÅ¼e nadpisaÄ‡ twoje ustawienia.\n\nCzy chcesz kontynuowaÄ‡?
 [Closing options dialog|To reflect the changes done by importing a theme in the options dialog, the dialog must be closed after loading a theme \\b1 and unsaved changes might be lost\\b0 .\n\nDo you want to continue?\]
-Zamykanie okna opcji|W celu uwzglêdnienia zmian poprzez wprowadzenie motywu, okno opcji musi byæ zamkniête po za³adowaniu motywu \\b1 a niezapisane zmiany mog¹ zostaæ utracone\\b0 .\n\nCzy chcesz kontynuowaæ?
+Zamykanie okna opcji|W celu uwzglÄ™dnienia zmian poprzez wprowadzenie motywu, okno opcji musi byÄ‡ zamkniÄ™te po zaÅ‚adowaniu motywu \\b1 a niezapisane zmiany mogÄ… zostaÄ‡ utracone\\b0 .\n\nCzy chcesz kontynuowaÄ‡?
 [Options marked with an asterisk (*) will only take effect after Miranda has been restarted.]
-Opcje oznaczone gwiazdk¹ (*) przynios¹ efekt po ponownym uruchomieniu Mirandy.
+Opcje oznaczone gwiazdkÄ… (*) przyniosÄ… efekt po ponownym uruchomieniu Mirandy.
 [Theme support]
 Motyw
 [You can export and import all your color and font settings here. This allows you to create a Theme file which can be shared between different profiles or with your buddies.]
-Mo¿na eksportowaæ i importowaæ wszystkie ustawienia kolorów i czcionek tutaj. W ten sposób mo¿na utworzyæ plik motywu, który mo¿e byæ podzielony miêdzy ró¿ne profile lub znajomych.
+MoÅ¼na eksportowaÄ‡ i importowaÄ‡ wszystkie ustawienia kolorÃ³w i czcionek tutaj. W ten sposÃ³b moÅ¼na utworzyÄ‡ plik motywu, ktÃ³ry moÅ¼e byÄ‡ podzielony miÄ™dzy rÃ³Å¼ne profile lub znajomych.
 [Export to a file...]
 Eksportuj do pliku...
 [Import from a file...]
 Importuj z pliku...
 [TabSRMM warning message]
-Ostrze¿enie TabSRMM
+OstrzeÅ¼enie TabSRMM
 [Closing Window|You are about to close a window with multiple tabs open.\n\nProceed?]
-Zamykanie okna|Czy napewno chcesz zamkn¹æ okno rozmowy z otwartymi kilkoma kartami.\n\nZatwierdziæ?
+Zamykanie okna|Czy napewno chcesz zamknÄ…Ä‡ okno rozmowy z otwartymi kilkoma kartami.\n\nZatwierdziÄ‡?
 [Do not show this message again]
-Nie pokazuj tej wiadomoœci
+Nie pokazuj tej wiadomoÅ›ci
 [Horizontal Grid Lines]
 Poziome linie siatki
 [Reset all hidden warnings]
-Resetuj wszystkie ostrze¿enia
+Resetuj wszystkie ostrzeÅ¼enia
 [Image tag]
 Tag obrazka
 [Generic text color (only when fill color is set)]
-Ogólny kolor tekstu (tylko wtedy, gdy kolor wype³nienia jest ustawiony)
+OgÃ³lny kolor tekstu (tylko wtedy, gdy kolor wypeÅ‚nienia jest ustawiony)
 [Insert [img] tag / surround selected text with [img][/img]]
 Wklej tag [img] / otocz zaznaczony tekst tagami [img][/img]
 [%d users]
-%d osób
+%d osÃ³b
 [%d Unread]
 %d nowych
 [Close button only hides message windows]
@@ -72,49 +72,49 @@ Zamknij lub ukryj nieaktywne kontenety po
 [sec. (0=never)]
 sec. (0 = nigdy)
 [&Send later job list...]
-&Lista zadañ "wyœlij póŸniej"...
+&Lista zadaÅ„ "wyÅ›lij pÃ³Åºniej"...
 [Queued send jobs]
-Wysy³anie zadañ oczekuj¹cych w kolejce
+WysyÅ‚anie zadaÅ„ oczekujÄ…cych w kolejce
 [Filter by contact:]
-Filtrowanie kontaktów:
+Filtrowanie kontaktÃ³w:
 [Queued jobs]
-Zadania oczekuj¹ce w kolejce
+Zadania oczekujÄ…ce w kolejce
 [Display popups for failed jobs]
-Poka¿ popupy dla b³êdów zadañ
+PokaÅ¼ popupy dla bÅ‚Ä™dÃ³w zadaÅ„
 [Display popups for completed jobs]
-Poka¿ popupy dla zakoñczonych zadañ
+PokaÅ¼ popupy dla zakoÅ„czonych zadaÅ„
 [<All contacts>]
 <Wszystkie kontakty>
 [Original timestamp]
 Oryginalny znacznik czasu
 [Last send info]
-Informacje o ostatnio wys³anych
+Informacje o ostatnio wysÅ‚anych
 [Show avatars on task bar (Win 7, large task bar required)]
-Poka¿ awatary na pasku zadañ (Win 7, zalecany du¿y pasek zadañ)
+PokaÅ¼ awatary na pasku zadaÅ„ (Win 7, zalecany duÅ¼y pasek zadaÅ„)
 [Splitter Posiiton]
-Pozycja rozga³êŸnika
+Pozycja rozgaÅ‚Ä™Åºnika
 [Default container]
-Domyœlny kontener
+DomyÅ›lny kontener
 [Multisend is unavailable, because the unattended send feature has not been enabled]
-Wyœlij do wielu jest niedostêpna, poniewa¿ funkcja nie jest aktywna
+WyÅ›lij do wielu jest niedostÄ™pna, poniewaÅ¼ funkcja nie jest aktywna
 [Single row tab control (*)]
-Pojedyñczy wiersz kart (*)
+PojedyÅ„czy wiersz kart (*)
 [Use button tabs (*)]
-U¿yj przycisków zak³adek (*)
+UÅ¼yj przyciskÃ³w zakÅ‚adek (*)
 [Use this to specify a private message log theme for this container. This will have no effect when using IEView or another message log viewer and should NOT be confused with skins.]
-U¿yj tego, aby okreœliæ prywatny szablon dziennika dla tego kontenera. Nie bêdzie efektu w przypadku u¿ywania IEView lub innej metody wyœwietlania dziennika wiadomoœci i nie nale¿y jej myliæ ze skinami.
+UÅ¼yj tego, aby okreÅ›liÄ‡ prywatny szablon dziennika dla tego kontenera. Nie bÄ™dzie efektu w przypadku uÅ¼ywania IEView lub innej metody wyÅ›wietlania dziennika wiadomoÅ›ci i nie naleÅ¼y jej myliÄ‡ ze skinami.
 [Place the tool bar at the bottom (*)]
-Przycisk paska narzêdzi na dole (*)
+Przycisk paska narzÄ™dzi na dole (*)
 [Options marked with an asterisk (*) do not affect open message windows.]
-Opcje oznaczone gwiazdk¹ (*) nie maj¹ wp³ywu na otwarte okna wiadomoœci.
+Opcje oznaczone gwiazdkÄ… (*) nie majÄ… wpÅ‚ywu na otwarte okna wiadomoÅ›ci.
 [Automatically size input area (*)]
 Automatyczny rozmiar obszaru wpisywania (*)
 [Toolbar background high]
-T³o górnej czêœci paska narzêdzi
+TÅ‚o gÃ³rnej czÄ™Å›ci paska narzÄ™dzi
 [Toolbar background low]
-T³o dolnej czêœci paska narzêdzi
+TÅ‚o dolnej czÄ™Å›ci paska narzÄ™dzi
 [Window fill color]
-Kolor wype³nienia okna
+Kolor wypeÅ‚nienia okna
 [Text area borders]
 Granice obszaru tekstu
 [Aero glow effect]
@@ -124,69 +124,69 @@ Normalna
 [Active text]
 Aktywna
 [Hovered text]
-Oczekuj¹ca
+OczekujÄ…ca
 [Unread text]
 Nieprzeczytana
 [Normal background]
-Normalne - t³o
+Normalne - tÅ‚o
 [Active background]
-Aktywne - t³o
+Aktywne - tÅ‚o
 [Hovered background]
-Oczekuj¹ce - t³o
+OczekujÄ…ce - tÅ‚o
 [Unread background]
-Nieprzeczytane - t³o
+Nieprzeczytane - tÅ‚o
 [Tab layout tweaks]
-Uk³ad kart
+UkÅ‚ad kart
 [Open log file base folder]
-Otwórz folder dziennika
+OtwÃ³rz folder dziennika
 [Close open message windows now]
-Kliknij aby zamkn¹æ okno rozmowy
+Kliknij aby zamknÄ…Ä‡ okno rozmowy
 [Enable unattended send (experimental feature, required for multisend and send later) (*)]
-W³¹cz wysy³anie bez nadzoru (eksperymentalnie, wymagane przez wyœlij póŸniej i do wielu naraz, mo¿liwe b³êdy) (*)
+WÅ‚Ä…cz wysyÅ‚anie bez nadzoru (eksperymentalnie, wymagane przez wyÅ›lij pÃ³Åºniej i do wielu naraz, moÅ¼liwe bÅ‚Ä™dy) (*)
 [%m:\tminute]
-minutê
+minutÄ™
 [, %d %s idle]
  jest bezczynny %d %s
 [%s on %s%s]
 %s (%s)%s
 [More To Come...]
-Wiêcej...
+WiÄ™cej...
 [Set Your Avatar...]
-Ustaw swój awatar...
+Ustaw swÃ³j awatar...
 [Advanced layout with avatars]
-Zaawansowany uk³ad awatarów
+Zaawansowany ukÅ‚ad awatarÃ³w
 [Advanced with avatars, vertical orientation]
-Zaawansowany uk³ad awatarów, orientacja pionowa
+Zaawansowany ukÅ‚ad awatarÃ³w, orientacja pionowa
 [No status message]
 Kontakt nie ma opisu.
 [Available formats]
-Dostêpne formaty
+DostÄ™pne formaty
 [%s%s says:%s %s]
-[b]%s%s napisa³:[/b]%s %s
+[b]%s%s napisaÅ‚:[/b]%s %s
 [Reload active skin]
-Odœwie¿ aktywny skin
+OdÅ›wieÅ¼ aktywny skin
 [Maximum display height (pixels)]
-Maksymalna wysokoœæ wyœwietlana (pixele)
+Maksymalna wysokoÅ›Ä‡ wyÅ›wietlana (pixele)
 [  Show these events]
-  Poka¿ te wydarzenia
+  PokaÅ¼ te wydarzenia
 [&User]
-&U¿ytkownik
+&UÅ¼ytkownik
 [&Room]
-&Pokój
+&PokÃ³j
 [Look up '%s':]
 Zobacz '%s':
 [&User details]
 Dane kontaktu
 [%s is typing a message.]
-%s pisze wiadomoœæ...
+%s pisze wiadomoÅ›Ä‡...
 [Number of received messages]
-Liczba otrzymanych wiadomoœci
+Liczba otrzymanych wiadomoÅ›ci
 [Number of sended messages]
-Liczba wys³anych wiadomoœci
+Liczba wysÅ‚anych wiadomoÅ›ci
 [Close button on tabs]
 Przycisk zamykania na kartach
 [Protocol Button]
-Przycisk protoko³u
+Przycisk protokoÅ‚u
 [Info button]
 Przycisk info
 [Bold text]
@@ -194,83 +194,83 @@ Pogrubienie
 [Italic text]
 Kursywa
 [Underlined text]
-Podkreœlenie
+PodkreÅ›lenie
 [Strike-through text]
-Przekreœlenie
+PrzekreÅ›lenie
 [Select font color]
 Wybierz kolor czcionki
 [Send message\nClick dropdown arrow for sending options]
-Wyœlij wiadomoœæ\nKliknij na strza³kê w dó³ dla opcji wysy³ania
+WyÅ›lij wiadomoÅ›Ä‡\nKliknij na strzaÅ‚kÄ™ w dÃ³Å‚ dla opcji wysyÅ‚ania
 [Close Session]
-Zamknij sesjê
+Zamknij sesjÄ™
 [Quote last message OR selected text]
-Cytuj ost. wiadomoœæ LUB zaznaczony tekst
+Cytuj ost. wiadomoÅ›Ä‡ LUB zaznaczony tekst
 [Message Log Options]
-Opcje dziennika wiadomoœci
+Opcje dziennika wiadomoÅ›ci
 [Avatar Options]
 Opcje awatara
 [Change background color]
-Zmieñ kolor t³a
+ZmieÅ„ kolor tÅ‚a
 [Toggle nick list]
-Prze³¹cz listê z nickami
+PrzeÅ‚Ä…cz listÄ™ z nickami
 [Event filter - right click to setup, left click to activate/deactivate]
-Filtr zdarzeñ: prawy przycisk myszy - ustawienia, lewy przycisk myszy - aktywacja/deaktywacja
+Filtr zdarzeÅ„: prawy przycisk myszy - ustawienia, lewy przycisk myszy - aktywacja/deaktywacja
 [Channel manager]
-Zarz¹dzanie kana³em
+ZarzÄ…dzanie kanaÅ‚em
 [System tray and floater options]
-Opcje zasobnika sytemowego i p³ywaj¹ce okna
+Opcje zasobnika sytemowego i pÅ‚ywajÄ…ce okna
 [Left click actions (popups only)]
 Akcje lewego przycisku (tylko popupy)
 [Right click actions (popups only)]
 Akcje prawego przycisku (tylko popupy)
 [Timeout actions (popups only)]
-Akcje po up³yniêciu czasu wyœwietlania (tylko popupy)
+Akcje po upÅ‚yniÄ™ciu czasu wyÅ›wietlania (tylko popupy)
 [Combine notifications for the same contact]
-Kombinacja notyfikacji dla tego samego u¿ytkownika
+Kombinacja notyfikacji dla tego samego uÅ¼ytkownika
 [Remove popups under following conditions]
-Usuñ popupy w nastêpuj¹cych przypadkach:
+UsuÅ„ popupy w nastÄ™pujÄ…cych przypadkach:
 [Show a preview of the event]
-Poka¿ podgl¹d zdarzenia
+PokaÅ¼ podglÄ…d zdarzenia
 [Don't announce event when message dialog is open]
-Nie og³aszaj zdarzenia, kiedy okno wiadomoœci jest otwarte
+Nie ogÅ‚aszaj zdarzenia, kiedy okno wiadomoÅ›ci jest otwarte
 [Don't announce events from RSS protocols]
-Nie og³aszaj zdarzeñ z protoko³u RSS
+Nie ogÅ‚aszaj zdarzeÅ„ z protokoÅ‚u RSS
 [Enable the system tray icon]
-W³¹cz ikonê w zasobniku systemowym
+WÅ‚Ä…cz ikonÄ™ w zasobniku systemowym
 [Show the floater]
-Poka¿ p³ywaj¹ce okno
+PokaÅ¼ pÅ‚ywajÄ…ce okno
 [When floater is enabled, only show it while the contact list is minimized]
-Kiedy p³ywajace okno jest w³¹czone, poka¿ je tylko, gdy lista kontaktów jest zminimalizowana
+Kiedy pÅ‚ywajace okno jest wÅ‚Ä…czone, pokaÅ¼ je tylko, gdy lista kontaktÃ³w jest zminimalizowana
 [Show session list menu on the message windows status bar]
-Poka¿ menu z list¹ sesji na pasku statusu okna wiadomoœci
+PokaÅ¼ menu z listÄ… sesji na pasku statusu okna wiadomoÅ›ci
 [Minimize containers to system tray or floater]
-Minimalizuj kontenery do zasobnika systemowego lub p³ywaj¹cego okna
+Minimalizuj kontenery do zasobnika systemowego lub pÅ‚ywajÄ…cego okna
 [Minimize and restore animated]
 Minimalizowanie i przywracanie animowane
 [Merge new events for the same contact into existing popup]
-Po³¹cz nowe zdarzenia od tego samego w istniej¹cym popupie
+PoÅ‚Ä…cz nowe zdarzenia od tego samego w istniejÄ…cym popupie
 [Show date for merged popups]
-Poka¿ datê dla po³¹czonych popupów
+PokaÅ¼ datÄ™ dla poÅ‚Ä…czonych popupÃ³w
 [Show time for merged popups]
-Poka¿ czas dla po³¹czonych popupów
+PokaÅ¼ czas dla poÅ‚Ä…czonych popupÃ³w
 [Open event]
-Otwórz zdarzenie
+OtwÃ³rz zdarzenie
 [Dismiss event]
-Odrzuæ zdarzenie
+OdrzuÄ‡ zdarzenie
 [Disable event notifications for instant messages]
-Wy³¹cz powiadomienia dla wiadomoœci
+WyÅ‚Ä…cz powiadomienia dla wiadomoÅ›ci
 [Disable event notifications for group chats]
-Wy³¹cz powiadomienia dla czatów
+WyÅ‚Ä…cz powiadomienia dla czatÃ³w
 [Disable notifications for non-message events]
-Wy³¹cz powiadomienia dla innych zdarzeñ
+WyÅ‚Ä…cz powiadomienia dla innych zdarzeÅ„
 [Remove popups for a contact when the message window is focused]
-Usuñ popupy dla kontaktu, gdy jego okno rozmowy jest aktywne
+UsuÅ„ popupy dla kontaktu, gdy jego okno rozmowy jest aktywne
 [Remove popups for a contact when I start typing a reply]
-Usuñ popupy dla kontaktu, gdy zacznê pisaæ odpowiedŸ
+UsuÅ„ popupy dla kontaktu, gdy zacznÄ™ pisaÄ‡ odpowiedÅº
 [Remove popups for a contact when I send a reply]
-Usuñ popupy dla kontaktu, gdy wyœlê odpowiedŸ
+UsuÅ„ popupy dla kontaktu, gdy wyÅ›lÄ™ odpowiedÅº
 [Don't use simple mode]
-Nie u¿ywaj trybu uproszczonego
+Nie uÅ¼ywaj trybu uproszczonego
 [Notify always]
 Zawsze powiadamiaj
 [Notify for unfocused sessions]
@@ -278,17 +278,17 @@ Powiadamiaj dla nieaktywnych sesji
 [Notify only when no window is open]
 Powiadamiaj tylko, gdy okno nie jest otwarte
 [<None>]
-<Nie og³aszaj>
+<Nie ogÅ‚aszaj>
 [Balloon tooltips]
 Podpowiedzi w chmurce
 [This is a sample message event :-)]
-To jest przyk³adowe powiadomienie o wiadomoœci :-)
+To jest przykÅ‚adowe powiadomienie o wiadomoÅ›ci :-)
 [This is a sample URL event ;-)]
-To jest przyk³adowe powiadomienie o linku (URL) ;-)
+To jest przykÅ‚adowe powiadomienie o linku (URL) ;-)
 [This is a sample file event :-D]
-To jest przyk³adowe powiadomienie o pliku :-D
+To jest przykÅ‚adowe powiadomienie o pliku :-D
 [This is a sample other event ;-D]
-To jest przyk³adowe powiadomienie o innym zdarzeniu ;-D
+To jest przykÅ‚adowe powiadomienie o innym zdarzeniu ;-D
 [Today]
 Dzisiaj
 [Yesterday]
@@ -296,81 +296,81 @@ Wczoraj
 [Message window behaviour]
 Zachowanie okna rozmowy
 [Sending messages]
-Wysy³anie wiadomoœci
+WysyÅ‚anie wiadomoÅ›ci
 [Other options]
 Inne opcje
 [Send on SHIFT - Enter]
-Shift+Enter wysy³a wiadomoœæ
+Shift+Enter wysyÅ‚a wiadomoÅ›Ä‡
 [Send message on 'Enter']
-Enter wysy³a wiadomoœæ
+Enter wysyÅ‚a wiadomoÅ›Ä‡
 [Send message on double 'Enter']
-Podwójny Enter wysy³a wiadomoœæ
+PodwÃ³jny Enter wysyÅ‚a wiadomoÅ›Ä‡
 [Minimize the message window on send]
-Minimalizuj okno rozmowy po wys³aniu
+Minimalizuj okno rozmowy po wysÅ‚aniu
 [Close the message window on send]
-Zamknij okno rozmowy po wys³aniu
+Zamknij okno rozmowy po wysÅ‚aniu
 [Always flash contact list and tray icon for new messages]
-Zawsze migaj na liœcie kontaktów i ikon¹ w zasobniku przy nowej wiadomoœci
+Zawsze migaj na liÅ›cie kontaktÃ³w i ikonÄ… w zasobniku przy nowej wiadomoÅ›ci
 [Delete temporary contacts on close]
-Usuñ tymczasowe kontakty przy zamkniêciu
+UsuÅ„ tymczasowe kontakty przy zamkniÄ™ciu
 [Show session list menu on the message window status bar]
-Poka¿ menu listy sesji  w status barze okna wiadomoœci
+PokaÅ¼ menu listy sesji  w status barze okna wiadomoÅ›ci
 [Enable "Paste and send" feature]
-W³¹cz "Wklej i wyœlij" za pomoc¹ Ctrl+D
+WÅ‚Ä…cz "Wklej i wyÅ›lij" za pomocÄ… Ctrl+D
 [Automatically split long messages (experimental, use with care)]
-Automatycznie rozdzielaj d³ugie wiadomoœci (eksperymentalne, u¿ywaj ostro¿nie)
+Automatycznie rozdzielaj dÅ‚ugie wiadomoÅ›ci (eksperymentalne, uÅ¼ywaj ostroÅ¼nie)
 [Automatic]
 Automatyczne
 [Sunken]
-Wklês³y
+WklÄ™sÅ‚y
 [1 pixel solid]
-1 piksel, ci¹g³y
+1 piksel, ciÄ…gÅ‚y
 [Rounded border]
-Zaokr¹glona ramka
+ZaokrÄ…glona ramka
 [Globally on]
-Globalnie w³¹czone
+Globalnie wÅ‚Ä…czone
 [On, if present]
-W³¹czone, gdy dostêpne
+WÅ‚Ä…czone, gdy dostÄ™pne
 [Globally OFF]
-Globalnie wy³¹czone
+Globalnie wyÅ‚Ä…czone
 [On, if present, always in bottom display]
-W³¹czone, je¿eli dostêpne, zawsze na dole
+WÅ‚Ä…czone, jeÅ¼eli dostÄ™pne, zawsze na dole
 [Don't show them]
 Nie pokazuj ich
 [Message log appearance]
-Wygl¹d dziennika wiadomoœci
+WyglÄ…d dziennika wiadomoÅ›ci
 [Support for external plugins]
-Wsparcie dla zewnêtrznych wtyczek
+Wsparcie dla zewnÄ™trznych wtyczek
 [Additional events to show]
 Zdarzenia do pokazania
 [Timestamp settings (note: timstamps also depend on your templates)]
-Ustawienia czasu (uwaga: wyœwietlanie zale¿y tak¿e od szablonu)
+Ustawienia czasu (uwaga: wyÅ›wietlanie zaleÅ¼y takÅ¼e od szablonu)
 [Message log icons]
 Ikony okna rozmowy
 [Show file events]
-Poka¿ zdarzenia dotycz¹ce plików
+PokaÅ¼ zdarzenia dotyczÄ…ce plikÃ³w
 [Show url events]
-Poka¿ zdarzenia dotycz¹ce linków (URL)
+PokaÅ¼ zdarzenia dotyczÄ…ce linkÃ³w (URL)
 [Show timestamps]
-Poka¿ czas
+PokaÅ¼ czas
 [Show dates in timestamps]
-Poka¿ datê przy czasie
+PokaÅ¼ datÄ™ przy czasie
 [Show seconds in timestamps]
-Poka¿ sekundy w czasie
+PokaÅ¼ sekundy w czasie
 [Use contacts local time (if timezone info available)]
-U¿yj czasu lokalnego kontaktów (jesli strefa czasowa jest dostêpna)
+UÅ¼yj czasu lokalnego kontaktÃ³w (jesli strefa czasowa jest dostÄ™pna)
 [Draw grid lines]
-Rysuj linie dziel¹ce zdarzenia w dzienniku
+Rysuj linie dzielÄ…ce zdarzenia w dzienniku
 [Show Icons]
-Poka¿ ikony
+PokaÅ¼ ikony
 [Show Symbols]
-Poka¿ symbole
+PokaÅ¼ symbole
 [Use Incoming/Outgoing Icons]
-U¿yj ikon dla Przychodz¹cych/Wychodz¹cych
+UÅ¼yj ikon dla PrzychodzÄ…cych/WychodzÄ…cych
 [Use Message Grouping]
-U¿yj grupowania wiadomoœci
+UÅ¼yj grupowania wiadomoÅ›ci
 [Indent message body]
-Wciêcie treœci wiadomoœci
+WciÄ™cie treÅ›ci wiadomoÅ›ci
 [Simple text formatting (*bold* etc.)]
 Proste formatowanie tekstu (*pogrubienie* itp.)
 [Support BBCode formatting]
@@ -378,125 +378,125 @@ Wspieraj formatowanie BBCode
 [Place a separator in the log after a window lost its foreground status]
 Wstawiaj separatory w nieaktywnych sesjach
 [Only place a separator when an incoming event is announced with a popup]
-U¿yj konfiguracji Popupów dla wstawiania separatorów
+UÅ¼yj konfiguracji PopupÃ³w dla wstawiania separatorÃ³w
 [RTL is default text direction]
-RTL jest domyœlnym kierunkiem tekstu
+RTL jest domyÅ›lnym kierunkiem tekstu
 [Show events at the new line (IEView Compatibility Mode)]
-Poka¿ zdarzenia w nowej lini (Tryb zgodnoœci z IEView)
+PokaÅ¼ zdarzenia w nowej lini (Tryb zgodnoÅ›ci z IEView)
 [Underline timestamp/nickname (IEView Compatibility Mode)]
-Podkreœl czas/pseudomim (Tryb zgodnoœci z IEView)
+PodkreÅ›l czas/pseudomim (Tryb zgodnoÅ›ci z IEView)
 [Show timestamp after nickname (IEView Compatibility Mode)]
-Poka¿ czas po nazwie (Tryb zgodnoœci z IEView)
+PokaÅ¼ czas po nazwie (Tryb zgodnoÅ›ci z IEView)
 [Automatically copy selected text]
 Automatycznie kopiuj zaznaczony tekst
 [Use multiple background colors]
-U¿yj wielu kolorów t³a
+UÅ¼yj wielu kolorÃ³w tÅ‚a
 [Use normal templates (uncheck to use simple templates if your template set supports them)]
-U¿yj normalnych szablonów (odznacz, by u¿yæ prostych szablonów, je¿eli twój zbiór szablonów je obs³uguje)
+UÅ¼yj normalnych szablonÃ³w (odznacz, by uÅ¼yÄ‡ prostych szablonÃ³w, jeÅ¼eli twÃ³j zbiÃ³r szablonÃ³w je obsÅ‚uguje)
 [** New contacts **]
 ** Nowe kontakty **
 [Show balloon popup (unsupported system)]
-Poka¿ podpowiedzi w chmurce (nieobs³ugiwany system)
+PokaÅ¼ podpowiedzi w chmurce (nieobsÅ‚ugiwany system)
 [Always]
 Zawsze
 [Always, but no popup when window is focused]
-Zawsze, ale nie pokazuj, jeœli okno jest aktywne
+Zawsze, ale nie pokazuj, jeÅ›li okno jest aktywne
 [Only when no message window is open]
-Tylko, gdy ¿adne okno rozmowy nie jest otwarte
+Tylko, gdy Å¼adne okno rozmowy nie jest otwarte
 [Tab options]
 Opcje kart
 [How to create tabs and windows for incoming messages]
-Opcje tworzenia kart i okna rozmowy dla przychodz¹cych wiadomoœci
+Opcje tworzenia kart i okna rozmowy dla przychodzÄ…cych wiadomoÅ›ci
 [Show status text on tabs]
-Poka¿ status na kartach
+PokaÅ¼ status na kartach
 [Prefer xStatus icons when available]
-U¿ywaj ikon xStatus, jeœli dostêpne
+UÅ¼ywaj ikon xStatus, jeÅ›li dostÄ™pne
 [Warn when closing a tab or window]
-Ostrzegaj przed zamkniêciem karty lub okna
+Ostrzegaj przed zamkniÄ™ciem karty lub okna
 [Detailed tooltip on tabs (requires mToolTip or Tipper plugin)]
-Szczegó³owe podpowiedzi na kartach (wymaga mToolTip lub Tippera)
+SzczegÃ³Å‚owe podpowiedzi na kartach (wymaga mToolTip lub Tippera)
 [ALWAYS activate new message sessions (has PRIORITY over the options below)]
 Zawsze aktywuj nowe okna rozmowy (ma PRIORYTET!)
 [Automatically create new message sessions without activating them]
-Twórz nowe sesje rozmowy bez aktywowania ich
+TwÃ³rz nowe sesje rozmowy bez aktywowania ich
 [New windows are minimized (the option above MUST be active)]
 Nowe okna zminimalizowane
 [Activate a minimized window when a new tab is created inside it]
 Aktywuj zminimalizowane okno, gdy tworzona jest nowa karta
 [Automatically switch existing tabs in minimized windows on incoming messages (ignored when using Aero Peek task bar features)]
-Automatycznie prze³¹czaj istniej¹ce karty w zminimalizowanych oknach dla przychodz¹cych wiadomoœci (ignorowane przy u¿yciu funkcji Aero Peek)
+Automatycznie przeÅ‚Ä…czaj istniejÄ…ce karty w zminimalizowanych oknach dla przychodzÄ…cych wiadomoÅ›ci (ignorowane przy uÅ¼yciu funkcji Aero Peek)
 [Don't draw visual styles on toolbar buttons]
-Nie rysuj wizualnych stylów na przyciskach paska narzêdzi
+Nie rysuj wizualnych stylÃ³w na przyciskach paska narzÄ™dzi
 [Flat toolbar buttons]
-P³askie przyciski paska narzêdzi
+PÅ‚askie przyciski paska narzÄ™dzi
 [Splitters are visible]
-Widoczne statyczne krawêdzi separatorów
+Widoczne statyczne krawÄ™dzi separatorÃ³w
 [No borders for text areas (make them appear "flat")]
-Niewidoczne obramowanie pól tekstowych (wybierz "P³askie")
+Niewidoczne obramowanie pÃ³l tekstowych (wybierz "PÅ‚askie")
 [Always use icon pack image on the smiley button]
-Poka¿ obraz ikony paczki na przycisku emotikon
+PokaÅ¼ obraz ikony paczki na przycisku emotikon
 [Remember and set keyboard layout per contact]
-Pamiêtaj i ustaw uk³ad klawiatury dla ka¿dego z kontaktów
+PamiÄ™taj i ustaw ukÅ‚ad klawiatury dla kaÅ¼dego z kontaktÃ³w
 [Allow TAB key in typing area (this will disable focus selection by TAB key)]
-Zezwól na tabulacjê (TAB prze³¹cza fokus w karcie/oknie)
+ZezwÃ³l na tabulacjÄ™ (TAB przeÅ‚Ä…cza fokus w karcie/oknie)
 [Use global hotkeys (configure modifiers below)]
-U¿yj globalnych skrótów (ustaw modifikator poni¿ej)
+UÅ¼yj globalnych skrÃ³tÃ³w (ustaw modifikator poniÅ¼ej)
 [Add offline contacts to multisend list]
-Dodaj niepo³¹czone kontakty na listê wysy³ania do wielu naraz
+Dodaj niepoÅ‚Ä…czone kontakty na listÄ™ wysyÅ‚ania do wielu naraz
 [Dim icons for idle contacts]
-Przyciemnij ikony bezczynnych kontaktów
+Przyciemnij ikony bezczynnych kontaktÃ³w
 [ESC key behavior]
 Opcje ESC
 [Minimize the window to the task bar]
 Zminimalizuj okno do paska
 [Normal - close tab, if last tab is closed also close the window]
-Normalnie - zamknij kartê, je¿eli nie ma kart zamknij okno
+Normalnie - zamknij kartÄ™, jeÅ¼eli nie ma kart zamknij okno
 [Close or hide window, depends on the close button setting above]
-Zamknij lub ukryj okno, zamykanie kart ma pierszeñstwo
+Zamknij lub ukryj okno, zamykanie kart ma pierszeÅ„stwo
 [Group Chats]
 Rozmowy grupowe
 [Typing Notify]
 Powiadomienie o pisaniu
 [Tabs and layout]
-Karty i uk³ad
+Karty i ukÅ‚ad
 [Containers]
 Kontenery
 [Message log]
-Dziennik wiadomoœci
+Dziennik wiadomoÅ›ci
 [Tool bar]
-Pasek narzêdzi
+Pasek narzÄ™dzi
 [Advanced tweaks]
 Zaawansowane poprawki
 [Load and apply]
 Wczytaj i zastosuj
 [Window layout tweaks]
-Wygl¹d kart
+WyglÄ…d kart
 [Message from %s]
-Wiadomoœæ od %s
+WiadomoÅ›Ä‡ od %s
 [%s is typing a message]
-%s pisze wiadomoœæ
+%s pisze wiadomoÅ›Ä‡
 [Typing Notification]
 Powiadomienie o pisaniu
 [&Message]
-Wiadomoœæ
+WiadomoÅ›Ä‡
 [Incoming (Focused Window)]
-Przychodz¹ce (Aktywne okno)
+PrzychodzÄ…ce (Aktywne okno)
 [Incoming (Unfocused Window)]
-Przychodz¹ce (Nieaktywne okno)
+PrzychodzÄ…ce (Nieaktywne okno)
 [Incoming (New Session)]
-Przychodz¹ce (Nowa sesja)
+PrzychodzÄ…ce (Nowa sesja)
 [Smiley button]
 Przycisk emotikon
 [Room settings]
 Ustawienia pokoju
 [Event filter disabled]
-Filtr zdarzeñ wy³¹czony
+Filtr zdarzeÅ„ wyÅ‚Ä…czony
 [Event filter enabled]
-Filtr zdarzeñ w³¹czony
+Filtr zdarzeÅ„ wÅ‚Ä…czony
 [You were added!]
-Zosta³eœ dodany!
+ZostaÅ‚eÅ› dodany!
 [Requests your authorisation]
-Proœba o twoj¹ autoryzacjê
+ProÅ›ba o twojÄ… autoryzacjÄ™
 [ICQ Web pager]
 Strona pagera ICQ
 [ICQ Email express]
@@ -504,61 +504,61 @@ Adres e-mail ICQ
 [Unknown Event]
 Nieznane zdarzenie
 [Message send timeout]
-Limit czasu wysy³ania wiadomoœci
+Limit czasu wysyÅ‚ania wiadomoÅ›ci
 [seconds.]
 sekund(y).
 [Input history size]
-Iloœæ wpisów z historii
+IloÅ›Ä‡ wpisÃ³w z historii
 [entries]
-wpisów
+wpisÃ³w
 [More about advanced tweaks]
 Informacje o zaawansowanych poprawkach
 [Revert to (safe) defaults]
-Przywróæ (bezpieczne) domyœlne
+PrzywrÃ³Ä‡ (bezpieczne) domyÅ›lne
 [Event notify options]
-Opcje powiadomieñ o zdarzeniach
+Opcje powiadomieÅ„ o zdarzeniach
 [Simple configuration]
 Prosta konfiguracja
 [Announce events with]
-Og³oœ zdarzenia za pomoc¹
+OgÅ‚oÅ› zdarzenia za pomocÄ…
 [Limit message preview to]
-Limituj podgl¹d wiadomoœci do:
+Limituj podglÄ…d wiadomoÅ›ci do:
 [Only show event notifications when my status is...]
-Poka¿ powiadomienie o zdarzeniach tylko, gdy nastêpuj¹cy status to...
+PokaÅ¼ powiadomienie o zdarzeniach tylko, gdy nastÄ™pujÄ…cy status to...
 [Popup Options]
-Opcje Popupów
+Opcje PopupÃ³w
 [Timeout (seconds, 0 = default, -1 = no timeout)]
-Ukryj po [x] sek. (0 = domyœlny, -1 = nie chowaj)
+Ukryj po [x] sek. (0 = domyÅ›lny, -1 = nie chowaj)
 [Preview popup]
-Podgl¹d popupów
+PodglÄ…d popupÃ³w
 [Always trim message log to]
-Zawsze skracaj dziennik wiadomoœci do
+Zawsze skracaj dziennik wiadomoÅ›ci do
 [Message window options]
-Opcje okna wiadomoœci
+Opcje okna wiadomoÅ›ci
 [Max. height]
 Maks. wys.
 [(0 = no limit)]
 (0 = brak limitu)
 [Show contact avatars]
-Poka¿ awatary kontaktów
+PokaÅ¼ awatary kontaktÃ³w
 [Show my own avatars]
-Poka¿ moje w³asne awatary
+PokaÅ¼ moje wÅ‚asne awatary
 [Border type]
 Styl obramowania
 [Miscellaneous options]
 Inne opcje
 [Try to keep original size]
-Spróbuj utrzymaæ oryginalny rozmiar
+SprÃ³buj utrzymaÄ‡ oryginalny rozmiar
 [Help on this]
 Pomoc na ten temat
 [Indent values]
-Wartoœci wciêcia
+WartoÅ›ci wciÄ™cia
 [Left/Right]
 Lewo/Prawo
 [px]
 pikseli
 [Template sets]
-Zbiory szablonów
+Zbiory szablonÃ³w
 [Standard templates...]
 Standardowe szablony...
 [RTL templates...]
@@ -568,31 +568,31 @@ Wczytaj zdarzenia z historii
 [Load unread events only]
 Tylko nieprzeczytane zdarzenia
 [Load number of previous events]
-Iloœæ zdarzeñ do wczytania
+IloÅ›Ä‡ zdarzeÅ„ do wczytania
 [Load previous events less than]
-Wczytaj zdarzenia nowsze ni¿
+Wczytaj zdarzenia nowsze niÅ¼
 [minutes old]
 minut(y)
 [Global message log display]
-Globalny dziennik wiadomoœci
+Globalny dziennik wiadomoÅ›ci
 [Send typing notifications to the following users when you are typing a message to the them:]
-Wyœlij powiadomienia o pisaniu do nastêpuj¹cych u¿ytkowników:
+WyÅ›lij powiadomienia o pisaniu do nastÄ™pujÄ…cych uÅ¼ytkownikÃ³w:
 [          Show typing notifications in the message window]
-          Poka¿ powiadomienia o pisaniu w oknie rozmowy
+          PokaÅ¼ powiadomienia o pisaniu w oknie rozmowy
 [Flash window once on typing events (only if flashing enabled)]
-Mignij oknem przy zdarzeniach pisania (jeœli miganie jest w³¹czone)
+Mignij oknem przy zdarzeniach pisania (jeÅ›li miganie jest wÅ‚Ä…czone)
 [          Show typing notifications in the contact list and tray]
-           Poka¿ powiadomienia o pisaniu w zasobniku i na liœcie kontaktów
+           PokaÅ¼ powiadomienia o pisaniu w zasobniku i na liÅ›cie kontaktÃ³w
 [Show typing notification when message dialog is open]
-Poka¿ powiadomienie o pisaniu, kiedy okno rozmowy jest otwarte
+PokaÅ¼ powiadomienie o pisaniu, kiedy okno rozmowy jest otwarte
 [Show typing notification when no message dialog is open]
-Poka¿ powiadomienie, jeœli nie ma otwartych okien rozmowy
+PokaÅ¼ powiadomienie, jeÅ›li nie ma otwartych okien rozmowy
 [Show balloon tooltip in the system tray]
-Poka¿ podpowiedŸ w chmurce w zasobniku systemowym
+PokaÅ¼ podpowiedÅº w chmurce w zasobniku systemowym
 [          Show popups when a user is typing]
-          Poka¿ popupy, kiedy u¿ytkownik pisze
+          PokaÅ¼ popupy, kiedy uÅ¼ytkownik pisze
 [More about typing notifications]
-Wiêcej na temat powiadomieñ o pisaniu
+WiÄ™cej na temat powiadomieÅ„ o pisaniu
 [Info Panel field borders:]
 Obramowanie panela informacji:
 [Setup status modes for automatic tab creation...]
@@ -600,35 +600,35 @@ Ustaw statusy dla automatycznego tworzenia kart...
 [Limit nicknames on tabs to]
 Limituj nicki na kartach do
 [Global hotkey modifiers]
-Modyfikator globalnych skrótów
+Modyfikator globalnych skrÃ³tÃ³w
 [When auto-hiding toolbar buttons:]
-Autoukryrywanie paska narzêdzi:
+Autoukryrywanie paska narzÄ™dzi:
 [Hide formatting buttons first]
-Ukryj formatowanie przycisków
+Ukryj formatowanie przyciskÃ³w
 [Hide standard buttons first]
 Ukryj standardowe przyciski
 [Show in IM chats]
-Poka¿ ten przycisk w normalnym oknie
+PokaÅ¼ ten przycisk w normalnym oknie
 [Show in chat rooms]
-Poka¿ ten przycisk w oknie czatu
+PokaÅ¼ ten przycisk w oknie czatu
 [Gap between buttons:]
-Odstêpy przycisków:
+OdstÄ™py przyciskÃ³w:
 [Hide if there isn't enough space]
-Ukryj, jeœli nie ma miejsca
+Ukryj, jeÅ›li nie ma miejsca
 [Insert Separator]
 Wstaw separator
 [To set container options, please use the container settings dialog. It is available by:\n1. choosing "container settings" from the system menu of a container.\n2. right clicking the tab or the button bar in any message window.]
-Aby ustawiæ opcje kontenera, skorzystaj z jego okna opcji. Dostêpne jest przez wybranie:\n1 "Ustawienia kontenera" z menu systemowego na pasku tytu³u okna kontenera.\n2. z menu po klikniêciu prawym przyciskiem myszy na kartê lub pasek narzêdzi w oknie wiadomoœci.
+Aby ustawiÄ‡ opcje kontenera, skorzystaj z jego okna opcji. DostÄ™pne jest przez wybranie:\n1 "Ustawienia kontenera" z menu systemowego na pasku tytuÅ‚u okna kontenera.\n2. z menu po klikniÄ™ciu prawym przyciskiem myszy na kartÄ™ lub pasek narzÄ™dzi w oknie wiadomoÅ›ci.
 [Tabs should be used in the following way]
 Tryb kontenera
 [Use contact list groups for organizing tabs (one window per group)]
-U¿yj nazw grup z listy kontaktow do organizowania kart
+UÅ¼yj nazw grup z listy kontaktow do organizowania kart
 [Tabbed interface, limit the maximum number of tabs per window to:]
 Interface kart, maksymalna liczba kart w oknie:
 [No tabs at all, each session has its own top level window]
-U¿yj trybu pojedynczego okna (jeden kontener na sesjê)
+UÅ¼yj trybu pojedynczego okna (jeden kontener na sesjÄ™)
 [Default mode (tabbed interface, manual assignments)]
-Tryb domyœlnego (interface kart, rêczne przypisywanie kontaktów)
+Tryb domyÅ›lnego (interface kart, rÄ™czne przypisywanie kontaktÃ³w)
 [Container flashing]
 Miganie kontenera
 [Flash containers]
@@ -636,95 +636,95 @@ Mignij kontenerem
 [times]
 razy
 [Flash interval]
-Przerwa miêdzy migniêciami
+Przerwa miÄ™dzy migniÄ™ciami
 [Default window title format]
-Domyœlny format tytu³u okna
+DomyÅ›lny format tytuÅ‚u okna
 [Help on containers]
-Pomoc dotycz¹ca kontenerów
+Pomoc dotyczÄ…ca kontenerÃ³w
 [U&se Popup colours]
-U¿yj kolorów wtyczki Popup
+UÅ¼yj kolorÃ³w wtyczki Popup
 [Tab label colors]
 Kolor tekstu karty
 [Use windows colors]
-U¿yj kolorów Windows
+UÅ¼yj kolorÃ³w Windows
 [Selected]
 Wybrana
 [Unread]
 Nieprzeczytana
 [Hot Track (mouse over)]
-Œledzona (pod myszk¹)
+Åšledzona (pod myszkÄ…)
 [Tab background colors]
-Kolor t³a karty
+Kolor tÅ‚a karty
 [NOTE: Background colors will only work with button-style tabs.]
-INFO: Kolory t³a bêd¹ dzia³aæ tylko ze stylizowanymi kartami.
+INFO: Kolory tÅ‚a bÄ™dÄ… dziaÅ‚aÄ‡ tylko ze stylizowanymi kartami.
 [Flash icon]
-Migaj ikon¹
+Migaj ikonÄ…
 [Flash text label]
 Migaj tekstem karty
 [Single row tab control]
 Wszystkie karty w jednym wierszu
 [Default width for fixed (single row) tabs]
-Domyœlna szerokoœæ karty:
+DomyÅ›lna szerokoÅ›Ä‡ karty:
 [Disable visual styles]
-Wy³¹cz style wizualne
+WyÅ‚Ä…cz style wizualne
 [Use button tabs]
 Karty jako przyciski
 [Tab text label padding vertical]
-Pionowe dope³nienie tekstu kart:
+Pionowe dopeÅ‚nienie tekstu kart:
 [Tab page padding:]
-Dope³nienie kart:
+DopeÅ‚nienie kart:
 [inner]
 wew.
 [outer]
 zew.
 [Bottom tabs vertical adjustment:]
-Pionowe wyrównanie kart na dole:
+Pionowe wyrÃ³wnanie kart na dole:
 [NOTE: some settings will not affect open containers.]
-INFO: niektóre ustawienia przynios¹ efekt po ponownym otwarciu kontenera.
+INFO: niektÃ³re ustawienia przyniosÄ… efekt po ponownym otwarciu kontenera.
 [Styled tabs]
 Stylizuj karty
 [Light shadow]
-Jasny cieñ
+Jasny cieÅ„
 [Dark shadow]
-Ciemny cieñ
+Ciemny cieÅ„
 [Load this skin on startup]
-Wczytaj tê skórkê na starcie
+Wczytaj tÄ™ skÃ³rkÄ™ na starcie
 [Apply skin now]
-Zastosuj teraz skórkê
+Zastosuj teraz skÃ³rkÄ™
 [Unload skin]
-Wy³¹cz skórkê
+WyÅ‚Ä…cz skÃ³rkÄ™
 [Load fonts and colors provided by skin]
-Za³aduj czcionki i kolory dostarczone przez skórke
+ZaÅ‚aduj czcionki i kolory dostarczone przez skÃ³rke
 [Load templates provided by skin (use with care, will overwrite your templates)]
-£aduj szablony dostarczone przez skórkê (ostro¿nie, twój szablon mo¿e zostaæ nadpisany)
+Åaduj szablony dostarczone przez skÃ³rkÄ™ (ostroÅ¼nie, twÃ³j szablon moÅ¼e zostaÄ‡ nadpisany)
 [Skinning is only available when running under Windows 2000 or later]
-Skórkowanie jest tylko dostêpne w Windows 2000 lub nowszym
+SkÃ³rkowanie jest tylko dostÄ™pne w Windows 2000 lub nowszym
 [Show icons]
-Poka¿ ikony
+PokaÅ¼ ikony
 [Clear Log]
-Wyczyœæ dziennik
+WyczyÅ›Ä‡ dziennik
 [Private]
 Prywatny
 [Message Log]
-Dziennik wiadomoœci
+Dziennik wiadomoÅ›ci
 [Insert Emoticon]
-Wstaw emotikonkê
+Wstaw emotikonkÄ™
 [Sounds are %s. Click to toggle status, hold SHIFT and click to set for all open containers]
-DŸwiêk jest %s. Kliknij aby prze³¹czyæ, przytrzymaj SHIFT i kliknij, aby ustawiæ dla otwartych kontenerów
+DÅºwiÄ™k jest %s. Kliknij aby przeÅ‚Ä…czyÄ‡, przytrzymaj SHIFT i kliknij, aby ustawiÄ‡ dla otwartych kontenerÃ³w
 [enabled]
-w³¹czone
+wÅ‚Ä…czone
 [Sending typing notifications is %s.]
-Wysy³anie powiadomienia o pisaniu jest %s.
+WysyÅ‚anie powiadomienia o pisaniu jest %s.
 [Stay on Top]
 Zawsze na wierzchu
 [Hide titlebar]
-Ukryj pasek tytu³u
+Ukryj pasek tytuÅ‚u
 [Container options...]
 Opcje kontenera...
 [Message Session...]
 Sesja rozmowy...
 [Show session list (right click to show quick menu)]
-Poka¿ listê sesji (prawy przycisk otwiera szybkie menu)
+PokaÅ¼ listÄ™ sesji (prawy przycisk otwiera szybkie menu)
 [Attach to]
 Przyczep do
 [Meta Contact]
@@ -732,119 +732,119 @@ Meta Kontakt
 [(Forced)]
 (Wymuszone)
 [Autoselect]
-Autowybór
+AutowybÃ³r
 [Use Protocol]
-U¿yj protoko³u
+UÅ¼yj protokoÅ‚u
 [Set Default Protocol]
-Ustaw domyœlny protokó³
+Ustaw domyÅ›lny protokÃ³Å‚
 [Container options]
 Opcje kontenera
 [One of your popup actions is set to DISMISS EVENT.\nNote that this options may have unwanted side effects as it REMOVES the event from the unread queue.\nThis may lead to events not showing up as "new". If you don't want this behaviour, please review the Event Notifications settings page.]
-Jedna z twoich akcji popupów jest ustawiona na ODRZUÆ ZDARZENIE.\nTa opcja mo¿e mieæ nieporz¹dane efekty uboczne jak USUWANIE zdarzeñ z kolejki nieprzeczytanych.\nMo¿e to doprowadziæ do niepokazywania ich jako "nowych". Jeœli nie chcesz takiego zachowania zmieñ ustawienia w Powiadomieniach o Zdarzeniach.
+Jedna z twoich akcji popupÃ³w jest ustawiona na ODRZUÄ† ZDARZENIE.\nTa opcja moÅ¼e mieÄ‡ nieporzÄ…dane efekty uboczne jak USUWANIE zdarzeÅ„ z kolejki nieprzeczytanych.\nMoÅ¼e to doprowadziÄ‡ do niepokazywania ich jako "nowych". JeÅ›li nie chcesz takiego zachowania zmieÅ„ ustawienia w Powiadomieniach o Zdarzeniach.
 [On screen display]
-Wyœwietlanie na ekranie
+WyÅ›wietlanie na ekranie
 [%s requested authorization]
-%s poprosi³ o autoryzacjê
+%s poprosiÅ‚ o autoryzacjÄ™
 [%s added you to the contact list]
-%s doda³ ciê do swojej listy kontaktów
+%s dodaÅ‚ ciÄ™ do swojej listy kontaktÃ³w
 [New messages: ]
-Nowych wiadomoœci:
+Nowych wiadomoÅ›ci:
 [Message from %s: %s]
-Wiadomoœæ od %s: %s
+WiadomoÅ›Ä‡ od %s: %s
 [%s is typing...]
-%s pisze wiadomoœæ...
+%s pisze wiadomoÅ›Ä‡...
 [UIN: %s]
 UIN: %s
 [Last received: %s at %s]
-Ostatnia wiadomoœæ: %s o %s
+Ostatnia wiadomoÅ›Ä‡: %s o %s
 [tabSRMM Quick Menu]
 Szybkie menu tabSRMM
 [Session List]
 Lista sesji
 [Add this contact permanently to your contact list]
-Dodaj ten kontakt na sta³e do listy kontaktów
+Dodaj ten kontakt na staÅ‚e do listy kontaktÃ³w
 [Do not add this contact permanently]
-Nie dodawaj tego kontaktu na sta³e
+Nie dodawaj tego kontaktu na staÅ‚e
 [Toggle notes display]
-Prze³¹cz wyœwietlanie notatek
+PrzeÅ‚Ä…cz wyÅ›wietlanie notatek
 [Set your visibility for this contact]
-Ustaw swoj¹ widocznoœæ dla tego kontaktu
+Ustaw swojÄ… widocznoÅ›Ä‡ dla tego kontaktu
 [Character Encoding]
-Kodowanie znaków
+Kodowanie znakÃ³w
 [A message failed to send successfully.]
-Nie uda³o siê poprawnie wys³aæ wiadomoœci.
+Nie udaÅ‚o siÄ™ poprawnie wysÅ‚aÄ‡ wiadomoÅ›ci.
 [WARNING: The message you are trying to paste exceeds the message size limit for the active protocol. It will be sent in chunks of max %d characters]
-UWAGA: Wiadomoœæ, któr¹ próbujesz wkleiæ przekracza limit d³ugoœci dla aktywnego protoko³u. Zostanie ona wys³ana w czêœciach po maks. %d znaków
+UWAGA: WiadomoÅ›Ä‡, ktÃ³rÄ… prÃ³bujesz wkleiÄ‡ przekracza limit dÅ‚ugoÅ›ci dla aktywnego protokoÅ‚u. Zostanie ona wysÅ‚ana w czÄ™Å›ciach po maks. %d znakÃ³w
 [The message you are trying to paste exceeds the message size limit for the active protocol. Only the first %d characters will be sent.]
-UWAGA: Wiadomoœæ, któr¹ próbujesz wkleiæ przekracza limit d³ugoœci dla aktywnego protoko³u. Tylko pierwsze %d znaków zostanie wys³ane.
+UWAGA: WiadomoÅ›Ä‡, ktÃ³rÄ… prÃ³bujesz wkleiÄ‡ przekracza limit dÅ‚ugoÅ›ci dla aktywnego protokoÅ‚u. Tylko pierwsze %d znakÃ³w zostanie wysÅ‚ane.
 [Save and close session]
 Zapisz i zamknij sesje
 [Message Log is frozen]
-Dziennik wiadomoœci jest zamro¿ony
+Dziennik wiadomoÅ›ci jest zamroÅ¼ony
 [Click for contact menu\nClick dropdown for window settings]
-Kliknij, by pokazaæ menu kontaktu\nKliknij strza³kê, by pokazaæ ustawienia okna
+Kliknij, by pokazaÄ‡ menu kontaktu\nKliknij strzaÅ‚kÄ™, by pokazaÄ‡ ustawienia okna
 [Send later]
-Wyœlij póŸniej
+WyÅ›lij pÃ³Åºniej
 [signed off.]
-wylogowa³(a) siê.
+wylogowaÅ‚(a) siÄ™.
 [signed on and is now %s.]
-zalogowa³(a) siê i jest teraz %s
+zalogowaÅ‚(a) siÄ™ i jest teraz %s
 [changed status from %s to %s.]
-zmieni³(a) status z %s na %s.
+zmieniÅ‚(a) status z %s na %s.
 [Message Log is frozen (%d queued)]
-Dziennik wiadomoœci jest zamro¿ony (%d w kolejce)
+Dziennik wiadomoÅ›ci jest zamroÅ¼ony (%d w kolejce)
 [Unknown client]
 Nieznany klient
 [No extended status message available]
-Rozszerzony opis jest niedostêpny
+Rozszerzony opis jest niedostÄ™pny
 [Delivery failure: %s]
-Dostarczenie nie powiod³o siê: %s
+Dostarczenie nie powiodÅ‚o siÄ™: %s
 [The message send timed out]
-Przekroczono limit czasu wysy³ania wiadomoœci
+Przekroczono limit czasu wysyÅ‚ania wiadomoÅ›ci
 [Show Contact Picture]
-Poka¿ obrazek kontaktu
+PokaÅ¼ obrazek kontaktu
 [Message saved for later delivery]
-Wiadomoœæ zapisana do póŸniejszego dostarczenia
+WiadomoÅ›Ä‡ zapisana do pÃ³Åºniejszego dostarczenia
 [Selection copied to clipboard]
 Zaznaczenie skopiowano do schowka
 [Unforce failed]
 Nieudane wymuszenie
 [The selected protocol cannot be forced at this time]
-Wybrany protokó³ tym razem nie móg³ zostaæ wymuszony
+Wybrany protokÃ³Å‚ tym razem nie mÃ³gÅ‚ zostaÄ‡ wymuszony
 [Extended status for %s: %s]
 Rozszerzony opis dla %s: %s
 [%s is using]
-%s u¿ywa
+%s uÅ¼ywa
 [Status message for %s (%s)]
 Opis dla %s (%s)
 [tabSRMM Information]
 Informacje o tabSRMM
 [Warning: you have selected a subprotocol for sending the following messages which is currently offline]
-Uwaga: wybrany do wys³ania tych wiadomoœci podprotokó³ jest obecnie roz³¹czony
+Uwaga: wybrany do wysÅ‚ania tych wiadomoÅ›ci podprotokÃ³Å‚ jest obecnie rozÅ‚Ä…czony
 [Contact is offline and this protocol does not support sending files to offline users.]
-Kontakt jest niepo³¹czony, a ten protokó³ nie wspiera wysy³ania plików do niepo³¹czonych.
+Kontakt jest niepoÅ‚Ä…czony, a ten protokÃ³Å‚ nie wspiera wysyÅ‚ania plikÃ³w do niepoÅ‚Ä…czonych.
 [Error creating destination directory]
-B³¹d tworzenia katalogu
+BÅ‚Ä…d tworzenia katalogu
 [Save contact picture]
 Zapisz obrazek kontaktu
 [The file exists. Do you want to overwrite it?]
-Plik istnieje. Chcesz nadpisaæ?
+Plik istnieje. Chcesz nadpisaÄ‡?
 [Contact picture settings...]
 Ustawienia obrazka kontaktu
 [Set your avatar...]
-Ustaw swój awatar...
+Ustaw swÃ³j awatar...
 [Do you want to also read message templates from the theme?\nCaution: This will overwrite the stored template set which may affect the look of your message window significantly.\nSelect cancel to not load anything at all.]
-Chcesz tak¿e wczytaæ szablony okna rozmowy z motywu?\nUwaga: To nadpisze twój zbiór szablonów, co mo¿e znacz¹co wp³yn¹æ na wygl¹d okna rozmowy.\nWybierz anuluj, aby nic nie wczytywaæ.
+Chcesz takÅ¼e wczytaÄ‡ szablony okna rozmowy z motywu?\nUwaga: To nadpisze twÃ³j zbiÃ³r szablonÃ³w, co moÅ¼e znaczÄ…co wpÅ‚ynÄ…Ä‡ na wyglÄ…d okna rozmowy.\nWybierz anuluj, aby nic nie wczytywaÄ‡.
 [Load theme]
 Wczytaj motyw
 [The 'paste and send' feature is disabled. You can enable it on the 'General' options page in the 'Sending Messages' section]
-Opcja "wklej i wyœlij" jest wy³¹czona. Mo¿esz j¹ ustawiæ na stronie "Ogólne" w sekcji "Wysy³anie wiadomoœci"
+Opcja "wklej i wyÅ›lij" jest wyÅ‚Ä…czona. MoÅ¼esz jÄ… ustawiÄ‡ na stronie "OgÃ³lne" w sekcji "WysyÅ‚anie wiadomoÅ›ci"
 [User Id:]
-Id u¿ytkownika:
+Id uÅ¼ytkownika:
 [Cyrillic KOI8-R]
 Cyrylica KOI8-R
 [Use default codepage]
-U¿yj domyœlnej strony kodowej
+UÅ¼yj domyÅ›lnej strony kodowej
 [Tahoma]
 Tahoma
 [Support the math module plugin]
@@ -854,7 +854,7 @@ Wtyczka IEView
 [History++ plugin]
 Wtyczka History++
 [Force more aggressive window updates]
-Wymuœ bardziej agresywne odœwie¿anie okna
+WymuÅ› bardziej agresywne odÅ›wieÅ¼anie okna
 [Event notifications]
 Powiadomienia o zdarzeniach
 [Choose status modes]
@@ -868,15 +868,15 @@ Menu TabSRMM w zasobniku
 [&Messaging settings...]
 Opcje rozmowy...
 [Message send error]
-B³¹d wysy³ania wiadomoœci
+BÅ‚Ä…d wysyÅ‚ania wiadomoÅ›ci
 [TABSRMM: Typing]
 TABSRMM: Pisanie
 [Show History]
-Poka¿ historiê
+PokaÅ¼ historiÄ™
 [Add contact]
 Dodaj kontakt
 [Multisend indicator]
-WskaŸnik multisend
+WskaÅºnik multisend
 [Quote text]
 Cytuj tekst
 [Save and close]
@@ -884,45 +884,45 @@ Zapisz i zamknij
 [Avatar menu]
 Menu awatara
 [User menu]
-Menu u¿ytkownika
+Menu uÅ¼ytkownika
 [Format bold]
 Format "pogrubiony"
 [Format italic]
 Format "kursywa"
 [Format underline]
-Format "podkreœlenie"
+Format "podkreÅ›lenie"
 [Font face]
-Krój czcionki
+KrÃ³j czcionki
 [Font color]
 Kolor czcionki
 [Format strike-through]
-Format "przekreœlenie"
+Format "przekreÅ›lenie"
 [Hide nicklist]
-Ukryj listê nicków
+Ukryj listÄ™ nickÃ³w
 [Message delivery error]
-B³¹d dostarczenia wiadomoœci
+BÅ‚Ä…d dostarczenia wiadomoÅ›ci
 [Statuschange]
 Zmiana statusu
 [Static container icon]
 Statyczna ikona kontenera
 [Sending typing notify is off]
-Wysy³anie powiadomieñ o pisaniu jest wy³¹czone
+WysyÅ‚anie powiadomieÅ„ o pisaniu jest wyÅ‚Ä…czone
 [RESERVED (currently not in use)]
-ZAREZERWOWANA (obecnie nie u¿ywane)
+ZAREZERWOWANA (obecnie nie uÅ¼ywane)
 [Sounds are On]
-DŸwiêki s¹ w³¹czone
+DÅºwiÄ™ki sÄ… wÅ‚Ä…czone
 [Sounds are off]
-DŸwiêki s¹ wy³¹czone
+DÅºwiÄ™ki sÄ… wyÅ‚Ä…czone
 [Message Log frozen]
-Dziennik wiadomoœci zamro¿ony
+Dziennik wiadomoÅ›ci zamroÅ¼ony
 [Pulldown Arrow]
-Strza³ka w dó³
+StrzaÅ‚ka w dÃ³Å‚
 [Left Arrow]
-Strza³ka w lewo
+StrzaÅ‚ka w lewo
 [Right Arrow]
-Strza³ka w prawo
+StrzaÅ‚ka w prawo
 [Up Arrow]
-Strza³ka w górê
+StrzaÅ‚ka w gÃ³rÄ™
 [Favorite Contacts]
 Ulubione kontakty
 [Recent Sessions]
@@ -930,7 +930,7 @@ Ostatnie sesje
 [Setup Sidebar]
 Ustaw boczny pasek
 [Contact Preferences]
-W³aœciwoœci kontaktu
+WÅ‚aÅ›ciwoÅ›ci kontaktu
 [Frame 1]
 Ramka 1
 [Frame 2]
@@ -940,67 +940,67 @@ Ramka 3
 [Frame 4]
 Ramka 4
 [TabSRMM/Default]
-TabSRMM/Domyœlne
+TabSRMM/DomyÅ›lne
 [TabSRMM/Toolbar]
-TabSRMM/Pasek narzêdzi
+TabSRMM/Pasek narzÄ™dzi
 [TabSRMM/Message Log]
 TabSRMM/Dziennig
 [TabSRMM/Animated Tray]
 TabSRMM/Animowany zasobnik
 [Critical: cannot init IcoLib, no resource DLL found.]
-B³¹d krytyczny: nie mo¿na zainicjowaæ IcoLib, nie znaleziono pliku DLL
+BÅ‚Ä…d krytyczny: nie moÅ¼na zainicjowaÄ‡ IcoLib, nie znaleziono pliku DLL
 [Dont]
 Nie
 [All modes]
 Wszystkie tryby
 [Message log view mode (does not affect open windows)]
-Tryb widoku dziennika wiadomoœci (nie wp³ywa na otwarte okno)
+Tryb widoku dziennika wiadomoÅ›ci (nie wpÅ‚ywa na otwarte okno)
 [Select how to display the message log. This setting can be ignored when one of the listed plugins is not installed.]
-Wybierz sposób wyœwietlania dziennika wiadomoœci. Te ustawiania mog¹ zostaæ zignorowane, jeœli nie masz jednej z podanych wtyczek.
+Wybierz sposÃ³b wyÅ›wietlania dziennika wiadomoÅ›ci. Te ustawiania mogÄ… zostaÄ‡ zignorowane, jeÅ›li nie masz jednej z podanych wtyczek.
 [Send text formatting method]
-Wyœlij metodê formatowania tekstu
+WyÅ›lij metodÄ™ formatowania tekstu
 [You can override the global setting for text formatting here. Use "Force Off" to never send formatting info for this contact.]
-Tutaj mo¿esz nadpisaæ globalne ustawienia dla formatowania tekstu. Zaznacz "Wy³¹cz wymuszanie", aby nie wysy³aæ informacji o formatowaniu dla tego kontaktu.
+Tutaj moÅ¼esz nadpisaÄ‡ globalne ustawienia dla formatowania tekstu. Zaznacz "WyÅ‚Ä…cz wymuszanie", aby nie wysyÅ‚aÄ‡ informacji o formatowaniu dla tego kontaktu.
 [ANSI codepage]
 Strona kodowa ANSI
 [Codepage for ANSI encoding/decoding when sending or receiving non-unicode messages.]
-Strona kodowa dla kodowania/dekodowania ANSI przy wysy³aniu lub odbieraniu wiadomoœci nie zakodowanych w unicode.
+Strona kodowa dla kodowania/dekodowania ANSI przy wysyÅ‚aniu lub odbieraniu wiadomoÅ›ci nie zakodowanych w unicode.
 [Use private splitter position]
-U¿yj prywatnej pozycji separatora
+UÅ¼yj prywatnej pozycji separatora
 [Contact is a favorite contact]
 Kontakt jest jednym z ulubionych
 [Force ANSI send / receive]
-Wymuœ wysy³anie / odbieranie ANSI
+WymuÅ› wysyÅ‚anie / odbieranie ANSI
 [Timezone offset]
 Offset strefy czasowej
 [Info panel mode]
 Tryb panela informacyjnego
 [Ignore sending timeouts]
-Ignoruj limity czasu wysy³ania
+Ignoruj limity czasu wysyÅ‚ania
 [Never close automatically]
 Nigdy nie zamykaj automatycznie
 [Load only actual history]
-Wczytaj tylko aktualn¹ historiê
+Wczytaj tylko aktualnÄ… historiÄ™
 [Only show tab bar when it's needed]
-Poka¿ pasek kart tylko, jeœli jest potrzebny
+PokaÅ¼ pasek kart tylko, jeÅ›li jest potrzebny
 [Container stays on top]
 Kontener zawsze na wierzchu
 [Vertical maximize]
 Maksymalizuj w pionie
 [Use default setting]
-U¿yj domyœlnego ustawienia
+UÅ¼yj domyÅ›lnego ustawienia
 [Flash until focused]
-Migaj dopóki nieakatywne
+Migaj dopÃ³ki nieakatywne
 [Disable flashing]
-Wy³¹cz miganie
+WyÅ‚Ä…cz miganie
 [Enable popups if minimized]
-W³¹cz popupy, jeœli zminimalizowane
+WÅ‚Ä…cz popupy, jeÅ›li zminimalizowane
 [Enable popups if unfocused]
-W³¹cz popupy, jeœli nieaktywne
+WÅ‚Ä…cz popupy, jeÅ›li nieaktywne
 [Show popups for inactive tabs in active containers]
-Poka¿ popupy dla nieaktywnych kart w aktywnych kontenerach
+PokaÅ¼ popupy dla nieaktywnych kart w aktywnych kontenerach
 [Sync sounds with popup mode]
-Synchronizuj dŸwiêki z trybem popupów
+Synchronizuj dÅºwiÄ™ki z trybem popupÃ³w
 [Hide the status bar]
 Ukryj pasek statusu
 [Hide the menu bar]
@@ -1010,55 +1010,55 @@ Karty na dole
 [UIN in Status Bar]
 UIN w pasku statusu
 [Hide the tool bar]
-Ukryj pasek narzêdzi
+Ukryj pasek narzÄ™dzi
 [Place the tool bar at the bottom]
-Pasek narzêdzi na dole
+Pasek narzÄ™dzi na dole
 [Show the info panel]
-Poka¿ panel informacji
+PokaÅ¼ panel informacji
 [Hide title bar]
-Ukryj pasek tytu³owy
+Ukryj pasek tytuÅ‚owy
 [Use static container icon]
-U¿yj statycznej ikony kontenera
+UÅ¼yj statycznej ikony kontenera
 [Use static container Icon]
-U¿yj statycznej ikony kontenera
+UÅ¼yj statycznej ikony kontenera
 [Use private title format]
-U¿yj prywatnego formatu tytu³u
+UÅ¼yj prywatnego formatu tytuÅ‚u
 [Use global container size and position]
-U¿yj globalnego rozmiaru i pozycji kontenera
+UÅ¼yj globalnego rozmiaru i pozycji kontenera
 [Save current as global]
 Zapisz obecne jako globalne
 [Enable transparency]
-W³¹cz przezroczystoœæ
+WÅ‚Ä…cz przezroczystoÅ›Ä‡
 [active]
 aktywny
 [inactive]
 nieaktywny
 [Container settings are private]
-Ustawienia kontenera s¹ prywatne
+Ustawienia kontenera sÄ… prywatne
 [When checked, this container will use private settings, otherwise settings are shared among containers.]
-Zaznacz, jeœli nie chcesz, ¿eby ten kontener u¿ywa³ globalnych ustawieñ. Pozycja okna zawsze mog¹ byæ prywatne.
+Zaznacz, jeÅ›li nie chcesz, Å¼eby ten kontener uÅ¼ywaÅ‚ globalnych ustawieÅ„. Pozycja okna zawsze mogÄ… byÄ‡ prywatne.
 [Select container]
 Wybierz kontener
 [Available containers]
-Dostêpne kontenery
+DostÄ™pne kontenery
 [Create a new container]
-Utwórz nowy kontener
+UtwÃ³rz nowy kontener
 [Create new]
-Stwórz nowy
+StwÃ³rz nowy
 [...is &typing]
-...pisze wiadomoœæ
+...pisze wiadomoÅ›Ä‡
 [...stopped t&yping]
-...przesta³ pisaæ
+...przestaÅ‚ pisaÄ‡
 [Only &one popup for each contact]
-Tylko jeden popup dla ka¿dego kontaktu
+Tylko jeden popup dla kaÅ¼dego kontaktu
 [Show &entry in the main menu]
-Poka¿ wpis w menu g³ównym
+PokaÅ¼ wpis w menu gÅ‚Ã³wnym
 [PopUp timeout (is typing)]
-Czas wyœwietlania (pisze)
+Czas wyÅ›wietlania (pisze)
 [From protocol]
-Z protoko³u
+Z protokoÅ‚u
 [PopUp timeout (stopped typing)]
-Czas wyœwietlania (przesta³ pisaæ)
+Czas wyÅ›wietlania (przestaÅ‚ pisaÄ‡)
 [Templates]
 Szablony
 [Edit template]
@@ -1066,19 +1066,19 @@ Edytuj szablon
 [Quick help on Variables...]
 Szybka pomoc nt zmiennych...
 [Double click a template to edit it. Select a template from the list box and click "Update Preview" to show a preview message.]
-Kliknij dwukrotnie na szablon, aby go edytowaæ. Aby zobaczyæ przyk³adow¹ wiadomoœæ wybierz szablon z listy i kliknij "Aktualizuj podgl¹d".
+Kliknij dwukrotnie na szablon, aby go edytowaÄ‡. Aby zobaczyÄ‡ przykÅ‚adowÄ… wiadomoÅ›Ä‡ wybierz szablon z listy i kliknij "Aktualizuj podglÄ…d".
 [Get more help on variables]
-Zobacz wiêcej informacji o zmiennych
+Zobacz wiÄ™cej informacji o zmiennych
 [Define up to 5 colors which you can use with some variables]
-Zdefiniuj maks. 5 kolorów, które bêdziesz móg³ u¿yæ ze zmiennymi
+Zdefiniuj maks. 5 kolorÃ³w, ktÃ³re bÄ™dziesz mÃ³gÅ‚ uÅ¼yÄ‡ ze zmiennymi
 [Update Preview]
-Uaktualnij podgl¹d
+Uaktualnij podglÄ…d
 [Save Template]
 Zapisz szablon
 [Forget]
-Porzuæ
+PorzuÄ‡
 [Revert to Default]
-Przywróæ domyœlne
+PrzywrÃ³Ä‡ domyÅ›lne
 [Reset all templates...]
 Resetuj wszystkie szablony
 [About tabSRMM]
@@ -1088,57 +1088,57 @@ kompilacja
 [Support and latest version information]
 Wsparcie i informacje o ostatniej wersji
 [Show symbols]
-Poka¿ znaki
+PokaÅ¼ znaki
 [Use different icons to mark incoming and outgoing messages]
-Inne ikony do oznaczenia przychodz¹cych i wychodz¹cych wiadomoœci
+Inne ikony do oznaczenia przychodzÄ…cych i wychodzÄ…cych wiadomoÅ›ci
 [Date and time]
 Data i czas
 [Show seconds in timestamp]
-Poka¿ sekundy przy czasie
+PokaÅ¼ sekundy przy czasie
 [Show date in timestamps]
-Poka¿ datê przy czasie
+PokaÅ¼ datÄ™ przy czasie
 [Use contacts local time]
-U¿yj lokalnego czasu kontaktu
+UÅ¼yj lokalnego czasu kontaktu
 [Display grid lines]
-Wyœwietl linie dziel¹ce zdarzenia w dzienniku
+WyÅ›wietl linie dzielÄ…ce zdarzenia w dzienniku
 [Message grouping]
-Grupowanie wiadomoœci
+Grupowanie wiadomoÅ›ci
 [Support BBCODE]
 Wsparcie dla BBCode
 [Use different background colors for incoming and outgoing messages]
-U¿yj innego koloru t³a dla przychodz¹cych i wychodz¹cych wiadomoœci 
+UÅ¼yj innego koloru tÅ‚a dla przychodzÄ…cych i wychodzÄ…cych wiadomoÅ›ci 
 [Log status changes (in open message windows only)]
 Pokazuj zmiany statusu (tylko przy otwartym oknie rozmowy)
 [Revert to global options]
-Przywróæ opcje globalne
+PrzywrÃ³Ä‡ opcje globalne
 [You can set private message log options for this contact here. Filled boxes are inherited from the global settings which can be found on Message Sessions->Message Log]
-Tutaj mo¿esz ustawiæ prywatne opcje dziennika wiadomoœci dla tego kontaktu. Wype³nione pola s¹ dziedziczone z globalnych ustawieñ, które znajdziesz w Sesje rozmowy->Dziennik wiadomoœci
+Tutaj moÅ¼esz ustawiÄ‡ prywatne opcje dziennika wiadomoÅ›ci dla tego kontaktu. WypeÅ‚nione pola sÄ… dziedziczone z globalnych ustawieÅ„, ktÃ³re znajdziesz w Sesje rozmowy->Dziennik wiadomoÅ›ci
 [Use normal templates (uncheck to use simple templates)]
-U¿yj normalnych szablonów (odznacz, aby u¿ywaæ prostych szablonów)
+UÅ¼yj normalnych szablonÃ³w (odznacz, aby uÅ¼ywaÄ‡ prostych szablonÃ³w)
 [&Quote]
 Cytuj
 [Freeze Log]
-Zamro¿ony dziennik
+ZamroÅ¼ony dziennik
 [Editor]
 Edytor
 [Paste formatted Text]
 Wklej sformatowany tekst
 [Paste and Send immediately]
-Wklej i wyœlij
+Wklej i wyÅ›lij
 [Copy all]
 Kopiuj wszystko
 [Select all]
 Zaznacz wszystko
 [Show Message Length Indicator]
-Poka¿ wskaŸnik d³ugoœci wiadomoœci
+PokaÅ¼ wskaÅºnik dÅ‚ugoÅ›ci wiadomoÅ›ci
 [Close Tab]
-Zamknij kartê
+Zamknij kartÄ™
 [Leave Chat Room]
-Opuœæ kana³
+OpuÅ›Ä‡ kanaÅ‚
 [Save Tab Position]
-Zapisz pozycjê kart
+Zapisz pozycjÄ™ kart
 [Clear saved Tab Position]
-Usuñ zapisane pozycje kart
+UsuÅ„ zapisane pozycje kart
 [Attach to Container...]
 Przyczep do kontenera...
 [Container Options...]
@@ -1152,85 +1152,85 @@ Widoczny dla tego kontaktu
 [Contact Picture Settings...]
 Ustawienia obrazka kontaktu
 [Choose Background Color...]
-Wybierz kolor t³a...
+Wybierz kolor tÅ‚a...
 [Always keep the button bar at full width]
-Pasek przycisków zawsze pe³nej szerokoœci
+Pasek przyciskÃ³w zawsze peÅ‚nej szerokoÅ›ci
 [Save this Picture As...]
 Zapisz ten obrazek jako...
 [&Message Log Settings]
-Ustawienia dziennika wiadomoœci
+Ustawienia dziennika wiadomoÅ›ci
 [&Global...]
 Globalne...
 [&For this Contact...]
 Dla tego kontaktu...
 [&Export Message Log Settings...]
-Eksportuj ustawienia dziennika wiadomoœci...
+Eksportuj ustawienia dziennika wiadomoÅ›ci...
 [&Import Message Log Settings...]
-Importuj ustawienia dziennika wiadomoœci...
+Importuj ustawienia dziennika wiadomoÅ›ci...
 [Send &Default]
-Wyœlij domyœlnie
+WyÅ›lij domyÅ›lnie
 [Send to &multiple Users]
-Wyœlij do wielu u¿ytkowników
+WyÅ›lij do wielu uÅ¼ytkownikÃ³w
 [Send to &Container]
-Wyœlij do kontenera
+WyÅ›lij do kontenera
 [Send &Later]
-Wyœlij póŸniej
+WyÅ›lij pÃ³Åºniej
 [Force &ANSI]
-Wymuœ ANSI
+WymuÅ› ANSI
 [Send unsafe (ignore Timeouts)]
-Niepewne wysy³anie (ignoruj timeouty)
+Niepewne wysyÅ‚anie (ignoruj timeouty)
 [Send Nudge]
-Wyœlij Nudge
+WyÅ›lij Nudge
 [Message Log Display]
-Wygl¹d dziennika wiadomoœci
+WyglÄ…d dziennika wiadomoÅ›ci
 [Use global Setting for this Contact]
-U¿yj globalnych ustawieñ dla tego kontaktu
+UÅ¼yj globalnych ustawieÅ„ dla tego kontaktu
 [Use IEView Plugin]
-U¿yj wtyczki IEView
+UÅ¼yj wtyczki IEView
 [Use History++ Plugin]
-U¿yj wtyczki History++
+UÅ¼yj wtyczki History++
 [Use Default Message Log]
-U¿yj domyœlnego dziennika wiadomoœci
+UÅ¼yj domyÅ›lnego dziennika wiadomoÅ›ci
 [Splitter]
 Separator
 [Autosave on Close]
-Autozapis przy wyjœciu
+Autozapis przy wyjÅ›ciu
 [Save Now]
 Zapisz teraz
 [Send Text Formatting]
-Wyœlij formatowanie tekstu
+WyÅ›lij formatowanie tekstu
 [This Contact]
 Ten kontakt
 [Global Setting]
 Globalne ustawienia
 [Force Off]
-Wy³¹cz wymuszanie
+WyÅ‚Ä…cz wymuszanie
 [Favorites]
 Ulubione
 [Add Contact to Favorites]
 Dodaj kontakt do Ulubionych
 [Remove Contact from Favorites]
-Usuñ kontakt z Ulubionych
+UsuÅ„ kontakt z Ulubionych
 [Unread Menu]
 Menu nieprzeczytanych
 [Traycontext]
 Menu w zasobniku
 [Show the Floater]
-Poka¿ p³ywaj¹ce okno
+PokaÅ¼ pÅ‚ywajÄ…ce okno
 [Disable All Event Notifications]
-Wy³¹cz wszystkie powiadomienia o zdarzeniach
+WyÅ‚Ä…cz wszystkie powiadomienia o zdarzeniach
 [Don't create Windows automatically]
-Nie twórz okien automatycznie
+Nie twÃ³rz okien automatycznie
 [Hide all Message Containers]
 Ukryj wszystkie kontenery
 [Restore all Message Containers]
-Przywróæ wszystkie kontenery
+PrzywrÃ³Ä‡ wszystkie kontenery
 [Don't play Sounds]
-Nie odtwarzaj dŸwiêków
+Nie odtwarzaj dÅºwiÄ™kÃ³w
 [Be "Super Quiet"]
-B¹dŸ "Super cicho"
+BÄ…dÅº "Super cicho"
 [Default Color]
-Domyœlny kolor
+DomyÅ›lny kolor
 [Red]
 Czerwony
 [Green]
@@ -1240,485 +1240,485 @@ Niebieski
 [Magenta]
 Karmazynowy
 [Yellow]
-¯ó³ty
+Å»Ã³Å‚ty
 [Cyan]
 Cyjan
 [Black]
 Czarny
 [White]
-Bia³y
+BiaÅ‚y
 [Clear all Formatting]
-Usuñ ca³e formatowanie
+UsuÅ„ caÅ‚e formatowanie
 [Dummy]
 Atrapa
 [No Message Sessions opened]
-Nie ma otwartych rozmów
+Nie ma otwartych rozmÃ³w
 [Info panel]
 Panel informacyjny
 [Quick Toggle\tALT-I]
-Szybkie prze³¹czanie\tALT+I
+Szybkie przeÅ‚Ä…czanie\tALT+I
 [Container Setting]
 Ustawienia kontenera
 [Use Global Setting]
-U¿yj globalnych ustawieñ
+UÅ¼yj globalnych ustawieÅ„
 [Always On]
-Zawsze W³.
+Zawsze WÅ‚.
 [Always Off]
-Zawsze Wy³.
+Zawsze WyÅ‚.
 [You appear always offline or have this contact blocked]
-Nigdy nie jesteœ widoczny dla tego kontaktu lub go zablokowa³eœ
+Nigdy nie jesteÅ› widoczny dla tego kontaktu lub go zablokowaÅ‚eÅ›
 [You are always visible to this contact]
-Jesteœ zawsze widoczny dla tego kontaktu
+JesteÅ› zawsze widoczny dla tego kontaktu
 [Your status determines visibility to this contact]
-Twój status ustala widocznoœæ dla tego kontaktu
+TwÃ³j status ustala widocznoÅ›Ä‡ dla tego kontaktu
 [Splitter context]
 Menu separatora
 [Set Position for this Session]
-Ustaw pozycjê dla tej sesji
+Ustaw pozycjÄ™ dla tej sesji
 [Set and Save for all Sessions]
 Ustaw i zapisz dla wszystkich sesji
 [Set and Save for this Contact only]
 Ustaw i zapisz tylko dla tego kontaktu
 [Revert to old Position]
-Przywróæ star¹ pozycjê
+PrzywrÃ³Ä‡ starÄ… pozycjÄ™
 [Save Message Log As...]
-Zapisz dziennik wiadomoœci jako...
+Zapisz dziennik wiadomoÅ›ci jako...
 [Close Message Session\tCtrl-W]
-Zamknij sesjê rozmowy\tCtrl-W
+Zamknij sesjÄ™ rozmowy\tCtrl-W
 [Close Container\tAlt-F4]
 Zamknij kontener\tAlt-F4
 [&View]
 Widok
 [Show Menu Bar]
-Poka¿ pasek menu
+PokaÅ¼ pasek menu
 [Show Status Bar]
-Poka¿ pasek statusu
+PokaÅ¼ pasek statusu
 [Tool Bar]
-Pasek narzêdzi
+Pasek narzÄ™dzi
 [Show Tool Bar]
-Poka¿ pasek narzêdzi
+PokaÅ¼ pasek narzÄ™dzi
 [Title Bar]
-Pasek tytu³owy
+Pasek tytuÅ‚owy
 [Show Title Bar]
-Poka¿ pasek tytu³owy
+PokaÅ¼ pasek tytuÅ‚owy
 [Tabs at Bottom]
 Karty na dole
 [Window Flashing]
 Miganie okna
 [Use default Value]
-U¿yj domyœlnej wartoœci
+UÅ¼yj domyÅ›lnej wartoÅ›ci
 [Disable Flashing]
-Wy³¹cz miganie
+WyÅ‚Ä…cz miganie
 [Show Multisend Contact List]
-Poka¿ listê kontaktów Multisend
+PokaÅ¼ listÄ™ kontaktÃ³w Multisend
 [Message &Log]
-Dziennik wiadomoœci
+Dziennik wiadomoÅ›ci
 [&Container]
 Kontener
 [Event Popups]
-Popupy zdarzeñ
+Popupy zdarzeÅ„
 [Disable all Event Popups]
-Wy³¹cz wszystkie popupy zdarzeñ
+WyÅ‚Ä…cz wszystkie popupy zdarzeÅ„
 [Show Popups if Window is minimized]
-Poka¿ popupy, jeœli okno jest zminimalizowane
+PokaÅ¼ popupy, jeÅ›li okno jest zminimalizowane
 [Show Popups if Window is unfocused]
-Poka¿ popupy, jeœli okno jest nieaktywne
+PokaÅ¼ popupy, jeÅ›li okno jest nieaktywne
 [Show Popups for all inactive sessions]
-Poka¿ popupy dla wszystkich nieaktywnych sesji
+PokaÅ¼ popupy dla wszystkich nieaktywnych sesji
 [Save current Window Position as Default]
-Zapisz obecn¹ pozycjê okna jako domyœln¹
+Zapisz obecnÄ… pozycjÄ™ okna jako domyÅ›lnÄ…
 [View Release Notes...]
-Poka¿ info o wydaniu...
+PokaÅ¼ info o wydaniu...
 [About tabSRMM...]
 O tabSRMM...
 [Select container for %s]
 Wybierz kontener dla %s
 [You cannot delete the default container]
-Nie mo¿esz usun¹æ domyœlnego kontenera
+Nie moÅ¼esz usunÄ…Ä‡ domyÅ›lnego kontenera
 [This name is already in use]
-Ta nazwa jest ju¿ w u¿yciu
+Ta nazwa jest juÅ¼ w uÅ¼yciu
 [You cannot rename the default container]
-Nie mo¿esz zmieniæ nazwy domyœlnego kontenera
+Nie moÅ¼esz zmieniÄ‡ nazwy domyÅ›lnego kontenera
 [You haven't selected any contacts from the list. Click the checkbox box next to a name to send the message to that person.]
-Nie wybra³eœ ¿adnego kontenera z listy. Kliknij na pole wyboru obok nazwy, aby wys³aæ wiadomoœæ do tej osoby.
+Nie wybraÅ‚eÅ› Å¼adnego kontenera z listy. Kliknij na pole wyboru obok nazwy, aby wysÅ‚aÄ‡ wiadomoÅ›Ä‡ do tej osoby.
 [A message delivery has failed.\nClick to open the message window.]
-Dostarczenie wiadomoœci nie powiod³o siê.\nKliknij, aby otworzyæ okno rozmowy.
+Dostarczenie wiadomoÅ›ci nie powiodÅ‚o siÄ™.\nKliknij, aby otworzyÄ‡ okno rozmowy.
 [Multisend: failed sending to: %s]
-Multisend: nie uda³o siê wys³aæ do: %s
+Multisend: nie udaÅ‚o siÄ™ wysÅ‚aÄ‡ do: %s
 [A message delivery has failed after the contacts chat window was closed. You may want to resend the last message]
-Po zamkniêciu okna rozmowy, dostarczenie wiadomoœci nie powiod³o siê. Musisz ponownie wys³aæ ostatni¹ wiadomoœæ
+Po zamkniÄ™ciu okna rozmowy, dostarczenie wiadomoÅ›ci nie powiodÅ‚o siÄ™. Musisz ponownie wysÅ‚aÄ‡ ostatniÄ… wiadomoÅ›Ä‡
 [Multisend: successfully sent to: %s]
-Multisend: pomyœlnie wys³ano do: %s
+Multisend: pomyÅ›lnie wysÅ‚ano do: %s
 [There are unsent messages waiting for confirmation.\nWhen you close the window now, Miranda will try to send them but may be unable to inform you about possible delivery errors.\nDo you really want to close the Window(s)?]
-Niewys³ane wiadomoœci czekaj¹ na potwierdzenie.\nJeœli teraz zamkniesz okno, Miranda spróbuje je wys³aæ, ale mo¿e nie byæ w stanie powiadomiæ o ewentualnych b³êdach.\nNa pewno chcesz zamkn¹æ okno/okna?
+NiewysÅ‚ane wiadomoÅ›ci czekajÄ… na potwierdzenie.\nJeÅ›li teraz zamkniesz okno, Miranda sprÃ³buje je wysÅ‚aÄ‡, ale moÅ¼e nie byÄ‡ w stanie powiadomiÄ‡ o ewentualnych bÅ‚Ä™dach.\nNa pewno chcesz zamknÄ…Ä‡ okno/okna?
 [Message Window warning]
-Okno rozmowy - ostrze¿enie
+Okno rozmowy - ostrzeÅ¼enie
 [tabSRMM Message (%s)]
-Wiadomoœæ tabSRMM (%s)
+WiadomoÅ›Ä‡ tabSRMM (%s)
 [Message In]
-Przychodz¹ca wiadomoœæ
+PrzychodzÄ…ca wiadomoÅ›Ä‡
 [Message Out]
-Wychodz¹ca wiadomoœæ
+WychodzÄ…ca wiadomoÅ›Ä‡
 [Group In (Start)]
-Grupowanie przych. (pocz¹tek)
+Grupowanie przych. (poczÄ…tek)
 [Group Out (Start)]
-Grupowanie wych. (pocz¹tek)
+Grupowanie wych. (poczÄ…tek)
 [Group In (Inner)]
-Grupowanie przych. (wewn¹trz)
+Grupowanie przych. (wewnÄ…trz)
 [Group Out (Inner)]
-Grupowanie wych. (wewn¹trz)
+Grupowanie wych. (wewnÄ…trz)
 [Status change]
 Zmiana statusu
 [Error message]
-Wiadomoœæ o b³êdzie
+WiadomoÅ›Ä‡ o bÅ‚Ä™dzie
 [Template Set Editor]
-Edytor zbioru szablonów
+Edytor zbioru szablonÃ³w
 [This will reset the template set to the default built-in templates. Are you sure you want to do this?]
-To zresetuje zbiór szablonów do domyœlnych, wbudowanych ustawieñ. Na pewno chcesz to zrobiæ?
+To zresetuje zbiÃ³r szablonÃ³w do domyÅ›lnych, wbudowanych ustawieÅ„. Na pewno chcesz to zrobiÄ‡?
 [Template editor]
 Edytor szablonu
 [Template set was successfully reset, please close and reopen all message windows. This template editor window will now close.]
-Zbiór szablonów zosta³ zresetowany, zamknij i otwórz wszystkie okna rozmowy. Okno edytora szablonów zostanie teraz zamkniête.
+ZbiÃ³r szablonÃ³w zostaÅ‚ zresetowany, zamknij i otwÃ³rz wszystkie okna rozmowy. Okno edytora szablonÃ³w zostanie teraz zamkniÄ™te.
 [Template editor help]
-Pomoc nt edytora szablonów
+Pomoc nt edytora szablonÃ³w
 [All message containers need to close before the skin can be changed\nProceed?]
-Wszystkie kontenery musz¹ zostaæ zamkniête przed zmian¹ skórki\nKontynuowaæ?
+Wszystkie kontenery muszÄ… zostaÄ‡ zamkniÄ™te przed zmianÄ… skÃ³rki\nKontynuowaÄ‡?
 [Change skin]
-Zmieñ skórkê
+ZmieÅ„ skÃ³rkÄ™
 [Disable &typing notification]
-Wy³¹cz powiadomienie o pisaniu
+WyÅ‚Ä…cz powiadomienie o pisaniu
 [Enable &typing notification]
-W³¹cz powiadomienie o pisaniu
+WÅ‚Ä…cz powiadomienie o pisaniu
 [Warning: Popup plugin not found!]
 Uwaga: Nie znaleziono wtyczki Popup!
 [Warning: Current Popup plugin version is not supported! Update it!]
-Uwaga: Ta wersja wtyczki Popup nie jest wspierana! Zaktualizuj j¹!
+Uwaga: Ta wersja wtyczki Popup nie jest wspierana! Zaktualizuj jÄ…!
 [...is typing a message.]
-...pisze wiadomoœæ
+...pisze wiadomoÅ›Ä‡
 [...has stopped typing.]
-...przesta³ pisaæ.
+...przestaÅ‚ pisaÄ‡.
 [Contact started typing]
-Kontakt pisze wiadomoœæ 
+Kontakt pisze wiadomoÅ›Ä‡ 
 [Contact stopped typing]
-Kontakt przesta³ pisaæ
+Kontakt przestaÅ‚ pisaÄ‡
 [Use global Setting]
-U¿yj globalnego ustawienia
+UÅ¼yj globalnego ustawienia
 [Force History++]
-Wymuœ History++
+WymuÅ› History++
 [Force History++ (plugin missing)]
-Wymuœ History++ (brak wtyczki)
+WymuÅ› History++ (brak wtyczki)
 [Force IEView]
-Wymuœ IEView
+WymuÅ› IEView
 [Force IEView (plugin missing)]
-Wymuœ IEView (brak wtyczki)
+WymuÅ› IEView (brak wtyczki)
 [Force Default Message Log]
-Wymuœ domyœlny dziennik wiadomoœci
+WymuÅ› domyÅ›lny dziennik wiadomoÅ›ci
 [Simple Tags (*/_)]
 Proste tagi (*/_)
 [<default, no change>]
-<domyœlne, bez zmian>
+<domyÅ›lne, bez zmian>
 [Set options for %s]
 Ustaw opcje dla %s
 [Error feedback]
-B³êdy
+BÅ‚Ä™dy
 [Disable error popups on sending failures]
-Wy³¹cz popupy b³êdów wysy³ania wiadomoœci
+WyÅ‚Ä…cz popupy bÅ‚Ä™dÃ³w wysyÅ‚ania wiadomoÅ›ci
 [Enable icon pack version check (*)]
-W³¹cz sprawdzanie wersji paczki z ikonami
+WÅ‚Ä…cz sprawdzanie wersji paczki z ikonami
 [Close current tab on send]
-Zamknij kartê po wys³aniu wiadomoœci
+Zamknij kartÄ™ po wysÅ‚aniu wiadomoÅ›ci
 [Enable fix for nicklist scroll bar]
-W³¹cz poprawkê dla przewijania listy nicków
+WÅ‚Ä…cz poprawkÄ™ dla przewijania listy nickÃ³w
 [Disable animated GIF avatars (will not affect already open message windows)]
-Wy³¹cz animowane awatary GIF (brak animacji po otwarciu okna rozmowy)
+WyÅ‚Ä…cz animowane awatary GIF (brak animacji po otwarciu okna rozmowy)
 [Enable typing sounds]
-W³¹cz dŸwiêki przy pisaniu
+WÅ‚Ä…cz dÅºwiÄ™ki przy pisaniu
 [Show client icon in status bar (fingerprint plugin required)]
-Poka¿ ikonê kilenta w pasku statusu (wymaga wtyczki fingerprint)
+PokaÅ¼ ikonÄ™ kilenta w pasku statusu (wymaga wtyczki fingerprint)
 [Disable popups for send later and multisend jobs]
-Wy³¹cz popupy dla "wyœlij póŸniej" i "wyœlij do grupy"
+WyÅ‚Ä…cz popupy dla "wyÅ›lij pÃ³Åºniej" i "wyÅ›lij do grupy"
 [Message window tweaks]
-Poprawki okna wiadomoœci
+Poprawki okna wiadomoÅ›ci
 [Window layout]
-Uk³ad okna
+UkÅ‚ad okna
 [Flashing]
 Miganie
 [You can select a private theme (.tabsrmm file) for this container which will then override the default message log theme. You will have to close and re-open all message windows after changing this option.]
-Mo¿esz wybraæ prywatny szablon (plik .tabsrmm) dla tego kontenera, który nadpisze domyœlny szablon wiadomoœci. Musisz zamkn¹æ i ponownie otworzyæ okno wiadomoœci po zmianie tej opcji.
+MoÅ¼esz wybraÄ‡ prywatny szablon (plik .tabsrmm) dla tego kontenera, ktÃ³ry nadpisze domyÅ›lny szablon wiadomoÅ›ci. Musisz zamknÄ…Ä‡ i ponownie otworzyÄ‡ okno wiadomoÅ›ci po zmianie tej opcji.
 [Window size and theme]
 Szablon i pozycja okna
 [This feature requires Windows 2000 or later and may be unavailable when using a container skin.]
-Ta funkcjonalnoœæ wymaga Windowsa 2000 lub poŸniejszego i nie jest dostêpna, gdy kontener u¿ywa skinów.
+Ta funkcjonalnoÅ›Ä‡ wymaga Windowsa 2000 lub poÅºniejszego i nie jest dostÄ™pna, gdy kontener uÅ¼ywa skinÃ³w.
 [Log files]
-Dziennik plików
+Dziennik plikÃ³w
 [Fonts and colors]
 Czcionki i kolory
 [Fonts 'n Colors]
 Kolor czcionek
 [Log background]
-T³o dziennika
+TÅ‚o dziennika
 [Message background]
-T³o wiadomoœci
+TÅ‚o wiadomoÅ›ci
 [Userlist background]
-Kolor listy uczestników
+Kolor listy uczestnikÃ³w
 [Info panel fields]
 Pole informacji
 [Incoming background:]
-T³o przychodz¹ce
+TÅ‚o przychodzÄ…ce
 [Nickname colors]
 Kolor nicku
 [Group chat fonts]
 Czcionki czatu
 [>> Outgoing messages]
->> Wychodz¹ce wiadomoœæ
+>> WychodzÄ…ce wiadomoÅ›Ä‡
 [>> Outgoing misc events]
->> Wychodz¹ce zdarzenie
+>> WychodzÄ…ce zdarzenie
 [<< Incoming messages]
-<< Przychodz¹ca wiadomoœæ
+<< PrzychodzÄ…ca wiadomoÅ›Ä‡
 [<< Incoming misc events]
-<< Przychodz¹ce zdarzenie
+<< PrzychodzÄ…ce zdarzenie
 [>> Outgoing name]
->> Wychodz¹cy nick
+>> WychodzÄ…cy nick
 [>> Outgoing timestamp]
->> Wychodz¹cy czas
+>> WychodzÄ…cy czas
 [>> Outgoing messages (old)]
->> Wychodz¹ca wiadomoœæ (stara)
+>> WychodzÄ…ca wiadomoÅ›Ä‡ (stara)
 [<< Incoming name]
-<< Przychodz¹cy nick
+<< PrzychodzÄ…cy nick
 [<< Incoming timestamp]
-<< Przychodz¹cy czas
+<< PrzychodzÄ…cy czas
 [<< Incoming misc events (old)]
-<< Przychodz¹ce zdarzenie (stare)
+<< PrzychodzÄ…ce zdarzenie (stare)
 [<< Incoming messages (old)]
-<< Przychodz¹ca wiadomoœæ (stara)
+<< PrzychodzÄ…ca wiadomoÅ›Ä‡ (stara)
 [>> Outgoing misc events (old)]
->> Wychodz¹ce zdarzenie (stare)
+>> WychodzÄ…ce zdarzenie (stare)
 [>> Outgoing name (old)]
->> Wychodz¹cy nick (stary)
+>> WychodzÄ…cy nick (stary)
 [>> Outgoing timestamp (old)]
->> Wychodz¹cy czas (stary)
+>> WychodzÄ…cy czas (stary)
 [<< Incoming name (old)]
-<< Przychodz¹cy nick (stary)
+<< PrzychodzÄ…cy nick (stary)
 [<< Incoming timestamp (old)]
-<< Przychodz¹cy czas (stary)
+<< PrzychodzÄ…cy czas (stary)
 [* Status changes]
 * Zmiana statusu
 [* Dividers]
 * Dzielnik
 [* Message Input Area]
-* Czcionka pisania wiadomoœci
+* Czcionka pisania wiadomoÅ›ci
 [* Error and warning Messages]
-* B³¹d lub ostrze¿enie
+* BÅ‚Ä…d lub ostrzeÅ¼enie
 [* Symbols (incoming)]
-* Znaki (przychodz¹ce)
+* Znaki (przychodzÄ…ce)
 [* Symbols (outgoing)]
-* Znaki (wychodz¹ce)
+* Znaki (wychodzÄ…ce)
 [Message window fonts]
 Czcionki okna rozmowy
 [Maximum size for log files (in kB)]
 Maksymalny rozmiar pliku z dziennikiem (w kB)
 [Group chat log formatting]
-Formatowanie dziennika dla czatów
+Formatowanie dziennika dla czatÃ³w
 [Timestamp (window)]
 Czas (okno)
 [Timestamp (logfile)]
 Czas (plik dziennika)
 [Maximum number of events in the message window]
-Maksymalna liczba zdarzeñ w oknie wiadomoœci
+Maksymalna liczba zdarzeÅ„ w oknie wiadomoÅ›ci
 [Highlighting]
-Podœwietlanie
+PodÅ›wietlanie
 [Groupchat userlist row height (pixels)]
-Wysokoœæ wiersza nicków na czacie (w pikselach)
+WysokoÅ›Ä‡ wiersza nickÃ³w na czacie (w pikselach)
 [Enable chat integration (changing this needs restart)]
-Przejmij obs³ugê rozmów grupowych (zmiana wymaga restartu)
+Przejmij obsÅ‚ugÄ™ rozmÃ³w grupowych (zmiana wymaga restartu)
 [Open new chat rooms in the default container]
-Otwórz nowe okno rozmowy grupowej w domyœlnym kontenerze
+OtwÃ³rz nowe okno rozmowy grupowej w domyÅ›lnym kontenerze
 [Create tabs or windows for highlight events]
-Utwórz kartê lub okno dla podœwietlenia zdarzeñ
+UtwÃ³rz kartÄ™ lub okno dla podÅ›wietlenia zdarzeÅ„
 [Activate chat window on highlight]
-Aktywuj okno rozmowy przy podœwietleniu
+Aktywuj okno rozmowy przy podÅ›wietleniu
 [Colorize nicknames in member list]
-Koloruj nicki na liœcie
+Koloruj nicki na liÅ›cie
 [Sync splitter position with standard IM sessions]
-Synchronizuj pozycjê separatorów ze standardowymi sesjami rozmowy
+Synchronizuj pozycjÄ™ separatorÃ³w ze standardowymi sesjami rozmowy
 [Use IRC style status indicators in the user list]
-U¿ywaj ircowych wskaŸników na liœcie nicków
+UÅ¼ywaj ircowych wskaÅºnikÃ³w na liÅ›cie nickÃ³w
 [Use alternative sorting method in member list]
-U¿ywaj alternatywnej metody sortowania listy nicków
+UÅ¼ywaj alternatywnej metody sortowania listy nickÃ³w
 [Start private conversation on doubleclick in nick list (insert nick if unchecked)]
-Rozpocznij prywatn¹ rozmowê po dwukliku na liœcie nikców (wstaw nick, gdy niezaznaczone)
+Rozpocznij prywatnÄ… rozmowÄ™ po dwukliku na liÅ›cie nikcÃ³w (wstaw nick, gdy niezaznaczone)
 [Use IRC style status indicators in the log]
-U¿ywaj ircowych wskaŸników w dzienniku wiadomoœci
+UÅ¼ywaj ircowych wskaÅºnikÃ³w w dzienniku wiadomoÅ›ci
 [Use text symbols instead of icons in the chat log (faster)]
-U¿ywaj symboli tekstowych zamiast ikon w dzienniku rozmowy grupowej (szybsze)
+UÅ¼ywaj symboli tekstowych zamiast ikon w dzienniku rozmowy grupowej (szybsze)
 [Allow clickable user names in the message log]
 Dwuklik na nick z listy otwiera okno romzowy
 [Colorize user names in message log]
-Koloruj nicki w dzienniku wiadomoœci
+Koloruj nicki w dzienniku wiadomoÅ›ci
 [Scale down icons to 10x10 pixels in the chat log]
 Skaluj ikony do 10x10 pikseli w dzienniku rozmowy grupowej
 [Draw dividers to mark inactivity]
-Rysuj separatory by oznaczyæ nieaktywnoœæ
+Rysuj separatory by oznaczyÄ‡ nieaktywnoÅ›Ä‡
 [Use the containers popup configuration to place dividers]
-U¿ywaj konfiguracji popupów kontenerów dla zamieszczania separatorów
+UÅ¼ywaj konfiguracji popupÃ³w kontenerÃ³w dla zamieszczania separatorÃ³w
 [Support math module plugin]
 Wsparcie dla wtyczki MathModule.dll
 [month number, 1-12]
-numer miesi¹ca, 1-12
+numer miesiÄ…ca, 1-12
 [day of month, 1-31]
-dzieñ miesi¹ca, 1-31
+dzieÅ„ miesiÄ…ca, 1-31
 [full month name]
-pe³na nazwa miesi¹ca
+peÅ‚na nazwa miesiÄ…ca
 [Container]
 Kontener
 [abbreviated month name]
-skrócona nazwa miesi¹ca
+skrÃ³cona nazwa miesiÄ…ca
 [year with century, 1901-9999]
 rok z stuleciem, 1901-9999
 [full weekday name]
-pe³na nazwa dnia roboczego
+peÅ‚na nazwa dnia roboczego
 [path to root miranda folder]
-œcie¿ka do folderu u¿ytkownika mirandy
+Å›cieÅ¼ka do folderu uÅ¼ytkownika mirandy
 [year without century, 01-99]
 rok bez stulecia, 01-99
 [%s: Chat Room (%u user%s)]
-Pokój czatowy: %s (jest osób %u%s)
+PokÃ³j czatowy: %s (jest osÃ³b %u%s)
 [%s: Chat Room (%u users%s)]
-Pokój czatowy: %s (jest osób %u%s)
+PokÃ³j czatowy: %s (jest osÃ³b %u%s)
 [Show Popup]
 Popupy
 [Notify in tray]
 Zasobnik
 [Show when filter is active]
-Poka¿ kiedy filtr jest w³.
+PokaÅ¼ kiedy filtr jest wÅ‚.
 [Highlight event]
-Podœwietlenie
+PodÅ›wietlenie
 [Events and filters]
 Zdarzenia i filtry
 [Suppress tray notifications for focused channel windows]
-Usuwaj powiadomienie z zasobnika przy podœwietleniu kana³u
+Usuwaj powiadomienie z zasobnika przy podÅ›wietleniu kanaÅ‚u
 [Do not show popups when the channel window is not open]
-Nie pokazuj popupów kiedy kana³ nie jest otwarty
+Nie pokazuj popupÃ³w kiedy kanaÅ‚ nie jest otwarty
 [Line markers in the message log]
-Znaki w dzienniku wiadomoœci
+Znaki w dzienniku wiadomoÅ›ci
 [Show as text symbols]
-Poka¿ symbole tekstowe
+PokaÅ¼ symbole tekstowe
 [Info Panel]
 Panel informacji
 [Common colors]
-Pozosta³e
+PozostaÅ‚e
 [Show as icons]
-Poka¿ ikony
+PokaÅ¼ ikony
 [No markers]
-Brak znaków
+Brak znakÃ³w
 [Event type icons in the message log]
-Poka¿ ikony w dzienniku wiadomoœci
+PokaÅ¼ ikony w dzienniku wiadomoÅ›ci
 [Default settings for known event types]
-Domyœlne ustawienia dla zdarzeñ
+DomyÅ›lne ustawienia dla zdarzeÅ„
 [Aero glow on tabs]
 Aero glow na kartach
 [User ID in status bar]
-ID u¿ytkownika w status barze
+ID uÅ¼ytkownika w status barze
 [Title bar]
-Nag³ówek okna
+NagÅ‚Ã³wek okna
 [Contact time zone]
 Czas kontaktu
 [time zone service is missing]
 czas kontaktu nie jest ustawiony
 [Show avatar in message window]
-Poka¿ awatar w oknie wiadomoœci
+PokaÅ¼ awatar w oknie wiadomoÅ›ci
 [Show always (if present)]
-Poka¿ zawsze (kiedy obecny)
+PokaÅ¼ zawsze (kiedy obecny)
 [Never show it at all]
 Nigdy nie pokazuj
 [Log status changes]
 Pokazuj zmiany statusu
 [Single Messaging]
-Pojedyñcze rozmowy
+PojedyÅ„cze rozmowy
 [Channel operators]
-G³os w³aœcicieli
+GÅ‚os wÅ‚aÅ›cicieli
 [Half operators]
-G³os moderatorów
+GÅ‚os moderatorÃ³w
 [Voiced]
-G³os cz³onków
+GÅ‚os czÅ‚onkÃ³w
 [Selection background]
-T³o zaznaczonego uczestnika
+TÅ‚o zaznaczonego uczestnika
 [Window caption (skinned mode)]
-Nag³ówek okna (tryb skinowania)
+NagÅ‚Ã³wek okna (tryb skinowania)
 [Log Background]
-T³o pisania wiadomoœci
+TÅ‚o pisania wiadomoÅ›ci
 [Contacts local time]
 Lokalny czas kontaktu
 [Use the message log color theme for group chat popups]
-U¿yj koloru motywu wiadomoœci dla popupów czatowych
+UÅ¼yj koloru motywu wiadomoÅ›ci dla popupÃ³w czatowych
 [Highlight user names]
-Podœwietlenie nicku u¿ytkownika
+PodÅ›wietlenie nicku uÅ¼ytkownika
 [Enable highlighting for user names]
-W³¹cz podœwietlanie dla nicków u¿ytkownika
+WÅ‚Ä…cz podÅ›wietlanie dla nickÃ³w uÅ¼ytkownika
 [Also look in user ids]
-Podœwietl równie¿ ID
+PodÅ›wietl rÃ³wnieÅ¼ ID
 [Names to highlight, wildcards like * and ? are allowed, separate multiple entries with spaces]
-Podœwietlone nazwy, znak * oraz ? jest dozwolony. Oddzielaj wpisy spacjami.
+PodÅ›wietlone nazwy, znak * oraz ? jest dozwolony. Oddzielaj wpisy spacjami.
 [Highlight messages containing my own nick name]
-Podœwietlaj wiadomoœci zawieraj¹ce mój nick.
+PodÅ›wietlaj wiadomoÅ›ci zawierajÄ…ce mÃ³j nick.
 [Highlight message text]
-Podœwietlany tekst
+PodÅ›wietlany tekst
 [Enable highlighting for message text]
-W³¹cz podœwietlanie dla tekstu wiadomoœci.
+WÅ‚Ä…cz podÅ›wietlanie dla tekstu wiadomoÅ›ci.
 [Words to highlight, wildcards like * and ? are allowed, separate multiple entries with spaces. Leave it empty if you only want to highlight your own nick name.]
-Podœwietlone s³owa, znak * oraz ? jest dozwolony. Oddzielaj wpisy spacjami. Pozostaw puste je¿eli chcesz podœwietliæ tylko swój nick.
+PodÅ›wietlone sÅ‚owa, znak * oraz ? jest dozwolony. Oddzielaj wpisy spacjami. Pozostaw puste jeÅ¼eli chcesz podÅ›wietliÄ‡ tylko swÃ³j nick.
 [Tabs and switch bar]
 Karty
 [Tab location]
 Lokalizacja kart
 [When using the switch bar, use the following layout]
-Tworzenie kart, nastêpny uk³ad
+Tworzenie kart, nastÄ™pny ukÅ‚ad
 [Flash event icon on tab]
-Migaj ikon¹ na karcie
+Migaj ikonÄ… na karcie
 [Flash text label on tabs]
 Migaj tekstem na karcie
 [Choose your options for the tabbed user interface. Not all options can be applied to open windows. You may need to close and re-open them.]
-Wybierz opcje dla interfejsu kart. Nie wszystkie opcje zostana zaakceptowane w otwartym oknie. Bêdziesz musia³ ponownie otworzyæ okno.
+Wybierz opcje dla interfejsu kart. Nie wszystkie opcje zostana zaakceptowane w otwartym oknie. BÄ™dziesz musiaÅ‚ ponownie otworzyÄ‡ okno.
 [Tabs at the top]
-Karty na górze
+Karty na gÃ³rze
 [Switch bar on the left side]
 Karty po lewej stronie
 [Switch bar on the right side]
 Karty po prawej stronie
 [Add user to highlight list]
-Dodaj do listy podœwietleñ
+Dodaj do listy podÅ›wietleÅ„
 [You can add the user by user name or his id. Wildcards are allowed and recommended.]
-Mo¿esz dodaæ osobê wybieraj¹c imiê lub id. Znaki dozwolone i rekomendowane.
+MoÅ¼esz dodaÄ‡ osobÄ™ wybierajÄ…c imiÄ™ lub id. Znaki dozwolone i rekomendowane.
 [Edit Highlight List...]
-Edytuj listê podœwietleñ...
+Edytuj listÄ™ podÅ›wietleÅ„...
 [Highlight User...]
-Podœwietlany u¿ytkownik...
+PodÅ›wietlany uÅ¼ytkownik...
 [Contact not on list. You may add it...]
-Kontakt spoza listy. Jeœli chcesz dodaæ...
+Kontakt spoza listy. JeÅ›li chcesz dodaÄ‡...
 [, event filter active]
-, filtr zdarzeñ w³¹czony
+, filtr zdarzeÅ„ wÅ‚Ä…czony
 [Show picture for this contact]
-Poka¿ zdjêcie dla tego kontaktu
+PokaÅ¼ zdjÄ™cie dla tego kontaktu
 [The container is using private settings. The panel  height  will not be shared with other containers.]
-Kontener u¿ywa prywatnych opcji. Wysokoœæ panela nie jest dzielona z innymi kontenerami.
+Kontener uÅ¼ywa prywatnych opcji. WysokoÅ›Ä‡ panela nie jest dzielona z innymi kontenerami.
 [Note: All settings are applied immediately]
-Notka: Wszystkie ustawienia s¹ u¿ywane w czasie rzeczywistym.
+Notka: Wszystkie ustawienia sÄ… uÅ¼ywane w czasie rzeczywistym.
 [Other options]
 Inne opcje
 [Tip: To use a custom size you can always drag the bottom edge of the panel]
-Rada: Mo¿esz rêcznie zmieniæ rozmiar panelu rozci¹gaj¹c go.
+Rada: MoÅ¼esz rÄ™cznie zmieniÄ‡ rozmiar panelu rozciÄ…gajÄ…c go.
 [Large]
-Du¿y
+DuÅ¼y
 [Normal (2 Lines)]
 Normalny (2 linie)
 [Compact (1 Line)]
-Ma³y (1 linia)
+MaÅ‚y (1 linia)
 [Set size to]
 Rozmiar
 [Use global or private panel height]
-U¿yj globalnego lub prywatnego rozmiaru panelu
+UÅ¼yj globalnego lub prywatnego rozmiaru panelu
 [Scope of settings]
-Mo¿liwoœci panelu
+MoÅ¼liwoÅ›ci panelu
 [Customize the panel]
 Ustawienia panelu
 [Set panel visibility for this chat room]
@@ -1726,19 +1726,19 @@ Opcje panelu dla tego czatu
 [Set panel visibility for this contact]
 Opcje panelu dla tego kontaktu
 [Inherit from container setting]
-Dziedzicz z ustawieñ kontenera
+Dziedzicz z ustawieÅ„ kontenera
 [Always off]
-Zawsze wy³¹czony
+Zawsze wyÅ‚Ä…czony
 [Always on]
-Zawsze w³¹czony
+Zawsze wÅ‚Ä…czony
 [Do not synchronize the panel height with IM windows]
 Nie synchronizuj rozmiaru panelu z oknem IM
 [Do not synchronize the panel height with group chat windows]
 Nie synchronizuj rozmiaru panelu z oknem czatu
 [Use default size]
-U¿yj domyœlnego rozmiaru
+UÅ¼yj domyÅ›lnego rozmiaru
 [Use private size]
-U¿yj prywatnego rozmiaru
+UÅ¼yj prywatnego rozmiaru
 [Topic is: %s]
 Temat to: %s
 [no topic set.]
@@ -1746,9 +1746,9 @@ nie wybrano tematu.
 [Contact avatars]
 Awatary kontaktu
 [Sound notifications]
-DŸwiêki
+DÅºwiÄ™ki
 [Enable sound effects]
-W³¹cz dŸwiêki
+WÅ‚Ä…cz dÅºwiÄ™ki
 [Play sounds when minimized]
 Graj gdy zminimalizowane
 [Play sounds when not focused]
@@ -1758,45 +1758,45 @@ Graj gdy jest nieaktywna karta w aktywnym kontenerze
 [Play sounds for the active tab / window]
 Graj gdy karta / okno jest aktywne
 [Clear message log]
-Wyczyœæ okno rozmowy
+WyczyÅ›Ä‡ okno rozmowy
 [Paste and send]
-Wklej i wyœlij
+Wklej i wyÅ›lij
 [Show message history]
-Poka¿ historiê
+PokaÅ¼ historiÄ™
 [Smiley selector]
-Poka¿ okno emotek
+PokaÅ¼ okno emotek
 [Toggle info panel]
-Poka¿ panel informacji
+PokaÅ¼ panel informacji
 [Toggle tool bar]
-Poka¿ pasek narzêdzi
+PokaÅ¼ pasek narzÄ™dzi
 [Toggle filter]
-Poka¿ filtr
+PokaÅ¼ filtr
 [Message windows - all]
-Okno wiadomoœci - wszystkie
+Okno wiadomoÅ›ci - wszystkie
 [Message windows - groupchats]
-Okno wiadomoœci - czaty
+Okno wiadomoÅ›ci - czaty
 [Message windows - IM]
-Okno wiadomoœci - IM
+Okno wiadomoÅ›ci - IM
 [Contact's messaging prefs]
-Poka¿ opcje rozmowy dla kontaktu
+PokaÅ¼ opcje rozmowy dla kontaktu
 [Edit user notes]
-Edytuj notatkê kontaktu
+Edytuj notatkÄ™ kontaktu
 [Send a file]
-Wyœlij plik
+WyÅ›lij plik
 [Send nudge]
-Wyœlij nudge
+WyÅ›lij nudge
 [Show user details]
-Poka¿ dane kontaktu
+PokaÅ¼ dane kontaktu
 [Toggle multi send]
-Poka¿ wyœlij do wielu
+PokaÅ¼ wyÅ›lij do wielu
 [Toggle send later]
-Poka¿ wyœlij póŸniej
+PokaÅ¼ wyÅ›lij pÃ³Åºniej
 [Toggle text direction]
-Poka¿ kierunek tekstu
+PokaÅ¼ kierunek tekstu
 [Most recent unread session]
 Poprzednia sesja
 [Quote message]
-Cytuj wiadomoœæ
+Cytuj wiadomoÅ›Ä‡
 [Animated Tray]
 Animacja w zasobniku
 [Group chat log]
@@ -1804,27 +1804,27 @@ Dziennik czatu
 [Group chat windows]
 Okno czatu
 [Autoscrolling is disabled (press F12 to enable it)]
-Autoprzewijanie wy³¹czone (wciœnij F12 aby w³¹czyæ)
+Autoprzewijanie wyÅ‚Ä…czone (wciÅ›nij F12 aby wÅ‚Ä…czyÄ‡)
 [Autoscrolling is disabled, %d message(s) queued (press F12 to enable it)]
-Autoprzewijanie wy³¹czone, napisano %d wiadomoœci (naciœnij F12 aby w³¹czyæ)
+Autoprzewijanie wyÅ‚Ä…czone, napisano %d wiadomoÅ›ci (naciÅ›nij F12 aby wÅ‚Ä…czyÄ‡)
 [Configure container options for\n%s]
 Konfiguruj opcje kontenera dla \n%s
 [Select, when you want to see event notifications (popups) for this window. The settings apply to all tabs within this window.]
-Zaznacz, kiedy chesz widzieæ powiadomienia (popup) dla tego okna. Akceptacja zmian zachowana jest dla wsyzstkich zak³adek w tym oknie.
+Zaznacz, kiedy chesz widzieÄ‡ powiadomienia (popup) dla tego okna. Akceptacja zmian zachowana jest dla wsyzstkich zakÅ‚adek w tym oknie.
 [Title bar format]
-Format nag³ówka okna
+Format nagÅ‚Ã³wka okna
 [Set messaging options for %s]
 Ustawienia opcji rozmowy dla %s
 [Time zone service is missing]
 Strefa czasowa kontaktu nie odnaleziona
 [You have chosen to use an external plugin for displaying the message history in the chat window. Most of the settings on this page are for the standard message log viewer only and will have no effect. To change the appearance of the message log, you must configure either IEView or History++.]
-Masz wybór jaki plugin ma obs³ógiwaæ historiê wiadomoœci w oknie rozmowy. Wiêkszoœæ ustawieñ jest dla standardowego podgl¹du wiadomoœci. Aby zmieniæ ustawienia dziennika wiadomoœci musisz skonfigurowaæ IEView lub History++.
+Masz wybÃ³r jaki plugin ma obsÅ‚Ã³giwaÄ‡ historiÄ™ wiadomoÅ›ci w oknie rozmowy. WiÄ™kszoÅ›Ä‡ ustawieÅ„ jest dla standardowego podglÄ…du wiadomoÅ›ci. Aby zmieniÄ‡ ustawienia dziennika wiadomoÅ›ci musisz skonfigurowaÄ‡ IEView lub History++.
 [Custom (use own gradient colors)]
-W³asny (u¿yj w³asnego koloru gradientu)
+WÅ‚asny (uÅ¼yj wÅ‚asnego koloru gradientu)
 [No compatible popup plugin was found. The event notification\nsystem is not available.]
-Nie znaleziono kopatybilnego pluginu popup. Notyfikacje\nsystem nie jest dostêpny.
+Nie znaleziono kopatybilnego pluginu popup. Notyfikacje\nsystem nie jest dostÄ™pny.
 [Semi transparent, custom colors]
-Przezroczystoœæ, w³asne kolory
+PrzezroczystoÅ›Ä‡, wÅ‚asne kolory
 [TabSRMM/Group chat windows]
 TabSRMM/Okno czatowe
 [TabSRMM/Group chat log]
@@ -1832,39 +1832,39 @@ TabSRMM/Okno dziennika czatu
 [Chat Rooms]
 Pokoje czatowe
 [Use Windows 7 task bar features (*)]
-U¿yj cech paska zadañ Windows 7 (*)
+UÅ¼yj cech paska zadaÅ„ Windows 7 (*)
 [Automatic keyboard layout: Do not load the system default for new contacts]
-Automatyczny uk³ad klawiatury: Nie ³aduj domyœlnie dla nowych kontaktów
+Automatyczny ukÅ‚ad klawiatury: Nie Å‚aduj domyÅ›lnie dla nowych kontaktÃ³w
 [Session list.\nClick left for a list of open sessions.\nClick right to access favorites and quickly configure message window behavior]
 Lista sesji.\nLewy klik na liste otwiera sesje.\nPrawy klik otwiera menu Ulubionych i szybkiej konfiguracji okna rozmowy.
 [There are %d pending send jobs. Message length: %d bytes, message length limit: %d bytes\n\n%d messages are queued for later delivery]
-%d, w trakcie wysy³ania. D³ugoœæ wiadomoœci: %d bajtów, limit d³ugoœci wiadomoœci: %d bajtów\n\n%d wiadomoœci jest w kolejce do wys³ania póŸniej
+%d, w trakcie wysyÅ‚ania. DÅ‚ugoÅ›Ä‡ wiadomoÅ›ci: %d bajtÃ³w, limit dÅ‚ugoÅ›ci wiadomoÅ›ci: %d bajtÃ³w\n\n%d wiadomoÅ›ci jest w kolejce do wysÅ‚ania pÃ³Åºniej
 [UID: %s (SHIFT click -> copy to clipboard)\nClick for User's Details\nRight click for MetaContact control\nClick dropdown to add or remove user from your favorites.]
-UID: %s ( klik SHIFT -> kopiowanie do schowka)\nKlik dla zobaczenia wizytówki kontaktu\nPrawy klik dla kontrolowania metakontaktów\nKlik w praw¹ czêœæ dla dodania lub usuniêcia z moich ulubionych.
+UID: %s ( klik SHIFT -> kopiowanie do schowka)\nKlik dla zobaczenia wizytÃ³wki kontaktu\nPrawy klik dla kontrolowania metakontaktÃ³w\nKlik w prawÄ… czÄ™Å›Ä‡ dla dodania lub usuniÄ™cia z moich ulubionych.
 [UID: %s (SHIFT click -> copy to clipboard)\nClick for User's Details\nClick dropdown to change this contact's favorite status.]
-UID: %s ( klik SHIFT -> kopiowanie do schowka)\nKlik dla zobaczenia wizytówki kontaktu\nKlik w rozwijan¹ czêœæ dla dodania lub usuniêcia z moich ulubionych.
+UID: %s ( klik SHIFT -> kopiowanie do schowka)\nKlik dla zobaczenia wizytÃ³wki kontaktu\nKlik w rozwijanÄ… czÄ™Å›Ä‡ dla dodania lub usuniÄ™cia z moich ulubionych.
 [UIN: %s (SHIFT click -> copy to clipboard)\nClick for User's Details\nRight click for MetaContact control\nClick dropdown for infopanel settings]
-UIN: %s (Shift+klik -> kopiuj UID do schowka)\nKliknij, aby pokazaæ Informacje o u¿ytkowniku\n Kliknij prawym, by zobaczyæ menu Metakontaktu\nKliknij strza³kê, by zobaczyæ ustawienia panelu informacyjnego
+UIN: %s (Shift+klik -> kopiuj UID do schowka)\nKliknij, aby pokazaÄ‡ Informacje o uÅ¼ytkowniku\n Kliknij prawym, by zobaczyÄ‡ menu Metakontaktu\nKliknij strzaÅ‚kÄ™, by zobaczyÄ‡ ustawienia panelu informacyjnego
 [No UIN]
 Brak UIN
 [UIN: %s (SHIFT click -> copy to clipboard)\nClick for User's Details\nClick dropdown for infopanel settings]
-UIN: %s (Shift+klik -> kopiuj UID do schowka)\nKliknij, aby pokazaæ Informacje o u¿ytkowniku\nKliknij strza³kê, by zobaczyæ ustawienia panelu informacyjnego
+UIN: %s (Shift+klik -> kopiuj UID do schowka)\nKliknij, aby pokazaÄ‡ Informacje o uÅ¼ytkowniku\nKliknij strzaÅ‚kÄ™, by zobaczyÄ‡ ustawienia panelu informacyjnego
 [Place ToolBar at bottom]
-Pasek narzêdzi na dole
+Pasek narzÄ™dzi na dole
 [Copy To Clipboard]
 Kopiuj do notatnika
 [Open User Details...]
-Otwórz dane kontaktu...
+OtwÃ³rz dane kontaktu...
 [Messaging Settings...]
 Opcje rozmowy...
 [Room Settings...]
 Opcje pokoju...
 [Open History...]
-Otwórz historiê...
+OtwÃ³rz historiÄ™...
 [\\tab \\ul\\b Status message:\\ul0\\b0 \\par %s]
 \\tab \\ul\\b Opis:\\ul0\\b0 \\par %s
 [\\par\\par\\tab \\ul\\b Listening to:\\ul0\\b0 \\par %s]
-\\par\\par\\tab \\ul\\b S³ucha:\\ul0\\b0 \\par %s
+\\par\\par\\tab \\ul\\b SÅ‚ucha:\\ul0\\b0 \\par %s
 [\\par\\par\\ul\\b Client:\\ul0\\b0  %s]
 \\par\\par\\ul\\b Klient:\\ul0\\b0  %s
 [%s has entered text.]
@@ -1872,27 +1872,27 @@ Otwórz historiê...
 [Like tabs, vertical text orientation]
 Orientacja pionowa kart
 [Compact layout, horizontal buttons]
-Uk³ad kompaktowy, poziome przyciski
+UkÅ‚ad kompaktowy, poziome przyciski
 [Leave chat]
-Opuœæ czat
+OpuÅ›Ä‡ czat
 [Sounds (status bar)]
-DŸwiêki (pasek narzêdzi)
+DÅºwiÄ™ki (pasek narzÄ™dzi)
 [Feature disabled (used as overlay)]
-Funkcja wy³¹czona (u¿ywany jako nak³adka)
+Funkcja wyÅ‚Ä…czona (uÅ¼ywany jako nakÅ‚adka)
 [Feature enabled (used as overlay)]
-Funkcja w³¹czona (u¿ywany jako nak³adka)
+Funkcja wÅ‚Ä…czona (uÅ¼ywany jako nakÅ‚adka)
 [Event filter]
-Filtr zdarzeñ
+Filtr zdarzeÅ„
 [Nick list]
-Lista nicków
+Lista nickÃ³w
 [Remove Status (10x10)]
-Usuñ status (10x10)
+UsuÅ„ status (10x10)
 [Panel background low]
-T³o dolnego panelu
+TÅ‚o dolnego panelu
 [Panel background high]
-T³o górnego panelu
+TÅ‚o gÃ³rnego panelu
 [Input area background]
-T³o obszaru pisania wiadomoœci
+TÅ‚o obszaru pisania wiadomoÅ›ci
 [Chat log symbols (Webdings)]
 Symbole dziennika czatowego
 [Extended mode 1]
@@ -1900,35 +1900,35 @@ Tryb rozszerzony 1
 [Extended mode 2]
 Tryb rozszerzony 2
 [Incremental search highlight]
-Podœwietlanie wyszukiwania
+PodÅ›wietlanie wyszukiwania
 [Unknown module or contact]
-Nieznany modu³ lub kontakt
+Nieznany moduÅ‚ lub kontakt
 [Clock symbol (for the info panel clock)]
 Symbol zegara (w panelu informacyjnym)
 [Skin root folder]
-Folder g³ówny skórki
+Folder gÅ‚Ã³wny skÃ³rki
 [Selected skin]
-Wybierz skórkê
+Wybierz skÃ³rkÄ™
 [<no skin>]
-<brak skórki>
+<brak skÃ³rki>
 [Rescan]
-Odœwie¿
+OdÅ›wieÅ¼
 [Message window skin]
-Skórka okna wiadomoœci
+SkÃ³rka okna wiadomoÅ›ci
 [Show these events only:]
-Poka¿ tylko te zdarzenia:
+PokaÅ¼ tylko te zdarzenia:
 [Instant messages]
-Wiadomoœci
+WiadomoÅ›ci
 [Users joining]
-U¿ytkownicy wchodz¹cy
+UÅ¼ytkownicy wchodzÄ…cy
 [Users leaving]
-U¿ytkownicy wychodz¹cy
+UÅ¼ytkownicy wychodzÄ…cy
 [Topic changes]
 Zmiana tematu
 [Disconnects]
-Roz³¹czeni
+RozÅ‚Ä…czeni
 [User kicks]
-Wykopywanie u¿ytkownika
+Wykopywanie uÅ¼ytkownika
 [Notices]
 Powiadomienia
 [Log Options]
@@ -1942,13 +1942,13 @@ Inne nazwy
 [Your name]
 Twoja nazwa
 [Enable highlighting]
-W³¹cz podœwietlanie
+WÅ‚Ä…cz podÅ›wietlanie
 [Limit log text to (events):]
-Ogranicz dziennik do (iloœæ zdarzeñ):
+Ogranicz dziennik do (iloÅ›Ä‡ zdarzeÅ„):
 [Trim to (kB)]
 Rozmiar (kB)
 [Words to highlight (wildcards allowed)]
-S³owa do podœwietlenia (dozwolone znaki *, ?)
+SÅ‚owa do podÅ›wietlenia (dozwolone znaki *, ?)
 [Enable logging to disk]
 Zapisuj dziennik na dysku
 [Log directory]
@@ -1956,59 +1956,59 @@ Katalog dziennika
 [Add new rooms to group:]
 Dodawaj nowe pokoje do grupy:
 [Userlist row distance (pixels):]
-Odstêp miêdzy wierszami (piksele): 
+OdstÄ™p miÄ™dzy wierszami (piksele): 
 [Use same style as in the message log]
-U¿yj takiego samego stylu, jak w dzienniku
+UÅ¼yj takiego samego stylu, jak w dzienniku
 [Popups for the Chat plugin]
 Popupy dla wtyczki Chat
 [Timeout (s)]
-OpóŸnienie (s)
+OpÃ³Åºnienie (s)
 [(The timeout require at least PopUp plugin v 1.0.1.9. Setting it to 0 means default setting and -1 means indefinite time)]
-(OpóŸnienie wymaga wtyczki Popup 1.0.1.9 lub nowszej. Wartoœæ 0 - ustawienia domyœlne, -1 - nieokreœlony czas)
+(OpÃ³Åºnienie wymaga wtyczki Popup 1.0.1.9 lub nowszej. WartoÅ›Ä‡ 0 - ustawienia domyÅ›lne, -1 - nieokreÅ›lony czas)
 [List]
 Lista
 [Clear lo&g]
-Wyczyœæ dziennik
+WyczyÅ›Ä‡ dziennik
 [Co&py all]
 Kopiuj wszystko
 [Word lookup]
-Wyszukaj s³owo
+Wyszukaj sÅ‚owo
 [Wikipedia]
 Wikipedia
 [Link]
 Link
 [Open a &new browser window]
-Otwórz w nowym oknie przegl¹darki
+OtwÃ³rz w nowym oknie przeglÄ…darki
 [&Open in current browser window]
-Otwórz w bie¿¹cym oknie przegl¹darki
+OtwÃ³rz w bieÅ¼Ä…cym oknie przeglÄ…darki
 [Undo  ]
 Cofnij
 [Redo]
-Powtórz
+PowtÃ³rz
 [Tabs]
 Karty
 [&Close tab]
-Zamknij kartê
+Zamknij kartÄ™
 [C&lose other tabs]
 Zamknij inne karty
 [&Open at this position]
-Otwórz w tym miejscu
+OtwÃ³rz w tym miejscu
 [Chat rooms]
 Pokoje
 [%s has joined]
-%s do³¹czy³(-a)
+%s doÅ‚Ä…czyÅ‚(-a)
 [You have joined %s]
-Do³¹czy³eœ do %s
+DoÅ‚Ä…czyÅ‚eÅ› do %s
 [%s has left]
-%s opuœci³(-a) czat
+%s opuÅ›ciÅ‚(-a) czat
 [%s has disconnected]
-%s zosta³ roz³¹czony
+%s zostaÅ‚ rozÅ‚Ä…czony
 [%s is now known as %s]
 %s jest obecnie znany jako %s
 [You are now known as %s]
-Jesteœ teraz znany jako %s
+JesteÅ› teraz znany jako %s
 [%s kicked %s]
-%s wyrzuci³ uczestnika %s
+%s wyrzuciÅ‚ uczestnika %s
 [Notice from %s: ]
 Powiadomienie od %s:
 [The topic is \'%s%s\']
@@ -2018,113 +2018,113 @@ Temat to "%s%s"
 [ (set by %s)]
  (wybrany przez %s)
 [%s enables \'%s\' status for %s]
-%s w³¹czy³ status "%s" dla %s
+%s wÅ‚Ä…czyÅ‚ status "%s" dla %s
 [%s disables \'%s\' status for %s]
-%s wy³¹czone "%s" status dla %s
+%s wyÅ‚Ä…czone "%s" status dla %s
 [Miranda could not load the Chat plugin because Microsoft Rich Edit v 3 is missing.\nIf you are using Windows 95/98/NT or WINE please upgrade your Rich Edit control.\n\nDo you want to download an update now?.]
-Miranda nie mo¿e za³adowaæ wtyczki Chat, poniewa¿ brakuje Microsoft Rich Edit 3.\nJeœli korzystasz z systemu Windows 95/98/NT lub WINE nale¿y uaktualniæ Rich Edit.\n\nCzy chcesz pobraæ aktualizacjê teraz?
+Miranda nie moÅ¼e zaÅ‚adowaÄ‡ wtyczki Chat, poniewaÅ¼ brakuje Microsoft Rich Edit 3.\nJeÅ›li korzystasz z systemu Windows 95/98/NT lub WINE naleÅ¼y uaktualniÄ‡ Rich Edit.\n\nCzy chcesz pobraÄ‡ aktualizacjÄ™ teraz?
 [Others nicknames]
-Pozosta³e nazwy
+PozostaÅ‚e nazwy
 [Your nickname]
 Twoja nazwa
 [User has joined]
-U¿ytkownik do³¹czy³
+UÅ¼ytkownik doÅ‚Ä…czyÅ‚
 [User has left]
-U¿ytkownik wyszed³
+UÅ¼ytkownik wyszedÅ‚
 [User has disconnected]
-U¿ytkownik roz³¹czy³ siê
+UÅ¼ytkownik rozÅ‚Ä…czyÅ‚ siÄ™
 [User kicked ...]
-Wykopany u¿ytkownik...
+Wykopany uÅ¼ytkownik...
 [User is now known as ...]
-U¿ytkownik jest obecnie znany jako...
+UÅ¼ytkownik jest obecnie znany jako...
 [Notice from user]
-Powiadomienie od u¿ytkownika
+Powiadomienie od uÅ¼ytkownika
 [The topic is ...]
 Temat to...
 [Information messages]
-Wiadomoœci informacyjne
+WiadomoÅ›ci informacyjne
 [User enables status for ...]
-U¿ytkownik w³¹cza status dla...
+UÅ¼ytkownik wÅ‚Ä…cza status dla...
 [User disables status for ...]
-U¿ytkownik wy³¹cza status dla...
+UÅ¼ytkownik wyÅ‚Ä…cza status dla...
 [Action message]
-Wiadomoœæ akcji
+WiadomoÅ›Ä‡ akcji
 [Highlighted message]
-Podœwietlona wiadomoœæ
+PodÅ›wietlona wiadomoÅ›Ä‡
 [Message typing area]
-Obszar pisania wiadomoœci
+Obszar pisania wiadomoÅ›ci
 [User list members (Online)]
-Cz³onkowie listy u¿ytkowników (Dostêpni)
+CzÅ‚onkowie listy uÅ¼ytkownikÃ³w (DostÄ™pni)
 [User list members (away)]
-Cz³onkowie listy u¿ytkowników (Zaraz wracam)
+CzÅ‚onkowie listy uÅ¼ytkownikÃ³w (Zaraz wracam)
 [Use a tabbed interface]
-U¿yj kart
+UÅ¼yj kart
 [Close tab on doubleclick]
-Podwójne klikniêcie zamyka kartê
+PodwÃ³jne klikniÄ™cie zamyka kartÄ™
 [Restore previously open tabs when showing the window]
-Przywróæ ostatnio u¿ywane karty po otworzeniu okna
+PrzywrÃ³Ä‡ ostatnio uÅ¼ywane karty po otworzeniu okna
 [Show tabs at the bottom]
-Poka¿ karty na dole
+PokaÅ¼ karty na dole
 [Send message by pressing the Enter key]
-Wyœlij wiadomoœæ po naciœniêciu Entera
+WyÅ›lij wiadomoÅ›Ä‡ po naciÅ›niÄ™ciu Entera
 [Send message by pressing the Enter key twice]
-Wyœlij wiadomoœæ po dwukrotnym naciœniêciu Entera
+WyÅ›lij wiadomoÅ›Ä‡ po dwukrotnym naciÅ›niÄ™ciu Entera
 [Flash window when someone speaks]
-Migaj oknem, gdy ktoœ mówi
+Migaj oknem, gdy ktoÅ› mÃ³wi
 [Flash window when a word is highlighted]
-Migaj oknem, gdy jakieœ s³owo jest podœwietlone 
+Migaj oknem, gdy jakieÅ› sÅ‚owo jest podÅ›wietlone 
 [Show list of users in the chat room]
-Poka¿ listê u¿ytkowników w pokoju
+PokaÅ¼ listÄ™ uÅ¼ytkownikÃ³w w pokoju
 [Show button for sending messages]
-Poka¿ przycisk wysy³ania wiadomoœci
+PokaÅ¼ przycisk wysyÅ‚ania wiadomoÅ›ci
 [Show buttons for controlling the chat room]
-Poka¿ przyciski kontrolowania pokoju
+PokaÅ¼ przyciski kontrolowania pokoju
 [Show buttons for formatting the text you are typing]
-Poka¿ przyciski formatowania wpisywanego tekstu
+PokaÅ¼ przyciski formatowania wpisywanego tekstu
 [Show button menus when right clicking the buttons]
-Poka¿ menu przycisku po klikniêciu na nim prawym przyciskiem myszy
+PokaÅ¼ menu przycisku po klikniÄ™ciu na nim prawym przyciskiem myszy
 [Show new windows cascaded]
-Poka¿ nowe okna kaskaduj¹co
+PokaÅ¼ nowe okna kaskadujÄ…co
 [Save the size and position of chat rooms]
-Zapisz rozmiaru i pozycje pokojów czatu
+Zapisz rozmiaru i pozycje pokojÃ³w czatu
 [Show topic as status message on the contact list]
-Poka¿ temat pokoju na liœcie kontaktów
+PokaÅ¼ temat pokoju na liÅ›cie kontaktÃ³w
 [Do not play sounds when the chat room is focused]
-Nie odtwarzaj dŸwiêków, gdy pokój czatu jest aktywny
+Nie odtwarzaj dÅºwiÄ™kÃ³w, gdy pokÃ³j czatu jest aktywny
 [Do not pop up the window when joining a chat room]
-Nie pokazuj okna po do³¹czeniu do pokoju czatu
+Nie pokazuj okna po doÅ‚Ä…czeniu do pokoju czatu
 [Hide or show the window by double click in the contact list]
-Poka¿ lub ukryj okno po podwójnym klikniêciu na listê kontaktów
+PokaÅ¼ lub ukryj okno po podwÃ³jnym klikniÄ™ciu na listÄ™ kontaktÃ³w
 [Show contact's status modes if supported by the protocol]
-Poka¿ statusy kontaktu, jeœli s¹ wspierane przez protokó³
+PokaÅ¼ statusy kontaktu, jeÅ›li sÄ… wspierane przez protokÃ³Å‚
 [Display contact's status icon before user role icon]
-Wyœwietl ikonê statusu kontaktu przed ikon¹ roli u¿ytkownika
+WyÅ›wietl ikonÄ™ statusu kontaktu przed ikonÄ… roli uÅ¼ytkownika
 [Prefix all events with a timestamp]
-PoprzedŸ wszystkie zdarzenia czasem
+PoprzedÅº wszystkie zdarzenia czasem
 [Timestamp only when event time differs]
-PoprzedŸ czasem tylko, jeœli siê ró¿ni
+PoprzedÅº czasem tylko, jeÅ›li siÄ™ rÃ³Å¼ni
 [Timestamp has same color as the event]
 Czas ma taki sam kolor jak zdarzenie
 [Indent the second line of a message]
-Wcinaj drug¹ liniê wiadomoœci
+Wcinaj drugÄ… liniÄ™ wiadomoÅ›ci
 [Limit user names in the message log to 20 characters]
-Ogranicz nazwy u¿ytkowników do 20 znaków w dzienniku
+Ogranicz nazwy uÅ¼ytkownikÃ³w do 20 znakÃ³w w dzienniku
 [Add a colon (:) to auto-completed user names]
-Dodaj (:) na koñcu automatycznie dope³nianych nicków
+Dodaj (:) na koÅ„cu automatycznie dopeÅ‚nianych nickÃ³w
 [Strip colors from messages in the log]
-Usuñ kolory z wiadomoœci w dzienniku
+UsuÅ„ kolory z wiadomoÅ›ci w dzienniku
 [Enable the \'event filter\' for new rooms]
-W³¹cz "filtr zdarzeñ" dla nowych czatów
+WÅ‚Ä…cz "filtr zdarzeÅ„" dla nowych czatÃ³w
 [Show pop-ups only when the chat room is not active]
-Wyœwietlaj popupy tylko, gdy czat jest nieaktywny
+WyÅ›wietlaj popupy tylko, gdy czat jest nieaktywny
 [Chat Module]
-Modu³ czatu
+ModuÅ‚ czatu
 [Message Background]
-T³o wiadomoœci
+TÅ‚o wiadomoÅ›ci
 [Userlist Background]
-T³o listy u¿ytkowników
+TÅ‚o listy uÅ¼ytkownikÃ³w
 [Userlist Lines]
-Linie listy u¿yt.
+Linie listy uÅ¼yt.
 [Chat windows]
 Okna czatu
 [Window Icon]
@@ -2132,15 +2132,15 @@ Ikona okna
 [Italics]
 Kursywa
 [Underlined]
-Podkreœlenie
+PodkreÅ›lenie
 [Room history]
 Historia
 [Event filter enabled]
-Filtr wydarzeñ w³¹czony
+Filtr wydarzeÅ„ wÅ‚Ä…czony
 [Hide userlist]
-Ukryj listê u¿ytkowników
+Ukryj listÄ™ uÅ¼ytkownikÃ³w
 [Show userlist]
-Poka¿ listê u¿ytkowników
+PokaÅ¼ listÄ™ uÅ¼ytkownikÃ³w
 [Icon overlay]
 Pokrywanie ikony
 [Status 1 (10x10)]
@@ -2158,21 +2158,21 @@ Status 6 (10x10)
 [Chat log]
 Dziennik czatu
 [Message in (10x10)]
-Wiadomoœæ przychodz¹ca (10x10)
+WiadomoÅ›Ä‡ przychodzÄ…ca (10x10)
 [Message out (10x10)]
-Wiadomoœæ wychodz¹ca (10x10)
+WiadomoÅ›Ä‡ wychodzÄ…ca (10x10)
 [Action (10x10)]
 Akcja (10x10)
 [Add Status (10x10)]
 Dodaj status (10x10)
 [Remove status (10x10)]
-Usuñ status (10x10)
+UsuÅ„ status (10x10)
 [Join (10x10)]
-Do³¹cz (10x10)
+DoÅ‚Ä…cz (10x10)
 [Leave (10x10)]
-WyjdŸ (10x10)
+WyjdÅº (10x10)
 [Quit (10x10)]
-Wyjœcie (10x10)
+WyjÅ›cie (10x10)
 [Kick (10x10)]
 Wykop (10x10)
 [Nickchange (10x10)]
@@ -2182,45 +2182,45 @@ Powiadomienie (10x10)
 [Topic (10x10)]
 Temat (10x10)
 [Highlight (10x10)]
-Podœwietlenie (10x10)
+PodÅ›wietlenie (10x10)
 [Information (10x10)]
 Informacja (10x10)
 [Options for using a tabbed interface]
 Opcje interfejsu kart
 [Appearance and functionality of chat room windows]
-Wygl¹d i funkcjonalnoœæ okna czatu
+WyglÄ…d i funkcjonalnoÅ›Ä‡ okna czatu
 [Appearance of the message log]
-Wygl¹d dziennika wiadomoœci
+WyglÄ…d dziennika wiadomoÅ›ci
 [Icons to display in the tray]
-Ikony wyœwietlane w zasobniku
+Ikony wyÅ›wietlane w zasobniku
 [Group chats]
-Wiadomoœci grupowe
+WiadomoÅ›ci grupowe
 [Chat Log]
 Dziennik czatu
 [Chat]
 Czat
 [Message is highlighted]
-Podœwietlona wiadomoœæ
+PodÅ›wietlona wiadomoÅ›Ä‡
 [User has performed an action]
-U¿ytkownik wykona³ akcjê
+UÅ¼ytkownik wykonaÅ‚ akcjÄ™
 [User has kicked some other user]
-U¿ytkownik wykopa³ innego u¿ytkownika
+UÅ¼ytkownik wykopaÅ‚ innego uÅ¼ytkownika
 [User's status was changed]
-U¿ytkownik zmieni³ status
+UÅ¼ytkownik zmieniÅ‚ status
 [User has changed name]
-U¿ytkownik zmieni³ nazwê
+UÅ¼ytkownik zmieniÅ‚ nazwÄ™
 [User has sent a notice]
-U¿ytkownik wys³a³ powiadomienie
+UÅ¼ytkownik wysÅ‚aÅ‚ powiadomienie
 [The topic has been changed]
-Temat zosta³ zmieniony
+Temat zostaÅ‚ zmieniony
 [%s wants your attention in %s]
 %s chce Twojej uwagi w pokoju: %s
 [%s speaks in %s]
-%s mówi w %s
+%s mÃ³wi w %s
 [%s has joined %s]
-%s do³¹czy³ %s
+%s doÅ‚Ä…czyÅ‚ %s
 [%s has left %s]
-%s opuœci³ %s
+%s opuÅ›ciÅ‚ %s
 [%s kicked %s from %s]
 %s wykopany %s przez %s
 [Notice from %s]
@@ -2230,17 +2230,17 @@ Zmieniony temat w %s
 [Information in %s]
 Informacja w %s
 [%s enables \'%s\' status for %s in %s]
-%s w³¹czy³ status "s" dla %s w %s
+%s wÅ‚Ä…czyÅ‚ status "s" dla %s w %s
 [%s disables \'%s\' status for %s in %s]
-%s wy³¹czy³ status "s" dla %s w %s
+%s wyÅ‚Ä…czyÅ‚ status "s" dla %s w %s
 [%s says: %s]
-%s mówi: %s
+%s mÃ³wi: %s
 [%s has left (%s)]
-%s wyszed³ (%s)
+%s wyszedÅ‚ (%s)
 [%s has disconnected (%s)]
-%s roz³¹czy³ siê (%s)
+%s rozÅ‚Ä…czyÅ‚ siÄ™ (%s)
 [%s kicked %s (%s)]
-%s wykopa³ %s z powodu (%s)
+%s wykopaÅ‚ %s z powodu (%s)
 [Notice from %s: %s]
 Powiadomienie od %s: %s
 [The topic is \'%s\']
@@ -2248,58 +2248,58 @@ Temat to "%s"
 [The topic is \'%s\' (set by %s)]
 Temat to "%s" (ustawiony przez %s)
 [No word to look up]
-Nie podano s³owa do wyszukania
+Nie podano sÅ‚owa do wyszukania
 [Insert a smiley]
-Wstaw emotikonê
+Wstaw emotikonÄ™
 [Make the text bold (CTRL+B)]
 Pogrub tekst (Ctrl+B)
 [Make the text italicized (CTRL+I)]
-Dodaj kursywê do tekstu (Ctrl+I)
+Dodaj kursywÄ™ do tekstu (Ctrl+I)
 [Make the text underlined (CTRL+U)]
-Podkreœl tekst (Ctrl+U)
+PodkreÅ›l tekst (Ctrl+U)
 [Select a background color for the text (CTRL+L)]
-Wybierz kolor t³a dla tekstu (Ctrl+L)
+Wybierz kolor tÅ‚a dla tekstu (Ctrl+L)
 [Select a foreground color for the text (CTRL+K)]
 Wybierz kolor dla tekstu (Ctrl+K)
 [Show the history (CTRL+H)]
-Poka¿ historiê (Ctrl+H)
+PokaÅ¼ historiÄ™ (Ctrl+H)
 [Show/hide the nicklist (CTRL+N)]
-Poka¿/Ukryj listê nazw (Ctrl+N)
+PokaÅ¼/Ukryj listÄ™ nazw (Ctrl+N)
 [Control this room (CTRL+O)]
-Kontroluj ten pokój (Ctrl + O)
+Kontroluj ten pokÃ³j (Ctrl + O)
 [Enable/disable the event filter (CTRL+F)]
-W³¹cz/Wy³¹cz filtr zdarzeñ (Ctrl+F)
+WÅ‚Ä…cz/WyÅ‚Ä…cz filtr zdarzeÅ„ (Ctrl+F)
 [Close current tab (CTRL+F4)]
-Zamknij bie¿¹c¹ kartê (Ctrl+F4)
+Zamknij bieÅ¼Ä…cÄ… kartÄ™ (Ctrl+F4)
 [%s: Chat Room (%u user)]
-%s: Konferencja (%u u¿ytkownik)
+%s: Konferencja (%u uÅ¼ytkownik)
 [%s: Chat Room (%u users)]
-%s: Konferencja (%u u¿ytkowników)
+%s: Konferencja (%u uÅ¼ytkownikÃ³w)
 [%s: Message Session]
 %s: Rozmowa
 [%s: Message Session (%u users)]
-%s: Rozmowa (%u u¿ytkowników)
+%s: Rozmowa (%u uÅ¼ytkownikÃ³w)
 [Nick name]
 Nazwa
 [Unique id]
 ID
 [Before you can load or unload a skin, you must close all message windows.]
-Zanim za³adujesz lub wy³adujesz skórkê, musisz zamkn¹æ wszystkie okna rozmowy.
+Zanim zaÅ‚adujesz lub wyÅ‚adujesz skÃ³rkÄ™, musisz zamknÄ…Ä‡ wszystkie okna rozmowy.
 [Windows Aero settings]
 Ustawienia Windows Aero
 [Use Aero UI elements(only when not using a custom skin)]
-U¿yj elementów UI Aero (tylko, gdy nie jest u¿ywana w³asna skórka)
+UÅ¼yj elementÃ³w UI Aero (tylko, gdy nie jest uÅ¼ywana wÅ‚asna skÃ³rka)
 [Use Windows 7 task bar enhancements (restart required)]
-U¿yj paska zadañ Windows 7 (wymaga restartu)
+UÅ¼yj paska zadaÅ„ Windows 7 (wymaga restartu)
 [The image service plugin (advaimg.dll) is not properly installed.\n\nTabSRMM is disabled.]
-Us³uga obrazków (advaimg.dll) nie jest zainstalowany.\n\nTabSRMM zostanie wy³¹czony.
+UsÅ‚uga obrazkÃ³w (advaimg.dll) nie jest zainstalowany.\n\nTabSRMM zostanie wyÅ‚Ä…czony.
 [TabSRMM fatal error]
-B³¹d TabSRMM
+BÅ‚Ä…d TabSRMM
 [Disable notifications]
-Wy³¹cz powiadomienia
+WyÅ‚Ä…cz powiadomienia
 [Show the Tray Icon]
-Poka¿ ikonê w zasobniku
+PokaÅ¼ ikonÄ™ w zasobniku
 [Choose modes]
 Wybierz tryby
 [Enable popups if focused]
-W³¹cz popupy, jeœli aktywne
+WÅ‚Ä…cz popupy, jeÅ›li aktywne

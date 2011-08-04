@@ -4,36 +4,36 @@
 ;  Versions: 2.0.2.2
 ;============================================================
 [Disable Auto&reply]
-Wy³¹cz Auto odpowiedŸ
+WyÅ‚Ä…cz Auto odpowiedÅº
 [Enable Auto&reply]
-W³¹cz Auto odpowiedŸ
+WÅ‚Ä…cz Auto odpowiedÅº
 [Enable Auto Replier]
-W³¹cz Auto Replier
+WÅ‚Ä…cz Auto Replier
 [No-repeat Interval:]
 Nie powtarzaj przez:
 [Reply Message Heading:]
-Nag³ówek odpowiedzi:
+NagÅ‚Ã³wek odpowiedzi:
 [Dear %user%, the owner left the following message:]
-Drogi %user%, w³aœciciel pozostawi³ nastêpuj¹c¹ wiadomoœæ:
+Drogi %user%, wÅ‚aÅ›ciciel pozostawiÅ‚ nastÄ™pujÄ…cÄ… wiadomoÅ›Ä‡:
 [Reply Message when]
 Odpowiedz kiedy:
 [I am currently away. I will reply to you when I am back.]
-Jestem obecnie niedostêpny. Odezwê siê jak wrócê.
+Jestem obecnie niedostÄ™pny. OdezwÄ™ siÄ™ jak wrÃ³cÄ™.
 [I am currently very busy and can't spare any time to talk with you. Sorry...]
-Jestem obecnie bardzo zajêty i nie mogê rozmawiaæ. Przepraszam...
+Jestem obecnie bardzo zajÄ™ty i nie mogÄ™ rozmawiaÄ‡. Przepraszam...
 [I am not available right now.]
-Nie jestem w tej chwili dostêpny.
+Nie jestem w tej chwili dostÄ™pny.
 [I am now doing something, I will talk to you later.]
-Coœ tam robiê. Odezwê siê póŸniej.
+CoÅ› tam robiÄ™. OdezwÄ™ siÄ™ pÃ³Åºniej.
 [I am on the phone right now. I will get back to you very soon.]
-Rozmawiam przez telefon. Wkrótce wrócê.
+Rozmawiam przez telefon. WkrÃ³tce wrÃ³cÄ™.
 [I am having meal right now. I will get back to you very soon.]
-W tej chwili jem. Wkrótce wrócê.
+W tej chwili jem. WkrÃ³tce wrÃ³cÄ™.
 [Turn on Autoanswer]
-W³¹cz Auto odpowiedŸ
+WÅ‚Ä…cz Auto odpowiedÅº
 [Turn off Autoanswer]
-Wy³¹cz Auto odpowiedŸ
+WyÅ‚Ä…cz Auto odpowiedÅº
 [&Default]
-Domyœlne
+DomyÅ›lne
 [mins]
 minut

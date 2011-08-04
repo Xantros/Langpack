@@ -4,15 +4,15 @@
 ;  Versions: 0.0.1.7
 ;============================================================
 [mRadio volume control]
-Pasek g≥oúnoúci mRadio
+Pasek g≈Ço≈õno≈õci mRadio
 [Import File]
 Importuj z pliku
 [Frame background]
-T≥o ramki
+T≈Ço ramki
 [Mute]
 Wycisz
 [BASS library path (empty for default)]
-åcieøka biblioteki BASS (domyúlnie puste)
+≈öcie≈ºka biblioteki BASS (domy≈õlnie puste)
 [Add Station]
 Dodawanie stacji
 [Station Name]
@@ -30,29 +30,29 @@ Do pliku
 [Play from first]
 Graj jako pierwszy
 [OFF]
-Wy≥.
+Wy≈Ç.
 [Record path]
 Zapisz do:
 [Volume]
-G≥oúnoúÊ
+G≈Ço≈õno≈õƒá
 [Use EAX]
-W≥πcz EAX
+W≈ÇƒÖcz EAX
 [Continuous record]
-Ciπg≥e nagrywanie
+CiƒÖg≈Çe nagrywanie
 [Autoconnect last station]
-W≥πcz ostatnio granπ stacje
+W≈ÇƒÖcz ostatnio granƒÖ stacje
 [Offline station as Offline]
-Wy≥πczona stacja jako Roz≥πczona
+Wy≈ÇƒÖczona stacja jako Roz≈ÇƒÖczona
 [Generic]
-OgÛlny
+Og√≥lny
 [Padded Cell]
-Wyúcie≥ana cela
+Wy≈õcie≈Çana cela
 [Room]
-PokÛj
+Pok√≥j
 [Bathroom]
-£azienka
+≈Åazienka
 [Living Room]
-Duøy pokÛj
+Du≈ºy pok√≥j
 [Stone Room]
 Pomieszczenie z kamienia
 [Auditorium]
@@ -68,7 +68,7 @@ Arena
 [City]
 Miasto
 [Carpeted Hallway]
-Hol wy≥oøony wyk≥adzinπ
+Hol wy≈Ço≈ºony wyk≈ÇadzinƒÖ
 [Stone Corridor]
 Korytarz z kamienia
 [Alley]
@@ -76,29 +76,29 @@ Alejka
 [Forrest]
 Las
 [Mountains]
-GÛry
+G√≥ry
 [Quarry]
-Kamienio≥om
+Kamienio≈Çom
 [Plain]
-RÛwniena
+R√≥wniena
 [Parking Lot]
 Parking
 [Sewer Pipe]
-Kanalizacja úciekowa
+Kanalizacja ≈õciekowa
 [Under Water]
-Pod wodπ
+Pod wodƒÖ
 [Drugged]
-Przyg≥uszony
+Przyg≈Çuszony
 [Dizzy]
 Przestrzeny
 [Psychotic]
 Psychotyczny
 [connecting]
-£πczenie...
+≈ÅƒÖczenie...
 [aborting]
 Zatrzymano
 [mRadio Mod]
-ProtokÛ≥ mRadio
+Protok√≥≈Ç mRadio
 [Shuffle playlist]
 Tasuj playliste
 [Status message template]
@@ -118,7 +118,7 @@ Przerwij nagrywanie
 [Record]
 Zgrywanie
 [Loop single media]
-PÍtla jednego utworu
+Pƒôtla jednego utworu
 [Broadcast ON]
 Graj
 [Broadcast OFF]
@@ -126,7 +126,7 @@ Przerwij granie
 [Add EQ preset]
 Dodaj ustawienie EQ
 [Delete EQ preset]
-UsuÒ ustawienie EQ
+Usu≈Ñ ustawienie EQ
 [Start/Stop Record]
 Nagrywaj/Przerwij nagrywanie
 [Start/Stop broadcasting]
@@ -136,12 +136,12 @@ Techniczne
 [Station URL]
 URL stacji:
 [Forced Mono]
-Wymuú Mono
+Wymu≈õ Mono
 [Tries to connect]
-PrÛb ≥πczenia
+Pr√≥b ≈ÇƒÖczenia
 [Play/Pause]
 Odtwarzanie/Pauza
 [%s server connection]
-Po≥πczenie %s
+Po≈ÇƒÖczenie %s
 [Play Station]
-OdtwÛrz
+Odtw√≥rz

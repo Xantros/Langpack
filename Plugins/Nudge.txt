@@ -4,66 +4,66 @@
 ;  Versions: 0.0.1.19
 ;============================================================
 [You are not allowed to send too much nudge (only 1 each %d sec, %d sec left)]
-Nie mo¿esz wysy³aæ za du¿o nudge'ów (tylko 1 co %d sek., zosta³o %d sek.)
+Nie moÅ¼esz wysyÅ‚aÄ‡ za duÅ¼o nudge'Ã³w (tylko 1 co %d sek., zostaÅ‚o %d sek.)
 [Nudge : Shake contact list/chat window]
-Nudge: Zatrzêœ list¹/oknem rozmowy
+Nudge: ZatrzÄ™Å› listÄ…/oknem rozmowy
 [Nudge : Send a nudge]
-Nudge: wyœlij nudge
+Nudge: wyÅ›lij nudge
 [Send &Nudge]
-Wyœlij nudge
+WyÅ›lij nudge
 [You received a nudge]
-Otrzyma³eœ nudge
+OtrzymaÅ‚eÅ› nudge
 [You sent a nudge]
-Wys³a³eœ nudge
+WysÅ‚aÅ‚eÅ› nudge
 [Window Shaking]
-Potrz¹sanie oknem
+PotrzÄ…sanie oknem
 [Allow nudges when you're:]
-Zezwól na nudge kiedy jesteœ:
+ZezwÃ³l na nudge kiedy jesteÅ›:
 [Popup options]
-Opcje popupów
+Opcje popupÃ³w
 [Popup duration]
-Czas wyœ. popupów
+Czas wyÅ›. popupÃ³w
 [Protocol options]
-Opcje protoko³u
+Opcje protokoÅ‚u
 [Specify options for each protocol]
-Ustaw ka¿dy protokó³ osobno
+Ustaw kaÅ¼dy protokÃ³Å‚ osobno
 [Enable clist shaking]
-W³¹cz potrz¹sanie list¹
+WÅ‚Ä…cz potrzÄ…sanie listÄ…
 [Enable message window shaking]
-W³¹cz potrz¹sanie oknem rozmowy
+WÅ‚Ä…cz potrzÄ…sanie oknem rozmowy
 [Treat nudge as a message]
-Traktuj nudge jako wiadomoœæ
+Traktuj nudge jako wiadomoÅ›Ä‡
 [Sending text]
-Wysy³any tekst
+WysyÅ‚any tekst
 [Receiving text]
 Odbierany tekst
 [Allow sending* one nudge to the same contact every :]
-Zezwól na wysy³anie* nudge'ów do tego samego kontaktu co:
+ZezwÃ³l na wysyÅ‚anie* nudge'Ã³w do tego samego kontaktu co:
 [Allow receiving one nudge from the same contact every :]
-Zezwól na odbieranie nudge'ów od jednego kontaktu co:
+ZezwÃ³l na odbieranie nudge'Ã³w od jednego kontaktu co:
 [Show as status change]
-Poka¿ jako zmianê statusu
+PokaÅ¼ jako zmianÄ™ statusu
 [Auto resend nudge after]
 Auto. odpowiedz nudgem po
 [* Nudge sending delay is hardcoded and cannot be changed.]
-* OpóŸnienie wysy³ania nudge'ów jest sta³e i nie mo¿na go zmieniæ.
+* OpÃ³Åºnienie wysyÅ‚ania nudge'Ã³w jest staÅ‚e i nie moÅ¼na go zmieniÄ‡.
 [Shaking Clist Options]
-Opcje potrz¹sania list¹
+Opcje potrzÄ…sania listÄ…
 [Shaking Message Window Options]
-Opcje potrz¹sania oknem rozmowy
+Opcje potrzÄ…sania oknem rozmowy
 [Number of moves]
-Liczba ruchów
+Liczba ruchÃ³w
 [Width of move]
 Szer. ruchu
 [Shake the contact list]
-Potrz¹œnij list¹
+PotrzÄ…Å›nij listÄ…
 [Shake the chat window]
-Potrz¹œnij oknem rozmowy
+PotrzÄ…Å›nij oknem rozmowy
 [Nudge]
-Poproœ o uwagê
+PoproÅ› o uwagÄ™
 [Nudge as Default]
-Nudge jako domyœlny
+Nudge jako domyÅ›lny
 [Nudge for]
 Nudge dla
 [Nudge : Default]
-Nudge: Domyœlny
+Nudge: DomyÅ›lny

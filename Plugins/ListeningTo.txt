@@ -4,53 +4,53 @@
 ;  Versions: 0.3.0.0
 ;============================================================
 [Send to all protocols]
-Wyúlij do wszystkich protoko≥Ûw
+Wy≈õlij do wszystkich protoko≈Ç√≥w
 [Toggle send to all protocols]
-Prze≥πcz wysy≥anie do wszystkich protoko≥Ûw
+Prze≈ÇƒÖcz wysy≈Çanie do wszystkich protoko≈Ç√≥w
 [Don't send to any protocols]
-Nie wysy≥aj do øadnego protoko≥u
+Nie wysy≈Çaj do ≈ºadnego protoko≈Çu
 [Send to %s]
-Wyúlij do %s
+Wy≈õlij do %s
 [Enable/Disable sending Listening To info (to all protocols)]
-W≥πcz/Wy≥πcz wysy≥anie info o s≥uchanym utworze (wszystkie protoko≥y)
+W≈ÇƒÖcz/Wy≈ÇƒÖcz wysy≈Çanie info o s≈Çuchanym utworze (wszystkie protoko≈Çy)
 [Listening info]
 Info o utworze
 [Players]
 Odtwarzacze
 [ Listening to information ]
- Informacje o s≥uchanym utworze
+ Informacje o s≈Çuchanym utworze
 [Enable sending listening information to contacts:]
-W≥πcz wysy≥anie informacji do kontaktÛw o:
+W≈ÇƒÖcz wysy≈Çanie informacji do kontakt√≥w o:
 [You also have to enable it per protocol in the main menu]
-Musisz to takøe w≥πczyÊ dla kaødego protoko≥u w g≥Ûwnym menu
+Musisz to tak≈ºe w≈ÇƒÖczyƒá dla ka≈ºdego protoko≈Çu w g≈Ç√≥wnym menu
 [For protocols that don't support listening to but support XStatus:]
-Dla protoko≥Ûw, ktÛre nie obs≥ugujπ info o utworze, ale obs≥ugujπ xStatus:
+Dla protoko≈Ç√≥w, kt√≥re nie obs≈ÇugujƒÖ info o utworze, ale obs≈ÇugujƒÖ xStatus:
 [Set XStatus to Music and show listening info]
-Ustaw xStatus na Muzyka i pokaø info o utworze
+Ustaw xStatus na Muzyka i poka≈º info o utworze
 [If other XStatus is not set, set XStatus to Music and show listening info]
-Jeúli nie ma innego xSatusu, ustaw go na MuzykÍ i pokaø info o utworze
+Je≈õli nie ma innego xSatusu, ustaw go na Muzykƒô i poka≈º info o utworze
 [If XStatus is Music, show listening info]
-Jeúli xStatus to Muzyka pokaø info o utworze
+Je≈õli xStatus to Muzyka poka≈º info o utworze
 [ Contacts ]
  Kontakty
 [Apply template for info from contacts (overrides contacts template)]
-Zastosuj szablon dla info od kontaktÛw (nadpisuje szablon kontaktÛw)
+Zastosuj szablon dla info od kontakt√≥w (nadpisuje szablon kontakt√≥w)
 [Show advanced icon in slot]
-Pokaø ikonÍ w slocie
+Poka≈º ikonƒô w slocie
 [Get info from WATrack plugin]
 Pobierz informacje z wtyczki WATrack
 [Get info from these players:]
 Pobierz informacje z tych odtwarzaczy:
 [foobar2000 (need to install the plugin manually)]
-foobar2000 (musisz rÍcznie zainstalowaÊ wtyczkÍ)
+foobar2000 (musisz rƒôcznie zainstalowaƒá wtyczkƒô)
 [Other players]
 Inne odtwarzacze
 [Ask for new info every]
 Sprawdzaj co
 [Allow auto-loading plugins into players (affect players with *)]
-ZezwÛl na automatyczne wczytywanie wtyczek do odtwarzacza (dotyczy tych z *)
+Zezw√≥l na automatyczne wczytywanie wtyczek do odtwarzacza (dotyczy tych z *)
 [ Listening to ]
- Informacje o s≥uchanym utworze
+ Informacje o s≈Çuchanym utworze
 [Variables:]
 Zmienne:
 [%artist% - Artist name]
@@ -58,31 +58,31 @@ Zmienne:
 [%album% - Album name]
 %album% - Nazwa albumu
 [%title% - Song title]
-%title% - Tytu≥
+%title% - Tytu≈Ç
 [%track% - Track number]
-%track% - Numer úcieøki
+%track% - Numer ≈õcie≈ºki
 [%year% - Song year]
 %year% - Rok wydania
 [%genre% - Song genre]
 %genre% - gatunek
 [%length% - Song length]
-%length% - d≥ugoúÊ úcieøki
+%length% - d≈Çugo≈õƒá ≈õcie≈ºki
 [%player% - Player name]
 %player% - nazwa odtwarzacza
 [%type% - Media type (Music, Radio, Video, etc)]
 %type% - typ (muzyka, radio, video, itp.)
 [When variable not found, use:]
-Jeúli nie znajdziesz zmiennej uøyj:
+Je≈õli nie znajdziesz zmiennej u≈ºyj:
 [Other Variables:]
 Inne zmienne:
 [%listening% - Listening to info (as set above)]
-%listening% - Informacje o s≥uchanym utworze (jak wyøej)
+%listening% - Informacje o s≈Çuchanym utworze (jak wy≈ºej)
 [When nothing is playing, replace %listening% with:]
-Jeúli niczego nie s≥ucham zamieÒ %listening% na:
+Je≈õli niczego nie s≈Çucham zamie≈Ñ %listening% na:
 [Music]
 Muzyka
 [Message:]
-WiadomoúÊ:
+Wiadomo≈õƒá:
 [No player found at this time]
 Odtwarzacz nie gra w tym czasie
 [Music Info from ]

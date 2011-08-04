@@ -10,17 +10,17 @@ Ustawienie: %S
 [Events: %S]
 Zdarzenie: %S
 [Importing...\nPlease wait!]
-Importowanie...\nProszê poczekaæ!
+Importowanie...\nProszÄ™ poczekaÄ‡!
 [Setting/Event (20/100)]
 Ustawienia/Zdarzenia (20/100)
 [added contacts: %u / %u\nadded settings: %u / %u\nadded events %u / %u\nduplicated events: %u]
-Dodano kontaktów: %u / %u\nDodano ustawieñ: %u / %u\nDodano zdarzeñ: %u / %u\nPowielonych zdarzeñ: %u
+Dodano kontaktÃ³w: %u / %u\nDodano ustawieÅ„: %u / %u\nDodano zdarzeÅ„: %u / %u\nPowielonych zdarzeÅ„: %u
 [Country Flags]
-Flagi krajów
+Flagi krajÃ³w
 [Show country flag as &status icon on message window]
-Poka¿ ikone kraju w oknie wiadomoœci
+PokaÅ¼ ikone kraju w oknie wiadomoÅ›ci
 [Show 'Restart' menu item]
-Poka¿ 'Restart' w menu
+PokaÅ¼ 'Restart' w menu
 [&Export User Details]
 Eksportuj dane kontaktu
 [&Import User Details]
@@ -32,17 +32,17 @@ Menu konta
 [Edit Contact Information]
 Edytuj informacje o kontakcie
 [View personal user details and more]
-Poka¿ osobiste dane u¿ytkownika
+PokaÅ¼ osobiste dane uÅ¼ytkownika
 [&Update]
 Aktualizuj
 [Naming]
-Imiê i nazwisko
+ImiÄ™ i nazwisko
 [Second name:]
-Drugie imiê:
+Drugie imiÄ™:
 [Prefix:]
 Prefiks:
 [Display Name:]
-Wyœwietlana nazwa:
+WyÅ›wietlana nazwa:
 [Your contact's local time is:]
 Czas lokalny twojego kontaktu:
 [Marital status:]
@@ -66,63 +66,63 @@ Urodziny
 [Reminder settings:]
 Ustawienia przypominania:
 [Contact added to ContactList:]
-Kontakt zosta³ dodany do listy kontaktów:
+Kontakt zostaÅ‚ dodany do listy kontaktÃ³w:
 [Office:]
-Urz¹d:
+UrzÄ…d:
 [Superior:]
 Kierownik:
 [Assistant:]
 Asystent:
 [1. language:]
-1. jêzyk:
+1. jÄ™zyk:
 [2. language:]
-2. jêzyk:
+2. jÄ™zyk:
 [3. language:]
-3. jêzyk
+3. jÄ™zyk
 [Company]
-Spó³ka
+SpÃ³Å‚ka
 [Language skills]
-Znane jêzyki
+Znane jÄ™zyki
 [Enter a category for this number:]
-Wpisz kategoriê dla tego numeru
+Wpisz kategoriÄ™ dla tego numeru
 [Add E-Mail]
 Dodaj e-mail
 [Enter a representitive name for the e-mail address here.]
-Podaj nazwê dla adresu e-mail.
+Podaj nazwÄ™ dla adresu e-mail.
 [Enter the e-mail address here.]
 Wpisz adres e-mail tutaj.
 [Show menu items]
-Poka¿ wpisy menu
+PokaÅ¼ wpisy menu
 [hours]
 godziny
 [CList extra icon:]
 Ikona listy:
 [Icon flashing on event]
-Migaj¹ce ikony przy zdarzeniu
+MigajÄ…ce ikony przy zdarzeniu
 [Perform check on each startup]
 Sprawdzaj na starcie
 [Time of last check:]
 Czas ostatniego sprawdzenia:
 [Birthday compatibility mode:]
-Tryb kompatybilnoœci urodzin:
+Tryb kompatybilnoÅ›ci urodzin:
 [Automatically backup and keep protocol based birthdays up to date]
-Automatycznie twórz kopie bezpieczeñstwa i aktualizuj dane o urodzinach
+Automatycznie twÃ³rz kopie bezpieczeÅ„stwa i aktualizuj dane o urodzinach
 [Play sound]
-Odtwarzaj dŸwiêk
+Odtwarzaj dÅºwiÄ™k
 [Use ignore list]
-U¿yj listy blokowania
+UÅ¼yj listy blokowania
 [What do you want to export?]
-Co chcesz wyeksportowaæ?
+Co chcesz wyeksportowaÄ‡?
 [Contact Information]
 Informacje o kontakcie 
 [Contact History]
 Historia kontaktu
 [Birthday popup colours]
-Kolory popupów urodzin
+Kolory popupÃ³w urodzin
 [Show reminder messages as popups (if reminder is enabled)]
-Poka¿ wiad. przypominacza w popupach (jeœli jest w³¹czony)
+PokaÅ¼ wiad. przypominacza w popupach (jeÅ›li jest wÅ‚Ä…czony)
 [Anniversary popup colours]
-Kolory popupów rocznic
+Kolory popupÃ³w rocznic
 [Address]
 Adres
 [Phone]
@@ -130,27 +130,27 @@ Telefon
 [e-mail]
 E-mail
 [Add Affiliation]
-Przynale¿noœæ
+PrzynaleÅ¼noÅ›Ä‡
 [Add Past]
-Przesz³oœæ
+PrzeszÅ‚oÅ›Ä‡
 [Add Interest]
 Zainteresowanie
 [Select Modules]
-Wybierz modu³y
+Wybierz moduÅ‚y
 [Check the Modules in the TreeView which you want to export for the contact. To add    the file as a new list entry later you need to export at least the protocol module.]
-SprawdŸ modu³y w drzewku które chcesz wyeksportowaæ wraz z kontaktem. Aby dodaæ nowy wpis na nowej liœcie bêdziesz musia³ eksportowaæ co najmniej modu³y protoko³u.
+SprawdÅº moduÅ‚y w drzewku ktÃ³re chcesz wyeksportowaÄ‡ wraz z kontaktem. Aby dodaÄ‡ nowy wpis na nowej liÅ›cie bÄ™dziesz musiaÅ‚ eksportowaÄ‡ co najmniej moduÅ‚y protokoÅ‚u.
 [Check all]
 Zaznacz wszystkie
 [Uncheck all]
 Odznacz wszystkie
 [Add Anniversary]
-Dodaj rocznicê
+Dodaj rocznicÄ™
 [You can edit the annviversary here.]
-Tutaj mo¿esz edytowaæ rocznice.
+Tutaj moÅ¼esz edytowaÄ‡ rocznice.
 [Enter a name for the anniversary here please:]
-Podaj nazwê rocznicy:
+Podaj nazwÄ™ rocznicy:
 [Select a date here:]
-Wybierz datê:
+Wybierz datÄ™:
 [Remind me of this anniversary.]
 Przypominaj o tej rocznicy.
 [Anniversary list]
@@ -158,7 +158,7 @@ Lista rocznic
 [No anniversaries to remind of]
 Brak rocznic do przypomnienia
 [This list gives you some overview about all your contact's anniversaries.]
-Ta lista daje ci podgl¹d na wszystkie rocznice twoich kontaktów.
+Ta lista daje ci podglÄ…d na wszystkie rocznice twoich kontaktÃ³w.
 [Statistics:]
 Statystyki
 [with birthday:]
@@ -166,129 +166,129 @@ z urodzinami:
 [female:]
 kobiet:
 [male:]
-mê¿czyzn:
+mÄ™Å¼czyzn:
 [number of contacts:]
-liczba kontaktów:
+liczba kontaktÃ³w:
 [average age:]
-œredni wiek:
+Å›redni wiek:
 [Show &during the next]
-Pokazuj przez nastêpne
+Pokazuj przez nastÄ™pne
 [day(s)]
 dni.
 [Reminder]
 Przypomnienie
 [Popup this dialog on a contact's anniversary]
-Wyœwietl to okno przy rocznicy kontaktu
+WyÅ›wietl to okno przy rocznicy kontaktu
 [Reset factory defaults]
-Przywróæ domyœlne
+PrzywrÃ³Ä‡ domyÅ›lne
 [Check file version of default IconPack to prevent wrong icon display]
-SprawdŸ wersjê domyœlnej paczki ikon aby zapobiec ich b³êdnemu wyœwietlaniu
+SprawdÅº wersjÄ™ domyÅ›lnej paczki ikon aby zapobiec ich bÅ‚Ä™dnemu wyÅ›wietlaniu
 [Copy UserInfo and mBirthday module from SubContact to set missing information]
-Kopiuj modu³y UserInfo i mBirthday z subkontaktów aby ustawiæ brakuj¹ce informacje
+Kopiuj moduÅ‚y UserInfo i mBirthday z subkontaktÃ³w aby ustawiÄ‡ brakujÄ…ce informacje
 [MetaContacts]
 Metakontakty
 [Scan SubContacts for missing information]
-Skanuj subkontakty ¿eby znaleŸæ brakuj¹ce informacje
+Skanuj subkontakty Å¼eby znaleÅºÄ‡ brakujÄ…ce informacje
 [Display icons on each dialog button]
-Pokazuj ikony na ka¿dym przycisku
+Pokazuj ikony na kaÅ¼dym przycisku
 [(*) Requires Miranda to be restarted.]
-(*) Miranda musi zostaæ zrestartowana.
+(*) Miranda musi zostaÄ‡ zrestartowana.
 [Enable extended 'GetContactInfo' module (*)]
-W³¹cz rozszerzony modu³ "GetContactInfo" (*)
+WÅ‚Ä…cz rozszerzony moduÅ‚ "GetContactInfo" (*)
 [Use Windows Timezone]
-U¿yj strefy czasowej z Windows
+UÅ¼yj strefy czasowej z Windows
 [Enable extended 'send/receive email' service (*)]
-W³¹cz rozszerzon¹ us³ugê "wyœlij/odbierz email" (*)
+WÅ‚Ä…cz rozszerzonÄ… usÅ‚ugÄ™ "wyÅ›lij/odbierz email" (*)
 [Protocol's information]
 Informacje o protokole
 [Custom information]
-W³asne informacje
+WÅ‚asne informacje
 [Overwritten information]
 Nadpisanie informacji
 [Changed information]
 Zmiana informacji
 [Enable colours to give information about information's status.]
-W³¹cz kolory do informowania o statusie.
+WÅ‚Ä…cz kolory do informowania o statusie.
 [Make protocol based contact information readonly.]
 Informacje oparte na protokole kontaktu tylko do odczytu.
 [Enable groups in details dialog's treeview.]
-W³¹cz grupy w drzewku okna szczegó³ów.
+WÅ‚Ä…cz grupy w drzewku okna szczegÃ³Å‚Ã³w.
 [Sort all tree items alphabetically.]
 Sortuj wpisy alfabetycznie.
 [Info of a MetaContact's SubContact]
-Info o subkontaktach metakontaktów
+Info o subkontaktach metakontaktÃ³w
 [Common]
-Wspólne
+WspÃ³lne
 [Change my ICQ details with UserInfoEx. (Disabled if ICQ doesn't support it)]
-Zmieñ dane ICQ u¿ywaj¹c UserInfoEx. (Wy³¹czone jeœli ICQ tego nie obs³uguje)
+ZmieÅ„ dane ICQ uÅ¼ywajÄ…c UserInfoEx. (WyÅ‚Ä…czone jeÅ›li ICQ tego nie obsÅ‚uguje)
 [Make item labels readonly.]
-Etykiety wpisów tylko do odczytu.
+Etykiety wpisÃ³w tylko do odczytu.
 [Importing contacts. Please wait...]
-Import kontaktów. Proszê czekaæ...
+Import kontaktÃ³w. ProszÄ™ czekaÄ‡...
 [Enable contact menu items to export/import vCards]
-Dodaj wpisy importu/eksportu vCard w menu kontaktów
+Dodaj wpisy importu/eksportu vCard w menu kontaktÃ³w
 [Cascade main menu items]
 Kaskaduj wpisy w menu
 [Cascade contact menu:]
 Kaskaduj menu kontaktu:
 [Ex-/Import items]
-Eks/Import wpisów
+Eks/Import wpisÃ³w
 [Cascading menu items is available only if the genmenu plugin is installed.]
-Kaskadowanie wpisów w menu jest mo¿liwe tylko jeœli masz wtyczkê genmenu.
+Kaskadowanie wpisÃ³w w menu jest moÅ¼liwe tylko jeÅ›li masz wtyczkÄ™ genmenu.
 [Homepage]
 Strona WWW
 [E-Mail]
 E-Mail
 [Replace the following default icons:]
-Zamieñ nastêpuj¹ce domyœlne ikony:
+ZamieÅ„ nastÄ™pujÄ…ce domyÅ›lne ikony:
 [This options require a contact list which supports extra icons.]
-Ta opcja wymaga listy kontaktów obs³uguj¹cej dodatkowe ikony.
+Ta opcja wymaga listy kontaktÃ³w obsÅ‚ugujÄ…cej dodatkowe ikony.
 [Question]
 Pytanie
 [All Contacts]
 Wszystkie kontakty
 [Required modules]
-Wymagane modu³y
+Wymagane moduÅ‚y
 [Optional modules]
-Opcjonalne modu³y
+Opcjonalne moduÅ‚y
 [Shows Miranda's installation directory.]
-Poka¿ katalog instalacyjny Mirandy
+PokaÅ¼ katalog instalacyjny Mirandy
 [Shows the directory with all your Miranda's profiles.]
-Poka¿ katalog wszystkich twoich profili.
+PokaÅ¼ katalog wszystkich twoich profili.
 [Import complete]
-Import zakoñczony
+Import zakoÅ„czony
 [all Contacts]
 Wszystkie kontakty
 [Select a destination file...]
 Wybierz miejsce przeznaczenia pliku...
 [Import User Details from VCard]
-Importuj dane u¿ytkownika z wizytówki
+Importuj dane uÅ¼ytkownika z wizytÃ³wki
 [%s provides a new birthday via protocol.\nIt is %s. The old one was %s.\n\nDo you want to use this as the new birthday for this contact?]
-%s wprowadzi³ now¹ datê urodzenia przez protokó³.\nJest to %s. Poprzednio by³o to %s.\n\nCzy chcesz zmieniæ datê urodzenia tego kontaktu?
+%s wprowadziÅ‚ nowÄ… datÄ™ urodzenia przez protokÃ³Å‚.\nJest to %s. Poprzednio byÅ‚o to %s.\n\nCzy chcesz zmieniÄ‡ datÄ™ urodzenia tego kontaktu?
 [Rename Item]
-Zmieñ nazwê przedmiotu
+ZmieÅ„ nazwÄ™ przedmiotu
 [Hide Item]
 Ukryj przedmiot
 [Show Items:]
-Poka¿ przedmiot:
+PokaÅ¼ przedmiot:
 [Reset to defaults]
-Ustaw domyœlnie
+Ustaw domyÅ›lnie
 [The phone number should start with a + and consist of\nnumbers, spaces, brackets and hyphens only.]
-Numer telefonu powinien zaczynaæ siê od + i sk³adaæ siê tylko z\nnumerów, spacji, nawiasów i ³¹czników.
+Numer telefonu powinien zaczynaÄ‡ siÄ™ od + i skÅ‚adaÄ‡ siÄ™ tylko z\nnumerÃ³w, spacji, nawiasÃ³w i Å‚Ä…cznikÃ³w.
 [Syntax Error]
-B³¹d sk³adni
+BÅ‚Ä…d skÅ‚adni
 [Choose the item to display.]
-Wybierz przedmiot do wyœwietlenia
+Wybierz przedmiot do wyÅ›wietlenia
 [Edit the currently displayed item.]
-Edytuj obecnie wyœwietlany przedmiot.
+Edytuj obecnie wyÅ›wietlany przedmiot.
 [Add a new custom item.]
-Dodaj nowy, w³asny przedmiot.
+Dodaj nowy, wÅ‚asny przedmiot.
 [Delete the selected item.]
 Skasuj zaznaczony przedmiot
 [Do you really want to delete the current selected item?\n\t%s\n\t%s]
-Czy na prawdê chcesz skasowaæ obecnie zaznaczony przedmiot?\n\t%s\n\t%s
+Czy na prawdÄ™ chcesz skasowaÄ‡ obecnie zaznaczony przedmiot?\n\t%s\n\t%s
 [Removes an item from the list]
-Usuñ przedmiot z listy
+UsuÅ„ przedmiot z listy
 [All contacts]
 Wszystkie kontakty
 [Birthdays only]
@@ -296,13 +296,13 @@ Tylko urodziny
 [Anniversaries only]
 Tylko rocznice
 [Disabled reminder]
-Przypominanie wy³¹czone
+Przypominanie wyÅ‚Ä…czone
 [Upload Details]
-Wyœlij dane
+WyÅ›lij dane
 [You are not currently connected to the ICQ network.\nYou must be online in order to update your information on the server.\n\nYour changes will be saved to database only.]
-Obecnie nie jesteœ pod³¹czony do sieci ICQ.\n Musisz byæ online aby uaktualniæ informacje na serwer.\n\nTwoje zmian zostan¹ zapisane tylko do bazy danych.
+Obecnie nie jesteÅ› podÅ‚Ä…czony do sieci ICQ.\n Musisz byÄ‡ online aby uaktualniÄ‡ informacje na serwer.\n\nTwoje zmian zostanÄ… zapisane tylko do bazy danych.
 [Uploading]
-Wysy³anie
+WysyÅ‚anie
 [Contact (private)]
 Kontakt (Prywatne)
 [Contact (Work)]
@@ -318,7 +318,7 @@ Stan cywilny
 [Anniversary]
 Rocznica
 [Export: Modules]
-Eksport: Modu³y
+Eksport: ModuÅ‚y
 [Export: Folder]
 Eksport: Folder
 [Aquarius]
@@ -328,9 +328,9 @@ Baran
 [Cancer]
 Rak
 [Capricorn]
-Kozioro¿ec
+KozioroÅ¼ec
 [Gemini]
-BliŸniêta
+BliÅºniÄ™ta
 [Leo]
 Lew
 [Libra]
@@ -360,57 +360,57 @@ Infobar - rocznice
 [Export]
 Eksport
 [Goto]
-IdŸ do
+IdÅº do
 [Custom Phone]
 Telefon
 [Ex-/Import]
 Eks/Import
 [Backup Birthday]
-Przywróæ urodziny
+PrzywrÃ³Ä‡ urodziny
 [Birthday today]
 Dzisiejsze urodziny
 [Birthday tomorrow]
 Jutrzejsze urodziny
 [Birthday in 2 days]
-Urodziny w ci¹gu 2 dni
+Urodziny w ciÄ…gu 2 dni
 [Birthday in 3 days]
-Urodziny w ci¹gu 3 dni
+Urodziny w ciÄ…gu 3 dni
 [Birthday in 4 days]
-Urodziny w ci¹gu 4 dni
+Urodziny w ciÄ…gu 4 dni
 [Birthday in 5 days]
-Urodziny w ci¹gu 5 dni
+Urodziny w ciÄ…gu 5 dni
 [Birthday in 6 days]
-Urodziny w ci¹gu 6 dni
+Urodziny w ciÄ…gu 6 dni
 [Birthday in 7 days]
-Urodziny w ci¹gu 7 dni
+Urodziny w ciÄ…gu 7 dni
 [Birthday in 8 days]
-Urodziny w ci¹gu 8 dni
+Urodziny w ciÄ…gu 8 dni
 [Birthday in 9 days]
-Urodziny w ci¹gu 9 dni
+Urodziny w ciÄ…gu 9 dni
 [Birthday later]
-PóŸniejsze urodziny
+PÃ³Åºniejsze urodziny
 [Anniversary today]
 Dzisiejsze rocznice
 [Anniversary tomorrow]
 Jutrzejsze rocznice
 [Anniversary in 2 days]
-Rocznice w ci¹gu 2 dni
+Rocznice w ciÄ…gu 2 dni
 [Anniversary in 3 days]
-Rocznice w ci¹gu 3 dni
+Rocznice w ciÄ…gu 3 dni
 [Anniversary in 4 days]
-Rocznice w ci¹gu 4 dni
+Rocznice w ciÄ…gu 4 dni
 [Anniversary in 5 days]
-Rocznice w ci¹gu 5 dni
+Rocznice w ciÄ…gu 5 dni
 [Anniversary in 6 days]
-Rocznice w ci¹gu 6 dni
+Rocznice w ciÄ…gu 6 dni
 [Anniversary in 7 days]
-Rocznice w ci¹gu 7 dni
+Rocznice w ciÄ…gu 7 dni
 [Anniversary in 8 days]
-Rocznice w ci¹gu 8 dni
+Rocznice w ciÄ…gu 8 dni
 [Anniversary in 9 days]
-Rocznice w ci¹gu 9 dni
+Rocznice w ciÄ…gu 9 dni
 [Anniversary later]
-PóŸniejsze rocznice
+PÃ³Åºniejsze rocznice
 [Ex-/Import contact]
 Import / Eksport
 [Export all contacts]
@@ -418,27 +418,27 @@ Eksportuj wszystkie kontakty
 [Import all contacts]
 Importuj wszystkie kontakty
 [Backup birthdays]
-Przywróæ urodziny
+PrzywrÃ³Ä‡ urodziny
 [Check anniversaries]
-SprawdŸ rocznice
+SprawdÅº rocznice
 [&Export group]
-Eksportuj grupê
+Eksportuj grupÄ™
 [Ready]
 Gotowy
 [Reminder disabled]
-Przypominanie wy³¹czone 
+Przypominanie wyÅ‚Ä…czone 
 [Bithdays only]
 Tylko urodziny
 [everything]
 Wszystko
 [mBirthday (default)]
-mBirthday (domyœlnie)
+mBirthday (domyÅ›lnie)
 [Extended UserInfo]
 Dane kontaktu
 [Details Dialog]
-Szczegó³y okna
+SzczegÃ³Å‚y okna
 [Open in Browser]
-Otwórz w przegl¹darce
+OtwÃ³rz w przeglÄ…darce
 [Primary e-mail]
 Pierwszy e-mail
 [Secondary e-mail]
@@ -448,29 +448,29 @@ Trzeci e-mail
 [My Notes:]
 Moje notatki:
 [Add a new anniversary]
-Dodaj now¹ rocznicê
+Dodaj nowÄ… rocznicÄ™
 [Delete an existing anniversary]
-Usuñ istniej¹c¹ rocznicê
+UsuÅ„ istniejÄ…cÄ… rocznicÄ™
 [Unspecified]
-Nieokreœlone
+NieokreÅ›lone
 [Do you really want to delete the %s?]
-Czy na prawdê chcesz skasowaæ %s?
+Czy na prawdÄ™ chcesz skasowaÄ‡ %s?
 [Edit Category]
-Edytuj kategoriê
+Edytuj kategoriÄ™
 [Edit Value]
-Edytuj wartoœæ
+Edytuj wartoÅ›Ä‡
 [Your png2dib.dll is either obsolete or damaged.]
 Plik png2dib.dll jest nieaktualny lub uszkodzony.
 [Memory allocation error!]
-B³¹d alokacji pamiêci!
+BÅ‚Ä…d alokacji pamiÄ™ci!
 [User has no valid homepage]
-U¿ytkownik nie poda³ strony domowej
+UÅ¼ytkownik nie podaÅ‚ strony domowej
 [View Homepage]
-Poka¿ stronê domow¹
+PokaÅ¼ stronÄ™ domowÄ…
 [&Homepage]
 Strona domowa
 [%s has birthday today.]
-%s ma dziœ urodziny.
+%s ma dziÅ› urodziny.
 [an anniversary]
 rocznica
 [He]
@@ -480,9 +480,9 @@ Ona
 [He/She]
 On/Ona
 [%s has the following anniversaries:]
-%s obchodzi nastêpuj¹ce rocznice:
+%s obchodzi nastÄ™pujÄ…ce rocznice:
 [%d. %s today]
-%d. %s dziœ
+%d. %s dziÅ›
 [%d. %s tomorrow]
 %d. %s jutro
 [%d. %s in %d days]
@@ -492,13 +492,13 @@ On/Ona
 [\n%s becomes %d years old.]
 \n%s ma teraz %d urodziny.
 [%s has birthday in %d days.]
-%s ma urodziny w przeci¹gu %d dni
+%s ma urodziny w przeciÄ…gu %d dni
 [Check birthdays]
-SprawdŸ urodziny
+SprawdÅº urodziny
 [Birthday reminder]
 Przypominanie o urodzinach
 [Birthday reminder: it's coming]
-Przypominanie o urodzinach: nadchodz¹cych
+Przypominanie o urodzinach: nadchodzÄ…cych
 [Anniversary Reminder]
 Przypominanie o rocznicach
 [TreeView]
@@ -506,21 +506,21 @@ Przypominanie o rocznicach
 [Popup Anniversary list]
 Lista rocznic
 [Refresh Contact Details]
-Odœwie¿ detale kontaktu
+OdÅ›wieÅ¼ detale kontaktu
 [UserInfoEx]
 Rozszerzone dane kontkatu
 [Replace progress dialogs with popups]
-Nadpisz dialogi popupów
+Nadpisz dialogi popupÃ³w
 [Replace message boxes with popups]
-Nadpisz okienka wiadomoœci popupów
+Nadpisz okienka wiadomoÅ›ci popupÃ³w
 [Cascade:]
 Kaskada:
 [Show Menu Item]
-Poka¿ w menu
+PokaÅ¼ w menu
 [UserInfo (default)]
-UserInfo (domyœlny)
+UserInfo (domyÅ›lny)
 [Use Zodiac as default avatar]
-U¿yj znak zodiaku jako domyœlny awatar
+UÅ¼yj znak zodiaku jako domyÅ›lny awatar
 [Anniversary Editor\nAdd/Edit your anniversary here.]
 Edytor Rocznic\nDodaj/Edytuj rocznice tutaj.
 [Zodiac:]
@@ -528,25 +528,25 @@ Znak zodiaku:
 [Don't remind me of this anniversary.]
 Nie przypominaj mi o tej rocznicy.
 [Affiliation]
-Przynale¿noœæ
+PrzynaleÅ¼noÅ›Ä‡
 [Just from the beginning.]
-Jestem pocz¹tkuj¹cy.
+Jestem poczÄ…tkujÄ…cy.
 [Delete an entry]
-Usuñ rocznicê
+UsuÅ„ rocznicÄ™
 [<Unspecified>]
-<Nieokreœlony>
+<NieokreÅ›lony>
 [Address & Contact]
 Adres i Kontakt
 [Do you really want to delete this entry?]
-Czy napewno chcesz usun¹æ te dane?
+Czy napewno chcesz usunÄ…Ä‡ te dane?
 [Interest]
 Zainteresowanie
 [Enter your phone number\nand don't worry about formating.]
-Wpisz swój numer telefonu\ni nie martw siê o formatowanie.
+Wpisz swÃ³j numer telefonu\ni nie martw siÄ™ o formatowanie.
 [Enter your full e-mail address.\n(e.g.: john.doe@provider.com)]
-Wpisz swój pe³ny adres e-mail.\n(np.: bunnyhoney@o2.pl)
+Wpisz swÃ³j peÅ‚ny adres e-mail.\n(np.: bunnyhoney@o2.pl)
 [Use global reminder settings.]
-U¿yj globalnych opcji przypomnienia.
+UÅ¼yj globalnych opcji przypomnienia.
 [Adapt propertysheet pages to aero mode.]
 Dostosuj do trybu aero.
 [Update custom birthday]
@@ -554,27 +554,27 @@ Aktualizacja rocznic
 [Backing up and syncing all birthdays complete!]
 Wykonywanie kopii zapasowych i synchronizacji wszystkich urodzin kompletny!
 [[b]%s (%S)...[/b]\n%d Contacts remaning]
-[b]%s (%S)...[/b]\n%d do odœwie¿enia
+[b]%s (%S)...[/b]\n%d do odÅ›wieÅ¼enia
 [Grender]
-P³eæ
+PÅ‚eÄ‡
 [Reminder (uinfoex)]
 Rocznice (uinfoex)
 [Homepage (uinfoex)]
 Strona domowa (uinfoex)
 [&Export Group]
-Eksportuj grupê
+Eksportuj grupÄ™
 [&Import Group]
-Importuj grupê
+Importuj grupÄ™
 [AnnivList]
 Lista rocznic
 [&Save changes]
 Zapisz zmiany
 [This is the reminder message]
-To jest wiadomoœæ przypominaj¹ca
+To jest wiadomoÅ›Ä‡ przypominajÄ…ca
 [Upcomming anniversaries\nThis list gives you some overview about all your contact's anniversaries.]
-Nadchodz¹ce rocznice\nTa lista pokazuje informacje o wszystkich rocznicach kontaktów.
+NadchodzÄ…ce rocznice\nTa lista pokazuje informacje o wszystkich rocznicach kontaktÃ³w.
 [Proto]
-Protokó³
+ProtokÃ³Å‚
 [Age/Nr.]
 Wiek/Nr.
 [Single]
@@ -582,9 +582,9 @@ Singiel
 [Close relationships]
 Bliskie stosunki
 [Engaged]
-Zarêczony(-a)
+ZarÄ™czony(-a)
 [Married]
-¯onaty/Mê¿atka
+Å»onaty/MÄ™Å¼atka
 [Divorced]
 Rozwiedziony(-a)
 [Separated]
@@ -592,4 +592,4 @@ W separacji
 [Widowed]
 Wdowa/Wdowiec
 [Down arrow]
-Strza³ka w dó³
+StrzaÅ‚ka w dÃ³Å‚

@@ -4,111 +4,111 @@
 ;  Versions: 0.8.2.0
 ;============================================================
 [Performing aggressive pass]
-Wykonywanie agresywnego przejœcia
+Wykonywanie agresywnego przejÅ›cia
 [Aggressive: random junk at %08X: skipping]
-Agresywny: losowe œmieci w %08X: pomijam
+Agresywny: losowe Å›mieci w %08X: pomijam
 [Aggressive: unlinked data at %08X: can't automatically place]
-Agresywny: nieoznaczone dane w %08X: nie mo¿na automatycznie rozmieœciæ
+Agresywny: nieoznaczone dane w %08X: nie moÅ¼na automatycznie rozmieÅ›ciÄ‡
 [Contact count marked wrongly: correcting]
-le oznaczone dane kontaktów: poprawianie
+Å¹le oznaczone dane kontaktÃ³w: poprawianie
 [Processing contact chain]
-Przetwarzanie ³añcucha kontaktu 
+Przetwarzanie Å‚aÅ„cucha kontaktu 
 [Contact chain corrupted, further entries ignored]
-Uszkodzony ³añcuch kontaktu, dalsze wpisy bêd¹ ignorowane
+Uszkodzony Å‚aÅ„cuch kontaktu, dalsze wpisy bÄ™dÄ… ignorowane
 [Invalid offset found]
-Znaleziono nieprawid³ow¹ kompensate
+Znaleziono nieprawidÅ‚owÄ… kompensate
 [Error reading, database truncated? (%u)]
-B³¹d odczytu, obciêta baza danych? (%u)
+BÅ‚Ä…d odczytu, obciÄ™ta baza danych? (%u)
 [Can't write to working file, aggressive mode may be too aggressive now (%u)]
-Nie mo¿na zapisaæ uruchomionego pliku, tryb agresywny mo¿e byæ zbyt agresywny w tym wypadku (%u)
+Nie moÅ¼na zapisaÄ‡ uruchomionego pliku, tryb agresywny moÅ¼e byÄ‡ zbyt agresywny w tym wypadku (%u)
 [Can't write to output file - disk full? (%u)]
-Nie mo¿na zapisaæ do pliku - dysk jest pe³en? (%u)
+Nie moÅ¼na zapisaÄ‡ do pliku - dysk jest peÅ‚en? (%u)
 [Event count marked wrongly: correcting]
-le oznaczone dane zdarzeñ: poprawianie
+Å¹le oznaczone dane zdarzeÅ„: poprawianie
 [Event chain corrupted, further entries ignored]
-Uszkodzony ³añcuch zdarzeñ, dalsze wpisy ignorowane 
+Uszkodzony Å‚aÅ„cuch zdarzeÅ„, dalsze wpisy ignorowane 
 [First event not marked as such: correcting]
 Pierwsze zdarzenie nie oznaczone jako: poprawianie
 [Event marked as first which is not: correcting]
-Zdarzenie oznaczone jako pierwsze, które nie jest: poprawianie
+Zdarzenie oznaczone jako pierwsze, ktÃ³re nie jest: poprawianie
 [Extra flags found in event: removing]
 Dodatkowe flagi w przypadku: usuwanie
 [First unread event marked wrong: fixing]
-le oznaczone pierwsze nieprzeczytane zdarzenie: naprawianie
+Å¹le oznaczone pierwsze nieprzeczytane zdarzenie: naprawianie
 [Infeasibly large event blob: skipping]
-Niewiarygodnie du¿y blok zdarzenia: pomijanie
+Niewiarygodnie duÅ¼y blok zdarzenia: pomijanie
 [Event not backlinked correctly: fixing]
 Niepoprawnie olinkowane zdarzenie: naprawianie
 [Processing final tasks]
-Wykonywanie koñcowych zadañ
+Wykonywanie koÅ„cowych zadaÅ„
 [Unable to delete aggressive working file]
-Nie mo¿na usun¹æ agresywnie pracuj¹cego pliku
+Nie moÅ¼na usunÄ…Ä‡ agresywnie pracujÄ…cego pliku
 [Errors were encountered, however you selected not to backup the original database. It is strongly recommended that you do so in case important data was omitted. Do you wish to keep a backup of the original database?]
-Napotkano b³êdy, nie zaznaczy³eœ jednak opcji kopii bezpieczeñstwa bazy danych. Jest to mocno zalecane, poniewa¿ wiele wa¿nych informacji zosta³o pominiêtych. Chcesz zachowaæ kopiê oryginalnych ustawieñ?
+Napotkano bÅ‚Ä™dy, nie zaznaczyÅ‚eÅ› jednak opcji kopii bezpieczeÅ„stwa bazy danych. Jest to mocno zalecane, poniewaÅ¼ wiele waÅ¼nych informacji zostaÅ‚o pominiÄ™tych. Chcesz zachowaÄ‡ kopiÄ™ oryginalnych ustawieÅ„?
 [Miranda Database Tool]
-Narzêdzie bazy danych Mirandy
+NarzÄ™dzie bazy danych Mirandy
 [%s\\Backup of %s]
 %s\\Kopia zapasowa z %s
 [%s\\Backup (%d) of %s]
 %s\\Kopia zapasowa (%d) z %s
 [Unable to rename original file]
-Nie mo¿na zmieniæ nazwy oryginalnych plików
+Nie moÅ¼na zmieniÄ‡ nazwy oryginalnych plikÃ³w
 [Unable to delete original file]
-Nie mo¿na usun¹æ oryginalnych plików
+Nie moÅ¼na usunÄ…Ä‡ oryginalnych plikÃ³w
 [Unable to rename output file]
-Nie mo¿na zmieniæ nazwy pliku wyjœciowego
+Nie moÅ¼na zmieniÄ‡ nazwy pliku wyjÅ›ciowego
 [&Finish]
-Zakoñcz
+ZakoÅ„cz
 [Database is newly created and has no data to process]
-Baza danych zosta³a dopiero co utworzona i nie zawiera ¿adnych danych
+Baza danych zostaÅ‚a dopiero co utworzona i nie zawiera Å¼adnych danych
 [Processing completed successfully]
-Przetwarzanie zakoñczone sukcesem
+Przetwarzanie zakoÅ„czone sukcesem
 [Database is corrupted and too small to contain any recoverable data]
-Baza danych jest uszkodzona i za ma³a by zawieraæ dane do odzyskania
+Baza danych jest uszkodzona i za maÅ‚a by zawieraÄ‡ dane do odzyskania
 [Database signature is corrupted, automatic repair is impossible]
-Baza danych jest uszkodzona, automatyczna naprawa jest niemo¿liwa
+Baza danych jest uszkodzona, automatyczna naprawa jest niemoÅ¼liwa
 [Database is marked as belonging to an unknown version of Miranda]
-Baza danych nale¿y do nieznanej wersji Mirandy 
+Baza danych naleÅ¼y do nieznanej wersji Mirandy 
 [ (Working Copy).dat]
 (Kopia robocza).dat
 [Creating working database (aggressive mode)]
 Tworzenie bazy danych (tryb agresywny)
 [Can't create working file (%u)]
-Nie mo¿na utworzyæ pliku (%u)
+Nie moÅ¼na utworzyÄ‡ pliku (%u)
 [Error writing file, probably disk full - try without aggressive mode (%u)]
-B³¹d podczas zapisywania pliku, prawdopodobnie dysk zape³niony - spróbuj bez agresywnego trybu (%u) 
+BÅ‚Ä…d podczas zapisywania pliku, prawdopodobnie dysk zapeÅ‚niony - sprÃ³buj bez agresywnego trybu (%u) 
 [Can't read from working file (%u)]
-Nie mo¿na odczytaæ pliku roboczego (%u)
+Nie moÅ¼na odczytaÄ‡ pliku roboczego (%u)
 [<check only>]
-<sprawdziæ tylko> 
+<sprawdziÄ‡ tylko> 
 [ (Output).dat]
-(Wyjœcie).dat 
+(WyjÅ›cie).dat 
 [Can't create output file (%u)]
-Nie mo¿na utworzyæ pliku wyjœciowego (%u)
+Nie moÅ¼na utworzyÄ‡ pliku wyjÅ›ciowego (%u)
 [Processing module name chain]
-Przetwarzanie ³añcucha nazwy modu³u
+Przetwarzanie Å‚aÅ„cucha nazwy moduÅ‚u
 [Module chain corrupted, further entries ignored]
-Uszkodzony ³añcuch modu³u, dalsze wpisy bêd¹ ignorowane 
+Uszkodzony Å‚aÅ„cuch moduÅ‚u, dalsze wpisy bÄ™dÄ… ignorowane 
 [Unreasonably long module name, skipping]
-Zbyt d³uga nazwa modu³u, pomijam
+Zbyt dÅ‚uga nazwa moduÅ‚u, pomijam
 [Module name '%s' is not unique: %d duplicates found)]
-Nazwa modu³u "%s" nie jest unikalna: znaleziono %d duplikatów 
+Nazwa moduÅ‚u "%s" nie jest unikalna: znaleziono %d duplikatÃ³w 
 [Invalid module name offset, skipping data]
-Nieprawid³owy offset nazwy modu³u, pomijam dane
+NieprawidÅ‚owy offset nazwy moduÅ‚u, pomijam dane
 [Click Next to continue]
-Kliknij Dalej, aby kontynuowaæ
+Kliknij Dalej, aby kontynuowaÄ‡
 [Processing has not yet completed, if you cancel now then the changes that have currently been made will be rolled back and the original database will be restored. Do you still want to cancel?]
-Przetwarzanie nie zosta³o jeszcze ukoñczone, jeœli zrezygnujesz teraz nastêpne zmiany, które obecnie zosta³y dokonane zostan¹ cofniête i oryginalna baza danych zostanie przywrócona. Czy nadal chcesz anulowaæ?
+Przetwarzanie nie zostaÅ‚o jeszcze ukoÅ„czone, jeÅ›li zrezygnujesz teraz nastÄ™pne zmiany, ktÃ³re obecnie zostaÅ‚y dokonane zostanÄ… cofniÄ™te i oryginalna baza danych zostanie przywrÃ³cona. Czy nadal chcesz anulowaÄ‡?
 [Processing has not yet completed, if you go back now then the changes that have currently been made will be rolled back and the original database will be restored. Do you still want to go back?]
-Nie ukoñczono jeszcze przetwarzania, jeœli teraz siê wrócisz, wprowadzone zmiany zostan¹ cofniête i zostanie przywrócona oryginalna baza danych. Nadal chcesz siê wróciæ?
+Nie ukoÅ„czono jeszcze przetwarzania, jeÅ›li teraz siÄ™ wrÃ³cisz, wprowadzone zmiany zostanÄ… cofniÄ™te i zostanie przywrÃ³cona oryginalna baza danych. Nadal chcesz siÄ™ wrÃ³ciÄ‡?
 [Welcome to the Miranda Database Wizard]
 Witamy w kreatorze bazy danych Mirandy
 [Using this Wizard you can compact your Miranda profile database to remove dead space created during normal usage, as well as repair a large number of issues that could affect the database.]
-Za pomoc¹ tego narzêdzia mo¿esz skompaktowaæ bazê danych Mirandy poprzez usuniêcie martwej przestrzeni utworzonej podczas u¿ywania komunikatora oraz naprawiæ b³êdy mog¹ce wp³ywaæ na bazê danych. 
+Za pomocÄ… tego narzÄ™dzia moÅ¼esz skompaktowaÄ‡ bazÄ™ danych Mirandy poprzez usuniÄ™cie martwej przestrzeni utworzonej podczas uÅ¼ywania komunikatora oraz naprawiÄ‡ bÅ‚Ä™dy mogÄ…ce wpÅ‚ywaÄ‡ na bazÄ™ danych. 
 [To continue, click Next.]
-Aby kontynuowaæ kliknij Dalej
+Aby kontynuowaÄ‡ kliknij Dalej
 [This programme is licenced under the terms of the GNU General Public License.]
-Program udostêpniany na licencji GNU - General Public License.
+Program udostÄ™pniany na licencji GNU - General Public License.
 [< &Back]
 < Wstecz
 [&Next >]
@@ -116,114 +116,114 @@ Dalej >
 [Select Miranda Profile]
 Wybierz profil
 [You can choose the Miranda profile database to compact or repair.]
-Mo¿esz wybraæ profil Miranda do kompaktowania bazy danych lub naprawy. 
+MoÅ¼esz wybraÄ‡ profil Miranda do kompaktowania bazy danych lub naprawy. 
 [Select the &profile database from the list below. If the database you wish to use is not listed here then click Other to browse your computer.]
-Wybierz profil i bazê danych z poni¿szej listy. Jeœli baza danych, której chcesz u¿ywaæ nie ma na liœcie kliknij Inne do przegl¹dania komputera.
+Wybierz profil i bazÄ™ danych z poniÅ¼szej listy. JeÅ›li baza danych, ktÃ³rej chcesz uÅ¼ywaÄ‡ nie ma na liÅ›cie kliknij Inne do przeglÄ…dania komputera.
 [&File:]
 Plik:
 [&Other...]
 Inne...
 [Error Opening Database]
-B³¹d podczas otwierania bazy danych 
+BÅ‚Ä…d podczas otwierania bazy danych 
 [There was an error opening the profile database given.]
-Wyst¹pi³ b³¹d podczas otwierania bazy danych danego profilu.
+WystÄ…piÅ‚ bÅ‚Ä…d podczas otwierania bazy danych danego profilu.
 [Click Next to try opening the file again, or click Back to select a new profile database to manipulate.]
-Kliknij przycisk Dalej, aby spróbowaæ ponownie otworzyæ plik, lub kliknij przycisk Wstecz, aby wybraæ nowy profil do bazy danych.
+Kliknij przycisk Dalej, aby sprÃ³bowaÄ‡ ponownie otworzyÄ‡ plik, lub kliknij przycisk Wstecz, aby wybraÄ‡ nowy profil do bazy danych.
 [The file may be in use by a currently running copy of Miranda. Exit any running Mirandas and click Next to retry.]
-Plik mo¿e byæ u¿ywany przez aktualnie uruchomion¹ kopie Miranda. Zamknij wszystkie uruchomione Mirandy i kliknij przycisk Dalej, aby ponowiæ. 
+Plik moÅ¼e byÄ‡ uÅ¼ywany przez aktualnie uruchomionÄ… kopie Miranda. Zamknij wszystkie uruchomione Mirandy i kliknij przycisk Dalej, aby ponowiÄ‡. 
 [File Access Options]
-Opcje dostêpu pliku
+Opcje dostÄ™pu pliku
 [You can select low level options to determine how the database is processed.]
-Mo¿esz wybraæ niski poziom opcji, aby okreœliæ w jaki sposób baza danych jest przetwarzana.
+MoÅ¼esz wybraÄ‡ niski poziom opcji, aby okreÅ›liÄ‡ w jaki sposÃ³b baza danych jest przetwarzana.
 [Create backup]
-Utwórz kopiê bezpieczeñstwa 
+UtwÃ³rz kopiÄ™ bezpieczeÅ„stwa 
 [Creates a backup copy of the database before any of the requested changes are made.]
-Tworzy kopiê bezpieczeñstwa bazy danych przed wprowadzeniem zmian.
+Tworzy kopiÄ™ bezpieczeÅ„stwa bazy danych przed wprowadzeniem zmian.
 [Aggressively find corruption]
-Agresywne wyszukiwanie b³êdnych wpisów
+Agresywne wyszukiwanie bÅ‚Ä™dnych wpisÃ³w
 [Scans the database for data that is not linked to any other data. This requires more disk space and more time, so is only required if you suspect corruption.]
-Skanuje bazê danych, która nie jest zwi¹zana z ¿adnymi innymi danymi. Wymaga to wiêcej czasu i miejsca na dysku, wiêc wymagane jest tylko w przypadku wyst¹pienia b³êdnych wpisów. 
+Skanuje bazÄ™ danych, ktÃ³ra nie jest zwiÄ…zana z Å¼adnymi innymi danymi. Wymaga to wiÄ™cej czasu i miejsca na dysku, wiÄ™c wymagane jest tylko w przypadku wystÄ…pienia bÅ‚Ä™dnych wpisÃ³w. 
 [Check consistency only]
-SprawdŸ tylko spójnoœæ danych
+SprawdÅº tylko spÃ³jnoÅ›Ä‡ danych
 [Just checks that the database is valid, without writing anything to the disk.]
-Sprawdza czy baza danych jest prawid³owa bez wprowadzania ¿adnych zmian.
+Sprawdza czy baza danych jest prawidÅ‚owa bez wprowadzania Å¼adnych zmian.
 [Cleaning Options]
-Czyszczenie b³êdnych wpisów
+Czyszczenie bÅ‚Ä™dnych wpisÃ³w
 [You can choose to remove information from the database while it is being processed.]
-Mo¿esz wybraæ usuniêcie informacji z bazy danych w czasie jej przetwarzania.
+MoÅ¼esz wybraÄ‡ usuniÄ™cie informacji z bazy danych w czasie jej przetwarzania.
 [Erase all histories]
-Usuñ ca³¹ historiê 
+UsuÅ„ caÅ‚Ä… historiÄ™ 
 [Removes all the saved history for all contacts in the database.]
-Usuwa ca³¹ historiê dla wszystkich kontaktów w bazie danych.
+Usuwa caÅ‚Ä… historiÄ™ dla wszystkich kontaktÃ³w w bazie danych.
 [Mark all events read]
 Oznacz wszystkie wydarzenia na przeczytane 
 [Marks all the history events as read. This will rectify any problems with old messages always appearing in the message window log box.]
-Oznacza wszystkie zdarzenia w historii jako przeczytane. Skoryguje problemy zwi¹zane z pojawiaj¹cymi siê w dzienniku starymi wiadomoœciami.
+Oznacza wszystkie zdarzenia w historii jako przeczytane. Skoryguje problemy zwiÄ…zane z pojawiajÄ…cymi siÄ™ w dzienniku starymi wiadomoÅ›ciami.
 [Convert old Unicode messages to UTF8]
-Konwertuj stare wiadomoœci Unicode do UTF-8
+Konwertuj stare wiadomoÅ›ci Unicode do UTF-8
 [Converts history messages in pre-0.7 format (ANSI+UCS2) to the new UTF8 format supported by 0.7. Saves the database space in most cases (recommended).]
-Konwertuje historiê z formatu pre-0.7 (ANSI + UCS2) do UTF8 wspieranego przez 0.7. W wiêkszoœci przypadków zmniejsza rozmiar bazy danych (zalecane).
+Konwertuje historiÄ™ z formatu pre-0.7 (ANSI + UCS2) do UTF8 wspieranego przez 0.7. W wiÄ™kszoÅ›ci przypadkÃ³w zmniejsza rozmiar bazy danych (zalecane).
 [Working...]
-Pracujê...
+PracujÄ™...
 [Please wait while the requested operations are being performed.]
-Proszê czekaæ a¿ ¿¹dane operacje zostan¹ wykonane.
+ProszÄ™ czekaÄ‡ aÅ¼ Å¼Ä…dane operacje zostanÄ… wykonane.
 [Finished!]
-Zakoñczono!
+ZakoÅ„czono!
 [All tasks have been completed.]
-Wszystkie zadania zosta³y zakoñczone.
+Wszystkie zadania zostaÅ‚y zakoÅ„czone.
 [Launch Miranda with this profile]
-Uruchom Mirandê z tym profilem
+Uruchom MirandÄ™ z tym profilem
 [Launches Miranda with the profile that was just worked on.]
-Uruchom Mirandê z ostatnim aktywnym profilem.
+Uruchom MirandÄ™ z ostatnim aktywnym profilem.
 [Backup:]
 Kopia zapasowa:
 [The processing of the database has been completed. Click Next to return to the start of the wizard to select another database to check, or click Finish to exit the wizard.]
-Zakoñczono przetwarzanie bazy danych. Kliknij na "Dalej" aby powróciæ na pocz¹tek kreatora i wybraæ inn¹ bazê danych do sprawdzenia lub kliknij na "Zakoñcz" aby wyjœæ z kreatora.
+ZakoÅ„czono przetwarzanie bazy danych. Kliknij na "Dalej" aby powrÃ³ciÄ‡ na poczÄ…tek kreatora i wybraÄ‡ innÄ… bazÄ™ danych do sprawdzenia lub kliknij na "ZakoÅ„cz" aby wyjÅ›Ä‡ z kreatora.
 [Database]
 Baza danych
 [Total size]
-Ca³kowity rozmiar
+CaÅ‚kowity rozmiar
 [Wasted]
-Martwa przestrzeñ
+Martwa przestrzeÅ„
 [Settings chain corrupted, further entries ignored]
-Uszkodzony ci¹g ustawieñ, dalsze wpisy bêd¹ ignorowane
+Uszkodzony ciÄ…g ustawieÅ„, dalsze wpisy bÄ™dÄ… ignorowane
 [Infeasibly large settings blob: skipping]
-Zbyt du¿y blob ustawieñ: pomijam
+Zbyt duÅ¼y blob ustawieÅ„: pomijam
 [Empty settings group at %08X: deleting]
-Pusta grupa ustawieñ w %08X: usuwanie
+Pusta grupa ustawieÅ„ w %08X: usuwanie
 [Processing user data]
-Przetwarzanie danych u¿ytkownika
+Przetwarzanie danych uÅ¼ytkownika
 [User corrupted, this could cause major problems]
-Uszkodzony kontakt - to mo¿e spowodowaæ powa¿ne problemy
+Uszkodzony kontakt - to moÅ¼e spowodowaÄ‡ powaÅ¼ne problemy
 [More than one user contact: keeping only first]
-Wiêcej ni¿ jeden kontakt u¿ytkownika: zatrzymujê tylko pierwszy
+WiÄ™cej niÅ¼ jeden kontakt uÅ¼ytkownika: zatrzymujÄ™ tylko pierwszy
 [Database worker thread activated]
-Aktywowano w¹tek roboczy bazy danych
+Aktywowano wÄ…tek roboczy bazy danych
 [Processing aborted by user]
-Przetwarzanie zakoñczone przez u¿ytkownika
+Przetwarzanie zakoÅ„czone przez uÅ¼ytkownika
 [All tasks completed but with %d error%s]
-Wszystkie zadania zakoñczono ale z b³êdami w liczbie: %d
+Wszystkie zadania zakoÅ„czono ale z bÅ‚Ä™dami w liczbie: %d
 [All tasks completed successfully]
-Wszystkie zadania zakoñczono pomyœlnie
+Wszystkie zadania zakoÅ„czono pomyÅ›lnie
 ["Open user tree in DBE++" menu item]
 "Otworz drzewko profilu w DBE++" pozycja menu
 [Duplicate event was found: skipping]
 Znaleziono duplikat zdarzenia: pomijanie
 [Empty settings group at %08X: skipping]
-Pusta grupa ustawieñ na %08X: pomijanie
+Pusta grupa ustawieÅ„ na %08X: pomijanie
 [Elapsed time: %d sec]
 Czas pracy: %d sek
 [Database encrypted with %s by %s]
-£amanie szyfru przy pomocy %s (by %s)
+Åamanie szyfru przy pomocy %s (by %s)
 [Cryptor loaded: %s [%s] (%s)]
-Za³adowany modu³: %s [%s] (%s)
+ZaÅ‚adowany moduÅ‚: %s [%s] (%s)
 [%d crypto modules loaded]
-%d modu³ szyfrowania za³adowany
+%d moduÅ‚ szyfrowania zaÅ‚adowany
 [Database is Secured MMAP database]
 Zaszyfrowano przy pomocy Secured MMAP database
 [Scanning cryptors directory]
 Skanowanie katalogu 'Cryptors'
 [Secured MMAP: authorization successful]
-Secured MMAP: autoryzacja pomyœlna!
+Secured MMAP: autoryzacja pomyÅ›lna!
 [You are not authorized for access to Database]
 Nie masz autoryzacji do Database

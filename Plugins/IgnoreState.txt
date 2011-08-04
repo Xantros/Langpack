@@ -6,20 +6,20 @@
 [Plugin settings]
 Ustawienia
 [Use]
-U¿yj
+UÅ¼yj
 [slot to draw the icon]
-slotu do wyœwietlenia ikony
+slotu do wyÅ›wietlenia ikony
 [Warning: classic contact list plugin doesn`t have ability to use extraicons]
-Uwaga: plugin klasycznej listy kontaktów nie wspiera extraicons
+Uwaga: plugin klasycznej listy kontaktÃ³w nie wspiera extraicons
 [Filtered events:]
 Filtrowane zdarzenia:
 [Use Miranda ignore settings for All Contacts]
-U¿yj opcji ignorowania Mirandy dla wszystkich kontaktów
+UÅ¼yj opcji ignorowania Mirandy dla wszystkich kontaktÃ³w
 [Extraicons plugin is used, use Contact list > Extraicons for customize.]
-Plugin Extraicons jest w³¹czony, dostosuj opcje wyœwietlania ikon w Lista kontaktów -> Dodatkowe ikony.
+Plugin Extraicons jest wÅ‚Ä…czony, dostosuj opcje wyÅ›wietlania ikon w Lista kontaktÃ³w -> Dodatkowe ikony.
 [Full Ignore]
-Pe³ne ignorowanie
+PeÅ‚ne ignorowanie
 [Partial Ignore]
-Czêœciowe ignorowanie
+CzÄ™Å›ciowe ignorowanie
 [Message Ignore]
-Ignorowanie wiadomoœci
+Ignorowanie wiadomoÅ›ci

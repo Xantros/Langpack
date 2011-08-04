@@ -6,11 +6,11 @@
 [Window Start Position]
 Pozycja startowa okna
 [Contact List Window Start Position]
-Pozycja startowa listy kontaktÛw
+Pozycja startowa listy kontakt√≥w
 [Pixels from Top]
-Piksele od gÛry
+Piksele od g√≥ry
 [Pixels from Bottom]
-Piksele od do≥u
+Piksele od do≈Çu
 [Pixels from Side]
 Piksele od strony
 [Always start...]

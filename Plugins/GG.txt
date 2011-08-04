@@ -4,9 +4,9 @@
 ;  Versions: 0.10.0.1
 ;============================================================
 [Contact list]
-Lista kontaktów
+Lista kontaktÃ³w
 [Provides support for Gadu-Gadu protocol]
-Wsparcie dla protoko³u Gadu-Gadu
+Wsparcie dla protokoÅ‚u Gadu-Gadu
 [Public Info]
 Katalog publiczny
 [Family name:]
@@ -16,23 +16,23 @@ Miasto rodz.:
 [Birth year:]
 Rok urodzenia:
 [Gadu-Gadu connection]
-Po³¹czenie Gadu-Gadu
+PoÅ‚Ä…czenie Gadu-Gadu
 [Ex.]
 Eks.
 [Friends only]
 Tylko dla znajomych
 [Show offline users with status message as invisible in contact list]
-Pokazuj u¿ytkowników z opisem statusu jako Niewidocznych
+Pokazuj uÅ¼ytkownikÃ³w z opisem statusu jako Niewidocznych
 [Ignore incoming conference messages]
-Ignoruj nadchodz¹ce wiadomoœci konferencyjne
+Ignoruj nadchodzÄ…ce wiadomoÅ›ci konferencyjne
 [Automatically pop up the window when a image is received]
 Automatycznie pokazuj popup kiedy obraz jest dostarczany
 [Receive image and after image is received use:]
-Odbieraj nadchodz¹ce obrazki za pomoc¹ metody:
+Odbieraj nadchodzÄ…ce obrazki za pomocÄ… metody:
 [Popup window]
-Wyskakuj¹ce okno
+WyskakujÄ…ce okno
 [Message with [img] BBCode]
-Wiadomoœæ z tagiem [img]
+WiadomoÅ›Ä‡ z tagiem [img]
 [Show links from unknown contacts]
 Pokazuj linki od nieznajomych
 [Gadu-Gadu Number:]
@@ -40,183 +40,183 @@ Numer Gadu-Gadu:
 [Gadu-Gadu Number]
 Numer Gadu-Gadu
 [Gadu-Gadu User Details]
-Dane u¿ytkownika Gadu-Gadu
+Dane uÅ¼ytkownika Gadu-Gadu
 [Lost Gadu-Gadu Password?]
-Zgóbi³eœ had³o Gadu-Gadu?
+ZgÃ³biÅ‚eÅ› hadÅ‚o Gadu-Gadu?
 [Retrieve password]
-Przypomnij has³o
+Przypomnij hasÅ‚o
 [Create new account]
-Utwórz nowe konto
+UtwÃ³rz nowe konto
 [Remove account]
-Usuñ konto
+UsuÅ„ konto
 [Change e-mail]
-Zmieñ e-mail
+ZmieÅ„ e-mail
 [Change status safely]
 Bezpiecznie zmieniaj status
 [Show connection errors]
-Pokazuj b³êdy po³¹czenia
+Pokazuj bÅ‚Ä™dy poÅ‚Ä…czenia
 [Leave last status message after disconnected]
-Pozostaw ostatni opis przed roz³¹czeniem
+Pozostaw ostatni opis przed rozÅ‚Ä…czeniem
 [After disconnection leave away message of status:]
-Po roz³¹czeniu siê zostaw opis nastêpuj¹cego statusu:
+Po rozÅ‚Ä…czeniu siÄ™ zostaw opis nastÄ™pujÄ…cego statusu:
 [Manually specify connection servers' hosts]
-Podaj adresy hostów serwerów rêcznie
+Podaj adresy hostÃ³w serwerÃ³w rÄ™cznie
 [Use SSL secure connection]
-U¿ywaj szyfrowanego po³¹czenia SSL
+UÅ¼ywaj szyfrowanego poÅ‚Ä…czenia SSL
 [Use direct connections]
-U¿ywaj po³¹czeñ bezpoœrednich
+UÅ¼ywaj poÅ‚Ä…czeÅ„ bezpoÅ›rednich
 [Use forwarding]
-U¿ywaj forwardowania
+UÅ¼ywaj forwardowania
 [* new line is separator\n** hostname:port format]
 * nowa linia - separator\n** format nazwa hosta:port
 [Import List From &Server]
-Importuj listê z &serwera
+Importuj listÄ™ z &serwera
 [Import List From &Text File...]
-Importuj listê z pliku
+Importuj listÄ™ z pliku
 [&Remove List From Server]
-&Usuñ listê z serwera
+&UsuÅ„ listÄ™ z serwera
 [Export List To &Server]
-Eksportuj listê do &serwera
+Eksportuj listÄ™ do &serwera
 [Export List To &Text File...]
-Eksportuj listê do pliku
+Eksportuj listÄ™ do pliku
 [Text files]
 Pliki tekstowe
 [Import list from server]
-Import listê z serwera
+Import listÄ™ z serwera
 [Import list from text file]
 Import listy z pliku
 [Remove list from server]
-Usuñ listê z serwera
+UsuÅ„ listÄ™ z serwera
 [Export list to server]
-Eksport listê na serwer
+Eksport listÄ™ na serwer
 [Export list to text file]
-Eksport listê do pliku
+Eksport listÄ™ do pliku
 [Account settings]
 Ustawienia konta
 [Blocked to this contact]
-Ten kontakt mnie zablokowa³
+Ten kontakt mnie zablokowaÅ‚
 [Previous image]
 Poprzedni obrazek
 [Next image]
-Nastêpny obrazek
+NastÄ™pny obrazek
 [Send image]
-Wyœlij obrazek
+WyÅ›lij obrazek
 [Save image]
 Zapisz obrazek
 [Delete image]
-Usuñ obrazek
+UsuÅ„ obrazek
 [Gadu-Gadu Error]
-B³¹d Gadu-Gadu
+BÅ‚Ä…d Gadu-Gadu
 [Connection cannot be established because of error:\n\t%s]
-Po³¹czenie nie mo¿e byæ nawi¹zane z powodu b³êdu:\n\t%s
+PoÅ‚Ä…czenie nie moÅ¼e byÄ‡ nawiÄ…zane z powodu bÅ‚Ä™du:\n\t%s
 [Miranda was unable to resolve the name of the Gadu-Gadu server to its numeric address.]
-Miranda nie mog³a ustaliæ IP serwera Gadu-Gadu na podstawie nazwy hosta.
+Miranda nie mogÅ‚a ustaliÄ‡ IP serwera Gadu-Gadu na podstawie nazwy hosta.
 [Received invalid server response.]
-Otrzymano niepoprawn¹ odpowiedŸ od serwera.
+Otrzymano niepoprawnÄ… odpowiedÅº od serwera.
 [Cannot establish secure connection.]
-Nie mo¿na nawi¹zaæ bezpiecznego po³¹czenia.
+Nie moÅ¼na nawiÄ…zaÄ‡ bezpiecznego poÅ‚Ä…czenia.
 [Server disconnected asking you for changing your e-mail.]
-Serwer roz³¹czy³ siê prosz¹c o zmianê Twojego adresu e-mail.
+Serwer rozÅ‚Ä…czyÅ‚ siÄ™ proszÄ…c o zmianÄ™ Twojego adresu e-mail.
 [Too many login attempts with invalid password.]
-Za du¿o prób po³¹czeñ z podaniem b³êdnego has³a.
+Za duÅ¼o prÃ³b poÅ‚Ä…czeÅ„ z podaniem bÅ‚Ä™dnego hasÅ‚a.
 [Gadu-Gadu servers are now down. Try again later.]
-Serwery Gadu-Gadu s¹ teraz wy³¹czone. Spróbuj póŸ?niej.
+Serwery Gadu-Gadu sÄ… teraz wyÅ‚Ä…czone. SprÃ³buj pÃ³Åº?niej.
 [Your Gadu-Gadu number and password combination was rejected by the Gadu-Gadu server. Please check login details at M->Options->Network->Gadu-Gadu and try again.]
-Twój numer i has³o zosta³y odrzucone przez serwer Gadu-Gadu. SprawdŸ dane logowania M->Opcje->Sieæ->Gadu-Gadu i spróbuj ponownie.
+TwÃ³j numer i hasÅ‚o zostaÅ‚y odrzucone przez serwer Gadu-Gadu. SprawdÅº dane logowania M->Opcje->SieÄ‡->Gadu-Gadu i sprÃ³buj ponownie.
 [Connecting to Gadu-Gadu hub failed.]
-Po³¹czenie z hubem Gadu-Gadu nie uda³o siê.
+PoÅ‚Ä…czenie z hubem Gadu-Gadu nie udaÅ‚o siÄ™.
 [Token retrieval failed because of error:\n\t%s]
-Nie mo¿na by³o pobraæ tokena z powodu b³êdu:\n\t%s
+Nie moÅ¼na byÅ‚o pobraÄ‡ tokena z powodu bÅ‚Ä™du:\n\t%s
 [Enter token to continue]
-WprowadŸ token aby kontynuowaæ
+WprowadÅº token aby kontynuowaÄ‡
 [You have to be connected before you can import/export contacts from/to server.]
-Po³¹cz siê przed importem/eksportem kontaktów z/na serwer.
+PoÅ‚Ä…cz siÄ™ przed importem/eksportem kontaktÃ³w z/na serwer.
 [List cannot be exported because of error:\n\t%s]
-Lista nie mo¿e byæ wyeksportowana z powodu b³êdu:\n\t%s
+Lista nie moÅ¼e byÄ‡ wyeksportowana z powodu bÅ‚Ä™du:\n\t%s
 [List cannot be exported to file "%s" because of error:\n\t%s]
-Lista nie mo¿e byæ wyeksportowana do pliku "%s" z powodu b³êdu:\n\t%s
+Lista nie moÅ¼e byÄ‡ wyeksportowana do pliku "%s" z powodu bÅ‚Ä™du:\n\t%s
 [List cannot be imported because of error:\n\t%s]
-Lista nie mo¿e byæ zaimportowana z powodu b³êdu:\n\t%s
+Lista nie moÅ¼e byÄ‡ zaimportowana z powodu bÅ‚Ä™du:\n\t%s
 [List cannot be imported from file "%s" because of error:\n\t%s]
-Lista nie mo¿e byæ zaimportowana z pliku "%s" z powodu b³êdu:\n\t%s
+Lista nie moÅ¼e byÄ‡ zaimportowana z pliku "%s" z powodu bÅ‚Ä™du:\n\t%s
 [List remove successful.]
-Lista zosta³a usuniêta pomyœlnie.
+Lista zostaÅ‚a usuniÄ™ta pomyÅ›lnie.
 [List export successful.]
-Lista zosta³a wyeksportowana pomyœlnie.
+Lista zostaÅ‚a wyeksportowana pomyÅ›lnie.
 [List import successful.]
-Lista zosta³a zaimportowana pomyœlnie.
+Lista zostaÅ‚a zaimportowana pomyÅ›lnie.
 [contacts]
 kontakty
 [Your password will be sent to your registration e-mail.\nDo you want to continue ?]
-Twoje has³o zostanie wys³ane na twój e-mail rejestracyjny.\nChcesz kontynuowaæ ?
+Twoje hasÅ‚o zostanie wysÅ‚ane na twÃ³j e-mail rejestracyjny.\nChcesz kontynuowaÄ‡ ?
 [You need to specify your registration e-mail first.]
-Musisz najpierw wpisaæ w konfiguracji swój e-mail rejestracyjny.
+Musisz najpierw wpisaÄ‡ w konfiguracji swÃ³j e-mail rejestracyjny.
 [Password could not be reminded because of error:\n\t%s]
-Has³o nie mo¿e zostaæ wys³ane z powodu b³êdu:\n\t%s
+HasÅ‚o nie moÅ¼e zostaÄ‡ wysÅ‚ane z powodu bÅ‚Ä™du:\n\t%s
 [Password was sent to your e-mail.]
-Has³o zosta³o wys³ane na Twój e-mail.
+HasÅ‚o zostaÅ‚o wysÅ‚ane na TwÃ³j e-mail.
 [Your info cannot be uploaded because of error:\n\t%s]
-Twoje dane nie mo¿e byæ wys³ane z powodu b³êdu:\n\t%s
+Twoje dane nie moÅ¼e byÄ‡ wysÅ‚ane z powodu bÅ‚Ä™du:\n\t%s
 [Your info has been uploaded to public catalog.]
-Twoje dane zosta³y wys³ane do katalogu publicznego.
+Twoje dane zostaÅ‚y wysÅ‚ane do katalogu publicznego.
 [Your password cannot be changed because of error:\n\t%s]
-Twoje has³o nie mo¿e byæ zmienione z powodu b³êdu:\n\t%s
+Twoje hasÅ‚o nie moÅ¼e byÄ‡ zmienione z powodu bÅ‚Ä™du:\n\t%s
 [Your password has been changed.]
-Twoje has³o zosta³o zmienione.
+Twoje hasÅ‚o zostaÅ‚o zmienione.
 [Your e-mail cannot be changed because of error:\n\t%s]
-Twój e-mail nie mo¿e byæ zmieniony z powodu b³êdu:\n\t%s
+TwÃ³j e-mail nie moÅ¼e byÄ‡ zmieniony z powodu bÅ‚Ä™du:\n\t%s
 [Your e-mail has been changed.]
-Twój e-mail zosta³ zmieniony.
+TwÃ³j e-mail zostaÅ‚ zmieniony.
 [Cannot register new account because of error:\n\t%s]
-Nie mo¿na zarejestrowaæ konta z powodu b³êdu:\n\t%s
+Nie moÅ¼na zarejestrowaÄ‡ konta z powodu bÅ‚Ä™du:\n\t%s
 [Registration rejected]
-Rejestracja zosta³a odrzucona
+Rejestracja zostaÅ‚a odrzucona
 [You have registered new account.\nPlease fill up your personal details in "M->Change my details..."]
-Zarejestrowa³eœ nowe konto.\nProszê wype³nij informacjê o sobie w "M->Zmieñ moje dane..."
+ZarejestrowaÅ‚eÅ› nowe konto.\nProszÄ™ wypeÅ‚nij informacjÄ™ o sobie w "M->ZmieÅ„ moje dane..."
 [Your account cannot be removed because of error:\n\t%s]
-Twoje konto nie mo¿e byæ usuniête z powodu b³êdu:\n\t%s
+Twoje konto nie moÅ¼e byÄ‡ usuniÄ™te z powodu bÅ‚Ä™du:\n\t%s
 [Bad number or password]
-Z³y numer lub has³o
+ZÅ‚y numer lub hasÅ‚o
 [Bad old e-mail or password]
-Z³y stary e-mail lub has³o
+ZÅ‚y stary e-mail lub hasÅ‚o
 [Bad e-mail or password]
-Z³y e-mail lub has³o
+ZÅ‚y e-mail lub hasÅ‚o
 [Invalid data entered]
-Wprowadzono z³e dane
+Wprowadzono zÅ‚e dane
 [Your account has been removed.]
-Twoje konto zosta³o usuniête.
+Twoje konto zostaÅ‚o usuniÄ™te.
 [Passwords do not match.]
-Has³a ró¿ni¹ siê od siebie.
+HasÅ‚a rÃ³Å¼niÄ… siÄ™ od siebie.
 [Password too short.]
-Has³o za krótkie.
+HasÅ‚o za krÃ³tkie.
 [You should disconnect before making any permanent changes with your account.\nDo you want to disconnect now ?]
-Powinieneœ siê roz³¹czyæ przed wszelkimi trwa³ymi zmianami Twojego konta.\nCzy chcesz siê roz³¹czyæ ?
+PowinieneÅ› siÄ™ rozÅ‚Ä…czyÄ‡ przed wszelkimi trwaÅ‚ymi zmianami Twojego konta.\nCzy chcesz siÄ™ rozÅ‚Ä…czyÄ‡ ?
 [Server hostname %s is invalid. Using default hostname provided by the network.]
-Adres serwera %s jest nieprawid³owy. U¿yty zostanie adres podany przez sieæ.
+Adres serwera %s jest nieprawidÅ‚owy. UÅ¼yty zostanie adres podany przez sieÄ‡.
 [External direct connections hostname %s is invalid. Disabling external host forwarding.]
-Adres zewnêtrzny dla po³¹czeñ bezpoœrednich %s jest nieprawid³owy. Forwardowanie zostanie wy³¹czone.
+Adres zewnÄ™trzny dla poÅ‚Ä…czeÅ„ bezpoÅ›rednich %s jest nieprawidÅ‚owy. Forwardowanie zostanie wyÅ‚Ä…czone.
 [Change Gadu-Gadu password]
-Zmieñ has³o Gadu-Gadu
+ZmieÅ„ hasÅ‚o Gadu-Gadu
 [Changes current Gadu-Gadu user password.]
-Twoje aktualne has³o zostanie zmienione.
+Twoje aktualne hasÅ‚o zostanie zmienione.
 [Change Gadu-Gadu e-mail]
-Zmieñ e-mail Gadu-Gadu
+ZmieÅ„ e-mail Gadu-Gadu
 [Changes current Gadu-Gadu user e-mail.]
-Twój aktualny e-mail zostanie zmieniony.
+TwÃ³j aktualny e-mail zostanie zmieniony.
 [New password:]
-Nowe has³o:
+Nowe hasÅ‚o:
 [Confirm password:]
-PotwierdŸ has³o:
+PotwierdÅº hasÅ‚o:
 [New e-mail:]
 Nowy e-mail:
 [Yes, I want to remove my account]
-Tak, chcê usun¹æ moje konto
+Tak, chcÄ™ usunÄ…Ä‡ moje konto
 [Remove Gadu-Gadu account]
-Usuñ konto Gadu-Gadu
+UsuÅ„ konto Gadu-Gadu
 [This will remove your Gadu-Gadu account.]
-Twoje konto zostanie usuniête.
+Twoje konto zostanie usuniÄ™te.
 [Create Gadu-Gadu account]
-Utwórz konto Gadu-Gadu
+UtwÃ³rz konto Gadu-Gadu
 [This will create new Gadu-Gadu account.]
 Zostanie utworzone nowe konto Gadu-Gadu.
 [Age from:]
@@ -224,63 +224,63 @@ Wiek od:
 [to:]
 do:
 [Search online users only]
-Szukaj tylko wœród po³¹czonych
+Szukaj tylko wÅ›rÃ³d poÅ‚Ä…czonych
 [&Image]
-Wyœlij obrazek
+WyÅ›lij obrazek
 [Image saved.]
 Zapisano obrazek.
 [Image cannot be written to disk.]
-Nie mo¿na zapisaæ obrazka na dysku.
+Nie moÅ¼na zapisaÄ‡ obrazka na dysku.
 [Image from %s]
 Obrazek od %s
 [Image for %s]
 Obrazek dla %s
 [Image files (*.bmp,*.jpg,*.gif)]
-Pliki obrazów (*.bmp,*.jpg,*.gif)
+Pliki obrazÃ³w (*.bmp,*.jpg,*.gif)
 [Image files (*.bmp,*.jpg,*.gif,*.png)]
-Pliki obrazów (*.bmp,*.jpg,*.gif,*.png)
+Pliki obrazÃ³w (*.bmp,*.jpg,*.gif,*.png)
 [Select picture to send]
-Wybierz obrazek do wys³ania
+Wybierz obrazek do wysÅ‚ania
 [Could not load image. Image might have unsupported file format.]
-Nie mo¿na za³adowaæ obrazka. Wybrany plik mo¿e mieæ nieznany format.
+Nie moÅ¼na zaÅ‚adowaÄ‡ obrazka. Wybrany plik moÅ¼e mieÄ‡ nieznany format.
 [Image exceeds maximum allowed size of 255 KB.]
 Rozmiar pliku obrazka przekracza maksymalny dozwolony rozmiar 255 KB.
 [Open new conference]
 Nowa konferencja
 [Select conference participants.]
-Wybierz uczestników konferencji.
+Wybierz uczestnikÃ³w konferencji.
 [Open &conference...]
-Otwórz &konferencjê...
+OtwÃ³rz &konferencjÄ™...
 [&Clear ignored conferences]
-&Wyczyœæ ignorowane
+&WyczyÅ›Ä‡ ignorowane
 [Clear ignored conferences]
-Czyœæ ignorowane konferencje
+CzyÅ›Ä‡ ignorowane konferencje
 [Me]
 Ja
 [%s initiated the conference.]
-%s zainicjowa³(a) konferencjê.
+%s zainicjowaÅ‚(a) konferencjÄ™.
 [This is my own conference.]
-To jest moja w³asna konferencja.
+To jest moja wÅ‚asna konferencja.
 [Participants]
 Uczestnicy
 [You have to be connected to open new conference.]
-Musisz byæ po³¹czony, ¿eby otworzyæ now¹ konferencjê
+Musisz byÄ‡ poÅ‚Ä…czony, Å¼eby otworzyÄ‡ nowÄ… konferencjÄ™
 [All ignored conferences are now unignored and the conference policy will act again.]
-Wszystkie ignorowane konferencje zosta³y zresetowane.
+Wszystkie ignorowane konferencje zostaÅ‚y zresetowane.
 [There are no ignored conferences.]
 Nie ma ignorowanych konferencji.
 [%s has initiated conference with %d participants (%d unknowns).\nDo you want do participate ?]
-%s zainicjowa³(a) konferencjê z %d uczestnikami - %d nieznany(ch).\nChcesz do³¹czyæ do tej konferencji ?
+%s zainicjowaÅ‚(a) konferencjÄ™ z %d uczestnikami - %d nieznany(ch).\nChcesz doÅ‚Ä…czyÄ‡ do tej konferencji ?
 [Conference policy]
-Regu³y konferencji
+ReguÅ‚y konferencji
 [Ask]
 Pytaj
 [Allow]
-Zezwól
+ZezwÃ³l
 [if total participant count greater than:]
-jeœli ca³kowita liczba uczestników przekracza:
+jeÅ›li caÅ‚kowita liczba uczestnikÃ³w przekracza:
 [if unknown participant count greater than:]
-jeœli liczba nieznanych przekracza:
+jeÅ›li liczba nieznanych przekracza:
 [in other case]
 w innym wypadku
 [Browse Chatrooms]
@@ -290,16 +290,16 @@ Rejestruj Transport
 [<Last Status>]
 <Ostatni status>
 [Gadu-Gadu Protocol]
-Protokó³ Gadu-Gadu
+ProtokÃ³Å‚ Gadu-Gadu
 [Update avatars]
 Aktualizuj awatary
 [Delete avatars]
-Usuñ awatary
+UsuÅ„ awatary
 [To remove your Gadu-Gadu avatar, you must use the MojaGeneracja.pl website.]
-Aby usun¹æ swój awatar Gadu-Gadu musisz u¿yæ serwisu MojaGeneracja.pl.
+Aby usunÄ…Ä‡ swÃ³j awatar Gadu-Gadu musisz uÅ¼yÄ‡ serwisu MojaGeneracja.pl.
 [Advanced Configuration]
 Zaawansowana konfiguracja
 [Images]
 Obrazki
 [Internal IP:]
-IP wewnêtrzne:
+IP wewnÄ™trzne:

@@ -4,27 +4,27 @@
 ;  Versions: 0.1.2.1
 ;============================================================
 [Shows a splash at Miranda startup]
-Pokaø splash przy starcie Mirandy
+Poka≈º splash przy starcie Mirandy
 [Splash Options]
 Opcje splash
 [Show Miranda Version]
-Pokaø wersjÍ Mirandy
+Poka≈º wersjƒô Mirandy
 [Show splash]
-Pokaø splash
+Poka≈º splash
 [Show random splash]
-Pokaø losowy splash
+Poka≈º losowy splash
 [Fade in:]
 Przygasanie poczatkowe:
 [Fade out:]
-Przygasanie koÒcowe:
+Przygasanie ko≈Ñcowe:
 [steps]
 krok
 [Preview...]
-Podglπd...
+PodglƒÖd...
 [Fade In]
 Przygasanie poczatkowe:
 [Fade Out]
-Przygasanie koÒcowe:
+Przygasanie ko≈Ñcowe:
 [Fade step:]
 Kroki przygasania:
 [Fade:]
@@ -32,4 +32,4 @@ Przygasanie:
 [msecs]
 ms
 [Show Splash]
-Pokaø splash
+Poka≈º splash

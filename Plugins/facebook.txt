@@ -4,29 +4,29 @@
 ;  Versions: 0.1.2.0
 ;============================================================
 [Mind]
-Myúl
+My≈õl
 [Facebook Icon]
 Facebook
 [Clear]
-WyczyúÊ
+Wyczy≈õƒá
 [&Clear]
-WyczyúÊ
+Wyczy≈õƒá
 [Share]
-Wyúlij
+Wy≈õlij
 [Mind...]
-Wyúlij myúl...
+Wy≈õlij my≈õl...
 [Account && Integration]
 Integracja z kontem
 [Enable notifications]
-W≥πcz powiadomienia
+W≈ÇƒÖcz powiadomienia
 [Enable feeds]
-W≥πcz nag≥Ûwki
+W≈ÇƒÖcz nag≈Ç√≥wki
 [Create a new Facebook account]
-StwÛrz nowe konto na Facebooku
+Stw√≥rz nowe konto na Facebooku
 [Advanced Settings]
 Ustawienia zaawansowane
 [Default group for newly added contacts:]
-Domyúlna grupa dla nowo dodanych kontaktÛw:
+Domy≈õlna grupa dla nowo dodanych kontakt√≥w:
 [User-Agent:]
 Agent 
 [Info Dialog]
@@ -34,39 +34,39 @@ Okno informacyjne
 [Set Facebook status through Miranda status]
 Ustaw status na Facebooku poprzez status Mirandy
 [Enable logging for debugging purposes]
-W≥πcz logowanie w celu debugowania
+W≈ÇƒÖcz logowanie w celu debugowania
 [Show cookies]
-Pokaø 'cookies'
+Poka≈º 'cookies'
 [Login error, probably bad login credentials.]
-B≥πd logowania, sprawdü login i has≥o.
+B≈ÇƒÖd logowania, sprawd≈∫ login i has≈Ço.
 [Something happened to Facebook. Maybe there was some major update or you have Facebook Lite set as default.]
-Coú siÍ sta≥o na Facebooku. Moøe by≥o kilka powaønych aktualizacji lub masz Facebook Lite ustawiony jako domyúlny.
+Co≈õ siƒô sta≈Ço na Facebooku. Mo≈ºe by≈Ço kilka powa≈ºnych aktualizacji lub masz Facebook Lite ustawiony jako domy≈õlny.
 [Currently only Live Feed is available. Real-time notifications will be introduced as soon as possible.]
-Chwilowo wpisywanie myúli jest dostÍpne tylko poprzez interfejs www. FunkcjonalnoúÊ zostanie przywrÛcona tak szybko jak to moøliwe.
+Chwilowo wpisywanie my≈õli jest dostƒôpne tylko poprzez interfejs www. Funkcjonalno≈õƒá zostanie przywr√≥cona tak szybko jak to mo≈ºliwe.
 [Set Facebook "What's on my mind" status through Miranda status]
-Ustaw "Mojπ myúl" poprzez status Mirandy IM
+Ustaw "MojƒÖ my≈õl" poprzez status Mirandy IM
 [Sample event]
-PrÛbne zdarzenie
+Pr√≥bne zdarzenie
 [New notification]
 Nowe powiadomienie
 [Use balloon notifications in system tray instead of popups]
-Uøyj balonikÛw systemowych w zasobniku zamiast popupÛw
+U≈ºyj balonik√≥w systemowych w zasobniku zamiast popup√≥w
 [News feeds]
-Nowe kana≥y
+Nowe kana≈Çy
 [Other events]
 Inne zdarzenia
 [Client notifications]
 Powiadomienia klienta
 [Request following types of News Feed items]
-Wyúwietlaj kana≥
+Wy≈õwietlaj kana≈Ç
 [Most Recent]
 Najnowsze
 [Status Updates]
 Zmiany statusu
 [Top News]
-Nowoúci
+Nowo≈õci
 [Force secure (HTTPS) connection]
-Wymuú szyfrowane po≥πczenie (HTTPS)
+Wymu≈õ szyfrowane po≈ÇƒÖczenie (HTTPS)
 [Automatically close chat windows on website]
 Automatycznie zamknij okno czatowe na stonie web
 [Post Miranda statuses to Wall]

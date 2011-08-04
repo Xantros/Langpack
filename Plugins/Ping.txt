@@ -6,15 +6,15 @@
 [PING]
 Ping
 [Enable All Pings]
-W³¹cz Wszystkie Pingi
+WÅ‚Ä…cz Wszystkie Pingi
 [Disable All Pings]
-Wy³¹cz Wszystkie Pingi
+WyÅ‚Ä…cz Wszystkie Pingi
 [Graph]
 Wykres
 [Edit...]
 Edycja...
 [Install the FontService plugin to change the font and font colour.]
-Zainstaluj wtyczkê FontService aby zmieniæ czcionkê i jej kolor. 
+Zainstaluj wtyczkÄ™ FontService aby zmieniÄ‡ czcionkÄ™ i jej kolor. 
 [PING Destinations]
 Pinguj adresy docelowe
 [Ping Plugin]
@@ -22,9 +22,9 @@ Wtyczka Ping
 [Ping labelled IP addresses or domain names.]
 Pinguj zaznaczone adresy IP lub nazwy domen.
 [Failed to initialize. Plugin disabled.]
-Nieudana inicjalizacja. Wtyczka wy³¹czona.
+Nieudana inicjalizacja. Wtyczka wyÅ‚Ä…czona.
 [Delay between pings (secs):]
-OpóŸnienie pomiêdzy pingami (sek):
+OpÃ³Åºnienie pomiÄ™dzy pingami (sek):
 [Ping timeout (secs):]
 Timeout pingu (sek):
 [Log to File]
@@ -32,11 +32,11 @@ Log do Pliku
 [Log Filename:]
 Nazwa pliku Logu
 [Reply]
-OdpowiedŸ
+OdpowiedÅº
 [Block Repetitions]
-Blokuj powtórzenia
+Blokuj powtÃ³rzenia
 [View Log]
-Poka¿ Log
+PokaÅ¼ Log
 [Interface]
 Interfejs
 [Do not change icon when testing]
@@ -44,35 +44,35 @@ Nie zmieniaj ikony podczas testu
 [Use the Customize/Fonts options to change text size and colour.]
 Rozmiar i kolor tekstu zmienisz w Personalizacja -> Czcionka.
 [Row height:]
-Wysokoœæ wiersza:
+WysokoÅ›Ä‡ wiersza:
 [Repeats for success/failure:]
-Odpowiedzi na sukces/pora¿kê:
+Odpowiedzi na sukces/poraÅ¼kÄ™:
 [Attach to contact list]
-Za³¹cz do listy kontaktów
+ZaÅ‚Ä…cz do listy kontaktÃ³w
 [Ping Destinations]
-Cele pingów
+Cele pingÃ³w
 [Ping Destination]
-Cel pingów
+Cel pingÃ³w
 [Address:]
 Adres:
 [Control Protocol:]
-Kontroluj protokó³:
+Kontroluj protokÃ³Å‚:
 [Set my status to:]
-Ustaw mój status na:
+Ustaw mÃ³j status na:
 [On success, if my status is:]
-Po sukcesie, jeœli mój status to:
+Po sukcesie, jeÅ›li mÃ³j status to:
 [Execute the following command on double-click:]
-Wykonaj tê komendê po podwójnym klikniêciu:
+Wykonaj tÄ™ komendÄ™ po podwÃ³jnym klikniÄ™ciu:
 [Disable all pings]
-Wy³¹cz wszystkie pingi:
+WyÅ‚Ä…cz wszystkie pingi:
 [Enable all pings]
-W³¹cz wszystkie pingi
+WÅ‚Ä…cz wszystkie pingi
 [Options...]
 Opcje...
 [Destinations...]
 Cele...
 [Show/Hide &Ping Window]
-Poka¿/Ukryj okno Pingu
+PokaÅ¼/Ukryj okno Pingu
 [Host %s requests that you reduce the amount of traffic you are sending.]
 Host %s prosi o zredukowanie produkowanego przez ciebie ruchu.
 [Unknown Address]

@@ -3,28 +3,28 @@
 ;  Versions: 0.0.0.4
 ;============================================================
 [UseActions]
-Uøyj akcji
+U≈ºyj akcji
 [The way actions could be called]
-Wywo≥ywanie akcji
+Wywo≈Çywanie akcji
 [Name through vars:]
 Zmienne
 [show only if variables return 1]
-pokaø, kiedy wartoúÊ zmiennych to 1 
+poka≈º, kiedy warto≈õƒá zmiennych to 1 
 [Tray menu item]
 Menu w zasobniku
 [Core Hotkey]
-SkrÛty
+Skr√≥ty
 [Registered actions]
 Zarejestrowane akcje
 [This plugin makes use of actions, serviced by Actions Manager plugin (ActMan, by Awkward)]
-Plugin pozwala uøyÊ akcji, us≥ugi pluginu Actions Managet (ActMan, by Awkward)
+Plugin pozwala u≈ºyƒá akcji, us≈Çugi pluginu Actions Managet (ActMan, by Awkward)
 [separated]
 spearator
 [Root popup:]
-èrÛd≥o
+≈πr√≥d≈Ço
 [Menu icons]
 Ikony menu
 [No actions manager (ActMan) plugin found.\n\rYou can't use UseActions plugin without ActMan.\n\rUseActions will not be loaded.]
-Nie znaleziono pluginu managera akcji (ActMan).\n\rNie moøesz uøyÊ pluginu UseActions.\n\rUseActions nie bÍdzie za≥adowany.
+Nie znaleziono pluginu managera akcji (ActMan).\n\rNie mo≈ºesz u≈ºyƒá pluginu UseActions.\n\rUseActions nie bƒôdzie za≈Çadowany.
 [Error loading actions]
-B≥πd wczytywania akcji
+B≈ÇƒÖd wczytywania akcji

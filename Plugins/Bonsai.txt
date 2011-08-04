@@ -4,14 +4,14 @@
 ;  Versions: 0.0.2.4
 ;============================================================
 [Options group and title]
-Tytu³ i grupa opcji
+TytuÅ‚ i grupa opcji
 [&Save]
 Zapis
 [This will reset all plugins to their default group and title.\nDo you wish to reset all plugins to their default group and title ?]
-To przywróci wszystkim wtyczkom domyœlne grupy i tytu³y.\nCzy na pewno chcesz to zrobiæ?
+To przywrÃ³ci wszystkim wtyczkom domyÅ›lne grupy i tytuÅ‚y.\nCzy na pewno chcesz to zrobiÄ‡?
 [Proceed ?]
-Kontynuowaæ?
+KontynuowaÄ‡?
 [Do you want to save the changes now ?]
-Chcesz teraz zapisaæ zmiany?
+Chcesz teraz zapisaÄ‡ zmiany?
 [Arrange Options]
 Opcje Bonsai

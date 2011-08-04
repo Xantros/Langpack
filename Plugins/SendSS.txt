@@ -20,13 +20,13 @@
 [%s (%i):\nYou appear to be using the wrong version of GC API]
 
 [&Capture]
-Uchwyæ
+UchwyÄ‡
 [&Fill description textbox.]
 
 [< Copyright]
 < Prawa aut.
 [<entire desktop>]
-<ca³y pulpit>
+<caÅ‚y pulpit>
 [<Only save>]
 <Tylko zapisz>
 [A recipient did not appear in the address list]
@@ -36,15 +36,15 @@ Uchwyæ
 [Abord]
 Przerwany
 [An unknown error has occured.]
-Nieznany b³¹d.
+Nieznany bÅ‚Ä…d.
 [C&lient Area]
 Obszar klienta
 [Cant create a Screenshot]
-Nie mo¿na utworzyæ zrzutu ekranu
+Nie moÅ¼na utworzyÄ‡ zrzutu ekranu
 [Caption :]
-Uchwyæ :
+UchwyÄ‡ :
 [Capture]
-Uchwyæ
+UchwyÄ‡
 [Copyright]
 Prawa aut.
 [Could not create main dialog.]
@@ -56,19 +56,19 @@ Prawa aut.
 [Credits]
 
 [Delete &after send]
-Usuñ po wys³aniu
+UsuÅ„ po wysÅ‚aniu
 [Delete after send]
-Usuñ po wys³aniu
+UsuÅ„ po wysÅ‚aniu
 [Dialog]
 
 [Drag&&Drop the target on the desired window.]
-Umieœæ celownik na odpowiednie okno.
+UmieÅ›Ä‡ celownik na odpowiednie okno.
 [E&xplore]
 
 [Email transfer]
 Transfer Email
 [Fatal error, image services not found. Send Screenshot will be disabled.]
-B³¹d, us³uga obrazków nie zosta³a znaleziona. Send Screenshot zostanie wy³¹czony.
+BÅ‚Ä…d, usÅ‚uga obrazkÃ³w nie zostaÅ‚a znaleziona. Send Screenshot zostanie wyÅ‚Ä…czony.
 [Fill description textbox.]
 
 [for Client area ]
@@ -88,31 +88,31 @@ Transfer HTTP
 [One or more unspecified errors occurred]
 
 [Open again]
-Otwórz ponownie
+OtwÃ³rz ponownie
 [Open Folder]
-Otwórz folder
+OtwÃ³rz folder
 [Screenshot ]
 Zrzut ekranu
 [Select a target window.]
 Wybierz okno.
 [Send B&y :]
-Wyœlij przez :
+WyÅ›lij przez :
 [Send desktop screenshot]
-Wyœlij zrzut pulpitu
+WyÅ›lij zrzut pulpitu
 [Send screenshot to\n]
-Wyœlij zrzut do\n
+WyÅ›lij zrzut do\n
 [Send screenshot to\n<unknown>]
-Wyœlij zrzut ekranu do\n<nieznany>
+WyÅ›lij zrzut ekranu do\n<nieznany>
 [Send screenshot]
-Wyœlij zrzut ekranu
+WyÅ›lij zrzut ekranu
 [SendScreenshot - Error]
-SendScreenshot - B³¹d
+SendScreenshot - BÅ‚Ä…d
 [SendSS HTTP connections]
-Po³¹czenie HTTP SendSS
+PoÅ‚Ä…czenie HTTP SendSS
 [Size (HxW) :]
 Rozmiar  (HxW) :
 [Take a screenshot]
-Zrób zrzut ekranu
+ZrÃ³b zrzut ekranu
 [Target Tool]
 Celownik
 [TEXT]
@@ -138,9 +138,9 @@ Czas uchwycenia
 [Time (secs) :]
 Czas (sek) :
 [Unable to initiate %s.]
-Nie mo¿na zainicjowaæ %s.
+Nie moÅ¼na zainicjowaÄ‡ %s.
 [Unknown Error]
-Nieznany b³¹d
+Nieznany bÅ‚Ä…d
 [Upload server did not respond timely.]
 Serwer nie odpowiada.
 [Warning: No IconPack found in one of the following directories: 'customize\\icons', 'icons' or 'plugins'#1#]
@@ -148,4 +148,4 @@ Serwer nie odpowiada.
 [Warning: Your current IconPack's version differs from the one UserInfoEx is designed for.\nSome icons may not be displayed correctly]
 
 [Send Screenshot]
-Wyœlij zrzut ekranu
+WyÅ›lij zrzut ekranu

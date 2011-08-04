@@ -3,53 +3,53 @@
 ;  Module: Advanced Auto Away, KeepStatus, StartupStatus
 ;============================================================
 [Apply to all protocols]
-Zastosuj do wszystkich protoko³ów
+Zastosuj do wszystkich protokoÅ‚Ã³w
 [Requested Status]
 Oczekiwany status
 [Current Status]
 Aktualny status
 [Short Idle]
-Krótka bezczynnoœæ
+KrÃ³tka bezczynnoÅ›Ä‡
 [Only if my requested status is:]
-Tylko je¿eli mój oczekiwany status to:
+Tylko jeÅ¼eli mÃ³j oczekiwany status to:
 [Long Idle]
-D³uga bezczynnoœæ
+DÅ‚uga bezczynnoÅ›Ä‡
 [If Windows is inactive]
-Je¿eli Windows jest nieaktywny
+JeÅ¼eli Windows jest nieaktywny
 [Not Idle]
 Aktywny
 [Use GetLastInputInfo()]
-U¿yj GetLastInputInfo()
+UÅ¼yj GetLastInputInfo()
 [If Miranda is inactive]
-Je¿eli Miranda jest nieaktywna
+JeÅ¼eli Miranda jest nieaktywna
 [Force short idle if:]
-Wymuœ krótk¹ bezczynnoœæ gdy:
+WymuÅ› krÃ³tkÄ… bezczynnoÅ›Ä‡ gdy:
 [Workstation is Locked (2K/XP)]
 Komputer jest zablokowany
 [Inactivity times:]
-Czasy nieaktywnoœci
+Czasy nieaktywnoÅ›ci
 [Short idle after]
-Krótka nieaktywnoœæ po
+KrÃ³tka nieaktywnoÅ›Ä‡ po
 [Long idle after]
-D³uga nieaktywnoœæ po
+DÅ‚uga nieaktywnoÅ›Ä‡ po
 [Do not share my idle info.]
-Nie pokazuj mojej informacji o nieaktywnoœci
+Nie pokazuj mojej informacji o nieaktywnoÅ›ci
 [Do not set "Not Idle" automaticaly]
 Nie ustawiaj "Aktywny" automatycznie
 [Set "Not Idle" on manual status change]
-Ustaw "Aktywny" podczas rêcznej zmiany statusu
+Ustaw "Aktywny" podczas rÄ™cznej zmiany statusu
 [Simulate Idle]
-Symulacja bezczynnoœci
+Symulacja bezczynnoÅ›ci
 [Be Not Idle]
 Aktywny
 [Be Short Idle]
-Krótka bezczynnoœæ
+KrÃ³tka bezczynnoÅ›Ä‡
 [Be Long Idle]
-D³uga bezczynnoœæ
+DÅ‚uga bezczynnoÅ›Ä‡
 [Disable Idle menu. (restart is required)]
-Wy³¹cz menu Aktywnoœci
+WyÅ‚Ä…cz menu AktywnoÅ›ci
 [AdvancedAutoAway, an Auto Away module with some more options than the original.]
-AdvancedAutoAway, modu³ Auto Away wzbogacony o dodatkowe opcje.
+AdvancedAutoAway, moduÅ‚ Auto Away wzbogacony o dodatkowe opcje.
 [minutes of %s mode]
 minutach "%s"
 [Rules]
@@ -59,81 +59,81 @@ Zasady Auto Away
 [Auto Away]
 Auto Away
 [Auto Away General]
-Auto Away - Ogólne
+Auto Away - OgÃ³lne
 [when workstation is locked]
 kiedy komputer jest zablokowany
 [Del]
-Usuñ
+UsuÅ„
 
 ;=====================KeepStatus==========================
 [%s Connected from another location]
-%s Po³¹czono z innej lokalizacji.
+%s PoÅ‚Ä…czono z innej lokalizacji.
 [%s Login error (next retry (%d) in %ds)]
-%s B³¹d logowania (nastêpna próba (%d) za %ds)
+%s BÅ‚Ä…d logowania (nastÄ™pna prÃ³ba (%d) za %ds)
 [%s Login error, cancel reconnecting]
-%s B³¹d logowania, zatrzymano wznawianie.
+%s BÅ‚Ä…d logowania, zatrzymano wznawianie.
 [%s Status error (next retry (%d) in %ds)]
-%s B³¹d po³¹czenia (nastêpna próba (%d) za %ds)
+%s BÅ‚Ä…d poÅ‚Ä…czenia (nastÄ™pna prÃ³ba (%d) za %ds)
 [%s\t(will be set to %s)\r\n]
 %s\t(przywracany status: %s)\r\n
 [<from trigger>]
 <od inicjacji>
 [Activate status profile]
-W³¹cz profil statusu
+WÅ‚Ä…cz profil statusu
 [Add new profile]
 Dodaj nowy profil
 [after]
 po
 [Allow override]
-Pozwalaj nadpisywaæ
+Pozwalaj nadpisywaÄ‡
 [Automatically dial on startup]
-Automatycznie ³¹cz na starcie
+Automatycznie Å‚Ä…cz na starcie
 [Automatically hang up on exit]
-Automatycznie roz³¹cz przy wyjœciu
+Automatycznie rozÅ‚Ä…cz przy wyjÅ›ciu
 [Becoming active without status change]
-Przywracanie aktywnoœci bez zmiany statusu
+Przywracanie aktywnoÅ›ci bez zmiany statusu
 [Cancel all if a protocol connects from another location]
-Anuluj wszystko, jeœli protokó³ ³¹czy siê z innej lokalizacji
+Anuluj wszystko, jeÅ›li protokÃ³Å‚ Å‚Ä…czy siÄ™ z innej lokalizacji
 [Cancel reconnecting]
-Anuluj ponowne ³¹czenie
+Anuluj ponowne Å‚Ä…czenie
 [Check interval (secs)]
 Sprawdzaj co (sek)
 [Command Line:]
-Linia poleceñ:
+Linia poleceÅ„:
 [Command Line]
-Linia poleceñ
+Linia poleceÅ„
 [Confirm dialog timeout (secs)]
-Czas wyœwietlania okna potwierdzenia
+Czas wyÅ›wietlania okna potwierdzenia
 [Confirm resetting status]
-PotwierdŸ resetowanie statusu
+PotwierdÅº resetowanie statusu
 [Confirm Status]
-PotwierdŸ status
+PotwierdÅº status
 [Consider connection lost after]
-Reaguj na utratê po³¹czenia po
+Reaguj na utratÄ™ poÅ‚Ä…czenia po
 [Continuously check for internet connection]
-Ca³y czas szukaj po³¹czenia z internetem
+CaÅ‚y czas szukaj poÅ‚Ä…czenia z internetem
 [Continuously check interval (secs)]
-Ci¹g³e odstêpy sprawdzania (sek)
+CiÄ…gÅ‚e odstÄ™py sprawdzania (sek)
 [Copy to Clipboard]
 Kopiuj do schowka
 [Create a TopToolBar button]
-Utwórz przycisk paska narzêdzi
+UtwÃ³rz przycisk paska narzÄ™dzi
 [Create Shortcut]
-Utwórz skrót
+UtwÃ³rz skrÃ³t
 [Delay between retries (secs)]
-Przerwa miêdzy powtórzeniami
+Przerwa miÄ™dzy powtÃ³rzeniami
 [Dial-up (experimental)]
-Po³¹czenie (eksperymentalne)
+PoÅ‚Ä…czenie (eksperymentalne)
 [Dial-Up]
-Po³¹czenie
+PoÅ‚Ä…czenie
 [Disable checking]
-Wy³¹cz sprawdzanie
+WyÅ‚Ä…cz sprawdzanie
 [Do so by pinging host]
 Poprzez pingowanie hosta
 [Don't reconnect if no internet connection seems available]
-Nie próbuj ³¹czyæ ponownie, jeœli nie wykryjesz po³¹czenia z internetem
+Nie prÃ³buj Å‚Ä…czyÄ‡ ponownie, jeÅ›li nie wykryjesz poÅ‚Ä…czenia z internetem
 [Enable checking]
-W³¹cz sprawdzanie
+WÅ‚Ä…cz sprawdzanie
 [Entering first auto-away status]
 Wprowadzanie pierwszego statusu auto-away
 [Entering second auto-away status]
@@ -141,7 +141,7 @@ Wprowadzanie drugiego statusu auto-away
 [failed pings]
 stracone pingi
 [Give it up, I'm not in!]
-Daj spokój, nie ma mnie!
+Daj spokÃ³j, nie ma mnie!
 [Giving up]
 Rezygnacja z przywracania statusu.
 [I'm a chatbot!]
@@ -153,133 +153,133 @@ Ignoruj caps-lock, num-lock i scroll-lock
 [Ignore CRTL, ALT, SHIFT, TAB, ESC and Windows keys]
 Ignoruj CTRL, ALT, SHIFT, TAB, ESC i klawisz Windows
 [Ignore locked status of protocols]
-Ignoruj zablokowane statusy protoko³ów
+Ignoruj zablokowane statusy protokoÅ‚Ã³w
 [In submenu]
 W podmenu
 [Increase delay exponential]
-Zwiêksz opóŸnienie wyœwietlania
+ZwiÄ™ksz opÃ³Åºnienie wyÅ›wietlania
 [Leaving first auto-away status]
 Zostawianie pierwszego statusu auto-away
 [Leaving second auto-away status]
 Zostawianie drugiego statusu auto-away
 [Max. delay (secs)]
-Maks. opóŸnienie (s)
+Maks. opÃ³Åºnienie (s)
 [Max. protocol connecting time (secs)]
-Maks. czas próby po³¹czenia protoko³u
+Maks. czas prÃ³by poÅ‚Ä…czenia protokoÅ‚u
 [minutes of inactivity]
-minutach bezczynnoœci
+minutach bezczynnoÅ›ci
 [minutes of level 1 mode]
 minutach trybu poziomu 1
 [Monitor keyboard activity]
-ŒledŸ aktywnoœæ klawiatury
+ÅšledÅº aktywnoÅ›Ä‡ klawiatury
 [Monitor Miranda's activity only]
-Monitoruj tylko aktywnoœæ Mirandy
+Monitoruj tylko aktywnoÅ›Ä‡ Mirandy
 [Monitor mouse activity]
-ŒledŸ aktywnoœæ myszki
+ÅšledÅº aktywnoÅ›Ä‡ myszki
 [No internet connection seems available... (last try (%d))]
-Brak po³¹czenia z internetem... (ostatnia próba (%d))
+Brak poÅ‚Ä…czenia z internetem... (ostatnia prÃ³ba (%d))
 [No internet connection seems available... (next retry (%d) in %ds)]
-Brak po³¹czenia z internetem... (nastêpna próba (%d) za %ds)
+Brak poÅ‚Ä…czenia z internetem... (nastÄ™pna prÃ³ba (%d) za %ds)
 [Note: status profiles can be created in the 'Status Profiles' options screen]
-Info: profile statusów mog¹ zostaæ utworzone w menu "Profile statusów"
+Info: profile statusÃ³w mogÄ… zostaÄ‡ utworzone w menu "Profile statusÃ³w"
 [Only set if current status is]
 Ustaw tylko, gdy obecny status to:
 [only set when inactive]
-ustaw tylko przy bezczynnoœci
+ustaw tylko przy bezczynnoÅ›ci
 [Profile name]
 Nazwa profilu
 [Protocol Connection]
-Po³¹czenie protoko³u
+PoÅ‚Ä…czenie protokoÅ‚u
 [Protocols to check]
-Protoko³y do sprawdzenia
+ProtokoÅ‚y do sprawdzenia
 [React on login errors]
-Reakcja na b³êdy logowania
+Reakcja na bÅ‚Ä™dy logowania
 [Reconnect on APM resume]
-Po³¹cz po przywróceniu APM
+PoÅ‚Ä…cz po przywrÃ³ceniu APM
 [Reconnecting]
-Ponowne ³¹czenie
+Ponowne Å‚Ä…czenie
 [Reset status on return]
-Przywróæ status po powrocie
+PrzywrÃ³Ä‡ status po powrocie
 [Resetting status... (last try (%d))%s]
-Zerowanie statusu...(ostatnia próba (%d)) %s
+Zerowanie statusu...(ostatnia prÃ³ba (%d)) %s
 [Resetting status... (next retry (%d) in %ds)%s]
-Zerowanie statusu... (nastêpna próba (%d) za %ds) %s
+Zerowanie statusu... (nastÄ™pna prÃ³ba (%d) za %ds) %s
 [Set after]
 Ustaw po
 [Set delay to]
-Ustaw opóŸnienie na
+Ustaw opÃ³Åºnienie na
 [Set docked]
 Strona dokowania
 [Set protocol offline before a connection attempt]
-Roz³¹cz protokó³ przed prób¹ po³¹czenia
+RozÅ‚Ä…cz protokÃ³Å‚ przed prÃ³bÄ… poÅ‚Ä…czenia
 [Set status message]
 Ustaw opis
 [Set status to offline before exit]
-Przy wyjœciu zmieñ na niepo³¹czony
+Przy wyjÅ›ciu zmieÅ„ na niepoÅ‚Ä…czony
 [Set window location]
-Po³o¿enie okna
+PoÅ‚oÅ¼enie okna
 [Set window size]
 Rozmiar okna
 [Set window state]
 Stan okna
 [Show additional information in popups]
-Poka¿ dodatkowe informacje w popupach
+PokaÅ¼ dodatkowe informacje w popupach
 [Show CMDL]
-Poka¿ CMDL
+PokaÅ¼ CMDL
 [Show confirm dialog when loading]
-Poka¿ okno potwierdzania przy za³adunku
+PokaÅ¼ okno potwierdzania przy zaÅ‚adunku
 [Show dialog]
-Poka¿ okno
+PokaÅ¼ okno
 [Show other messages]
-Poka¿ inne wiadomoœci
+PokaÅ¼ inne wiadomoÅ›ci
 [Show popups]
-Poka¿ popupy
+PokaÅ¼ popupy
 [Show when a connection attempt is made]
-Poka¿ w trakcie próby po³¹czenia
+PokaÅ¼ w trakcie prÃ³by poÅ‚Ä…czenia
 [Show when connection is lost]
-Poka¿ po utarcie po³¹czenia
+PokaÅ¼ po utarcie poÅ‚Ä…czenia
 [Show when reconnection has finished]
-Poka¿ po ponownym po³¹czeniu
+PokaÅ¼ po ponownym poÅ‚Ä…czeniu
 [Specify settings for each protocol]
-Ustaw ka¿dy protokó³ osobn
+Ustaw kaÅ¼dy protokÃ³Å‚ osobn
 [Status error (next retry (%d) in %ds)]
-B³¹d po³¹czenia (nastêpna próba (%d) za %ds)
+BÅ‚Ä…d poÅ‚Ä…czenia (nastÄ™pna prÃ³ba (%d) za %ds)
 [Status on startup]
 Status podczas startu
 [Status Profiles]
-Profile statusów
+Profile statusÃ³w
 [Status was set ok]
-Status przywrócony pomyœlnie.
+Status przywrÃ³cony pomyÅ›lnie.
 [Status: The status the protocol will change to\r\nProtocol: The protocol changing state]
-Status: Status protoko³u zosta³ zmieniony do\r\Protokó³: Protokó³ zmieni³ status
+Status: Status protokoÅ‚u zostaÅ‚ zmieniony do\r\ProtokÃ³Å‚: ProtokÃ³Å‚ zmieniÅ‚ status
 [Stop trying to reconnect]
-Przerwij próby ponownego ³¹czenia
+Przerwij prÃ³by ponownego Å‚Ä…czenia
 [Timeout]
-Czas wyœwietlania
+Czas wyÅ›wietlania
 [Timers]
 Stopery
 [Trigger when a login error occurs]
-Zainicjuj po b³êdzie logowania
+Zainicjuj po bÅ‚Ä™dzie logowania
 [Trigger when connection loss is detected]
-Zainicjuj po wykryciu utraty po³¹czenia
+Zainicjuj po wykryciu utraty poÅ‚Ä…czenia
 [Trigger when giving up reconnecting]
-Zainicjuj po przerwaniu ponownego ³¹czenia
+Zainicjuj po przerwaniu ponownego Å‚Ä…czenia
 [Trigger when reconnected from another location]
-Zainicjuj po ponownym po³¹czeniu z innej lokalizacji
+Zainicjuj po ponownym poÅ‚Ä…czeniu z innej lokalizacji
 [Trigger when reconnection attempt is made]
-Zainicjuj przy próbie ponownego po³¹czenia
+Zainicjuj przy prÃ³bie ponownego poÅ‚Ä…czenia
 [Trigger when successfull reconnected]
-Zainicjuj po ponownym po³¹czeniu
+Zainicjuj po ponownym poÅ‚Ä…czeniu
 [TriggerData]
-Wywo³ywanie danych
+WywoÅ‚ywanie danych
 [Use Miranda's message setting]
-U¿yj ustawieñ opisu Mirandy
+UÅ¼yj ustawieÅ„ opisu Mirandy
 [Use same settings for all protocols]
-U¿yj takich samych ustawieñ dla wszystkich protoko³ów
+UÅ¼yj takich samych ustawieÅ„ dla wszystkich protokoÅ‚Ã³w
 [Use this message:]
-U¿yj tego opisu:
+UÅ¼yj tego opisu:
 [when screen saver engages]
-gdy w³¹czy siê wygaszacz
+gdy wÅ‚Ä…czy siÄ™ wygaszacz
 [when workstation is locked]
 kiedy komputer jest zablokowany
 [will be set to]
@@ -287,35 +287,35 @@ przywracany status:
 [Window on startup]
 Okno podczas startu
 [You broke the Internet!]
-Problem z nawi¹zaniem po³¹czenia!
+Problem z nawiÄ…zaniem poÅ‚Ä…czenia!
 [You enabled "Change my status mode to" in the "Idle" options dialog, AdvancedAutoAway's options are ignored.]
-W³¹czy³eœ "Zmieñ mój status na" w opcjach "Bezczynnoœci", ustawienia AdvancedAutoAway bêd¹ ignorowane.
+WÅ‚Ä…czyÅ‚eÅ› "ZmieÅ„ mÃ³j status na" w opcjach "BezczynnoÅ›ci", ustawienia AdvancedAutoAway bÄ™dÄ… ignorowane.
 [Max. retries]
-Maks. powtórzeñ
+Maks. powtÃ³rzeÅ„
 [Check connection]
-SprawdŸ po³¹czenie
+SprawdÅº poÅ‚Ä…czenie
 
 ;=====================StartupStatus==========================
 
 [At least one profile must exist]
-Musi istnieæ przynajmniej 1 profil
+Musi istnieÄ‡ przynajmniej 1 profil
 [Hidden]
 Ukryte
 [loc: %d x %d]
-po³: %d x %d
+poÅ‚: %d x %d
 [New global status message.]
 Nowy globalny status.
 [size: %d x %d]
 rozmiar: %d x %d
 [Startup requires Miranda IM of version 0.8, get it at www.miranda-im.org]
-Startup wymaga Mirandy IM w wersji 0.8, mo¿esz j¹ pobraæ z www.miranda-im.org
+Startup wymaga Mirandy IM w wersji 0.8, moÅ¼esz jÄ… pobraÄ‡ z www.miranda-im.org
 [There is a maximum of 6 menu items]
-Mo¿e byæ maks. 6 wpisów w menu
+MoÅ¼e byÄ‡ maks. 6 wpisÃ³w w menu
 [Your default profile will be changed]
-Twój domyœlny profil zostanie zmieniony
+TwÃ³j domyÅ›lny profil zostanie zmieniony
 [Set %s message for %s.]
 Ustaw opis %s dla %s.
 [<n/a>]
-<niedostêpny>
+<niedostÄ™pny>
 [<last>]
 <ostatni>

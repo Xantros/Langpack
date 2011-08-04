@@ -8,7 +8,7 @@ Temat\n    %s\nz\n%s\n%s\n
 [subject\n    %s\nfrom\n%s]
 Temat\n    %s\nod\n%s
 [You've received an e-mail\n%s unread threads]
-Otrzyma³eœ E-mail\n%s nieprzeczytane w¹tki
+OtrzymaÅ‚eÅ› E-mail\n%s nieprzeczytane wÄ…tki
 [Unread threads:]
 Nieprzeczytane:
 [GMail notifications]
@@ -16,34 +16,34 @@ Powiadomienia GMail
 [Popup notifications (needs popup plugin)]
 Powiadomienia Popup (wymagany plugin PopUp)
 [Notify in contact list]
-Informuj na liœcie kontaktów
+Informuj na liÅ›cie kontaktÃ³w
 [Clear pseudocontact history before adding new events]
-Czyœæ historiê pseudokontaktów przed dodaniem nowych zdarzeñ
+CzyÅ›Ä‡ historiÄ™ pseudokontaktÃ³w przed dodaniem nowych zdarzeÅ„
 [Notify in fullscreen mode too]
-Informuj tak¿e w trybie pe³noekranowym
+Informuj takÅ¼e w trybie peÅ‚noekranowym
 [NOTE\n\nThis will work only if this Jabber account is actually GTalk]
-UWAGA\n\nBêdzie dzia³aæ tylko, gdy konto Jabber jest skonfigurowane pod GTalk
+UWAGA\n\nBÄ™dzie dziaÅ‚aÄ‡ tylko, gdy konto Jabber jest skonfigurowane pod GTalk
 [Use this if your popup plugin does not correctly detect fullscreen mode. It will take away your keyboard focus]
-U¿yj tej opcji je¿eli twoja wtyczka Popupów niepoprawnie wykrywa tryb pe³nego ekranu. To przejmie focus klawiszy.
+UÅ¼yj tej opcji jeÅ¼eli twoja wtyczka PopupÃ³w niepoprawnie wykrywa tryb peÅ‚nego ekranu. To przejmie focus klawiszy.
 [0 means default timeout]
-0 - domyœlny czas
+0 - domyÅ›lny czas
 [If both colors set to the same value, default colors will be used]
-Jeœli oba kolory ustawione s¹ na tak¹ sam¹ wartoœæ, zostan¹ wykorzystane domyœlne kolory
+JeÅ›li oba kolory ustawione sÄ… na takÄ… samÄ… wartoÅ›Ä‡, zostanÄ… wykorzystane domyÅ›lne kolory
 [Mark history event read when popup closed]
 Oznacz zdarzenie w historii jako przeczytane podczas zamykania popup
 [Try to login before open mailbox]
-Spróbuj siê zalogowaæ przed otwarciem skrzynki pocztowej
+SprÃ³buj siÄ™ zalogowaÄ‡ przed otwarciem skrzynki pocztowej
 [This works only if password is saved in the database. Has no effect on links in pseudocontact message log]
-To dzia³a tylko wtedy, gdy has³o jest zapisane w bazie danych. Nie ma wp³ywu na linki w pseudokontaktach dziennika
+To dziaÅ‚a tylko wtedy, gdy hasÅ‚o jest zapisane w bazie danych. Nie ma wpÅ‚ywu na linki w pseudokontaktach dziennika
 [Open mailbox]
-Otwórz skrzynkê pocztow¹
+OtwÃ³rz skrzynkÄ™ pocztowÄ…
 [Add message snip to notification]
-Dodaj przyciêt¹ wiaodmoœæ do powiadomienia
+Dodaj przyciÄ™tÄ… wiaodmoÅ›Ä‡ do powiadomienia
 [Choose GMail view you use in web interface]
-Wybierz podgl¹d Gmaila
+Wybierz podglÄ…d Gmaila
 [I don't know]
 Nie wiadomo
 [Standard view]
-Standardowy podgl¹d
+Standardowy podglÄ…d
 [Basic HTML]
 Podstawowy HTML

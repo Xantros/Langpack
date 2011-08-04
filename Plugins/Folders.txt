@@ -4,27 +4,27 @@
 ;  Version: 0.1.5.3
 ;============================================================
 [Some changes weren't saved. Apply the changes now ?]
-Nie wszystkie zmiany zosta³y zapisane. Zastosowaæ zmiany teraz?
+Nie wszystkie zmiany zostaÅ‚y zapisane. ZastosowaÄ‡ zmiany teraz?
 [Test folders]
 Testowe foldery
 [Custom folders]
-W³asne foldery
+WÅ‚asne foldery
 [Refresh preview]
-Odœwie¿ podgl¹d
+OdÅ›wieÅ¼ podglÄ…d
 [Variables help]
 Pomoc o zmiennych
 [Custom folders variables help]
-Pomoc o zmiennych w³asnych folderów
+Pomoc o zmiennych wÅ‚asnych folderÃ³w
 [Folders]
 Foldery
 [Custom profile folders]
-W³asne foldery
+WÅ‚asne foldery
 [Group chat logs root]
 Folder dziennika czatu
 [Crash Reports]
-Raporty b³êdów
+Raporty bÅ‚Ä™dÃ³w
 [Skins root]
-Folder skórki
+Folder skÃ³rki
 [Smiley Cache]
 Schowek emotikon
 [YAMN Account Folder]
@@ -32,44 +32,44 @@ Folder kont mailowych
 [Game Icon Folder]
 Folder ikon gier
 [Data path]
-Folder g³ówny
+Folder gÅ‚Ã³wny
 [Working Folder]
-Folder g³ówny
+Folder gÅ‚Ã³wny
 [Saved Archives]
 Zapisane Archiwum
 [Translations folder]
-Folder t³umacza
+Folder tÅ‚umacza
 [Backups]
 Kopia zapasowa
 [Saved Avatars]
 Zapisane awatary
 [{\\*\\generator Msftedit 5.41.21.2500;}\\viewkind4\\uc1\\pard\\nowidctlpar\\ri-1686\\f0\\fs20 Don't forget to click on \\i Apply\\i0  to save the changes. If you don't then the changes won't\n]
-{\\*\\generator Msftedit 5.41.21.2500;}\\viewkind4\\uc1\\pard\\nowidctlpar\\ri-1686\\f0\\fs20 Nie zapomnij klikn¹æ na \\i Zastosuj\\i0  aby zapisaæ zmiany. Jeœli nie, zmiany nie zostan¹ zapisane\n
+{\\*\\generator Msftedit 5.41.21.2500;}\\viewkind4\\uc1\\pard\\nowidctlpar\\ri-1686\\f0\\fs20 Nie zapomnij kliknÄ…Ä‡ na \\i Zastosuj\\i0  aby zapisaÄ‡ zmiany. JeÅ›li nie, zmiany nie zostanÄ… zapisane\n
 [be saved to the database, they will only be valid for this session.\\par\\pard\\nowidctlpar\\ul\\b\\par\n]
-do bazy danych, bêd¹ wa¿ne tylko w tej sesji.\\par\\pard\\nowidctlpar\\ul\\b\\par\n
+do bazy danych, bÄ™dÄ… waÅ¼ne tylko w tej sesji.\\par\\pard\\nowidctlpar\\ul\\b\\par\n
 [Variable string\\ulnone\\b0\\tab\\tab\\ul\\b What it expands to:\\ulnone\\b0\\par\n]
-Zmienne\\ulnone\\b0\\tab\\tab\\tab\\ul\\b W³aœciwoœci:\\ulnone\\b0\\par\n
+Zmienne\\ulnone\\b0\\tab\\tab\\tab\\ul\\b WÅ‚aÅ›ciwoÅ›ci:\\ulnone\\b0\\par\n
 [%miranda_userdata%\\tab Expands to the private profile data directory.\\par%miranda_path%\\tab Expands to your miranda path (e.g: c:\\\\program files\\\\miranda im).\\par%profile_path%\\tab\\tab Expands to your profile path - the value found in mirandaboot.ini,\\par\\tab\\tab\\tab\\ul ProfileDir\\ulnone  section (usually inside miranda's folder).\\par\\pard\\nowidctlpar\\ri-696 %current_profile%\\tab Expands to your current profile name without the extenstion.\\par\\tab\\tab\\tab (e.g.\\b default\\b0  if your your profile is \\i default.dat\\i0 ).\\par\\par\n]
-%miranda_userdata%\\tab Prywatny katalog danych profilu.\\par%miranda_path%\\tab Œcie¿ka do Mirandy (np: C:\\\\Program files\\\\Miranda IM).\\par%profile_path%\\tab\\tab Œcie¿ka do profilu - wartoœæ znaleziona w mirandaboot.ini,\\par\\tab\\tab\\tab\\ul ProfileDir\\ulnone  (zazwyczaj wewn¹trz katalogu Mirandy).\\par\\pard\\nowidctlpar\\ri-696 %current_profile%\\tab Œcie¿ka do aktualnego profilu bez rozszerzenia.\\par\\tab\\tab\\tab (np:\\b  default\\b0  jeœli twój profil to \\i default.dat\\i0 ).\\par\\par\n
+%miranda_userdata%\\tab Prywatny katalog danych profilu.\\par%miranda_path%\\tab ÅšcieÅ¼ka do Mirandy (np: C:\\\\Program files\\\\Miranda IM).\\par%profile_path%\\tab\\tab ÅšcieÅ¼ka do profilu - wartoÅ›Ä‡ znaleziona w mirandaboot.ini,\\par\\tab\\tab\\tab\\ul ProfileDir\\ulnone  (zazwyczaj wewnÄ…trz katalogu Mirandy).\\par\\pard\\nowidctlpar\\ri-696 %current_profile%\\tab ÅšcieÅ¼ka do aktualnego profilu bez rozszerzenia.\\par\\tab\\tab\\tab (np:\\b  default\\b0  jeÅ›li twÃ³j profil to \\i default.dat\\i0 ).\\par\\par\n
 [\\ul\\b Environment variables\\par\n]
-\\ul\\b Zmienne œrodowiskowe\\par\n
+\\ul\\b Zmienne Å›rodowiskowe\\par\n
 [\\ulnone\\b0 The plugin can also expand environment variables; the variables are specified like in any other\n]
-\\ulnone\\b0 Plugin mo¿e rozszerzyæ mo¿liwoœci zmiennych œrodowiskowych; zmienne s¹ okreœlone jak w ka¿dym \n
+\\ulnone\\b0 Plugin moÅ¼e rozszerzyÄ‡ moÅ¼liwoÅ›ci zmiennych Å›rodowiskowych; zmienne sÄ… okreÅ›lone jak w kaÅ¼dym \n
 [program that can use environment variables, i.e. %<env variable>%.\n]
-innym programie, który mo¿e u¿ywaæ zmiennych œrodowiskowych, tj. %<env variable>%.\n
+innym programie, ktÃ³ry moÅ¼e uÅ¼ywaÄ‡ zmiennych Å›rodowiskowych, tj. %<env variable>%.\n
 [\\b Note\\b0 : Environment variables are expanded before any Miranda variables. So if you have, for\n]
-\\b Notatka\\b0 : Zmienne œrodowiskowe s¹ rozszerzane przed zmiennymi Mirandy. Wiêc jeœli masz np:\n
+\\b Notatka\\b0 : Zmienne Å›rodowiskowe sÄ… rozszerzane przed zmiennymi Mirandy. WiÄ™c jeÅ›li masz np:\n
 [example, %profile_path% defined as a system variable then it will be expanded to that value\\ninstead of expanding to Miranda\\rquote s profile path.\\par\n]
-%profile_path% zdefiniowana jako zmienna zostanie ona rozszerzona do tej wartoœci\\ninstead \\par rozszerzenia do œcie¿ki profilu Mirandy.\\par\n
+%profile_path% zdefiniowana jako zmienna zostanie ona rozszerzona do tej wartoÅ›ci\\ninstead \\par rozszerzenia do Å›cieÅ¼ki profilu Mirandy.\\par\n
 [\\ul\\b Examples:\\par\n]
-\\ul\\b Przyk³ad:\\par\n
+\\ul\\b PrzykÅ‚ad:\\par\n
 [\\ulnone\\b0 If the value for the ProfileDir inside \\i mirandaboot.ini\\i0 , \\ul ProfileDir\\ulnone  section is '.\\\\profiles', current\n]
-\\ulnone\\b0 Jeœli wartoœæ ProfileDir wewn¹trz \\i mirandaboot.ini\\i0 , sekcja \\ul ProfileDir\\ulnone  to '.\\\\profiles', aktualny\n
+\\ulnone\\b0 JeÅ›li wartoÅ›Ä‡ ProfileDir wewnÄ…trz \\i mirandaboot.ini\\i0 , sekcja \\ul ProfileDir\\ulnone  to '.\\\\profiles', aktualny\n
 [profile is 'default.dat' and miranda's path is 'c:\\\\program files\\\\miranda im' then:\\par\n]
-profil to 'default.dat' a œcie¿ka mirandy to 'C:\\\\Program files\\\\Miranda IM' wtedy:\\par\n
+profil to 'default.dat' a Å›cieÅ¼ka mirandy to 'C:\\\\Program files\\\\Miranda IM' wtedy:\\par\n
 [\\b %miranda_path%\\b0  \\tab\\tab\\tab will expand to 'c:\\\\program files\\\\miranda im'\\par\\b %profile_path%\\b0  \\tab\\tab\\tab will expand to 'c:\\\\program files\\\\miranda im\\\\profiles'\\par\\b %current_profile%\\b0\\tab\\tab\\tab will expand to 'default'\\par\\b %temp%\\b0\\tab\\tab\\tab\\tab will expand to the temp folder of the current user.\\par\\b %profile_path%\\\\%current_profile%\\tab\\b0 will expand to 'c:\\\\program files\\\\miranda im\\\\profiles\\\\default'\\par\\b %miranda_path%\\\\plugins\\\\config\\b0\\tab will expand to 'c:\\\\program files\\\\miranda im\\\\plugins\\\\config'\\par\\b '   %miranda_path%\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\     '\\b0\\tab will expand to 'c:\\\\program files\\\\miranda im'\\par\n]
-\\b %miranda_path%\\b0  \\tab\\tab\\tab rozszerzy siê do 'C:\\\\Program files\\\\Miranda IM'\\par\\b %profile_path%\\b0  \\tab\\tab\\tab rozszerzy siê do 'C:\\\\Program files\\\\Miranda IM\\\\Profiles'\\par\\b %current_profile%\\b0\\tab\\tab\\tab rozszerzy siê do 'default'\\par\\b %temp%\\b0\\tab\\tab\\tab\\tab rozszerzy siê do tymczasowego folderu aktualnego u¿ytkownika\\par\\b %profile_path%\\\\%current_profile%\\b0     rozszerzy siê do 'C:\\\\Program files\\\\Miranda IM\\\\Profiles\\\\default'\\par\\b %miranda_path%\\\\Plugins\\\\Config\\b0\\tab rozszerzy siê do 'C:\\\\Program files\\\\Miranda IM\\\\Plugins\\\\Config'\\par\\b '   %miranda_path%\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\     '\\b0\\tab rozszerzy siê do 'C:\\\\Program files\\\\Miranda IM'\\par\n
+\\b %miranda_path%\\b0  \\tab\\tab\\tab rozszerzy siÄ™ do 'C:\\\\Program files\\\\Miranda IM'\\par\\b %profile_path%\\b0  \\tab\\tab\\tab rozszerzy siÄ™ do 'C:\\\\Program files\\\\Miranda IM\\\\Profiles'\\par\\b %current_profile%\\b0\\tab\\tab\\tab rozszerzy siÄ™ do 'default'\\par\\b %temp%\\b0\\tab\\tab\\tab\\tab rozszerzy siÄ™ do tymczasowego folderu aktualnego uÅ¼ytkownika\\par\\b %profile_path%\\\\%current_profile%\\b0     rozszerzy siÄ™ do 'C:\\\\Program files\\\\Miranda IM\\\\Profiles\\\\default'\\par\\b %miranda_path%\\\\Plugins\\\\Config\\b0\\tab rozszerzy siÄ™ do 'C:\\\\Program files\\\\Miranda IM\\\\Plugins\\\\Config'\\par\\b '   %miranda_path%\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\     '\\b0\\tab rozszerzy siÄ™ do 'C:\\\\Program files\\\\Miranda IM'\\par\n
 [notice that the spaces at the beginning and the end of the string are trimmed, as well as the last \\\\\\par\n]
-Informacja, odstêp na pocz¹tku i na koñcu stringu s¹ przyciête, jak równie¿ ostatnie \\\\\\par\n
+Informacja, odstÄ™p na poczÄ…tku i na koÅ„cu stringu sÄ… przyciÄ™te, jak rÃ³wnieÅ¼ ostatnie \\\\\\par\n
 [Changes not saved]
 Zmiany nie zapisane

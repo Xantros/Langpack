@@ -6,48 +6,48 @@
 [When a contact returns after ]
 Gdy wraca kontakt po
 [Show a popup]
-Poka¿ popup
+PokaÅ¼ popup
 [Add an event (flashing icon) to the contact]
-Dodaj wydarzenie (migaj¹ca ikona) do kontaktu
+Dodaj wydarzenie (migajÄ…ca ikona) do kontaktu
 [On event action (double click) or popup click:]
-W akcji zdarzenie (podwójny klik) lub kliknij popup:
+W akcji zdarzenie (podwÃ³jny klik) lub kliknij popup:
 [Open User Details]
-Otwórz szczegó³y u¿ytkownika
+OtwÃ³rz szczegÃ³Å‚y uÅ¼ytkownika
 [Open message window]
-Otwórz okno wiadomoœci
+OtwÃ³rz okno wiadomoÅ›ci
 [Return notification]
-Powrót powiadomienia
+PowrÃ³t powiadomienia
 [When a contact is absent for]
 Gdy kontakt jest nieobecny
 [Long time no see]
-Dawno siê nie widzieliœmy
+Dawno siÄ™ nie widzieliÅ›my
 [or comes online for the first time]
-lub przyszed³ jako dostêpny pierwszy raz
+lub przyszedÅ‚ jako dostÄ™pny pierwszy raz
 [Enable \"Miss you\" feature]
-W³¹cz funkcjê \"Têsknie\"
+WÅ‚Ä…cz funkcjÄ™ \"TÄ™sknie\"
 [Hide when no messages for]
-Ukryj kiedy brak wiadomoœci dla
+Ukryj kiedy brak wiadomoÅ›ci dla
 [Use Popups colors]
-U¿yj kolorów popup
+UÅ¼yj kolorÃ³w popup
 [Use Windows colors]
-U¿yj kolorów windows
+UÅ¼yj kolorÃ³w windows
 [Last seen online:]
 Ostatnio widziany:
 [Last input message:]
-Ostatnia wiadomoœæ:
+Ostatnia wiadomoÅ›Ä‡:
 [Custom absence period:]
-Czas nieobecnoœci:
+Czas nieobecnoÅ›ci:
 [Never hide this contact]
 Nigdy nie ukrywaj kontaktu
 [Enable Miss You]
-W³¹cz Têsknie
+WÅ‚Ä…cz TÄ™sknie
 [Notify always]
 Zawsze powiadom
 [weeks]
 tygodni
 [months]
-miesiêcy
+miesiÄ™cy
 [years]
 lat
 [Delete the contact]
-Usuñ kontakt
+UsuÅ„ kontakt

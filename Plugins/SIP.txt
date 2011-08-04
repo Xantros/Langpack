@@ -14,4 +14,4 @@ Serwer STUN:
 [Publish status]
 Publikuj status
 [Send keep-alives]
-Wyúlij utrzymywanie aktywnoúci
+Wy≈õlij utrzymywanie aktywno≈õci

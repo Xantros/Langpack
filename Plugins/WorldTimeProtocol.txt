@@ -4,7 +4,7 @@
 ;  Versions: 0.3.1.0
 ;============================================================
 [World Time]
-Czas na Œwiecie
+Czas na Åšwiecie
 [Configuration]
 Konfiguracja
 [Times]
@@ -12,31 +12,31 @@ Czasy
 [Engine]
 Silnik
 [Engine/Voice]
-Silnik/G³os
+Silnik/GÅ‚os
 [Engine Settings]
 Ustawienia silnika
 [Welcome Message]
-Wiadomoœæ Powitalna
+WiadomoÅ›Ä‡ Powitalna
 [Status Changes]
 Zmiany statusu
 [Occuring Events]
-Wystepuj¹ce zdarzenia
+WystepujÄ…ce zdarzenia
 [Authorisation Request]
 Wymagana autoryzacja
 [Added to Contact List]
 Dodane do listy kontaktowej
 [Announce status changes on connect]
-Powiadomienie o zmianie statusu przy ³¹czeniu
+Powiadomienie o zmianie statusu przy Å‚Ä…czeniu
 [Message Events]
-Zdarzenia wiadomoœci
+Zdarzenia wiadomoÅ›ci
 [Ignore event if message dialog is open]
 Ignoruj zdarzenie gdy okno rozmowy jest otwarte
 [Read message if less characters than]
-Czytaj wiadomoœæ jeœli jest mniej znaków ni¿
+Czytaj wiadomoÅ›Ä‡ jeÅ›li jest mniej znakÃ³w niÅ¼
 [Ignore event if message dialog is focused]
-Ignoruj zdarzenie gdy okno jest wyœrodkowane
+Ignoruj zdarzenie gdy okno jest wyÅ›rodkowane
 [Remove]
-Usuñ
+UsuÅ„
 [Format Date]
 Format daty
 [and Time]
@@ -48,9 +48,9 @@ i czasu
 [%t = time]
 %t = czas
 [Contact List:]
-Lista kontaktów:
+Lista kontaktÃ³w:
 [Hide in status bar and status menu (requires restart - uncheck to set icons)]
-Ukryj protokó³ w pasku i menu statusu (wymaga restartu - odznacz ¿eby anulowaæ)
+Ukryj protokÃ³Å‚ w pasku i menu statusu (wymaga restartu - odznacz Å¼eby anulowaÄ‡)
 [%o = offset]
 %o = offset
 [Time Details]
@@ -60,8 +60,8 @@ Alfabetycznie
 [Geographical]
 Geograficznie
 [Sort Order:]
-Sortuj w porz¹dku:
+Sortuj w porzÄ…dku:
 [World Time Protocol]
-Protokó³ Czasu na Œwiecie
+ProtokÃ³Å‚ Czasu na Åšwiecie
 [Adds 'contacts' showing the time at specified locations around the world.]
-Dodaj 'kontakty' pokazuj¹ce czas w okreœlonej lokacji wokó³ œwiata.
+Dodaj 'kontakty' pokazujÄ…ce czas w okreÅ›lonej lokacji wokÃ³Å‚ Å›wiata.

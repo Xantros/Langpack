@@ -6,25 +6,25 @@
 [AutoShutdown]
 AutoShutdown
 [Adds the possibility to shutdown the computer when a specified event occurs.]
-Dodaje mo¿liwoœæ wy³¹czenia komputera po wyst¹pieniu okreœlonych zdarzeñ.
+Dodaje moÅ¼liwoÅ›Ä‡ wyÅ‚Ä…czenia komputera po wystÄ…pieniu okreÅ›lonych zdarzeÅ„.
 [AutoShutdown Plugin]
 Wtyczka AutoShutdown
 [The AutoShutdown plugin can not be loaded. It requires Miranda IM %hs or later.]
-Nie mo¿na za³adowaæ wtyczki AutoShutdown, poniewa¿ wymaga ona Mirandy IM %hs lub nowszej.
+Nie moÅ¼na zaÅ‚adowaÄ‡ wtyczki AutoShutdown, poniewaÅ¼ wymaga ona Mirandy IM %hs lub nowszej.
 [Automatic &shutdown...]
-Automatyczne wy³¹czanie...
+Automatyczne wyÅ‚Ä…czanie...
 [Stop automatic &shutdown]
-Zatrzymaj automatyczne wy³¹czanie
+Zatrzymaj automatyczne wyÅ‚Ä…czanie
 [Start/Stop automatic shutdown]
-Rozpocznij/Zatrzymaj automatyczne wy³¹czanie
+Rozpocznij/Zatrzymaj automatyczne wyÅ‚Ä…czanie
 [Start automatic shutdown]
-Rozpocznij automatyczne wy³¹czanie
+Rozpocznij automatyczne wyÅ‚Ä…czanie
 [Stop automatic shutdown]
-Zatrzymaj automatyczne wy³¹czanie
+Zatrzymaj automatyczne wyÅ‚Ä…czanie
 [Automatic Shutdown Countdown]
-Odliczanie automatycznego wy³¹czania
+Odliczanie automatycznego wyÅ‚Ä…czania
 [Toggle Automatic Shutdown]
-Prze³¹cz automatyczne wy³¹czanie
+PrzeÅ‚Ä…cz automatyczne wyÅ‚Ä…czanie
 [Active]
 Aktywny
 [Inactive]
@@ -32,15 +32,15 @@ Nieaktywny
 [Countdown on Frame]
 Odliczanie w ramce
 [Progress Bar]
-Pasek postêpu
+Pasek postÄ™pu
 [Select the automatic shutdown event]
-Wybierz zdarzenie powoduj¹ce automatyczne wy³¹czenie
+Wybierz zdarzenie powodujÄ…ce automatyczne wyÅ‚Ä…czenie
 [Shutdown at &specific time]
-Wy³¹cz o okreœlonym czasie
+WyÅ‚Ä…cz o okreÅ›lonym czasie
 [Shutdown a&t:]
-Wy³¹cz o:
+WyÅ‚Ä…cz o:
 [Shutdown i&n:]
-Wy³¹cz za:
+WyÅ‚Ä…cz za:
 [Second(s)]
 Sekund(y)
 [Minute(s)]
@@ -52,95 +52,95 @@ Dni
 [Week(s)]
 Tygodnie
 [Month(s)]
-Miesi¹c(e)
+MiesiÄ…c(e)
 [Shutdown when a &message is received containing the following text:]
-Wy³¹cz po otrzymaniu wiadomoœci o nastêpuj¹cej treœci:
+WyÅ‚Ä…cz po otrzymaniu wiadomoÅ›ci o nastÄ™pujÄ…cej treÅ›ci:
 [Shutdown when all &file transfers are finished]
-Wy³¹cz po zakoñczeniu wszystkich transferów
+WyÅ‚Ä…cz po zakoÅ„czeniu wszystkich transferÃ³w
 [Shutdown when &prozessor usage drops below:]
-Wy³¹cz kiedy zu¿ycie procesora przekroczy:
+WyÅ‚Ä…cz kiedy zuÅ¼ycie procesora przekroczy:
 [(current: %u%%)]
 (obecnie: %u%%)
 [Shutdown when Miranda IM becomes &idle]
-Wy³¹cz kiedy Miranda przejdzie w bezczynnoœæ
+WyÅ‚Ä…cz kiedy Miranda przejdzie w bezczynnoÅ›Ä‡
 [Shutdown when all contacts are &offline]
-Wy³¹cz jeœli wszystkie kontakty bêd¹ roz³¹czone
+WyÅ‚Ä…cz jeÅ›li wszystkie kontakty bÄ™dÄ… rozÅ‚Ä…czone
 [&Action:]
 Akcja:
 [Close Miranda IM]
-Zamknij Mirandê IM
+Zamknij MirandÄ™ IM
 [Sets all Miranda IM protocols to offline and closes Miranda IM.]
-Roz³¹cza wszystkie protoko³y i wy³¹cza Mirandê IM.
+RozÅ‚Ä…cza wszystkie protokoÅ‚y i wyÅ‚Ä…cza MirandÄ™ IM.
 [Set Miranda IM offline]
-Roz³¹cz Mirandê IM
+RozÅ‚Ä…cz MirandÄ™ IM
 [Sets all Miranda IM protocols to offline.]
-Roz³¹cza wszystkie protoko³y Mirandy.
+RozÅ‚Ä…cza wszystkie protokoÅ‚y Mirandy.
 [Log off user]
-Wyloguj u¿ytkownika
+Wyloguj uÅ¼ytkownika
 [Logs the current Windows user off so that another user can log in.]
-Wylogowuje aktualnego u¿ytkownika Windows, aby ktoœ inny móg³ siê zalogowaæ.
+Wylogowuje aktualnego uÅ¼ytkownika Windows, aby ktoÅ› inny mÃ³gÅ‚ siÄ™ zalogowaÄ‡.
 [Restart computer]
 Zrestartuj komputer
 [Shuts down Windows and then restarts Windows.]
-Wy³¹cza Windows i restartuje komputer.
+WyÅ‚Ä…cza Windows i restartuje komputer.
 [Shutdown computer]
-Wy³¹cz komputer
+WyÅ‚Ä…cz komputer
 [Closes all running programs and shuts down Windows to a point at which it is safe to turn off the power.]
-Zamyka wszystkie uruchomione programy i wy³¹cza Windows co pozwala wy³¹czyæ zasilanie.
+Zamyka wszystkie uruchomione programy i wyÅ‚Ä…cza Windows co pozwala wyÅ‚Ä…czyÄ‡ zasilanie.
 [Standby mode]
 Tryb oczekiwania
 [Saves the current Windows session in memory and sets the system to suspend mode.]
-Zapisuje aktualn¹ sesjê Windows w pamiêci i ustawia system w tryb wstrzymania.
+Zapisuje aktualnÄ… sesjÄ™ Windows w pamiÄ™ci i ustawia system w tryb wstrzymania.
 [Hibernate mode]
 Tryb hibernacji
 [Saves the current Windows session on harddisc, so that the power can be turned off.]
-Zapisuje aktualn¹ sesjê Windows na dysku twardym ¿eby mo¿na by³o wy³¹czyæ zasilanie.
+Zapisuje aktualnÄ… sesjÄ™ Windows na dysku twardym Å¼eby moÅ¼na byÅ‚o wyÅ‚Ä…czyÄ‡ zasilanie.
 [Lock workstation]
 Zablokuj komputer
 [Locks the computer. To unlock the computer, you must log in.]
-Blokuje komputer. Aby go odblokowaæ musisz siê zalogowaæ.
+Blokuje komputer. Aby go odblokowaÄ‡ musisz siÄ™ zalogowaÄ‡.
 [Hang up dialup connections]
-Zawieœ aktywne po³¹czenia
+ZawieÅ› aktywne poÅ‚Ä…czenia
 [Sets all protocols to offline and closes all RAS connections.]
-Roz³¹cza wszystkie protoko³y i zamyka sesje wszystkie RAS.
+RozÅ‚Ä…cza wszystkie protokoÅ‚y i zamyka sesje wszystkie RAS.
 [Shutdown]
-Wy³¹czanie
+WyÅ‚Ä…czanie
 [&Show confirmation dialog before shutdown]
-Poka¿ okno potwierdzenia przed zamkniêciem
+PokaÅ¼ okno potwierdzenia przed zamkniÄ™ciem
 [&Countdown starts at:]
 Odliczaj od:
 [Shutdown Events]
-Zdarzenia zwi¹zane z wy³¹czaniem
+Zdarzenia zwiÄ…zane z wyÅ‚Ä…czaniem
 [&Activate automatic shutdown with the same settings again if Miranda IM was closed with automatic shutdown enabled]
-Aktywuj ponownie automatyczne wy³¹czanie z tymi samymi opcjami jeœli Miranda zostanie zamkniêta przez tê wtyczkê
+Aktywuj ponownie automatyczne wyÅ‚Ä…czanie z tymi samymi opcjami jeÅ›li Miranda zostanie zamkniÄ™ta przez tÄ™ wtyczkÄ™
 [&Ignore hidden or temporary contacts when watching for all contacts being offline]
-Ignoruj ukryte lub tymczasowe kontakty kiedy obserwujesz czy kontakty s¹ po³¹czone
+Ignoruj ukryte lub tymczasowe kontakty kiedy obserwujesz czy kontakty sÄ… poÅ‚Ä…czone
 [Critical Shutdown Events]
-Wy³¹czanie w sytuacjach krytycznych
+WyÅ‚Ä…czanie w sytuacjach krytycznych
 [&Thunderstorm warning is issued  (Weather)]
-Og³oszono burzê z piorunami (Pogoda)
+OgÅ‚oszono burzÄ™ z piorunami (Pogoda)
 [&Harddrive overheats (HDD Info)]
 Przegrzany dysk twardy (HDD Info)
 [Shutdown: Close Miranda IM]
-Wy³¹czanie: Zamknij Mirandê IM
+WyÅ‚Ä…czanie: Zamknij MirandÄ™ IM
 [Shutdown: Set Miranda IM offline]
-Wy³¹czanie: Roz³¹cz Mirandê IM
+WyÅ‚Ä…czanie: RozÅ‚Ä…cz MirandÄ™ IM
 [Shutdown: Log off user]
-Wy³¹czanie: Wyloguj u¿ytkownika
+WyÅ‚Ä…czanie: Wyloguj uÅ¼ytkownika
 [Shutdown: Restart computer]
-Wy³¹czanie: Zrestartuj komputer
+WyÅ‚Ä…czanie: Zrestartuj komputer
 [Shutdown: Shutdown computer]
-Wy³¹czanie: Wy³¹cz komputer
+WyÅ‚Ä…czanie: WyÅ‚Ä…cz komputer
 [Shutdown: Standby mode]
-Wy³¹czanie: Tryb oczekiwania
+WyÅ‚Ä…czanie: Tryb oczekiwania
 [Shutdown: Hibernate mode]
-Wy³¹czanie: Tryb hibernacji
+WyÅ‚Ä…czanie: Tryb hibernacji
 [Shutdown: Lock workstation]
-Wy³¹czanie: Zablokuj komputer
+WyÅ‚Ä…czanie: Zablokuj komputer
 [Shutdown: Hang up dialup connections]
-Wy³¹czanie: Zawieœ aktywne po³¹czenia
+WyÅ‚Ä…czanie: ZawieÅ› aktywne poÅ‚Ä…czenia
 [Miranda IM is going to be automatically closed in %i second(s).]
-Miranda IM zostanie automatycznie wy³¹czona za %i sekund(y).
+Miranda IM zostanie automatycznie wyÅ‚Ä…czona za %i sekund(y).
 [You will be logged off automatically in %i second(s).]
 Zostaniesz automatycznie wylogowany za %i sekund(y).
 [The computer will automatically be restarted in %i second(s).]
@@ -152,19 +152,19 @@ Komputer automatycznie przejdzie w stan hibernacji za %i sekund(y).
 [The workstation will automatically get locked in %i second(s).]
 Komputer zostanie automatycznie zablokowany za %i sekund(y).
 [The computer will automatically be shut down in %i second(s).]
-Komputer zostanie automatycznie zamkniêty za %i sekund(y).
+Komputer zostanie automatycznie zamkniÄ™ty za %i sekund(y).
 [All dialup connections will be closed in %i second(s).]
-Wszystkie nawi¹zane po³¹czenia zostan¹ przerwane za %i sekund(y).
+Wszystkie nawiÄ…zane poÅ‚Ä…czenia zostanÄ… przerwane za %i sekund(y).
 [Unsaved data in open applications except Miranda IM might get lost.]
-Niezapisane dane w otwartych programach (poza Mirand¹) mog¹ zostaæ utracone.
+Niezapisane dane w otwartych programach (poza MirandÄ…) mogÄ… zostaÄ‡ utracone.
 [Please click "Cancel" if you would like to abort the process.]
-Kliknij na "Anuluj" jeœli chcesz przerwaæ proces.
+Kliknij na "Anuluj" jeÅ›li chcesz przerwaÄ‡ proces.
 [&Now!]
 Teraz!
 [Time left:]
-Pozosta³y czas:
+PozostaÅ‚y czas:
 [Shutdown at:]
-Wy³¹cz o:
+WyÅ‚Ä…cz o:
 [Paused]
 Pauza
 [&Cancel Countdown]
@@ -172,8 +172,8 @@ Anuluj odliczanie
 [&Pause Countdown]
 Zatrzymaj odliczanie
 [&Unpause Countdown]
-Wznów odliczanie
+WznÃ³w odliczanie
 [Automatic Shutdown Error]
-B³¹d automatycznego wy³¹czania
+BÅ‚Ä…d automatycznego wyÅ‚Ä…czania
 [The shutdown process failed!\nReason: %s]
-Proces wy³¹czania nie powiód³ siê!\nPowód: %s
+Proces wyÅ‚Ä…czania nie powiÃ³dÅ‚ siÄ™!\nPowÃ³d: %s

@@ -4,86 +4,86 @@
 ;  Versions: 0.0.1.1
 ;============================================================
 [&Import contact history]
-Importuj historiê kontaktu
+Importuj historiÄ™ kontaktu
 [&Export contact history]
-Eksportuj historiê kontaktu
+Eksportuj historiÄ™ kontaktu
 [&Delete contact history]
-Usuñ historiê kontaktu
+UsuÅ„ historiÄ™ kontaktu
 [&Export contact list]
-Eksportuj listê kontaktów
+Eksportuj listÄ™ kontaktÃ³w
 [&Import contact list]
-Importuj listê kontaktów
+Importuj listÄ™ kontaktÃ³w
 [Export contact list]
-Eksportuj listê kontaktów
+Eksportuj listÄ™ kontaktÃ³w
 [While exporting MIM will be completely blocked until finished.]
-Podczas eksportu Miranda IM bêdzie ca³kowicie zablokowana do momentu zakoñczenia czynnoœci.
+Podczas eksportu Miranda IM bÄ™dzie caÅ‚kowicie zablokowana do momentu zakoÅ„czenia czynnoÅ›ci.
 [Are You sure?]
-Czy jesteœ pewien?
+Czy jesteÅ› pewien?
 [Select export file name]
-Wybierz nazwê pliku
+Wybierz nazwÄ™ pliku
 [INI Files]
 Pliki INI
 [Export history (if available)?]
-Eksportuj historiê (jeœli dostêpna)?
+Eksportuj historiÄ™ (jeÅ›li dostÄ™pna)?
 [Contact list is empty.\nNothing to export.]
-Lista kontaktów jest pusta.\nNie ma nic do eksportowania.
+Lista kontaktÃ³w jest pusta.\nNie ma nic do eksportowania.
 [Nothing was exported.]
-Nic nie zosta³o wyeksportowane.
+Nic nie zostaÅ‚o wyeksportowane.
 [Exported:]
 Wyeksportowano:
 [contact(s).]
 kontakt(y),
 ['Export contact list' is busy.]
-'Eksportuj listê kontaktów" jest zajêta.
+'Eksportuj listÄ™ kontaktÃ³w" jest zajÄ™ta.
 [Import contact list]
-Importuj listê kontaktów
+Importuj listÄ™ kontaktÃ³w
 [While importing MIM will be completely blocked until finished.]
-Podczas import Miranda IM bêdzie ca³kowicie zablokowana do momentu zakoñczenia czynnoœci.
+Podczas import Miranda IM bÄ™dzie caÅ‚kowicie zablokowana do momentu zakoÅ„czenia czynnoÅ›ci.
 [Select import file name]
-Wybierz nazwê pliku
+Wybierz nazwÄ™ pliku
 [Import history (if available, can take a while)?]
-Importuj historiê (jeœli dostêpna, mo¿e chwilê potrwaæ)?
+Importuj historiÄ™ (jeÅ›li dostÄ™pna, moÅ¼e chwilÄ™ potrwaÄ‡)?
 [To import:]
 Do importy:
 [Nothing was imported.]
-Nic nie zosta³o importowane.
+Nic nie zostaÅ‚o importowane.
 [Imported:]
 Zaimportowano:
 ['Import contact list' is busy.]
-'Import listy kontaktów" jest zajêty.
+'Import listy kontaktÃ³w" jest zajÄ™ty.
 [DAT Files]
 Pliki DAT
 [Export contact history]
 Eksportowanie historii kontaktu
 [There was an error during contact history export.]
-Wyst¹pi³ b³¹d podczas eksportu historii kontaktu.
+WystÄ…piÅ‚ bÅ‚Ä…d podczas eksportu historii kontaktu.
 [history event(s).]
-wpisów w historii.
+wpisÃ³w w historii.
 ['Export contact history' is busy.]
 'Eksportowanie historii kontaktu' jest zajeta.
 [Import contact history]
 Import historii kontaktu
 [There was an error during contact history import.]
-Wyst¹pi³ b³¹d podczas importu historii kontaktu.
+WystÄ…piÅ‚ bÅ‚Ä…d podczas importu historii kontaktu.
 [Delete whole history from selected contact, are you realy sure?]
-Usun¹æ ca³¹ historiê od wybranego kontaktu, czy naprawdê jesteœ pewien?
+UsunÄ…Ä‡ caÅ‚Ä… historiÄ™ od wybranego kontaktu, czy naprawdÄ™ jesteÅ› pewien?
 [Delete contact history]
-Usuñ historiê kontaktu
+UsuÅ„ historiÄ™ kontaktu
 [Whole history from selected contact has been deleted.]
-Ca³a historia z wybranego kontaktu zosta³a usuniêta.
+CaÅ‚a historia z wybranego kontaktu zostaÅ‚a usuniÄ™ta.
 [Protocol independent contact list/history import/export.]
-Protokó³ niezale¿ny listy kontaktów/historii importu/eksportu.
+ProtokÃ³Å‚ niezaleÅ¼ny listy kontaktÃ³w/historii importu/eksportu.
 [&Delete whole history from all contacts]
-Usun¹æ ca³¹ historiê wszystkich kontaktów
+UsunÄ…Ä‡ caÅ‚Ä… historiÄ™ wszystkich kontaktÃ³w
 [Delete whole history from all contacts (including system history), are you realy sure?]
-Usun¹æ ca³¹ historiê wszystkich kontaktów (w tym system historii), czy naprawdê jesteœ pewien?
+UsunÄ…Ä‡ caÅ‚Ä… historiÄ™ wszystkich kontaktÃ³w (w tym system historii), czy naprawdÄ™ jesteÅ› pewien?
 [Delete whole history]
-Usuñ ca³¹ historiê
+UsuÅ„ caÅ‚Ä… historiÄ™
 [Whole history from all contacts has been deleted.]
-Ca³a historia wszystkich kontaktów zosta³a usuniêta.
+CaÅ‚a historia wszystkich kontaktÃ³w zostaÅ‚a usuniÄ™ta.
 [Only merge history (don't add new contacts)?]
-Tylko po³¹czenie historii (nie dodawaæ nowych kontaktów)?
+Tylko poÅ‚Ä…czenie historii (nie dodawaÄ‡ nowych kontaktÃ³w)?
 [Merge history if contact already on list?]
-Po³¹czyæ historiê jeœli kontakt jest ju¿ na liœcie?
+PoÅ‚Ä…czyÄ‡ historiÄ™ jeÅ›li kontakt jest juÅ¼ na liÅ›cie?
 [Check for history events duplicates?]
-Sprawdziæ wystêpowanie duplikatów zdarzeñ w historii?
+SprawdziÄ‡ wystÄ™powanie duplikatÃ³w zdarzeÅ„ w historii?

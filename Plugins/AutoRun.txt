@@ -6,6 +6,6 @@
 [Autorun]
 Automatyczne uruchamianie
 [Launch Miranda IM at system startup]
-Uruchom Mirandê IM przy starcie systemu
+Uruchom MirandÄ™ IM przy starcie systemu
 [Note: At startup Miranda IM will use current profile]
-Wiadomoœæ: Przy starcie Miranda IM u¿yje obecnego profilu
+WiadomoÅ›Ä‡: Przy starcie Miranda IM uÅ¼yje obecnego profilu

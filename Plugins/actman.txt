@@ -8,7 +8,7 @@ Notatnik
 [Contact window]
 Okno kontaktu
 [Text insert]
-Umieœæ tekst
+UmieÅ›Ä‡ tekst
 [vars]
 Zmienne
 [Result action]
@@ -16,19 +16,19 @@ Wynik akcji
 [Window option]
 Opcje okna
 [Show in popup]
-Poka¿ w popupie
+PokaÅ¼ w popupie
 [Start hidden]
 Startuj schowany
 [Show in messagebox]
-Poka¿ w oknie
+PokaÅ¼ w oknie
 [Start maximized]
 Startuj zmaksymalizowany
 [Continued]
 Kontynuacja
 [Parallel]
-Równoleg³y
+RÃ³wnolegÅ‚y
 [Insert into message]
-Umieœæ w wiadomoœci
+UmieÅ›Ä‡ w wiadomoÅ›ci
 [parameter]
 parametry
 [Process time, ms]
@@ -40,7 +40,7 @@ Opcje procesu
 [Do not show]
 Nie pokazuj
 [Current path]
-Obecna œcie¿ka
+Obecna Å›cieÅ¼ka
 [Start normal]
 Startuj normalnie
 [last result]
@@ -48,7 +48,7 @@ ostatni wynik
 [Link to action]
 Link do akcji
 [Plugin for manage hotkeys to open contact window, insert text, run program and call services]
-Plugin to manager skrótów do otwierania okna kontaktu, wstawiania tekstu, uruchamiania programu i wywo³ywania us³ug
+Plugin to manager skrÃ³tÃ³w do otwierania okna kontaktu, wstawiania tekstu, uruchamiania programu i wywoÅ‚ywania usÅ‚ug
 [Action manager]
 Manager akcji
 [Copy to]
@@ -56,7 +56,7 @@ Kopiuj do
 [Paste from as]
 Wklej z
 [Variables (below)]
-Zmienne (poni¿ej)
+Zmienne (poniÅ¼ej)
 [Variables script]
 Skrypt zmiennych
 [Other Action groups]
@@ -66,27 +66,27 @@ Operacja
 [Last result]
 Ostatni wynik
 [Own settings]
-W³asne ustawienie
+WÅ‚asne ustawienie
 [Message title]
-Tytu³ wiadomoœci
+TytuÅ‚ wiadomoÅ›ci
 [Message text]
-Tekst wiadomoœci
+Tekst wiadomoÅ›ci
 [OK, Cancel]
 OK, Anuluj
 [Abort, Retry, Ignore]
-Przerwij, Gotów, Ignoruj
+Przerwij, GotÃ³w, Ignoruj
 [Yes, No, Cancel]
 Tak, Nie, Anuluj
 [Yes, No]
 Tak, Nie
 [Retry, Cancel]
-Gotów, Anuluj
+GotÃ³w, Anuluj
 [Result as integer]
-Wynik jako liczba ca³kowita
+Wynik jako liczba caÅ‚kowita
 [Keep Last Result]
 Trzymaj ostatni wynik
 [Keep handle only]
-Trzymaj tylko nazwê
+Trzymaj tylko nazwÄ™
 [Variables mark]
 Zmienne znaku
 [C&ancel]
@@ -96,67 +96,67 @@ Edytor struktury
 [Result as structure]
 Wynik jako struktura
 [Pointer to bytes]
-WskaŸnik do bajtów
+WskaÅºnik do bajtÃ³w
 [Pointer to words]
-WskaŸnik do s³owa
+WskaÅºnik do sÅ‚owa
 [Data length]
-Dane dotycz¹ce d³ugoœci
+Dane dotyczÄ…ce dÅ‚ugoÅ›ci
 ['<proto>' in service name will be replaced by protocol name for contact handle in parameter]
-'<proto>' w nazwie us³ugi zostan¹ zast¹pione nazw¹ protoko³u dla kontaktu obs³uguj¹cego parametr
+'<proto>' w nazwie usÅ‚ugi zostanÄ… zastÄ…pione nazwÄ… protokoÅ‚u dla kontaktu obsÅ‚ugujÄ…cego parametr
 [Paste from]
 Wklej z
 [Service result]
-Wynik us³ugi
+Wynik usÅ‚ugi
 [Free memory]
-Wolna pamiêæ
+Wolna pamiÄ™Ä‡
 [Integer]
-Typ ca³kowity
+Typ caÅ‚kowity
 [Append]
 Dodaj
 [Append data to file]
-Do³¹czanie danych do pliku
+DoÅ‚Ä…czanie danych do pliku
 [Choose action]
 Wybierz akcje
 [A&ppend]
 D&odaj
 [Action "$" exists, do you want to rewrite it?]
-Akcja "$" istnieje, czy chcesz j¹ nadpisaæ?
+Akcja "$" istnieje, czy chcesz jÄ… nadpisaÄ‡?
 [Text <last> replacing\r\nby last result\r\n\r\nText <param> replacing\r\nby parameter]
-Tekst <last> zastêpczy\r\nostatni wynik\r\n\r\nTekst <param> zastêpczy\r\nparametr
+Tekst <last> zastÄ™pczy\r\nostatni wynik\r\n\r\nTekst <param> zastÄ™pczy\r\nparametr
 [Text <last> replacing\r\nby last result\r\n\r\nReturns:\r\n--------\r\nOK\t= 1\r\nCANCEL\t= 2\r\nABORT\t= 3\r\nRETRY\t= 4\r\nIGNORE\t= 5\r\nYES\t= 6\r\nNO\t= 7\r\nCLOSE\t= 8]
-Tekst <last> zastêpczy\r\nostatni wynik\r\n\r\nPowrót:\r\n--------\r\nOK\t= 1\r\nCOFNIJ\t= 2\r\nANULUJ\t= 3\r\nGOTÓW\t= 4\r\nIGNORUJ\t= 5\r\nTAK\t= 6\r\nNIE\t= 7\r\nZAMKNIJ\t= 8
+Tekst <last> zastÄ™pczy\r\nostatni wynik\r\n\r\nPowrÃ³t:\r\n--------\r\nOK\t= 1\r\nCOFNIJ\t= 2\r\nANULUJ\t= 3\r\nGOTÃ“W\t= 4\r\nIGNORUJ\t= 5\r\nTAK\t= 6\r\nNIE\t= 7\r\nZAMKNIJ\t= 8
 [Don't use Variables]
-Nie u¿ywaj zmiennych
+Nie uÅ¼ywaj zmiennych
 [Contact list format]
-Format listy kontaktów
+Format listy kontaktÃ³w
 [Active accounts only]
 Tylko aktywuj konto
 [Dropdown list format]
 Format rozwijanej listy
 [Apply format]
-ZatwierdŸ format
+ZatwierdÅº format
 [You can use %name%, %uid%, %account% and %group% macros]
-Mo¿esz u¿yæ %name%, %uid%, %account% i %group%
+MoÅ¼esz uÅ¼yÄ‡ %name%, %uid%, %account% i %group%
 [Choose Contact]
 Wybierz kontakt
 [Open contact window]
-Otwórz okno kontaktu
+OtwÃ³rz okno kontaktu
 [Call service]
-Wywo³anie us³ugi
+WywoÅ‚anie usÅ‚ugi
 [Service name]
-Nazwa us³ugi
+Nazwa usÅ‚ugi
 [Reload]
-Prze³aduj
+PrzeÅ‚aduj
 [Execute program]
 Uruchom program
 [Start minimized]
 Startuj zminimalizowany
 [Program path]
-Œcie¿ka do programu
+ÅšcieÅ¼ka do programu
 [Insert text]
-Umieœæ tekst
+UmieÅ›Ä‡ tekst
 [Message window]
-Okno wiadomoœci
+Okno wiadomoÅ›ci
 [Text to insert]
 Tekst do umieszczenia
 [not defined]
@@ -166,7 +166,7 @@ Struktura
 [structure]
 struktura
 [number value]
-wartoœæ
+wartoÅ›Ä‡
 [current contact]
 obecny kontakt
 [Program args]
@@ -174,15 +174,15 @@ Argument
 [MessageBox]
 Okno komunikatu
 [Toolbar buttons]
-Przyciski paska narzêdzi
+Przyciski paska narzÄ™dzi
 [Main menu item]
-Element menu g³ównego
+Element menu gÅ‚Ã³wnego
 [Contact menu item]
 Element menu kontaktu
 [Use Variables]
-U¿yj zmiennych
+UÅ¼yj zmiennych
 [Signed value]
-Podpisana wartoœæ
+Podpisana wartoÅ›Ä‡
 [Parameter]
 Parametr
 [Manual]
@@ -194,6 +194,6 @@ PRZERWA
 [NOP]
 BRAK OPERCJI
 [Use Byte array/pointer for ANSI strings\n\Use Word array/pointer for Unicode strings\n\n\$## replaces by byte with hex value ##\n\$#### replaces by word with hex value #### (for Unicode strings only)\n\n\All data length calculating in bytes]
-U¿yj Bajt array/pointer dla stringów ANSI\n\U¿yj tablicy/wskaŸnika Word dla stringów Unicode\n\n\$## zast¹pione przez bajt z wartoœci¹ szesnastkow¹ ##\n\$#### zast¹pione przez bajt z wartoœci¹ szesnastkow¹ #### (tylko dla stringów Unicode)\n\n\Wszystkie obliczenia d³ugoœci danych w bajtach
+UÅ¼yj Bajt array/pointer dla stringÃ³w ANSI\n\UÅ¼yj tablicy/wskaÅºnika Word dla stringÃ³w Unicode\n\n\$## zastÄ…pione przez bajt z wartoÅ›ciÄ… szesnastkowÄ… ##\n\$#### zastÄ…pione przez bajt z wartoÅ›ciÄ… szesnastkowÄ… #### (tylko dla stringÃ³w Unicode)\n\n\Wszystkie obliczenia dÅ‚ugoÅ›ci danych w bajtach
 [Event]
 Zdarzenie

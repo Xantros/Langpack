@@ -4,15 +4,15 @@
 ;  Versions: 0.2.3.16
 ;============================================================
 [Show Smiley Selection Window]
-Poka¿ okno wyboru emotek
+PokaÅ¼ okno wyboru emotek
 [SmileyAdd HTTP connections]
-Po³¹czenie HTTP SmileyAdd
+PoÅ‚Ä…czenie HTTP SmileyAdd
 [Smiley support for Miranda Instant Messanger]
 Wsparcie dla emotikon w Mirandzie IM
 [Button Smiley]
 Przycisk emotek
 [Assign Smiley Category]
-Przypisz kategoriê emotek
+Przypisz kategoriÄ™ emotek
 [Smileys]
 Emotikony
 [Smiley Packs]
@@ -20,44 +20,44 @@ Paczka emotek
 [Smiley Categories]
 Kategorie emotikon
 [Specify Smiley Pack for each category]
-Okreœl paczkê emotek dla ka¿dej z kategorii
+OkreÅ›l paczkÄ™ emotek dla kaÅ¼dej z kategorii
 [Replace only smileys surrounded by spaces]
-Zamieñ tylko emotikony oddzielone spacjami
+ZamieÅ„ tylko emotikony oddzielone spacjami
 [Scale smiley to textheight]
-Skaluj emotikony do wysokoœci tekstu
+Skaluj emotikony do wysokoÅ›ci tekstu
 [Disable custom smileys]
-Wy³¹cz w³asne emotikony
+WyÅ‚Ä…cz wÅ‚asne emotikony
 [High Quality smiley scaling]
 Skalowanie emot HQ
 [Min smiley height]
-Minimalna wysokoœæ emotów
+Minimalna wysokoÅ›Ä‡ emotÃ³w
 [Max "Custom Smiley" height]
-Maksymalna wysokoœæ emotów
+Maksymalna wysokoÅ›Ä‡ emotÃ³w
 [Smiley Selector]
 Okno wyboru emotikon
 [Surround inserted smiley with spaces]
 Odzielaj wstawione emotikony spacjami
 [Use first smiley for selection size]
-Pierwsza emotka okreœla rozmiar zaznaczenia
+Pierwsza emotka okreÅ›la rozmiar zaznaczenia
 [IEView style window]
 Styl okna jak w IEView
 [Input Area]
 Pole wpisywania
 [Enable Smileys]
-W³¹cz emotikony
+WÅ‚Ä…cz emotikony
 [Don't replace at cursor]
 Nie zamieniaj przy kursorze
 [Built-In Message Dialog Support]
 Wbudowane wsparcie dla okna rozmowy
 [Disable]
-Wy³¹cz
+WyÅ‚Ä…cz
 [Smiley Button]
 Przycisk emotek
 [Max Custom smiley height]
-Maks. wysokoœæ emotikon
+Maks. wysokoÅ›Ä‡ emotikon
 [There were problems loading smiley pack (it should be corrected).\nSee Network Log for details.]
-Wyst¹pi³y problemy z wczytaniem paczki emotikon (powinny ju¿ dzia³aæ).\nPo szczegó³y zajrzyj do dziennika.
+WystÄ…piÅ‚y problemy z wczytaniem paczki emotikon (powinny juÅ¼ dziaÅ‚aÄ‡).\nPo szczegÃ³Å‚y zajrzyj do dziennika.
 [Standard]
 Standardowe
 [Smiley Pack %s not found.\nSelect correct Smiley Pack in the Miranda Options | Customize | Smileys.]
-Paczka emotikon %s nie odnaleziona.\nZaznacz prawid³ow¹ paczke emotikon Opcje | Personalizacja | Emotkiony.
+Paczka emotikon %s nie odnaleziona.\nZaznacz prawidÅ‚owÄ… paczke emotikon Opcje | Personalizacja | Emotkiony.

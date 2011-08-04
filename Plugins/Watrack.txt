@@ -4,89 +4,89 @@
 ;  Versions: 0.0.6.12
 ;============================================================
 [Similar artists]
-Podobni artyœci
+Podobni artyÅ›ci
 [Artist]
 Artysta
 [Track]
-Utwór
+UtwÃ³r
 [Tags]
 Tagi
 [Get Artist Info]
-Pobierz info o artyœcie
+Pobierz info o artyÅ›cie
 [Get Track Info]
 Pobierz info o utworze
 [Get Album Info]
 Pobierz info o albumie
 [Content language]
-Jêzyk
+JÄ™zyk
 [no language]
-brak jêzyka
+brak jÄ™zyka
 [Attempts]
-Iloœæ prób
+IloÅ›Ä‡ prÃ³b
 [Picture transform]
-U³o¿enie obrazka
+UÅ‚oÅ¼enie obrazka
 [Manual element placement]
-Rêczne umieszczenie elementu
+RÄ™czne umieszczenie elementu
 [Hide when no player]
-Ukryj kiedy odtwarzacz jest wy³¹czony
+Ukryj kiedy odtwarzacz jest wyÅ‚Ä…czony
 [Hide when no music]
 Ukryj kiedy nic nie jest odtwarzane
 [Frame (main)]
-Ramka (g³ówna)
+Ramka (gÅ‚Ã³wna)
 [Frame (text)]
 Ramka (tekst)
 [Use frame]
-U¿yj ramki
+UÅ¼yj ramki
 [Show info in the frame]
-Poka¿ info w ramce
+PokaÅ¼ info w ramce
 [Show controls in the frame]
-Poka¿ przyciski w ramce
+PokaÅ¼ przyciski w ramce
 [Show volume controls]
-Poka¿ regulacjê g³oœnoœci
+PokaÅ¼ regulacjÄ™ gÅ‚oÅ›noÅ›ci
 [Background color]
-Kolor t³a
+Kolor tÅ‚a
 [Use Picture]
-U¿yj obrazka
+UÅ¼yj obrazka
 [Use cover instead of picture]
-U¿yj ok³adki zamiast obrazka
+UÅ¼yj okÅ‚adki zamiast obrazka
 [Center horizontally]
-Wyœrodkuj w poziomie
+WyÅ›rodkuj w poziomie
 [Center vertically]
-Wyœrodkuj w pionie
+WyÅ›rodkuj w pionie
 [Show trackbar]
-Poka¿ pasek œcie¿ki
+PokaÅ¼ pasek Å›cieÅ¼ki
 [Frame refresh time]
-Czas odœwie¿ania ramki
+Czas odÅ›wieÅ¼ania ramki
 [Use buttons gap]
-U¿yj odstêpów przycisków
+UÅ¼yj odstÄ™pÃ³w przyciskÃ³w
 [Cover padding]
-Dope³nienie ok³adki
+DopeÅ‚nienie okÅ‚adki
 [Choose font...]
-Ustaw czcionkê...
+Ustaw czcionkÄ™...
 [Text effect]
 Efekt tekstu
 [Wrap]
 Zawijanie
 [Roll]
-Zakrêcenie
+ZakrÄ™cenie
 [Align text to center]
-Wyrównaj tekst do œrodka
+WyrÃ³wnaj tekst do Å›rodka
 [Text movement]
 Ruchomy tekst
 [Text rotation speed (1-20)]
-Prêdkoœæ obrotu tekstu (1-20)
+PrÄ™dkoÅ›Ä‡ obrotu tekstu (1-20)
 [Scroll step]
 Krok przewijania
 [Scroll gap]
 Przerwa przewijania
 [Show popup]
-Poka¿ Popup
+PokaÅ¼ Popup
 [Show file name in info]
-Poka¿ nazwê pliku w info
+PokaÅ¼ nazwÄ™ pliku w info
 [Show player]
-Poka¿ odtwarzacz
+PokaÅ¼ odtwarzacz
 [Next track]
-Nast. œcie¿ka
+Nast. Å›cieÅ¼ka
 [Left click]
 Lewy przycisk
 [Right click]
@@ -94,37 +94,37 @@ Prawy przycisk
 [Colors]
 Kolory
 [Default colors]
-Domyœlne kolory
+DomyÅ›lne kolory
 [Windows colors]
 Kolory Windows
 [Custom colors]
-W³asne kolory
+WÅ‚asne kolory
 [Global hotkey]
 Globalne skr. klaw.
 [Music Info]
 Info o muzyce
 [Refresh time, sec]
-Odœwie¿aj co (s)
+OdÅ›wieÅ¼aj co (s)
 [Unicode to Ansi translation codepage:]
 Strona kodowa konwersji z Unicode do Ansi:
 [Insert in messages]
-Umieœæ w wiadomoœciach
+UmieÅ›Ä‡ w wiadomoÅ›ciach
 [Use status messages]
-U¿yj opisu
+UÅ¼yj opisu
 [Use XStatus]
-U¿yj xStatusu
+UÅ¼yj xStatusu
 [Independed XStatus]
-Niezale¿ny xStatus
+NiezaleÅ¼ny xStatus
 [Use process implantation]
-U¿yj procesu implantacji
+UÅ¼yj procesu implantacji
 [Simple Template mode]
 Tryb prostego szablonu
 [Keep 'Music' XStatus]
 Utrzymuj xStatus "Muzyka"
 [Replace underlines with spaces]
-Zamieñ podkreœlenia na spacje
+ZamieÅ„ podkreÅ›lenia na spacje
 [Check file time]
-SprawdŸ czas pliku
+SprawdÅº czas pliku
 [Color]
 Kolor
 [No Music]
@@ -134,19 +134,19 @@ Brak odtwarzacza
 [Statuses]
 Statusy
 [User message]
-Wiadomoœæ u¿ytkownika
+WiadomoÅ›Ä‡ uÅ¼ytkownika
 [Channel message]
-Kana³ wiadomoœci
+KanaÅ‚ wiadomoÅ›ci
 [Template]
 Szablon
 [[X]Status Title / Text]
-Tytu³ [X]Statusu / Tekstu
+TytuÅ‚ [X]Statusu / Tekstu
 [This is simplified version of template editor. This templates will be used with all protocols, protocol and player (media) statuses]
-To jest uproszczona wersja edytora szablonów u¿ywanych ze wszystkimi protoko³ami oraz statusami odtwarzacza i protoko³u.
+To jest uproszczona wersja edytora szablonÃ³w uÅ¼ywanych ze wszystkimi protokoÅ‚ami oraz statusami odtwarzacza i protokoÅ‚u.
 [Chat Template]
 Szablon czatu
 [Popup Title / Text]
-Popup Tytu³ / Tekst
+Popup TytuÅ‚ / Tekst
 [Frame Text]
 Tekst ramki
 [Export Text]
@@ -166,7 +166,7 @@ Precyzja
 [Postfix]
 Poprawki postu
 [lowercase %type%]
-ma³e litery %type%
+maÅ‚e litery %type%
 [Formats]
 Formaty
 [VBR macro]
@@ -180,33 +180,33 @@ Lista odtwarzaczy
 [Player name letters]
 Litery w nazwie odtwarzacza
 [All uppercase]
-Wszystkie du¿ymi
+Wszystkie duÅ¼ymi
 [Do not change]
 Nie zmieniaj
 [All lowercase]
-Wszystkie ma³ymi
+Wszystkie maÅ‚ymi
 [Color codes]
-Kody kolorów
+Kody kolorÃ³w
 [WATrack Macro Info]
 WATrack Dane makro
 [Text insertion to other Apps]
 Wstaw tekst do innych aplikacji
 [Cover filenames]
-Nazwy plików z ok³adkami
+Nazwy plikÃ³w z okÅ‚adkami
 [Share music list]
-Udostêpnij listê muzyki
+UdostÄ™pnij listÄ™ muzyki
 [Save events in database]
 Zapisz zdarzenia w bazie
 [Music Info Request]
-¯¹danie info o muzyce
+Å»Ä…danie info o muzyce
 [Request Error]
-B³¹d ¿¹dania
+BÅ‚Ä…d Å¼Ä…dania
 [Save ignored requests]
-Zapisuj ignorowane ¿¹dania
+Zapisuj ignorowane Å¼Ä…dania
 [Answer to ignored requests]
-Odpowiadaj na ignorowane ¿¹dania
+Odpowiadaj na ignorowane Å¼Ä…dania
 [Disable Log]
-Wy³¹cz dziennik
+WyÅ‚Ä…cz dziennik
 [Statistic log file]
 Plik statystyk
 [Sort]
@@ -220,75 +220,75 @@ Raport
 [Template file]
 Plik szablonu
 [Export default]
-Eksportuj domyœlne
+Eksportuj domyÅ›lne
 [Show in report]
-Poka¿ w raporcie
+PokaÅ¼ w raporcie
 [Freq. songs]
-Czêstot. piosenki
+CzÄ™stot. piosenki
 [Freq. artists]
-Czêstot. artysty
+CzÄ™stot. artysty
 [Freq. album]
-Czêstot. albumu
+CzÄ™stot. albumu
 [Freq. paths]
-Czêstot. œcie¿ek
+CzÄ™stot. Å›cieÅ¼ek
 [Last played songs]
-Ostatnio odtworzony utwór
+Ostatnio odtworzony utwÃ³r
 [Song time]
 Czas utworu
 [Sort log file]
 Sortuj plik dziennika
 [by Title]
-wg tytu³ów
+wg tytuÅ‚Ã³w
 [by Date]
 wg dat
 [by Count]
-wg l. odtworzeñ
+wg l. odtworzeÅ„
 [by Path]
-wg œcie¿ki
+wg Å›cieÅ¼ki
 [by Length]
-wg d³ugoœci
+wg dÅ‚ugoÅ›ci
 [Reverse order]
-Odwróæ kolejnoœæ
+OdwrÃ³Ä‡ kolejnoÅ›Ä‡
 [Report Items]
 Raport pozycji
 [Open report]
-Otwórz raport
+OtwÃ³rz raport
 [Add report file ext.]
 Dodaj rozszerzenie
 [music statistic]
 statystyki
 [Enable Plugin]
-W³¹cz wtyczkê
+WÅ‚Ä…cz wtyczkÄ™
 [Disable Plugin]
-Wy³¹cz wtyczkê
+WyÅ‚Ä…cz wtyczkÄ™
 [Create WATrack report]
-Stwórz raport WATrack
+StwÃ³rz raport WATrack
 [Keep old file]
 Trzymaj stary plik
 [Other thread handle check]
-SprawdŸ rêcznie pozosta³e w¹tki
+SprawdÅº rÄ™cznie pozostaÅ‚e wÄ…tki
 [Use existing XStatus]
-U¿yj istniej¹cy xStatus
+UÅ¼yj istniejÄ…cy xStatus
 [Clear xStatus before set new one]
-Czyœæ xStatus przed ustawieniem kolejnego
+CzyÅ›Ä‡ xStatus przed ustawieniem kolejnego
 [xStatus will cleared before text changing and restored with new text later.]
-xStatus zostanie wyczyszczony przed zmian¹ tekstu i ustawiony na nowo póŸniej.
+xStatus zostanie wyczyszczony przed zmianÄ… tekstu i ustawiony na nowo pÃ³Åºniej.
 [Paste played music info into message window or status text]
-Wklej info o odtwarzanym utworze w oknie wiadomoœæi lub statusie.
+Wklej info o odtwarzanym utworze w oknie wiadomoÅ›Ä‡i lub statusie.
 [If this option is "ON", XStatus doesn't depend of protocol status.]
-Je¿eli ta opcja zostanie w³¹czona, xStatus nie bedzie zale¿ny od zmiany statusu protoko³u.
+JeÅ¼eli ta opcja zostanie wÅ‚Ä…czona, xStatus nie bedzie zaleÅ¼ny od zmiany statusu protokoÅ‚u.
 [Use "Variables" plugin or not. If plugin used, you can use some transform, data and math functions. If plugin not used, work will be faster.]
-U¿yj pluginu "Variable" lub nie. Je¿eli u¿yjesz, mo¿esz zmieniæ zawartoœæ teksu o nowe funkcje. Je¿eli plugin nie zostanie u¿yty, plugin bêdzie pracowa³ szybciej.
+UÅ¼yj pluginu "Variable" lub nie. JeÅ¼eli uÅ¼yjesz, moÅ¼esz zmieniÄ‡ zawartoÅ›Ä‡ teksu o nowe funkcje. JeÅ¼eli plugin nie zostanie uÅ¼yty, plugin bÄ™dzie pracowaÅ‚ szybciej.
 [Replaces "_" (underscores) globally in pasted os status text, sometimes may be useful]
-Zmieñ "_" w wklejanym tekscie statusu na spacje.
+ZmieÅ„ "_" w wklejanym tekscie statusu na spacje.
 [Check file date and time to tag updates while playing.]
 Sprawdza czas utworu i aktualizuje tagi.
 [Report on some errors.]
-Raporty b³êdów.
+Raporty bÅ‚Ä™dÃ³w.
 [Try to use OLE interface to obtain more information from players. If this option is "OFF", plugin works little faster.]
-Wyprubój interfejs OLE do osiagania wiêkszej liczby informacji. Je¿eli ta opcja zostanie wy³¹czona, plugin bedzie pracowa³ szybciej.
+WyprubÃ³j interfejs OLE do osiagania wiÄ™kszej liczby informacji. JeÅ¼eli ta opcja zostanie wyÅ‚Ä…czona, plugin bedzie pracowaÅ‚ szybciej.
 [Refresh time (sec) is time to refresh music info, statistic and status messages. If zero, automatic refresh is disabled. If value greater than 499, time signify as milliseconds.]
-Odœwie¿aj co jakiœ czas (sek) info o utworze. Je¿eli zero, odœwie¿anie bêdzie wy³¹czone. Je¿eli wartoœæ wyniesie 499, czas bêdzie znaczony w milisekundach.
+OdÅ›wieÅ¼aj co jakiÅ› czas (sek) info o utworze. JeÅ¼eli zero, odÅ›wieÅ¼anie bÄ™dzie wyÅ‚Ä…czone. JeÅ¼eli wartoÅ›Ä‡ wyniesie 499, czas bÄ™dzie znaczony w milisekundach.
 [Frame template]
 Szablon ramki
 [Play]
@@ -296,15 +296,15 @@ Graj
 [Volume Down]
 Przycisz
 [Volume Up]
-Podg³oœ
+PodgÅ‚oÅ›
 [Slider]
-Sówak
+SÃ³wak
 [song year (date)]
 rok piosenki (data)
 [player window title]
-tytu³ okna odtwarzacza
+tytuÅ‚ okna odtwarzacza
 [width, video only]
-szerokoœæ, tylko wideo
+szerokoÅ›Ä‡, tylko wideo
 [player version]
 wersja odtwarzacza
 [VBR or not (empty)]
@@ -316,11 +316,11 @@ status odtwarzacza (stop,gra, pauza)
 [player name]
 nazwa odtwarzacza
 [time/length * 100%]
-czas/d³ugoœæ * 100%
+czas/dÅ‚ugoÅ›Ä‡ * 100%
 [height, video only]
-wyskoœæ, tylko wideo
+wyskoÅ›Ä‡, tylko wideo
 [FPS (frames per second), video only]
-FPS (klatek na sekundê), tylko wideo
+FPS (klatek na sekundÄ™), tylko wideo
 [media file name]
 nazwa pliku
 [codec, video only]
@@ -332,51 +332,51 @@ Format raportu
 [Keep 'Music' status]
 Utrzymuj Status "Muzyka"
 [If this option is "ON", XStatus number will not be changed, only message will be replaced by WATrack templates]
-Je¿eli opcja jest w³¹czona, numer xStatus nie zmieni siê, tylko wiadomoœci bêd¹ zmieniane wg. szablonu WATrack
+JeÅ¼eli opcja jest wÅ‚Ä…czona, numer xStatus nie zmieni siÄ™, tylko wiadomoÅ›ci bÄ™dÄ… zmieniane wg. szablonu WATrack
 [Protocol list]
-Lista protoko³ów
+Lista protokoÅ‚Ã³w
 [Use Status:]
-U¿yj status:
+UÅ¼yj status:
 [Text+Graph]
 Tekst+Graf
 [Use external style]
-U¿yj zewnêtrzny styl
+UÅ¼yj zewnÄ™trzny styl
 [Total time]
-Ca³kowity czas
+CaÅ‚kowity czas
 [Only if messages not used]
-Tylko je¿eli wiadomoœæ nie jest u¿yta
+Tylko jeÅ¼eli wiadomoÅ›Ä‡ nie jest uÅ¼yta
 [Don't use]
-Nie u¿ywaj
+Nie uÅ¼ywaj
 [If this option is "ON", you can paste music info to your message window pressing hotkey.]
-Je¿eli ta opcja jest w³¹czona, mo¿esz wkleiæ info utworu w okno wiadomoœci.
+JeÅ¼eli ta opcja jest wÅ‚Ä…czona, moÅ¼esz wkleiÄ‡ info utworu w okno wiadomoÅ›ci.
 [If this option is "ON", status text will be replaced by music info.]
-Je¿eli ta opcja jest w³¹czona, tekst statusu bêdzie zast¹piany wg info muzycznych.
+JeÅ¼eli ta opcja jest wÅ‚Ä…czona, tekst statusu bÄ™dzie zastÄ…piany wg info muzycznych.
 [If this option is "ON", all plugin settings saved in ini-file. They deleted from Miranda DB. Else ini-file will be deleted.]
-Je¿eli ta opcja jest w³¹czona, wszystkie ustawienia pluginu bêd¹ zapisywane w ini, a usuniête z DB Mirandy. Inny plik INI zostanie usuniêty.
+JeÅ¼eli ta opcja jest wÅ‚Ä…czona, wszystkie ustawienia pluginu bÄ™dÄ… zapisywane w ini, a usuniÄ™te z DB Mirandy. Inny plik INI zostanie usuniÄ™ty.
 [If this option is "ON", plugin will try to obtain unknown music format info from player (not all players works!)]
-Je¿eli ta opcja jest w³¹czona, plugin bêdzie próbowa³ pobraæ info z odtwarzacza.
+JeÅ¼eli ta opcja jest wÅ‚Ä…czona, plugin bÄ™dzie prÃ³bowaÅ‚ pobraÄ‡ info z odtwarzacza.
 [If this option is "ON", XStatus doesn't depend of ICQ's status.]
-Je¿eli ta opcja jest w³¹czona, xStatus nie zale¿y od statusu ICQ.
+JeÅ¼eli ta opcja jest wÅ‚Ä…czona, xStatus nie zaleÅ¼y od statusu ICQ.
 [If this option is "ON", XStatus not changed when player shutdowned.]
-Je¿eli ta opcja jest w³¹czona, xStatus nie zmieni siê kiedy odtwarzacz bêdzie wy³¹czony.
+JeÅ¼eli ta opcja jest wÅ‚Ä…czona, xStatus nie zmieni siÄ™ kiedy odtwarzacz bÄ™dzie wyÅ‚Ä…czony.
 [If this option is "ON", XStatus will be changed to "Music" and status text will be replaced by music info.]
-Je¿eli ta opcja jest w³¹czona, xStatus ulegnie zmianie na "Muzyka" i tekst statusu bêdzie zamieniony na informacje o utworze.
+JeÅ¼eli ta opcja jest wÅ‚Ä…czona, xStatus ulegnie zmianie na "Muzyka" i tekst statusu bÄ™dzie zamieniony na informacje o utworze.
 [Use player process injection to obtain info easier. Can provoke antivirus or firewall alarm.]
-U¿yj procesu implacji do ³atwiejszego przechwytywania info. Mo¿e prowokowaæ antywirus lub firewall do alarmu.
+UÅ¼yj procesu implacji do Å‚atwiejszego przechwytywania info. MoÅ¼e prowokowaÄ‡ antywirus lub firewall do alarmu.
 [Use this option if WATrack freeze while player running. Slower processing.]
-U¿yj opcji je¿eli WATrack zamarznie w czasie dzia³ania odtwarzacza. Wolniejszy proces.
+UÅ¼yj opcji jeÅ¼eli WATrack zamarznie w czasie dziaÅ‚ania odtwarzacza. Wolniejszy proces.
 [Use "Variables" plugin]
-U¿yj pluginu "Variables"
+UÅ¼yj pluginu "Variables"
 [Sorry, but i don't use WATrack right now!]
-Przepraszam, ale WATrack nie jest teraz u¿ywany!
+Przepraszam, ale WATrack nie jest teraz uÅ¼ywany!
 [bitrate]
-szybkoœæ
+szybkoÅ›Ä‡
 [comment from tag]
 komentarz z tagu
 [current song position (sec)]
 pozycja utworu (sek)
 [Error report]
-Raport b³êdów
+Raport bÅ‚Ä™dÃ³w
 [Get Info from player]
 Pobierz info z odtwarzacza
 [media file size]
@@ -386,9 +386,9 @@ typ pliku
 [media file]
 plik
 [number of channels]
-numer kana³u
+numer kanaÅ‚u
 [samplerate]
-próbnik
+prÃ³bnik
 [song title]
 nazwa utworu
 [song year]
@@ -396,19 +396,19 @@ rok utworu
 [stopped]
 stop
 [total song length (sec)]
-ca³kowita d³ugoœæ utworu (sek)
+caÅ‚kowita dÅ‚ugoÅ›Ä‡ utworu (sek)
 [track number]
 numer utworu
 [Try to use OLE interface]
-Próbuj u¿yæ interfejs OLE
+PrÃ³buj uÅ¼yÄ‡ interfejs OLE
 [player status (stopped, playing, paused)]
 Status odtwarzacza (stop, gra, pauza)
 [player]
 odtwarzacz
 ["Variables" ANSI output]
-"Variables" wyjœcie ANSI
+"Variables" wyjÅ›cie ANSI
 [FPS (Frames per second)]
-FPS (klatek na sekundê)
+FPS (klatek na sekundÄ™)
 [Save settings in INI-file]
 Zapisz ustawienia w INI
 [VBR or not]
@@ -416,15 +416,15 @@ VBR lub nie
 [video codec]
 kodek wideo
 [video height]
-wysokoœæ wideo
+wysokoÅ›Ä‡ wideo
 [video width]
-szerokoœæ wideo
+szerokoÅ›Ä‡ wideo
 [Show by request only]
-Poka¿ wg. pytania
+PokaÅ¼ wg. pytania
 [second line]
 drugi gatunek
 [Check]
-SprawdŸ
+SprawdÅº
 [artist]
 artysta
 [album]
@@ -432,13 +432,13 @@ album
 [genre]
 gatunek
 [Cover file path]
-ok³adka
+okÅ‚adka
 [Player volume (0-15)]
-G³oœnoœæ odtwarzacza (0-15)
+GÅ‚oÅ›noÅ›Ä‡ odtwarzacza (0-15)
 [Player homepage URL]
 Strona domowa odtwarzacza
 [player status (not translated)]
-staus odtwarzacza (nie t³umaczona)
+staus odtwarzacza (nie tÅ‚umaczona)
 [Format text Info]
 Info formatu tekstu
 [Controls]
@@ -446,11 +446,11 @@ Reglulator
 [Frame Controls]
 Ramka WATrack
 [Plugin Enabled]
-Plugin W³¹czony
+Plugin WÅ‚Ä…czony
 [Plugin Disabled]
-Plugin Wy³¹czony
+Plugin WyÅ‚Ä…czony
 [Create Report]
-Utwórz raport
+UtwÃ³rz raport
 [Context menu]
 Menu kontekstowe
 [Report file name not defined]
@@ -466,7 +466,7 @@ Nazwa xStatus
 [- artist]
 - artysta
 [- bitrate]
-- szybkoœæ
+- szybkoÅ›Ä‡
 [- current song position (sec)]
 - pozycja utworu (sek)
 [- player version]
@@ -476,33 +476,33 @@ Nazwa xStatus
 [- song title]
 - nazwa utworu
 [- total song length (sec)]
-- ca³kowita d³ugoœæ utworu (sek)
+- caÅ‚kowita dÅ‚ugoÅ›Ä‡ utworu (sek)
 [- track number]
-- numer œcie¿ki
+- numer Å›cieÅ¼ki
 ["Variables" module use]
-U¿yto modó³ "Variables"
+UÅ¼yto modÃ³Å‚ "Variables"
 [Acoustic]
 Akustyka
 [Use ICQ XStatus]
-U¿yj xStatus ICQ
+UÅ¼yj xStatus ICQ
 [-default-]
--domyœlny-
+-domyÅ›lny-
 [Global WATrack hotkey]
 Globalne WATrack hotkey
 [WATrack data insert hotkey]
-Umieœæ dane WATrack hotkey
+UmieÅ›Ä‡ dane WATrack hotkey
 [ListeningTo]
-Teraz s³ucham
+Teraz sÅ‚ucham
 [Check all players]
-SprawdŸ wszystkie odtw.
+SprawdÅº wszystkie odtw.
 [Status (common)]
-Status (wspólny)
+Status (wspÃ³lny)
 [Status (templates)]
 Status (szablon)
 [Use listening info]
-U¿yj informacji listening
+UÅ¼yj informacji listening
 [Set XStatus when...]
-U¿yj xStatus kiedy...
+UÅ¼yj xStatus kiedy...
 [any XStatus is set]
 jest jakikolwiek xStatus
 ['Music' status is set]
@@ -510,13 +510,13 @@ status jest na 'Muzyka'
 [no XStatus set (empty)]
 nie ma ustawionego xStatus
 [Enable Status message]
-W³¹cz opisy statusów
+WÅ‚Ä…cz opisy statusÃ³w
 [Enable XStatus message]
-W³¹cz opisy xStatus
+WÅ‚Ä…cz opisy xStatus
 [Enable Tunes message]
-W³¹cz opis Tunes
+WÅ‚Ä…cz opis Tunes
 [Switch ON these modules]
-W³¹czone modu³y
+WÅ‚Ä…czone moduÅ‚y
 [Statistic]
 Statystyki
 [Export text template]
@@ -524,15 +524,15 @@ Eksport szablonu tekstu
 [User music info text]
 Tekst informacji o muzyce
 [(%artist%, %title%, %album% and %year% macros can be used only)]
-(%artist%, %title%, %album% i %year% mog¹ byæ tylko u¿yte)
+(%artist%, %title%, %album% i %year% mogÄ… byÄ‡ tylko uÅ¼yte)
 [Players list\n(F1 for note)]
 Lista odtwarzaczy\n(F1 - info)
 [XStatus is empty or 'Music']
 xStatus jest pusty lub 'Muzyka'
 [Don't forget to enter Login and Password to use Last.fm service]
-Nie zapomnij wpisaæ Loginu i Has³a by u¿yæ us³ugi Last.fm
+Nie zapomnij wpisaÄ‡ Loginu i HasÅ‚a by uÅ¼yÄ‡ usÅ‚ugi Last.fm
 [Modules]
-Modu³y
+ModuÅ‚y
 [Emulate Multimedia keys]
 Emuluj klucze multimedii
 [Context Menu]
@@ -542,36 +542,36 @@ Pauza
 [Basic]
 Podstawowe
 [Get user's Music Info]
-Poka¿ info o s³uchanym utworze
+PokaÅ¼ info o sÅ‚uchanym utworze
 [Prev Hovered]
 Poprzedni - po najechaniu
 [Prev Pushed]
-Poprzedni - po naciœniêciu
+Poprzedni - po naciÅ›niÄ™ciu
 [Play Hovered]
 Graj - po najechaniu
 [Play Pushed]
-Graj - po naciœniêciu
+Graj - po naciÅ›niÄ™ciu
 [Pause Hovered]
 Pauza - po najechaniu
 [Pause Pushed]
-Pauza - po naciœniêciu
+Pauza - po naciÅ›niÄ™ciu
 [Stop Hovered]
 Stop - po najechaniu
 [Stop Pushed]
-Stop - po naciœniêciu
+Stop - po naciÅ›niÄ™ciu
 [Next Hovered]
-Nastêpny - po najechaniu
+NastÄ™pny - po najechaniu
 [Next Pushed]
-Nastêpny - po naciœniêciu
+NastÄ™pny - po naciÅ›niÄ™ciu
 [Volume Down Hovered]
 Przycisz - po najechaniu
 [Volume Down Pushed]
-Przycisz - po naciœniêciu
+Przycisz - po naciÅ›niÄ™ciu
 [Volume Up Hovered]
-Podg³oœ - po najechaniu
+PodgÅ‚oÅ› - po najechaniu
 [Volume Up Pushed]
-Podg³oœ - po naciœniêciu
+PodgÅ‚oÅ› - po naciÅ›niÄ™ciu
 [Slider Hovered]
 Suwak  - po najechaniu
 [Slider Pushed]
-Suwak - po naciœniêciu
+Suwak - po naciÅ›niÄ™ciu

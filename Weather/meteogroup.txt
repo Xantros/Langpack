@@ -6,15 +6,15 @@
 [# Weather Sunny 1 #]
 Rozpogodzenia
 [# Weather Sunny 2 #]
-Przejaúnienia
+Przeja≈õnienia
 [# Weather Sunny 3 #]
-Przewaønie S≥onecznie
+Przewa≈ºnie S≈Çonecznie
 [# Weather Sunny 4 #]
-S≥onecznie, bezchmurnie
+S≈Çonecznie, bezchmurnie
 [# Weather Sunny 5 #]
 Pogodnie
 [# Weather Sunny 6 #]
-Przejaúnienia
+Przeja≈õnienia
 [# Weather Sunny 7 #]
 Bezchmurnie
 
@@ -23,55 +23,55 @@ Bezchmurnie
 [# Weather Partly Cloudy 1 #]
 Umiarkowane zachmurzenie
 [# Weather Partly Cloudy 2 #]
-Pogodnie, rozwÛj chmur
+Pogodnie, rozw√≥j chmur
 [# Weather Partly Cloudy 3 #]
 Niewielkie zachmurzenie
 [# Weather Partly Cloudy 4 #]
-Przewaønie bezchmurnie
+Przewa≈ºnie bezchmurnie
 
 ;==============================
 ; Cloudy
 [# Weather Cloudy 1 #]
-Duøe zachmurzenie
+Du≈ºe zachmurzenie
 [# Weather Cloudy 2 #]
 Pochmurno
 
 ;==============================
 ; Rain
 [# Weather Rain 1 #]
-Moøliwe opady przelotne
+Mo≈ºliwe opady przelotne
 [# Weather Rain 2 #]
 Okresami deszcz
 [# Weather Rain 3 #]
 Deszcz przelotny
 [# Weather Rain 4 #]
-Moøliwy S≥aby Deszcz
+Mo≈ºliwy S≈Çaby Deszcz
 
 ;==============================
 ; Rain Shower
 [# Weather Rain Shower 1 #]
-S≥aba møawka
+S≈Çaba m≈ºawka
 
 ;==============================
 ; Snow
 [# Weather Snow 1 #]
-ZamieÊ
+Zamieƒá
 
 ;==============================
 ; Snow Shower
 [# Weather Snow Shower 1 #]
-Okresami ånieg
+Okresami ≈önieg
 [# Weather Snow Shower 2 #]
-Okresami s≥aby únieg
+Okresami s≈Çaby ≈õnieg
 [# Weather Snow Shower 3 #]
-Moøliwy przelotny únieg
+Mo≈ºliwy przelotny ≈õnieg
 [# Weather Snow Shower 4 #]
-ånieg z deszczem
+≈önieg z deszczem
 
 ;==============================
 ; Lightning
 [# Weather Lightning 1 #]
-Moøliwe burze
+Mo≈ºliwe burze
 [# Weather Lightning 2 #]
 Ulewy/burze
 [# Weather Lightning 3 #]
@@ -82,4 +82,4 @@ Wichura
 [# Weather Fog 1 #]
 Zamglenia
 [# Weather Fog 2 #]
-Mg≥a Osadzajπca Szadü
+Mg≈Ça OsadzajƒÖca Szad≈∫

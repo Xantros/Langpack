@@ -4,13 +4,13 @@
 ;  Versions: 0.0.0.3
 ;============================================================
 [Closes Miranda IM and starts Profile Manager]
-Zamknij Mirandê IM i uruchom managera profili
+Zamknij MirandÄ™ IM i uruchom managera profili
 [&Change Profile...]
-&Zmieñ profil...
+&ZmieÅ„ profil...
 [Are you sure want to change your profile? Miranda will be closed.]
-Jesteœ pewien ¿e chcesz zmieniæ profil? Miranda zostanie zamkniêta.
+JesteÅ› pewien Å¼e chcesz zmieniÄ‡ profil? Miranda zostanie zamkniÄ™ta.
 [&Show Profile Manager...]
-&Poka¿ managera profili...
+&PokaÅ¼ managera profili...
 [Starts Profile Manager]
 Uruchom managera profili
 [Profile manager]
@@ -18,4 +18,4 @@ Manager profili
 [Load profile]
 Uruchom profil
 [Change profile]
-Zmieñ profil
+ZmieÅ„ profil

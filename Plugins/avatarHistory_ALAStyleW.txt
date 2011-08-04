@@ -4,45 +4,45 @@
 ;  Versions: 0.0.1.10
 ;============================================================
 [Delete avatar log?]
-Usun¹æ log awatara?
+UsunÄ…Ä‡ log awatara?
 [Are you sure you wish to delete this avatar shortcut?\nOnly shortcut will be deleted, bitmap file will be kept!]
-Na pewno chcesz usun¹æ skrót do tego awataru?\nUsuniêty zostanie tylko skrót, plik z obrazkiem zostanie zachowany!
+Na pewno chcesz usunÄ…Ä‡ skrÃ³t do tego awataru?\nUsuniÄ™ty zostanie tylko skrÃ³t, plik z obrazkiem zostanie zachowany!
 [Are you sure you wish to delete this archived avatar?\nThis will delete the history entry and the bitmap file.\nWARNING:This can affect more than one entry in history!]
-Na pewno chcesz usun¹æ ten zarchiwizowany awatar?\nUsuniêty zostanie wpis historii i plik z obrazkiem.\nUWAGA: Mo¿e to wp³yn¹æ na wiêcej ni¿ jeden wpis w historii!
+Na pewno chcesz usunÄ…Ä‡ ten zarchiwizowany awatar?\nUsuniÄ™ty zostanie wpis historii i plik z obrazkiem.\nUWAGA: MoÅ¼e to wpÅ‚ynÄ…Ä‡ na wiÄ™cej niÅ¼ jeden wpis w historii!
 [Delete avatar?]
-Usun¹æ awatar?
+UsunÄ…Ä‡ awatar?
 [Are you sure you wish to delete this archived avatar?\nThis will delete the shortcut and the bitmap file.\nWARNING:This can affect more than one shortcut!]
-Na pewno chcesz usun¹æ zarchiwizowany awatar?\nUsuniêty zostanie skrót i plik z obrazkiem.\nUWAGA: Mo¿e to wp³yn¹æ na wiêcej ni¿ jeden skrót!
+Na pewno chcesz usunÄ…Ä‡ zarchiwizowany awatar?\nUsuniÄ™ty zostanie skrÃ³t i plik z obrazkiem.\nUWAGA: MoÅ¼e to wpÅ‚ynÄ…Ä‡ na wiÄ™cej niÅ¼ jeden skrÃ³t!
 [View Avatar History]
-Poka¿ historiê awatara
+PokaÅ¼ historiÄ™ awatara
 [Avatar History]
 Historia awatara
 [Unknown UIN]
 Nieznane UIN
 [Unknown Protocol]
-Nieznany protokó³
+Nieznany protokÃ³Å‚
 [Avatar List Popup]
-Popup listy awatarów
+Popup listy awatarÃ³w
 [Save As...]
 Zapisz jako...
 [Delete this entry]
-Usuñ ten wpis
+UsuÅ„ ten wpis
 [Delete this entry and the bitmap file]
-Usuñ ten wpis i plik z obrazkiem
+UsuÅ„ ten wpis i plik z obrazkiem
 [Open Folder]
-Otwórz folder
+OtwÃ³rz folder
 [Store this user's old avatars in disk]
 Przechowuj stare awatary tego kontaktu na dysku
 [Log this user's avatars changes to history]
 Zapisuj zmiany awatara tego kontaktu w historii
 [Show popups for this user]
-Poka¿ popupy dla tego u¿ytkownika
+PokaÅ¼ popupy dla tego uÅ¼ytkownika
 [MetaContacts have special handling: the info is always copied from subcontacts (notifications from a meta are ignored)]
-Meta kontakty zachowuj¹ siê w specyficzny sposób: informacje s¹ kopiowane z subkontaktów (powiadomienia z meta s¹ ignorowane)
+Meta kontakty zachowujÄ… siÄ™ w specyficzny sposÃ³b: informacje sÄ… kopiowane z subkontaktÃ³w (powiadomienia z meta sÄ… ignorowane)
 [Show popup when a contact change his avatar]
-Poka¿ popup kiedy kontakt zmieni swój awatar
+PokaÅ¼ popup kiedy kontakt zmieni swÃ³j awatar
 [ Delay ]
-OpóŸnienie
+OpÃ³Åºnienie
 [From popup plugin]
 Z wtyczki PopUp
 [ Actions ]
@@ -52,43 +52,43 @@ Prawy przycisk:
 [On left click:]
 Lewy przycisk:
 [ Track ]
-Œledzenie
+Åšledzenie
 [Avatar change:]
 Zmiana awataru:
 [Avatar removal:]
-Usuniêcie awataru:
+UsuniÄ™cie awataru:
 [Avatar History: Select how to store history avatars]
-Historia awataru: Wybierz sposób przechowywania awatarów
+Historia awataru: Wybierz sposÃ³b przechowywania awatarÃ³w
 [Please select how the avatar history should be stored. This setting can NOT be changed in future, because it would cause all previous history to be lost.]
-Proszê wybraæ sposób przechowywania historii awatarów. Te ustawienia NIE bêd¹ mog³y byæ zmienione, poniewa¿ spowodowa³oby to utratê ca³ej poprzedniej historii
+ProszÄ™ wybraÄ‡ sposÃ³b przechowywania historii awatarÃ³w. Te ustawienia NIE bÄ™dÄ… mogÅ‚y byÄ‡ zmienione, poniewaÅ¼ spowodowaÅ‚oby to utratÄ™ caÅ‚ej poprzedniej historii
 [Store history in miranda history and all history avatars in same folder]
-Przechowuj historiê w profilu Mirandy, a wszystkie awatary w tym samym folderze
+Przechowuj historiÄ™ w profilu Mirandy, a wszystkie awatary w tym samym folderze
 [Store history in miranda history and history avatars in per protocol folders]
-Przechowuj historiê w profilu Mirandy, a awatary w folderach protoko³ów
+Przechowuj historiÄ™ w profilu Mirandy, a awatary w folderach protokoÅ‚Ã³w
 [Store history in miranda history and history avatars in per contact folders using shortcuts]
-Przechowuj historiê w profilu Mirandy, a awatary w folderach kontaktów u¿ywaj¹c skrótów
+Przechowuj historiÄ™ w profilu Mirandy, a awatary w folderach kontaktÃ³w uÅ¼ywajÄ…c skrÃ³tÃ³w
 [Store history avatars in per contact folders using shortcuts]
-Przechowuj historiê awatarów w folderach kontaktów u¿ywaj¹c skrótów
+Przechowuj historiÄ™ awatarÃ³w w folderach kontaktÃ³w uÅ¼ywajÄ…c skrÃ³tÃ³w
 [Store history avatars in per contact folders]
-Przechowuj historiê awatarów w folderach kontaktów
+Przechowuj historiÄ™ awatarÃ³w w folderach kontaktÃ³w
 [History is stored inside miranda db. It can be seen by History++ or Avatar History internal viewer.]
-Historia bêdzie zapisana w bazie Mirandy, aby j¹ zobaczyæ u¿yj History++ lub wew. przegl¹darki.
+Historia bÄ™dzie zapisana w bazie Mirandy, aby jÄ… zobaczyÄ‡ uÅ¼yj History++ lub wew. przeglÄ…darki.
 [All avatars are stored as <Profile>\\Avatars History\\<Avatar Hash>]
-Awatary s¹ przechowywane w <Profil>\\Avatars History\\<Hash awataru>
+Awatary sÄ… przechowywane w <Profil>\\Avatars History\\<Hash awataru>
 [All avatars are stored as <Profile>\\Avatars History\\<Protocol>\\<Avatar Hash>]
-Awatary s¹ przechowywane w <Profil>\\Avatars History\\<Protokó³>\\<Hash awataru>
+Awatary sÄ… przechowywane w <Profil>\\Avatars History\\<ProtokÃ³Å‚>\\<Hash awataru>
 [All avatars are stored as <Profile>\\Avatars History\\<Protocol>\\<Avatar Hash> and have a shortcut per history entry in <Profile>\\Avatars History\\<Protocol>\\<Contact ID>\\<Timestamp>]
-Awatary s¹ przechowywane w <Profil>\\Avatars History\\<Protokó³>\\<Hash awataru> i posiadaj¹ skróty we wpisach historii w <Profil>\\Avatars History\\<Protokó³>\\<ID kontaktu>\\<Data i czas>
+Awatary sÄ… przechowywane w <Profil>\\Avatars History\\<ProtokÃ³Å‚>\\<Hash awataru> i posiadajÄ… skrÃ³ty we wpisach historii w <Profil>\\Avatars History\\<ProtokÃ³Å‚>\\<ID kontaktu>\\<Data i czas>
 [History is stored only in disk. It can be seen by Avatar History internal viewer.]
-Historia bêdzie zapisana tylko na dysku. Mo¿esz j¹ zobaczyæ dziêki wbudowanej przegl¹darce.
+Historia bÄ™dzie zapisana tylko na dysku. MoÅ¼esz jÄ… zobaczyÄ‡ dziÄ™ki wbudowanej przeglÄ…darce.
 [All avatars are stored as <Profile>\\Avatars History\\<Protocol>\\<Contact ID>\\<Timestamp> (the same image can be stored lot of times)]
-Awatary s¹ przechowywane w <Profil>\\Avatars History\\<Protokó³>\\<ID kontaktu>\\<Data i czas> (ten sam obrazek mo¿e byæ zapisany wiele razy)
+Awatary sÄ… przechowywane w <Profil>\\Avatars History\\<ProtokÃ³Å‚>\\<ID kontaktu>\\<Data i czas> (ten sam obrazek moÅ¼e byÄ‡ zapisany wiele razy)
 [Avatar Change]
 Zmiana awataru
 [Show avatar history]
-Poka¿ historiê awatara
+PokaÅ¼ historiÄ™ awatara
 [Show contact history]
-Poka¿ historiê kontaktu
+PokaÅ¼ historiÄ™ kontaktu
 [Test Contact]
 Testowy kontakt
 [Test description]

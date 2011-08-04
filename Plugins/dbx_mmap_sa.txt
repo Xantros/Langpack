@@ -4,48 +4,48 @@
 ;  Versions: 0.7.5.4
 ;============================================================
 [Disk is full. Miranda will now shutdown.]
-Dysk jest pe³ny. Miranda zostanie zamkniêta.
+Dysk jest peÅ‚ny. Miranda zostanie zamkniÄ™ta.
 [Database failure. Miranda will now shutdown.]
-Awaria bazy danych. Miranda zostanie zamkniêta.
+Awaria bazy danych. Miranda zostanie zamkniÄ™ta.
 [Database Error]
-B³¹d bazy danych.
+BÅ‚Ä…d bazy danych.
 [Miranda has detected corruption in your database. This corruption maybe fixed by DBTool.  Please download it from http://www.miranda-im.org. Miranda will now shutdown.]
-Miranda wykry³a b³¹d w Twojej bazie danych. Mo¿e byæ naprawiony przez DBTool. Pobierz go http://www.miranda-im.org. Miranda zostanie zamkniêta.
+Miranda wykryÅ‚a bÅ‚Ä…d w Twojej bazie danych. MoÅ¼e byÄ‡ naprawiony przez DBTool. Pobierz go http://www.miranda-im.org. Miranda zostanie zamkniÄ™ta.
 [Database Panic]
 Panika bazy danych
 [Security systems to prevent malicious changes are in place and you will be warned before changes that are not known to be safe.]
-System bezpieczeñstwa uniemo¿liwia z³oœliwe zmiany i bêdzie ostrzega³ przed zmianami, które nie wiadomo czy s¹ bezpieczne.
+System bezpieczeÅ„stwa uniemoÅ¼liwia zÅ‚oÅ›liwe zmiany i bÄ™dzie ostrzegaÅ‚ przed zmianami, ktÃ³re nie wiadomo czy sÄ… bezpieczne.
 [Set password]
-Ustaw/Zmieñ has³o
+Ustaw/ZmieÅ„ hasÅ‚o
 [Save Profile As...]
 Zapisz Profil w...
 [Database backuped]
 Kopia zapasowa utworzona
 [Crypto modules not found]
-Modu³ szyfruj¹cy nie zosta³ odnaleziony.
+ModuÅ‚ szyfrujÄ…cy nie zostaÅ‚ odnaleziony.
 [Crypto module doesnt chosen, using first found]
-Modu³ szyfrowania nie zosta³ wybrany, u¿yæ pierwszego znalezionego?
+ModuÅ‚ szyfrowania nie zostaÅ‚ wybrany, uÅ¼yÄ‡ pierwszego znalezionego?
 [Notice]
 Powiadomienie
 [Please enter your new password]
-Proszê wpisaæ twoje nowe has³o.
+ProszÄ™ wpisaÄ‡ twoje nowe hasÅ‚o.
 [Login to Miranda IM]
 Logowanie do Mirandy IM
 [Please enter password for]
-Proszê wpisaæ has³o dla:
+ProszÄ™ wpisaÄ‡ hasÅ‚o dla:
 [Old password]
-Stare has³o do profilu:
+Stare hasÅ‚o do profilu:
 [New password]
-Nowe has³o do profilu:
+Nowe hasÅ‚o do profilu:
 [Wrong password!]
-Z³e has³o!
+ZÅ‚e hasÅ‚o!
 [Too many errors!]
-Zbyt wiele b³êdów!
+Zbyt wiele bÅ‚Ä™dÃ³w!
 [Password is too short!]
-Has³o jest za krótkie!
+HasÅ‚o jest za krÃ³tkie!
 [Passwords doesnt match!]
-Has³a nie s¹ jednakowe!
+HasÅ‚a nie sÄ… jednakowe!
 [Rotating backup files...]
-Przygotowanie plików do skopiowania...
+Przygotowanie plikÃ³w do skopiowania...
 [Backup progress]
 Tworzenie kopii zapasowej profilu...

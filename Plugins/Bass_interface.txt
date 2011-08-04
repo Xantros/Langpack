@@ -6,15 +6,15 @@
 [un4seen's bass version: %d.%d.%d.%d]
 Wersja un4seen's bass: %d.%d.%d.%d
 [Volume:]
-G³oœcnoœæ:
+GÅ‚oÅ›cnoÅ›Ä‡:
 [Current bass.dll path:]
-Œcie¿ka do BASS.dll:
+ÅšcieÅ¼ka do BASS.dll:
 [bass.dll loading error]
-B³¹d wczytywania Sterownika BASS.dll
+BÅ‚Ä…d wczytywania Sterownika BASS.dll
 [un4seen's bass interface]
 Interface un4seen's bass
 [Maximum number of bass internal channels:]
-Maksymalna iloœæ kana³ów:
+Maksymalna iloÅ›Ä‡ kanaÅ‚Ã³w:
 [Bass Interface]
 Interface BASS
 [Output device:]
@@ -22,12 +22,12 @@ Sterownik audio:
 [download bass library]
 Pobierz biblioteki BASS
 [--default device--]
---domyœlne sterowniki--
+--domyÅ›lne sterowniki--
 [Play only if]
 Graj tylko gdy:
 [Audio device is opened]
-Urz¹dzenie audio jest aktywne
+UrzÄ…dzenie audio jest aktywne
 [Audio device is closed]
-Urz¹dzenie audio jest nieaktywne
+UrzÄ…dzenie audio jest nieaktywne
 [Open/close audio device]
-Aktywuj/dezaktywuj urz¹dzenie audio
+Aktywuj/dezaktywuj urzÄ…dzenie audio

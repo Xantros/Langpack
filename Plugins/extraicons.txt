@@ -4,10 +4,10 @@
 ;  Versions: 0.2.5.0
 ;============================================================
 [Select the extra icons to be shown in the contact list:]
-Tylko zaznaczone ikony bêd¹ pokazywane na liœcie kontaktów:
+Tylko zaznaczone ikony bÄ™dÄ… pokazywane na liÅ›cie kontaktÃ³w:
 [* only the first %d icons will be shown]
-* tylko %d pierwszych ikon bêdzie pokazywane
+* tylko %d pierwszych ikon bÄ™dzie pokazywane
 [Ungroup]
 Anuluj grupowanie
 [You can group/ungroup icons by selecting then (CTRL+left click) and using the popup menu (right click)]
-Mo¿esz grupowaæ wyœwietlane ikony (CTRL+LPM) i u¿yæ menu popup (PPM)
+MoÅ¼esz grupowaÄ‡ wyÅ›wietlane ikony (CTRL+LPM) i uÅ¼yÄ‡ menu popup (PPM)

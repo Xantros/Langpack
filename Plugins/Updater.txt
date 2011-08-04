@@ -12,15 +12,15 @@ Obecna wersja
 [Update]
 Aktualizuj
 [Could not create data file for restart.]
-Nie uda³o siê utworzyæ pliku z danymi dla restartu.
+Nie udaÅ‚o siÄ™ utworzyÄ‡ pliku z danymi dla restartu.
 [Could not create data file for restart]
-Nie uda³o siê utworzyæ pliku z danymi dla restartu
+Nie udaÅ‚o siÄ™ utworzyÄ‡ pliku z danymi dla restartu
 [Miranda's not 'OK TO EXIT'.]
-Nie mo¿na wy³¹czyæ Mirandy.
+Nie moÅ¼na wyÅ‚Ä…czyÄ‡ Mirandy.
 [Restart]
 Restart
 [Update and Exit]
-Aktualizuj i wyjdŸ
+Aktualizuj i wyjdÅº
 [FORCED]
 WYMUSZONE
 [TRUE]
@@ -30,7 +30,7 @@ TAK
 [FALSE]
 NIE
 [Update on major version change.]
-Aktualizuj przy wiêkszej zmianie.
+Aktualizuj przy wiÄ™kszej zmianie.
 [Update on minor version change.]
 Aktualizuj przy drobnej zmianie.
 [Update on release number change.]
@@ -38,122 +38,122 @@ Aktualizuj przy zmianie numeru wydania.
 [Update on build number change.]
 Aktualizuj przy zmianie numeru buildu.
 [Use Beta?]
-Œci¹gaj wersjê Beta
+ÅšciÄ…gaj wersjÄ™ Beta
 [Select Folder]
 Wybierz folder
 [Updates]
 Aktualizacje
 [Progress - %d%%]
-Postêp - %d%%
+PostÄ™p - %d%%
 [Downloading Updates]
-Œci¹ganie uaktualnieñ
+ÅšciÄ…ganie uaktualnieÅ„
 [Progress - Downloading updates...]
-Postêp - Œci¹ganie uaktualnieñ...
+PostÄ™p - ÅšciÄ…ganie uaktualnieÅ„...
 [Downloading]
-Œci¹ganie
+ÅšciÄ…ganie
 [Downloading plugin: %s]
-Œci¹gana wtyczka: %s
+ÅšciÄ…gana wtyczka: %s
 [Skipping plugin: %s]
 Pomijanie wtyczki: %s
 [No network - aborting update check]
-Brak sieci - anulowanie sprawdzania uaktualnieñ
+Brak sieci - anulowanie sprawdzania uaktualnieÅ„
 [Checking for Updates]
-Sprawdzanie uaktualnieñ
+Sprawdzanie uaktualnieÅ„
 [Progress - Checking for updates...]
-Postêp - Sprawdzanie uaktualnieñ...
+PostÄ™p - Sprawdzanie uaktualnieÅ„...
 [Downloading XML data]
-Œci¹ganie danych XML
+ÅšciÄ…ganie danych XML
 [Checking for updates]
-Sprawdzanie uaktualnieñ
+Sprawdzanie uaktualnieÅ„
 [Scanning plugins folder]
 Skanowanie folderu z wtyczkami
 [Scanning language packs]
-Skanowanie plików jêzykowych
+Skanowanie plikÃ³w jÄ™zykowych
 [Updating component file listing ids]
-Aktualizacja listy komponentów
+Aktualizacja listy komponentÃ³w
 [Checking plugin: %s]
 Sprawdzanie wtyczki: %s
 [Updates Available]
-Dostêpne s¹ aktualizacje
+DostÄ™pne sÄ… aktualizacje
 [Click here to install]
-Kliknij tu ¿eby zainstalowaæ
+Kliknij tu Å¼eby zainstalowaÄ‡
 [Could not create backup folder]
-Nie uda³o siê utworzyæ folderu z kopi¹ zapasow¹
+Nie udaÅ‚o siÄ™ utworzyÄ‡ folderu z kopiÄ… zapasowÄ…
 [Check for updates]
-SprawdŸ aktualizacje
+SprawdÅº aktualizacje
 [Failed to download "%s" - Invalid response, code %d]
-Nie uda³o siê pobraæ "%s" - Nieprawid³owa odpowiedŸ, kod %d
+Nie udaÅ‚o siÄ™ pobraÄ‡ "%s" - NieprawidÅ‚owa odpowiedÅº, kod %d
 [Failed to download "%s": ]
-Nie uda³o siê pobraæ "%s": 
+Nie udaÅ‚o siÄ™ pobraÄ‡ "%s": 
 [Updater connection]
-Po³¹czenie Updatera
+PoÅ‚Ä…czenie Updatera
 [Check for Plugin Updates]
-SprawdŸ aktualizacje wtyczek
+SprawdÅº aktualizacje wtyczek
 [You are using the wrong version of this plugin.\nPlease download the NON-UNICODE version.\nPlugin disabled.]
-U¿ywasz nieodpowiedni¹ wersjê wtyczki.\nŒci¹gnij wersjê NON-UNICODE.\nWtyczka zosta³a wy³¹czona.
+UÅ¼ywasz nieodpowiedniÄ… wersjÄ™ wtyczki.\nÅšciÄ…gnij wersjÄ™ NON-UNICODE.\nWtyczka zostaÅ‚a wyÅ‚Ä…czona.
 [You are using the wrong version of this plugin.\nPlease download the UNICODE version.\nPlugin disabled.]
-U¿ywasz nieodpowiedni¹ wersjê wtyczki.\nŒci¹gnij wersjê UNICODE.\nWtyczka zosta³a wy³¹czona.
+UÅ¼ywasz nieodpowiedniÄ… wersjÄ™ wtyczki.\nÅšciÄ…gnij wersjÄ™ UNICODE.\nWtyczka zostaÅ‚a wyÅ‚Ä…czona.
 [Confirm Files]
-PotwierdŸ pliki
+PotwierdÅº pliki
 [Invert Selection]
-Odwróæ zaznaczenie
+OdwrÃ³Ä‡ zaznaczenie
 [(But only once per day)]
 (Ale tylko raz dziennie)
 [Check daily]
 Sprawdzaj codziennie
 [Install without confirmation if idle]
-Bez potwierdzenia w stanie bezczynnoœci
+Bez potwierdzenia w stanie bezczynnoÅ›ci
 [Backup updated files]
-Twórz kopiê bezpieczeñstwa
+TwÃ³rz kopiÄ™ bezpieczeÅ„stwa
 [Global Status Control]
 Globalna kontrola statusu
 [Start offline, restore after update check]
-Po³¹cz z sieciami dopiero po sprawdzeniu aktualizacji
+PoÅ‚Ä…cz z sieciami dopiero po sprawdzeniu aktualizacji
 [Use popups for progress info]
-Poka¿ info o postêpie w popupach
+PokaÅ¼ info o postÄ™pie w popupach
 [Show 'Restart' menu item]
-Poka¿ "Restartuj" w menu
+PokaÅ¼ "Restartuj" w menu
 [Show 'Update and Exit' menu item]
-Poka¿ "Aktualizuj i wyjdŸ" w menu
+PokaÅ¼ "Aktualizuj i wyjdÅº" w menu
 [Keep downloaded archives]
-Zachowuj œci¹gniête archiwa
+Zachowuj Å›ciÄ…gniÄ™te archiwa
 [Only install DLLs automatically]
 Automatycznie instaluj tylko pliki DLL
 [Don't unzip]
 Nie rozpakowuj
 [Confirm Updates]
-PotwierdŸ aktualizacjê
+PotwierdÅº aktualizacjÄ™
 [Updates are available for the following components:]
-Dostêpne s¹ aktualizacje dla nastêpuj¹cych komponentów:
+DostÄ™pne sÄ… aktualizacje dla nastÄ™pujÄ…cych komponentÃ³w:
 [Confirm install for individual files]
-PotwierdŸ instalacjê dla ka¿dego pliku
+PotwierdÅº instalacjÄ™ dla kaÅ¼dego pliku
 [Download but do not install]
-Œci¹gnij ale nie instaluj
+ÅšciÄ…gnij ale nie instaluj
 [Changelog]
 Lista zmian
 [Progress]
-Postêp
+PostÄ™p
 [Data:]
 Dane:
 [Backups:]
-Kopie bezpieczeñstwa:
+Kopie bezpieczeÅ„stwa:
 [Saved archives:]
 Zapisane archiwa:
 [BZ2 Decompression, configuration error]
-Dekompresja BZ2, b³¹d konfiguracji
+Dekompresja BZ2, bÅ‚Ä…d konfiguracji
 [BZ2 Decompression, parameter error]
-Dekompresja BZ2 b³¹d parametru
+Dekompresja BZ2 bÅ‚Ä…d parametru
 [DB2 Decompression, memory error]
-Dekompresja DB2, b³¹d pamiêci
+Dekompresja DB2, bÅ‚Ä…d pamiÄ™ci
 [Updater: Error getting data - too many redirects]
-Updater: B³¹d pobierania danych - za du¿o przekierowañ
+Updater: BÅ‚Ä…d pobierania danych - za duÅ¼o przekierowaÅ„
 [Failed to download XML data: ]
-Nie uda³o siê pobraæ danych XML: 
+Nie udaÅ‚o siÄ™ pobraÄ‡ danych XML: 
 [Updater: Error Downloading XML Data]
-Updater: B³¹d pobierania danych XML
+Updater: BÅ‚Ä…d pobierania danych XML
 [Failed to download XML data - Response is NULL]
-Nie uda³o siê pobraæ danych - OdpowiedŸ to NULL
+Nie udaÅ‚o siÄ™ pobraÄ‡ danych - OdpowiedÅº to NULL
 [Failed to download XML data - Invalid response, code %d]
-Nie uda³o siê pobraæ danych XML - B³êdna odpowiedŸ, kod %d
+Nie udaÅ‚o siÄ™ pobraÄ‡ danych XML - BÅ‚Ä™dna odpowiedÅº, kod %d
 [Failed to decompress XML data]
-Nie uda³o siê zdekompresowaæ danych XML
+Nie udaÅ‚o siÄ™ zdekompresowaÄ‡ danych XML

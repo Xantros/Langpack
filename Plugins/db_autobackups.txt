@@ -8,29 +8,29 @@ Kopia zapasowa profilu
 [Automatic Backups]
 Automatyczne kopie zapasowe
 [When Miranda starts]
-Twórz podczas uruchamiania Mirandy
+TwÃ³rz podczas uruchamiania Mirandy
 [When Miranda exits]
-Twórz podczas wy³¹czania Mirandy
+TwÃ³rz podczas wyÅ‚Ä…czania Mirandy
 [Periodically:]
-Twórz okresowo:
+TwÃ³rz okresowo:
 [Every:]
-Twórz co:
+TwÃ³rz co:
 [Number of backups to keep:]
 Liczba trzymanych kopii zapasowych:
 [Backup to folder:]
 Zapisuj kopie do folderu:
 [Disable progress bar]
-Wy³¹cz okienko ze wskaŸnikiem postêpu kopiowania
+WyÅ‚Ä…cz okienko ze wskaÅºnikiem postÄ™pu kopiowania
 [Disable Popups]
-Wy³¹cz popupy
+WyÅ‚Ä…cz popupy
 [Backup NOW]
-Zrób TERAZ kopiê
+ZrÃ³b TERAZ kopiÄ™
 [Backup in Progress]
 Tworzenie kopii zapasowej...
 [Copying database file...]
 Kopiowanie pliku bazy danych...
 [Go to the "Customize -> Folders" to change settings]
-IdŸ do Personalizacja -> Foldery aby zmieniæ ustawienia
+IdÅº do Personalizacja -> Foldery aby zmieniÄ‡ ustawienia
 [Site:]
 Strona:
 [Backup Folder]

@@ -4,17 +4,17 @@
 ;  Versions: 0.1.7.10
 ;============================================================
 [Error during xfire_games Update.]
-B³¹d podczas aktualizacji xfire_games.
+BÅ‚Ä…d podczas aktualizacji xfire_games.
 [Error during Icons.dll Update.]
-B³¹d podczas aktualizaji Icons.dll.
+BÅ‚Ä…d podczas aktualizaji Icons.dll.
 [Miranda XFire Protocol Plugin]
-Protokó³ xFire
+ProtokÃ³Å‚ xFire
 [There is a new Icons.dll online, do you want to update now?]
-Dostêpny jest nowy Icons.dll, czy chcesz zaktualizowaæ teraz?
+DostÄ™pny jest nowy Icons.dll, czy chcesz zaktualizowaÄ‡ teraz?
 [XFire Protocol]
-Protokó³ xFire
+ProtokÃ³Å‚ xFire
 [XFire Protocol Plugin by dufte [Built: Nov 22 2008 01:15:47]]
-Protokó³ xFire by defte
+ProtokÃ³Å‚ xFire by defte
 [Games]
 Gry
 [Game:]
@@ -24,37 +24,37 @@ Cechy
 [Loginname:]
 Login:
 [You can only change your nick, if you are connected to Xfire.]
-Mo¿esz zmieniæ nick, jeœli jesteœ po³¹czony z sieci¹ xFire.
+MoÅ¼esz zmieniÄ‡ nick, jeÅ›li jesteÅ› poÅ‚Ä…czony z sieciÄ… xFire.
 [Proxy settings]
 Opcje proxy:
 [Use proxy]
-U¿yj proxy
+UÅ¼yj proxy
 [Enter your HTTP Proxy here. SOCKS4/5 are currently not supported.]
-Wpisz swój proxy HTTP. SOCKS4/5 nie jest obslugiwany.
+Wpisz swÃ³j proxy HTTP. SOCKS4/5 nie jest obslugiwany.
 [Current Protocolversion:]
 Wesja protokolu:
 [Gamedetection]
 Wykrywanie gier
 [Disable game detection]
-Wy³¹cz wykrywanie gier
+WyÅ‚Ä…cz wykrywanie gier
 [Disable popups when ingame]
-Wy³¹cz popupy kiedy gram
+WyÅ‚Ä…cz popupy kiedy gram
 [Disable sound events when ingame]
-Wy³¹cz dŸwiêki kiedy gram
+WyÅ‚Ä…cz dÅºwiÄ™ki kiedy gram
 [Enable server IP/Port detection]
-W³¹cz wykrywanie IP/Portu serwera
+WÅ‚Ä…cz wykrywanie IP/Portu serwera
 [Enable TeamSpeak2/Ventrilo detection]
-W³¹cz wykrywanie TeamSpeak2/Ventrilo
+WÅ‚Ä…cz wykrywanie TeamSpeak2/Ventrilo
 [Scan for games on every Miranda start]
-Skanuj gry podczas w³¹czania Mirandy
+Skanuj gry podczas wÅ‚Ä…czania Mirandy
 [Use TSRemote.dll to get teamspeak server info]
-U¿yj TSRemote.dll aby dostaæ info serwera teamspeak
+UÅ¼yj TSRemote.dll aby dostaÄ‡ info serwera teamspeak
 [No custom away message]
-Wy³¹cz opis w trybie Zaraz Wracam
+WyÅ‚Ä…cz opis w trybie Zaraz Wracam
 [Disable Avatars]
-Wy³¹cz Awatary
+WyÅ‚Ä…cz Awatary
 [Don't automatically create clan groups]
-Nie twórz automatycznie grup klanowych
+Nie twÃ³rz automatycznie grup klanowych
 [GameServerQuery support]
 Wsparcie GameServerQuery
 [No Ip/Port in StatusMsg]
@@ -62,70 +62,70 @@ Brak IP/Portu w opisie
 [Show usernames only]
 Pokazuj tylko imiona
 [Use Online status for unsupported global statuses]
-U¿yj statusu Po³¹czony dla nieobs³ugiwanych globalnych statusów
+UÅ¼yj statusu PoÅ‚Ä…czony dla nieobsÅ‚ugiwanych globalnych statusÃ³w
 [Automatically update xfire_games.ini (pro-laming.de)]
 Automatycznie aktualizuj xfire_games.ini (pro-laming.de)
 [Download missing game icons from Xfire website]
-Pobierz brakuj¹ce ikonki gry ze strony xFire
+Pobierz brakujÄ…ce ikonki gry ze strony xFire
 [Use alternate way for Avatar download]
-U¿yj alteranatywnego sposobu pobierania awatarów
+UÅ¼yj alteranatywnego sposobu pobierania awatarÃ³w
 [Dialog / Icon Options *]
 Dialog / Ikony - Opcje
 [Display Error and Infomessage:]
-Poka¿ b³¹d i informacje:
+PokaÅ¼ bÅ‚Ä…d i informacje:
 [Messagebox]
-Skrzynka wiadomoœci
+Skrzynka wiadomoÅ›ci
 [Blocklist / Games]
 Lista zablokowanych / Gry
 [Blocked User List]
 Lista zablokowanych
 [This list contains all your blocked Xfire users. You can remove one, if you wanna allow him to send you a friend request.]
-Ta lista pokazuje twoich wszystkich zablokowanych u¿ytkowników. Mo¿esz usun¹c osobe z listy aby móc z nim porozmawiaæ.
+Ta lista pokazuje twoich wszystkich zablokowanych uÅ¼ytkownikÃ³w. MoÅ¼esz usunÄ…c osobe z listy aby mÃ³c z nim porozmawiaÄ‡.
 [You can simply block someone, if you right click on his friend request in clist and choose Block User ...]
-Mo¿esz ³atwo blokowaæ osoby, kiedy klikniesz PPM na znajomego na liscie i wybieraj¹c opcje Zablokuj Kontakt ...
+MoÅ¼esz Å‚atwo blokowaÄ‡ osoby, kiedy klikniesz PPM na znajomego na liscie i wybierajÄ…c opcje Zablokuj Kontakt ...
 [This file is used for the game search, game detection and gameid resolving. It contains all xfire supported games.]
-Ten plik zostaje u¿yty do poszukiwania gier. 
+Ten plik zostaje uÅ¼yty do poszukiwania gier. 
 [This file contains all original game icons. You can also activate the option for icon downloading, if you dont have it.]
-Ten plik posiada wszystkie orginalne ikonki gier. Mo¿esz równie¿ aktywowaæ opcje pobierania dodatkowych ikon.
+Ten plik posiada wszystkie orginalne ikonki gier. MoÅ¼esz rÃ³wnieÅ¼ aktywowaÄ‡ opcje pobierania dodatkowych ikon.
 [Be sure you put these files in following folder:]
-Upewnij siê ¿e pliki znajduj¹ siê w folderze:
+Upewnij siÄ™ Å¼e pliki znajdujÄ… siÄ™ w folderze:
 [Setup your Games...]
 Konfiguruj moje gry...
 [StatusMsg]
 Opis
 [Change the status to occupied]
 [Add a new game ...]
-Dodaj now¹ grê...
+Dodaj nowÄ… grÄ™...
 [With this feature, following status message will be set on your other protocol plugins, if you are ingame. So your other buddy's can also see what you play. It will also change the status to occupied, if this option is enabled.]
-Kiedy grasz w jak¹œ grê i chcesz pokazaæ komuœ w co grasz, zaznacz t¹ opcjê, ustawi ona w opisie dane na temat w co w tej chwili grasz. Mo¿esz równie¿ zmieniæ automatycznie status kiedy grasz.
+Kiedy grasz w jakÄ…Å› grÄ™ i chcesz pokazaÄ‡ komuÅ› w co grasz, zaznacz tÄ… opcjÄ™, ustawi ona w opisie dane na temat w co w tej chwili grasz. MoÅ¼esz rÃ³wnieÅ¼ zmieniÄ‡ automatycznie status kiedy grasz.
 [The status message and status will be reset, if you close the game.]
-Opis zmieni siê kiedy zresetujesz grê lub j¹ zamkniesz.
+Opis zmieni siÄ™ kiedy zresetujesz grÄ™ lub jÄ… zamkniesz.
 [Following Variables are available: %myxfiregame%, %myxfirevoice%, %myxfireserverip%, %myxfirevoiceip%]
-Dostêpne zmienne: %myxfiregame%, %myxfirevoice%, %myxfireserverip%, %myxfirevoiceip%
+DostÄ™pne zmienne: %myxfiregame%, %myxfirevoice%, %myxfireserverip%, %myxfirevoiceip%
 [* Variables plugin needed]
 * Wymagany plugin Variables
 [The changes you have made require you to reconnect to the XFire network before they take effect]
-Nowe ustawienia bêd¹ dostêpne po ponownym po³¹czeniu siê do xFire
+Nowe ustawienia bÄ™dÄ… dostÄ™pne po ponownym poÅ‚Ä…czeniu siÄ™ do xFire
 [The protocol version is too old. Changed current version from %d to %d. You can reconnect now.]
-Wersja protoko³u jest za stara. Zmieniono aktualn¹ wersjê z %d do %d. Mo¿esz ponownie siê po³¹czyæ. 
+Wersja protokoÅ‚u jest za stara. Zmieniono aktualnÄ… wersjÄ™ z %d do %d. MoÅ¼esz ponownie siÄ™ poÅ‚Ä…czyÄ‡. 
 [Games found:%s%s]
 Znalezione gry:%s%s
 [Block U&ser ...]
 Zablokowani...
 [Join &Voice ...]
-Do³¹cz do rozmowy...
+DoÅ‚Ä…cz do rozmowy...
 [Play this Game ...]
 Graj...
 [Join &Game ...]
-Do³¹cz do Gry...
+DoÅ‚Ä…cz do Gry...
 [Cop&y Voice Server Address and Port]
-Kopiuj Adres/Port  serwera g³osowego
+Kopiuj Adres/Port  serwera gÅ‚osowego
 [XFire &Clan Site]
 Strona Klanu xFire
 [C&opy Server Address and Port]
 Kopiuj Adres/Port Serwera
 [&My XFire Online Profile]
-Mój Profil Online xFire
+MÃ³j Profil Online xFire
 [&Rescan my Games ...]
 Przeskanuj ponownie moje Gry
 [&Setup my Games ...]
@@ -133,9 +133,9 @@ Konfiguruj moje gry ...
 [&XFire Online Profile]
 Profil xFire Online
 [Remove F&riend ...]
-Usuñ znajomego
+UsuÅ„ znajomego
 [Do you really want delete your friend %s?]
-Czy na pewno chcesz usun¹æ znajomego %s?
+Czy na pewno chcesz usunÄ…Ä‡ znajomego %s?
 [Automatically Detect]
 Automatycznie wykrywaj
 [Never Detect]
@@ -143,27 +143,27 @@ Nigdy nei wykrywaj
 [Manuel Setup]
 Manualna konfiguracja
 [Disable avatars]
-Wy³¹cz awatary
+WyÅ‚Ä…cz awatary
 [Browse ...]
-Przegl¹daj...
+PrzeglÄ…daj...
 [Hide yourself in buddylist]
-Ukryj mnie na liœcie
+Ukryj mnie na liÅ›cie
 [Dont display game search results]
-Nie wyœwietlaj rezultatów wyszukiwania
+Nie wyÅ›wietlaj rezultatÃ³w wyszukiwania
 [Gameicon:]
 Ikona Gry:
 [Voiceicon:]
-G³osowa Ikona
+GÅ‚osowa Ikona
 [Unable to connect to XFire.]
-Nie mo¿na pod³¹czyæ siê do xFire
+Nie moÅ¼na podÅ‚Ä…czyÄ‡ siÄ™ do xFire
 [XFire Options]
 Opcje xFire
 [Start game]
-Zacznij grê
+Zacznij grÄ™
 [Setup your Games ...]
 Konfiguracja gier...
 [Voicechat]
-G³osowy chat
+GÅ‚osowy chat
 [Userdetails]
 Dane kontaktu
 [Dont display game search status window]
@@ -171,21 +171,21 @@ Nie pokazuj okna wyszukiwania gier
 [Searching games ...]
 Poszukiwanie gier...
 [Display popup, if someone start a game]
-Poka¿ popup kiedy ktoœ z listy zacznie graæ
+PokaÅ¼ popup kiedy ktoÅ› z listy zacznie graÄ‡
 [Automatically update icons.dll (pro-laming.de)]
 Automatycznie aktualizuj Icons.dll (pro-laming.de)
 [No backup on update]
-Nie twórz kopii zapasowej po aktualizacji
+Nie twÃ³rz kopii zapasowej po aktualizacji
 [Automatically scan for games:]
 Automatycznie skanuj w poszukiwaniu gier:
 [On every start]
-Przy ka¿dym starcie
+Przy kaÅ¼dym starcie
 [Main group for clan groups:]
-G³ówna grupa dla grupy klanowej:
+GÅ‚Ã³wna grupa dla grupy klanowej:
 [Note: You can only change these settings, if you are connected to Xfire.]
-Info. Aby zmieniæ ustawienia protoko³u musisz siê po³¹czyæ.
+Info. Aby zmieniÄ‡ ustawienia protokoÅ‚u musisz siÄ™ poÅ‚Ä…czyÄ‡.
 [Show nicknames when available]
-Pokazuj nicki jeœli dostêpne
+Pokazuj nicki jeÅ›li dostÄ™pne
 [Show my friends]
 Pokazuj moim znajomym
 [Show on my profile and miniprofile]
@@ -193,53 +193,53 @@ Pokazuj w moim profilu i miniprofilu
 [Show my game server data]
 Pokazuj dane serwera mojej gry
 [Show my voice chat server to my friends]
-Pokazuj serwer rozmów g³osowych znajomym
+Pokazuj serwer rozmÃ³w gÅ‚osowych znajomym
 [Show people when I type to them]
 Pokazuj powiadomienie o pisaniu
 [Automatically reconnect on protocol version changes]
-Automatycznie po³¹cz po zmianie wersji protoko³u
+Automatycznie poÅ‚Ä…cz po zmianie wersji protokoÅ‚u
 [Background updating]
 Aktualizuj w tle
 [Dont detect this game as running]
 Nie wykrywaj tej gry gdy jest uruchomiona
 [Dont set status message for other protocols]
-Nie ustawiaj statusu dla innych protoko³ów
+Nie ustawiaj statusu dla innych protokoÅ‚Ã³w
 [Account options]
 Opcje konta
 [Game Status]
 Status gry
 [Other Activity]
-Inne czynnoœci
+Inne czynnoÅ›ci
 [Show friends of my friends]
 Pokazuj znajmomym moich znajomych
 [Remove friend of friend buddies from database]
-Usuñ znajomego z bazy danych
+UsuÅ„ znajomego z bazy danych
 [Main group for Friends of Friends:]
-G³ówna grupa dla znajomych:
+GÅ‚Ã³wna grupa dla znajomych:
 [&Activity Report]
-Raporty aktywnoœci
+Raporty aktywnoÅ›ci
 [Change the status to occupied or dnd]
-Zmieñ status na Zajêty lub Niedostêpny
+ZmieÅ„ status na ZajÄ™ty lub NiedostÄ™pny
 [Lost Password?]
-Przypomnij has³o
+Przypomnij hasÅ‚o
 [Create a new Xfire account on website]
-Utwórz nowe koto xFire na stronie www
+UtwÃ³rz nowe koto xFire na stronie www
 [Don't move friends to clan groups]
-Nie przenoœ znajomych do grupy klanowej
+Nie przenoÅ› znajomych do grupy klanowej
 [Advanced #1 (ICQ X-Status)]
 Zaawansowane #1 (ICQ X-Status)
 [Login failed.]
 Logowanie nieudane.
 [The protocol version is too old.]
-Wersja protoko³u jest za stara.
+Wersja protokoÅ‚u jest za stara.
 [Someone loged in with your account.disconnect.]
-Ktoœ zalogowa³ siê na twoje konto. Roz³¹czono.
+KtoÅ› zalogowaÅ‚ siÄ™ na twoje konto. RozÅ‚Ä…czono.
 [XFire does not support offline messaging!]
 xFire nie wspiera pisania offline
 [No Loginname is set!]
 Nie ustawiono loginu!
 [No Password is set!]
-Nie ustawiono has³a!
+Nie ustawiono hasÅ‚a!
 [Found %i Games!%s%s]
 Znaleziono %i Gry!%s%s
 [Playing]
@@ -247,19 +247,19 @@ Gra
 [Add me to your friends list.]
 Dodaj mnie do swojej listy znajomych.
 [Disable XFire MessageBox]
-Wy³¹cz okno komunikatów xFire
+WyÅ‚Ä…cz okno komunikatÃ³w xFire
 [Switch to Online instead of AFK on non supported Globalstatuses]
-Prze³¹cz do Dostêpnego zamiast do AFK na nie obs³ugiwanym Globalstatuses
+PrzeÅ‚Ä…cz do DostÄ™pnego zamiast do AFK na nie obsÅ‚ugiwanym Globalstatuses
 [Icon Options *]
 Opcje Ikon *
 [ComboBox]
-Podwójne okno
+PodwÃ³jne okno
 [* requires Miranda restart]
 * wymaga restartu Mirandy
 [Dont create automatically Clangroups]
-Nie twórz automatycznie ClanGroups
+Nie twÃ³rz automatycznie ClanGroups
 [XFire Username:]
-Nazwa u¿ytkownika xFire:
+Nazwa uÅ¼ytkownika xFire:
 [XFire Nick:]
 Ksywka xFire:
 [Game]
@@ -269,9 +269,9 @@ Nie pokazuj w menu startu
 [Extra Command Line Parametrs:]
 Parametry:
 [Prefer dnd when it is available]
-Preferuj nie przeszkadzaæ jeœli mo¿liwe
+Preferuj nie przeszkadzaÄ‡ jeÅ›li moÅ¼liwe
 [Add new game]
-Dodaj grê
+Dodaj grÄ™
 [Extra Command Line Parameters:]
 Parametry komend:
 [Last game: %s playtime: %.2d:%.2d:%.2d]
@@ -279,51 +279,51 @@ Ostatnio uruchomiona: %s grano: %.2d:%.2d:%.2d
 [xfirebstartgame]
 xfirebstartgame
 [Buddy start a game]
-Znajomy zaczyna graæ
+Znajomy zaczyna graÄ‡
 [Please wait ...]
-Proszê czekaæ ...
+ProszÄ™ czekaÄ‡ ...
 [(manual added)]
-(dodano rêcznie)
+(dodano rÄ™cznie)
 [Edit ...]
 Edytuj ...
 [New supported Games:]
 Nowe wsparcie gier:
 [There is a new XFire Gamelist online, do you want to update now?]
-Znaleziono now¹ liste gier xFire, czy chcesz j¹ zaktualizowaæ?
+Znaleziono nowÄ… liste gier xFire, czy chcesz jÄ… zaktualizowaÄ‡?
 [New xfire_games.ini]
 Nowy xfire_games.ini
 [The xfire_games.ini was updated.]
-Plik xfire_games.ini zosta³ zaktualizowany.
+Plik xfire_games.ini zostaÅ‚ zaktualizowany.
 [Add Game]
-Dodaj grê
+Dodaj grÄ™
 [Add a new game]
-Dodaj now¹ grê
+Dodaj nowÄ… grÄ™
 [Game name:]
 Nazwa gry:
 [Game exe:]
 Plik exe gry:
 [Launcher exe (optional):]
-Plik exe wczytuj¹cy grê (opcjonalnie):
+Plik exe wczytujÄ…cy grÄ™ (opcjonalnie):
 [Game id:]
 ID gry:
 [Send game id:]
-Wyœlij ID gry:
+WyÅ›lij ID gry:
 [Statusmessage for Xfire, if this game will be started:]
-Opis statusu dla xFire, je¿eli gra bêdzie uruchomiona:
+Opis statusu dla xFire, jeÅ¼eli gra bÄ™dzie uruchomiona:
 [Supported Games]
 Wspierane gry
 [Custom game]
-Rêcznie dodane gry
+RÄ™cznie dodane gry
 [Dont automatically create clan groups]
-Nie twórz autamatycznie grup klanowych
+Nie twÃ³rz autamatycznie grup klanowych
 [Dont move friends to clan groups]
-Nie przenoœ znajomych do grup klanowch
+Nie przenoÅ› znajomych do grup klanowch
 [Enable MBot support]
-W³¹cz wsparcie MBot
+WÅ‚Ä…cz wsparcie MBot
 [Dont download avatars of clan members]
-Nie pobieraj awatarów od cz³onków klanu
+Nie pobieraj awatarÃ³w od czÅ‚onkÃ³w klanu
 [Use UTF8 for messaging and nick's (beta)]
-U¿yj kodowania UTF-8 dla wiadomoœci i nicków
+UÅ¼yj kodowania UTF-8 dla wiadomoÅ›ci i nickÃ³w
 [Set Nickname]
 Edytuj nick
 [Set &Nickname]

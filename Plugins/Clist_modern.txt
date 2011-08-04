@@ -6,63 +6,63 @@
 [&Contact rate]
 Ocena kontaktu
 [[Ctrl]+[Left Click] to filter only  protocol. Click on empty space to show all]
-[Ctrl] + [LPM] dla filtrowania protoko≥Ûw. Kliknij na pustej przestrzeni, aby pokazaÊ wszystkie.
+[Ctrl] + [LPM] dla filtrowania protoko≈Ç√≥w. Kliknij na pustej przestrzeni, aby pokazaƒá wszystkie.
 [Show protocol icon]
-Pokaø ikony protoko≥Ûw
+Poka≈º ikony protoko≈Ç√≥w
 [*** All contacts ***]
 *** Wszystkie kontakty ***
 [Show contacts in groups]
-Pokaø kontakty w grupach
+Poka≈º kontakty w grupach
 [Frames]
 Ramki
 [Are you sure you want to delete this group?  This operation can not be undone.]
-Na pewno chcesz usunπÊ tÍ grupÍ?  Nie bÍdzie moøna cofnπÊ tej operacji.
+Na pewno chcesz usunƒÖƒá tƒô grupƒô?  Nie bƒôdzie mo≈ºna cofnƒÖƒá tej operacji.
 [Delete Group]
-UsuÒ grupÍ
+Usu≈Ñ grupƒô
 [You already have a group with that name. Please enter a unique name for the group.]
-Grupa o tej nazwie juø istnieje. Wybierz unikalnπ nazwÍ dla tej grupy.
+Grupa o tej nazwie ju≈º istnieje. Wybierz unikalnƒÖ nazwƒô dla tej grupy.
 [Rename Group]
-ZmieÒ nazwÍ grupy
+Zmie≈Ñ nazwƒô grupy
 [This group]
 Ta grupa
 [Contact List/Avatar Overlay]
-Lista kontaktÛw/Nak≥adka awataru
+Lista kontakt√≥w/Nak≈Çadka awataru
 [Contact List/Status Overlay]
-Lista kontaktÛw/Nak≥adka statusu
+Lista kontakt√≥w/Nak≈Çadka statusu
 [Contact List smileys]
-Emotikony listy kontaktÛw
+Emotikony listy kontakt√≥w
 [Do You want contact '%s' to be converted to MetaContact and '%s' be added to it?]
-Chcesz przekonwertowaÊ kontakt "%s" do metakontaktu i dodaÊ do niego "%s"?
+Chcesz przekonwertowaƒá kontakt "%s" do metakontaktu i dodaƒá do niego "%s"?
 [Converting to MetaContact]
 Konwertowanie do metakontaktu
 [Do You want contact '%s' to be converted to MetaContact and '%s' be added to it (remove it from '%s')?]
-Chcesz przekonwertowaÊ kontakt "%s" do metakontaktu i dodaÊ do niego "%s" (zostanie usuniÍty z "%s")?
+Chcesz przekonwertowaƒá kontakt "%s" do metakontaktu i dodaƒá do niego "%s" (zostanie usuniƒôty z "%s")?
 [Converting to MetaContact (Moving)]
 Konwertowanie do metakontaktu (przesuwanie)
 [Do you want to contact '%s' be added to metacontact '%s'?]
-Chcesz dodaÊ kontakt "%s" do metakontaktu "%s"?
+Chcesz dodaƒá kontakt "%s" do metakontaktu "%s"?
 [Adding contact to MetaContact]
 Dodawanie kontaktu do metakontaktu
 [Do You want contact '%s' to be default ?]
-Chcesz øeby "%s" by≥ domyslnym kontaktem?
+Chcesz ≈ºeby "%s" by≈Ç domyslnym kontaktem?
 [Set default contact]
-Ustaw domyúlny kontakt
+Ustaw domy≈õlny kontakt
 [Do You want contact '%s' to be removed from MetaContact '%s' and added to '%s'?]
-Chcesz usunπÊ kontakt "%s" z metakontaktu "%s" i dodaÊ go do "%s"?
+Chcesz usunƒÖƒá kontakt "%s" z metakontaktu "%s" i dodaƒá go do "%s"?
 [Changing MetaContacts (Moving)]
-Zmiana metakontaktÛw (przesuwanie)
+Zmiana metakontakt√≥w (przesuwanie)
 [Do You want contact '%s' to be added to MetaContact '%s'?]
-Chcesz dodaÊ kontakt "%s" do metakontaktu "%s"?
+Chcesz dodaƒá kontakt "%s" do metakontaktu "%s"?
 [Away contacts]
 Kontakty "Zaraz wracam"
 [DND contacts]
-Kontakty "Nie przeszkadzaÊ"
+Kontakty "Nie przeszkadzaƒá"
 [NA contacts]
-Kontakty "NiedostÍpne"
+Kontakty "Niedostƒôpne"
 [Occupied contacts]
-Kontakty "ZajÍte"
+Kontakty "Zajƒôte"
 [Free for chat contacts]
-Kontakty "ChÍtne do rozmowy"
+Kontakty "Chƒôtne do rozmowy"
 [Invisible contacts]
 Kontakty "Niewidoczne"
 [On the phone contacts]
@@ -70,19 +70,19 @@ Kontakty "Przy telefonie"
 [Out to lunch contacts]
 Kontakty "Na obiedzie"
 [Offline contacts]
-Kontakty "Roz≥πczone"
+Kontakty "Roz≈ÇƒÖczone"
 [Offline contacts to whom you have a different visibility]
-Roz≥πczone kontakty, dla ktÛrych mam rÛønπ widocznoúÊ
+Roz≈ÇƒÖczone kontakty, dla kt√≥rych mam r√≥≈ºnƒÖ widoczno≈õƒá
 [Contacts who are 'not on list']
-Kontakty, ktÛre "nie sπ na liúcie"
+Kontakty, kt√≥re "nie sƒÖ na li≈õcie"
 [Open groups]
 Otwarte grupy
 [Open group member counts]
-Liczba cz≥onkÛw w otwartej grupie
+Liczba cz≈Çonk√≥w w otwartej grupie
 [Closed groups]
-ZamkniÍte grupy
+Zamkniƒôte grupy
 [Closed group member counts]
-Liczba cz≥onkÛw w zamkniÍtej grupie
+Liczba cz≈Çonk√≥w w zamkniƒôtej grupie
 [Second line]
 Druga linia
 [Third line]
@@ -92,43 +92,43 @@ Czas kontaktu
 [Status bar text]
 Tekst na pasku statusu
 [Event area text]
-Tekst obszaru zdarzeÒ
+Tekst obszaru zdarze≈Ñ
 [Current view mode text]
 Tekst obecnego trybu widoku
 [List Text]
 Tekst listy
 [Contact list skin]
-SkÛrka listy kontaktÛw
+Sk√≥rka listy kontakt√≥w
 [List Background]
-T≥o listy
+T≈Ço listy
 [Not focused]
 Nieaktywne
 [as:]
 jako:
 [Name (use locale settings)]
-Nazwa (uøyj lokalnych ustawieÒ)
+Nazwa (u≈ºyj lokalnych ustawie≈Ñ)
 [Last message time]
-Czas ostatniej wiadomoúci
+Czas ostatniej wiadomo≈õci
 [Rate]
 Ocena
 [-Nothing-]
 -Nic-
 [Center]
-årodek
+≈örodek
 [Hide to tray]
 Schowaj do zasobnika
 [Behind left edge]
-Za lewπ krawÍdziπ
+Za lewƒÖ krawƒôdziƒÖ
 [Behind right edge]
-Za prawπ krawÍdziπ
+Za prawƒÖ krawƒôdziƒÖ
 [Event Area]
-Obszar zdarzeÒ
+Obszar zdarze≈Ñ
 [No Events]
-Brak zdarzeÒ
+Brak zdarze≈Ñ
 [Row]
 Wiersz
 [Row design]
-U≥oøenie wiersza
+U≈Ço≈ºenie wiersza
 [Icon]
 Ikona
 [Second Line]
@@ -142,13 +142,13 @@ Skr. klaw.
 [Animate Avatars (GDI+ and loadavatars.dll are required)]
 Animowane awatary (wymaga GDI+ i loadavatars.dll)
 [Left align group names]
-WyrÛwnaj nazwy grup do lewej
+Wyr√≥wnaj nazwy grup do lewej
 [Center group names]
-Wyúrodkuj nazwy grup
+Wy≈õrodkuj nazwy grup
 [Right align group names]
-WyrÛwnaj nazwy grup do prawej
+Wyr√≥wnaj nazwy grup do prawej
 [Visibility/Chat activity]
-WidocznoúÊ/AktywnoúÊ czatu
+Widoczno≈õƒá/Aktywno≈õƒá czatu
 [Phone/SMS]
 Telefon/SMS
 [Web page]
@@ -164,7 +164,7 @@ Informacje
 [My Contacts]
 Moje kontakty
 [Show Contact &Avatar]
-Pokaø awatar kontaktu
+Poka≈º awatar kontaktu
 [Hide Contact &Avatar]
 Ukryj awatar kontaktu
 [&FrameTitle]
@@ -172,41 +172,41 @@ Nazwa ramki
 [&Visible]
 Widoczny
 [&Show TitleBar]
-Pokaø pasek tytu≥u
+Poka≈º pasek tytu≈Çu
 [&Locked]
 Zablokowany
 [&Collapsed]
-ZwiniÍty
+Zwiniƒôty
 [&Floating Mode]
-P≥ywajπce okno
+P≈ÇywajƒÖce okno
 [&Border]
 Obramowanie
 [&Align]
-WyrÛwnanie
+Wyr√≥wnanie
 [&Top]
-GÛra
+G√≥ra
 [&Client]
 Klient
 [&Bottom]
-DÛ≥
+D√≥≈Ç
 [&Position]
 Pozycja
 [New Menu System not Found...]
 Nie znaleziono nowego systemu menu...
 [Show All Frames]
-Pokaø wszystkie ramki
+Poka≈º wszystkie ramki
 [Show All Titlebars]
-Pokaø wszystkie paski tytu≥Ûw
+Poka≈º wszystkie paski tytu≈Ç√≥w
 [Hide All Titlebars]
-Ukryj wszystkie paski tytu≥Ûw
+Ukryj wszystkie paski tytu≈Ç√≥w
 [Lock Frame]
-Zablokuj ramkÍ
+Zablokuj ramkƒô
 [Visible]
 Widoczny
 [Show TitleBar]
-Pokaø pasek tutu≥u
+Poka≈º pasek tutu≈Çu
 [Floating]
-P≥ywajπcy
+P≈ÇywajƒÖcy
 [Email Icon]
 Ikona e-mail
 [Sms Icon]
@@ -218,7 +218,7 @@ Zawsze widoczny
 [Never Visible]
 Zawsze niewidoczny
 [Chat Activity]
-AktywnoúÊ czatu
+Aktywno≈õƒá czatu
 [FrameMenu]
 Menu ramki
 [GroupMenu]
@@ -228,59 +228,59 @@ Menu podgrupy
 [&New SubGroup]
 Nowa podgrupa
 [&Hide Offline Users in here]
-Ukryj tu roz≥πczonych
+Ukryj tu roz≈ÇƒÖczonych
 [&Show Offline Users in here]
-Pokaø tu roz≥πczonych
+Poka≈º tu roz≈ÇƒÖczonych
 [Show Hide Contact List]
-Pokaø ukrytπ listÍ kontaktÛw
+Poka≈º ukrytƒÖ listƒô kontakt√≥w
 [Read Message]
-Przeczytaj wiadomoúÊ
+Przeczytaj wiadomo≈õƒá
 [Search in site]
 Szukaj na stronie
 [Open Options Page]
-OtwÛrz okno z opcjami
+Otw√≥rz okno z opcjami
 [Open Find User Dialog]
-OtwÛrz okno szukania uøytkownikÛw
+Otw√≥rz okno szukania u≈ºytkownik√≥w
 [Close Miranda]
-Zamknij MirandÍ
+Zamknij Mirandƒô
 [Restore last status]
-PrzywrÛÊ ostatni status
+Przywr√≥ƒá ostatni status
 [Set All Offline]
-Ustaw wszystko na "Roz≥πczony"
+Ustaw wszystko na "Roz≈ÇƒÖczony"
 [Status Bar]
 Pasek statusu
 [ToolBar]
-Pasek narzÍdzi
+Pasek narzƒôdzi
 [Minimize]
 Minimalizuj
 [Background colour:]
-Kolor t≥a:
+Kolor t≈Ça:
 [Selection colour:]
 Kolor zaznaczenia:
 [Use background bitmap]
-Uøyj bitmapy jako t≥a
+U≈ºyj bitmapy jako t≈Ça
 [Scroll with text]
 Przewijaj z tekstem
 [Tile vertically according to Row Height]
-Uk≥adaj pionowo zaleønie od wysokoúci wiersza
+Uk≈Çadaj pionowo zale≈ºnie od wysoko≈õci wiersza
 [Use Windows Colors]
-Uøyj kolorÛw Windows
+U≈ºyj kolor√≥w Windows
 [Available skins]
-DostÍpne skÛrki
+Dostƒôpne sk√≥rki
 [\n\n\nPlease select one of available skins. \n\nOr browse for skin not in list.]
-\n\n\nWybierz jednπ z dostÍpnych skÛrek. \n\nMoøesz teø rÍcznie wskazaÊ jej lokalizacjÍ.
+\n\n\nWybierz jednƒÖ z dostƒôpnych sk√≥rek. \n\nMo≈ºesz te≈º rƒôcznie wskazaƒá jej lokalizacjƒô.
 [Skin Preview]
-Podglπd skÛrki
+PodglƒÖd sk√≥rki
 [Frame Titles Color]
-Kolor tytu≥Ûw ramek
+Kolor tytu≈Ç√≥w ramek
 [WARNING: \tSkins can modify your current profile. Rollback is not possible. \n\t\tPlease BACKUP your database before applying skin.]
-UWAGA: \tSkÛrki mogπ zmodyfikowaÊ twÛj profil. PrzywrÛcenie zmian jest niemoøliwe. \n\t\tWykonaj kopiÍ bazy danych przed w≥πczeniem nowej skÛrki.
+UWAGA: \tSk√≥rki mogƒÖ zmodyfikowaƒá tw√≥j profil. Przywr√≥cenie zmian jest niemo≈ºliwe. \n\t\tWykonaj kopiƒô bazy danych przed w≈ÇƒÖczeniem nowej sk√≥rki.
 [* Restart may be required for all changes to take effect]
-* Aby wszystkie zmiany odnios≥y efekt moøe byÊ wymagany restart
+* Aby wszystkie zmiany odnios≈Çy efekt mo≈ºe byƒá wymagany restart
 [Available objects]
-DostÍpne obiekty
+Dostƒôpne obiekty
 [Object properties]
-W≥aúciwoúci obiektu
+W≈Ça≈õciwo≈õci obiektu
 [Colour]
 Kolor
 [Alpha]
@@ -294,81 +294,81 @@ Tryb dopasowania
 [Fragment location]
 Lokacja fragmentu
 [Width]
-SzerokoúÊ
+Szeroko≈õƒá
 [Height]
-WysokoúÊ
+Wysoko≈õƒá
 [W x H: 0 x 0 pixels]
 S x W: 0 x 0 pikseli
 [Available view modes]
-DostÍpne tryby widoku
+Dostƒôpne tryby widoku
 [Include protocols]
-UwzglÍdnione protoko≥y
+Uwzglƒôdnione protoko≈Çy
 [New]
 Nowy
 [Include groups]
-UwzglÍdnione grupy
+Uwzglƒôdnione grupy
 [Include status modes]
-UwzglÍdniony tryby statusu
+Uwzglƒôdniony tryby statusu
 [Sticky contacts]
 Przyklejone kontakty
 [Clear all]
-WyczyúÊ wszystko
+Wyczy≈õƒá wszystko
 [Using the contact list on the left side, you can select contacts which will be "sticky" for this view mode. These contacts will ignore the standard filter rules and only use the status mode filter below.]
-Uøywajπc listy kontaktÛw po lewej stonie, moøesz wybraÊ kontakty, ktÛre bÍdπ "przyklejone" do tego widoku. Te kontakty bÍdπ ignorowaÊ standardowe regu≥y filtrowania i uøywaÊ tylko poniøszego filtru trybu statusu.
+U≈ºywajƒÖc listy kontakt√≥w po lewej stonie, mo≈ºesz wybraƒá kontakty, kt√≥re bƒôdƒÖ "przyklejone" do tego widoku. Te kontakty bƒôdƒÖ ignorowaƒá standardowe regu≈Çy filtrowania i u≈ºywaƒá tylko poni≈ºszego filtru trybu statusu.
 [Status mode]
 Tryb statusu
 [Automatically clear this view mode after]
-Automatycznie wyczyúÊ ten tryb widoku po
+Automatycznie wyczy≈õƒá ten tryb widoku po
 [View mode options]
 Opcje trybu widoku
 [Editing view mode]
 Edytowanie trybu widoku
 [Last message ]
-Ostatnia wiadomoúÊ 
+Ostatnia wiadomo≈õƒá 
 [Contact List Extra Icons]
-Dodatkowe ikony listy kontaktÛw
+Dodatkowe ikony listy kontakt√≥w
 [Toolbar settings]
-Ustawienia paska narzÍdzi
+Ustawienia paska narzƒôdzi
 [Hints:\n* Use Drag&&Drop feature to change buttons order.\n* You can change button icons at Customize->Icons Toolbar section]
-WskazÛwki:\n* Uøyj Przeciπgnij i UpuúÊ, aby zmieniÊ kolejnoúÊ przyciskÛw.\n* Moøesz zmieniÊ ikony przyciskÛw w Wyglπd->Ikony zak≥adka pasek narzÍdzi.
+Wskaz√≥wki:\n* U≈ºyj PrzeciƒÖgnij i Upu≈õƒá, aby zmieniƒá kolejno≈õƒá przycisk√≥w.\n* Mo≈ºesz zmieniƒá ikony przycisk√≥w w WyglƒÖd->Ikony zak≈Çadka pasek narzƒôdzi.
 [Show Toolbar with next buttons:]
-Pokaø pasek narzÍdzi z tymi przyciskami:
+Poka≈º pasek narzƒôdzi z tymi przyciskami:
 [Button width]
-SzerokoúÊ przycisku
+Szeroko≈õƒá przycisku
 [Space between]
-OdstÍp pomiÍdzy
+Odstƒôp pomiƒôdzy
 [This will erase all history and settings for this contact!]
-To usunie wszystkie ustawienia i historiÍ dla tego kontaktu!
+To usunie wszystkie ustawienia i historiƒô dla tego kontaktu!
 [Hide offline users]
-Ukryj roz≥πczonych
+Ukryj roz≈ÇƒÖczonych
 [Hide empty groups]
 Ukryj puste grupy
 [Disable groups]
-Wy≥πcz grupy
+Wy≈ÇƒÖcz grupy
 [Ask before deleting contacts]
-Pytaj przed usuniÍciem kontaktÛw
+Pytaj przed usuniƒôciem kontakt√≥w
 [Dont move offline user to bottom]
-Nie przesuwaj roz≥πczonych na dÛ≥
+Nie przesuwaj roz≈ÇƒÖczonych na d√≥≈Ç
 [Single click interface]
-Pokaø/ukryj listÍ po pojedynczym klikniÍciu
+Poka≈º/ukryj listƒô po pojedynczym klikniƒôciu
 [Always show status in tooltip]
 Zawsze pokazuj status w podpowiedzi
 [Disable icon blinking]
-Wy≥πcz miganie ikony
+Wy≈ÇƒÖcz miganie ikony
 [ms, delay between icon blinking]
-ms, przerwa miÍdzy migniÍciami ikony
+ms, przerwa miƒôdzy migniƒôciami ikony
 [Cycle icons every]
 Zmieniaj ikony co
 [seconds, when statuses differ]
-sekund(y), jeúli statusy siÍ rÛøniπ
+sekund(y), je≈õli statusy siƒô r√≥≈ºniƒÖ
 [Show multiple icons]
-Pokaø ikony osobno
+Poka≈º ikony osobno
 [Only when statuses differ]
-Tylko, jeúli statusy siÍ rÛøniπ
+Tylko, je≈õli statusy siƒô r√≥≈ºniƒÖ
 [System tray icon when using multiple protocols]
-Ikona w zasobniku systemowym podczas korzystania z wielu protoko≥Ûw
+Ikona w zasobniku systemowym podczas korzystania z wielu protoko≈Ç√≥w
 [Contact List Sorting]
-Sortowanie kontaktÛw
+Sortowanie kontakt√≥w
 [1st:]
 1:
 [2nd:]
@@ -376,77 +376,77 @@ Sortowanie kontaktÛw
 [3rd:]
 3:
 [Place offline users out of groups]
-UmieúÊ roz≥πczonych poza grupami
+Umie≈õƒá roz≈ÇƒÖczonych poza grupami
 [Use xStatus icon]
-Uøyj ikony xStatusu
+U≈ºyj ikony xStatusu
 [Show normal status as overlay]
-Pokaø normalny status jako nak≥adkÍ
+Poka≈º normalny status jako nak≈Çadkƒô
 [Status overlay opacity is 75% ]
-WidocznoúÊ nak≥adki statusu - 75% 
+Widoczno≈õƒá nak≈Çadki statusu - 75% 
 [only when statuses differ]
-tylko, jeúli statusy siÍ rÛøniπ
+tylko, je≈õli statusy siƒô r√≥≈ºniƒÖ
 [Bring to front if covered]
-PrzesuÒ na wierzch, jeúli zakryty
+Przesu≈Ñ na wierzch, je≈õli zakryty
 [Hide contact list after ]
-Ukryj listÍ kontaktÛw po 
+Ukryj listƒô kontakt√≥w po 
 [Automatically resize window to height of list]
-Dopasuj rozmiar okna rozmowy do wysokoúci listy
+Dopasuj rozmiar okna rozmowy do wysoko≈õci listy
 [maximum]
 maks.
 [and minimum]
-i minimalnπ
+i minimalnƒÖ
 [% of screen]
 % ekranu
 [Size upwards]
-Rozciπgnij do gÛry
+RozciƒÖgnij do g√≥ry
 [Behaviour]
 Zachowanie
 [Lock manual resize]
-Zablokuj rÍcznπ zmianiÍ rozmiaru
+Zablokuj rƒôcznƒÖ zmianiƒô rozmiaru
 [Drag to ]
-Przeciπgnij do 
+PrzeciƒÖgnij do 
 [Easy Scroll]
-£atwe przewijanie
+≈Åatwe przewijanie
 [Easy move]
-£atwe przesuwanie
+≈Åatwe przesuwanie
 [x100 msec]
 x100 ms
 [show delay]
-opÛünienie pokazania
+op√≥≈∫nienie pokazania
 [hide delay]
-opÛünienie ukrycia
+op√≥≈∫nienie ukrycia
 [Hide method]
 Metoda ukrycia
 [keep on screen]
 utrzymaj na ekranie
 [Snap to edges]
-Przyciπganie do krawÍdzi
+PrzyciƒÖganie do krawƒôdzi
 [Event notify area]
-Obszar powiadomieÒ
+Obszar powiadomie≈Ñ
 [Show automaticaly]
-Pokaø automatycznie
+Poka≈º automatycznie
 [Show divider between online and offline contacts]
-Pokaø separator miÍdzy po≥πczonymi a roz≥πczonymi
+Poka≈º separator miƒôdzy po≈ÇƒÖczonymi a roz≈ÇƒÖczonymi
 [Hot track items as mouse passes over]
-Podúwietl obiekty pod kursorem
+Pod≈õwietl obiekty pod kursorem
 [Disable drag and drop of items]
-Wy≥πcz "przeciπgnij i upuúÊ"
+Wy≈ÇƒÖcz "przeciƒÖgnij i upu≈õƒá"
 [Disable rename of items by clicking twice]
-Wy≥πcz zmianÍ nazwy po podwÛjnym klikniÍciu
+Wy≈ÇƒÖcz zmianƒô nazwy po podw√≥jnym klikniƒôciu
 [Show selection even when list is not focused]
-Pokazuj zaznaczenie na nieaktywnej liúcie
+Pokazuj zaznaczenie na nieaktywnej li≈õcie
 [Make selection highlight translucent]
-Przezroczyste podúwietlenie zaznaczenia 
+Przezroczyste pod≈õwietlenie zaznaczenia 
 [Dim idle contacts]
-Przygaú bezczynne kontakty
+Przyga≈õ bezczynne kontakty
 ['Hide Offline' means to hide:]
-"Ukryj roz≥πczonych" tzn.:
+"Ukryj roz≈ÇƒÖczonych" tzn.:
 [Draw a line alongside group names]
-Rysuj liniÍ wzd≥uø nazw grupy
+Rysuj liniƒô wzd≈Çu≈º nazw grupy
 [Show counts of number of contacts in a group]
-Pokaø liczbÍ kontaktÛw w grupach
+Poka≈º liczbƒô kontakt√≥w w grupach
 [Hide group counts when there are none online]
-Ukryj liczbÍ kontaktÛw, jeúli nikt nie jest po≥πczony
+Ukryj liczbƒô kontakt√≥w, je≈õli nikt nie jest po≈ÇƒÖczony
 [Sort groups alphabetically]
 Sortuj grupy alfabetycznie
 [Quicksearch in open groups only]
@@ -456,37 +456,37 @@ Wcinaj grupy na:
 [Visual]
 Wizualne
 [Scroll list smoothly]
-P≥ynne przewijanie listy
+P≈Çynne przewijanie listy
 [Time:]
 Czas:
 [Hide vertical scrollbar]
 Ukryj pionowy pasek przewijania
 [Fade out entire list when:]
-Przygaú ca≥π listÍ, gdy:
+Przyga≈õ ca≈ÇƒÖ listƒô, gdy:
 [Fonts]
 Czcionka
 [same]
 taki sam
 [Typeface]
-KrÛj
+Kr√≥j
 [Italic]
 Kursywa
 [Underline]
-Podkreúlenie
+Podkre≈õlenie
 [Additional Colours]
 Dodatkowe kolory
 [Selected text:]
 Zaznaczony tekst
 [Hottrack text:]
-Tekst pod myszkπ
+Tekst pod myszkƒÖ
 [Quicksearch text:]
 Tekst Quicksearch
 [Gamma correction]
 Korekcja Gamma
 [Full selection]
-Pe≥ne zaznaczenie
+Pe≈Çne zaznaczenie
 [Less selection]
-CzÍúciowe zaznaczenie
+Czƒô≈õciowe zaznaczenie
 [No selection]
 Brak zaznaczenia
 [Selection Mode]
@@ -494,247 +494,247 @@ Tryb zaznaczenia
 [Effect]
 Efekt
 [HotKeys]
-SkrÛty
+Skr√≥ty
 [HotKey Information]
-Info o skrÛcie
+Info o skr√≥cie
 [Ignore Empty Extra icons places (arrange to right).]
-Ignoruj puste miejsca na ikony (przesuÒ do prawej).
+Ignoruj puste miejsca na ikony (przesu≈Ñ do prawej).
 [Use 'Meta' protocol icons for Metacontacts]
-Uøyj ikony "Meta" dla metakontaktÛw
+U≈ºyj ikony "Meta" dla metakontakt√≥w
 [Expand metacontacts]
-RozwiÒ metakontakty
+Rozwi≈Ñ metakontakty
 [Avoid doubleclick expand]
-Unikaj rozwijania podwÛjnym klikniÍciem
+Unikaj rozwijania podw√≥jnym klikniƒôciem
 [Hide all 'Extra icons' for subcontacts]
-Ukryj wszystkie "dodatkowe ikony" dla subkontaktÛw
+Ukryj wszystkie "dodatkowe ikony" dla subkontakt√≥w
 [Hide offline subcontacts.]
-Ukryj niepo≥πczone subkontakty.
+Ukryj niepo≈ÇƒÖczone subkontakty.
 [MetaContacts stuff]
-Elementy MetaKontaktÛw
+Elementy MetaKontakt√≥w
 [Additional stuff]
-Pozosta≥e ustawienia
+Pozosta≈Çe ustawienia
 [For other stuff MetaContacts plugin should be loaded.\n\nhttp://miranda-im.org/download]
-WiÍcej opcji uzyskasz dziÍki wtyczce MetaContacts.\n\nhttp://miranda-im.org/download
+Wiƒôcej opcji uzyskasz dziƒôki wtyczce MetaContacts.\n\nhttp://miranda-im.org/download
 [Allow internal requesting of away message text]
-Akceptuj wewnÍtrzne proúby o treúÊ opisu
+Akceptuj wewnƒôtrzne pro≈õby o tre≈õƒá opisu
 [Subcontacts indent:]
-WciÍcie subkontaktÛw:
+Wciƒôcie subkontakt√≥w:
 [Remove away message if contact became offline]
-UsuÒ opis, jeúli kontakt siÍ roz≥πczy
+Usu≈Ñ opis, je≈õli kontakt siƒô roz≈ÇƒÖczy
 [Show time only if it is different from current time]
-Pokaø czas tylko wtedy, gdy rÛøni siÍ od bieøπcego
+Poka≈º czas tylko wtedy, gdy r√≥≈ºni siƒô od bie≈ºƒÖcego
 [Show contact time as row item]
-Pokaø czas kontaktu jako pozycjÍ wiersza
+Poka≈º czas kontaktu jako pozycjƒô wiersza
 [Always on top]
 Zawsze na wierzchu
 [Pin to desktop]
 Przypnij do pulpitu
 [Client area margins]
-Marginesy wewnπtrz obszaru listy
+Marginesy wewnƒÖtrz obszaru listy
 [Thin border main window]
-Wπskie obramowanie okna
+WƒÖskie obramowanie okna
 [Borderless main window]
-UsuÒ obramowanie okna
+Usu≈Ñ obramowanie okna
 [Show menu bar]
-Pokaø pasek menu
+Poka≈º pasek menu
 [Show title bar]
-Pokaø pasek tytu≥u
+Poka≈º pasek tytu≈Çu
 [Title bar text:]
-Tekst paska tytu≥u:
+Tekst paska tytu≈Çu:
 [Tool style main window]
-Styl okna narzÍdziowego
+Styl okna narzƒôdziowego
 [Minimize to tray]
 Minimalizuj do zasobnika
 [Translucency options (Windows 2000/XP only)]
-Opcje przeúwitywania (tylko 2000/XP)
+Opcje prze≈õwitywania (tylko 2000/XP)
 [Fade contact list in/out]
-Wygaszaj/rozjaúniaj listÍ
+Wygaszaj/rozja≈õniaj listƒô
 [Transparent contact list]
-Przezroczysta lista kontaktÛw
+Przezroczysta lista kontakt√≥w
 [Inactive opacity:]
 Nieaktywne okno:
 [Active opacity:]
 Aktywne okno:
 [Enable drop shadow (restart required)]
-W≥πcz cieniowanie (wymaga restartu)
+W≈ÇƒÖcz cieniowanie (wymaga restartu)
 [Enable Aero Glass (Vista)]
-W≥πcz Aero Glass (Vista)
+W≈ÇƒÖcz Aero Glass (Vista)
 [Between frames:]
-PomiÍdzy ramkami:
+Pomiƒôdzy ramkami:
 [After captions:]
 Po napisach:
 [Gaps]
 Przerwy
 [Key color for owned frames]
-Kluczowy kolor dla w≥asnych ramek
+Kluczowy kolor dla w≈Çasnych ramek
 [Use Non-Layered mode]
-Wy≥πcz skÛrkowanie
+Wy≈ÇƒÖcz sk√≥rkowanie
 [Round corners]
-Zaokrπglone rogi
+ZaokrƒÖglone rogi
 [Non-layered mode]
 Tryb Non-layered
 [Disable Skin Engine]
-Wy≥πcz silnik skÛrek
+Wy≈ÇƒÖcz silnik sk√≥rek
 [Order of items:]
-KolejnoúÊ wyúwietlania:
+Kolejno≈õƒá wy≈õwietlania:
 [Min row height:]
 Min. wys. wiersza:
 [Row border:]
 Obr. wiersza:
 [Variable row height]
-Zmienna wysokoúÊ wiersza
+Zmienna wysoko≈õƒá wiersza
 [Align left items to left]
-WyrÛwnaj lewe elementy do lewej
+Wyr√≥wnaj lewe elementy do lewej
 [Align right items to right]
-WyrÛwnaj prawe elementy do prawej
+Wyr√≥wnaj prawe elementy do prawej
 [Left margin:]
 Lewy margines:
 [Right margin:]
 Prawy margines:
 [Compact mode\n(Show avatars and additional text\non selected contacts only)]
-Tryb kompaktowy\n(Pokaø awatary i dodatkowy tekst\ntylko przy zaznaczonych kontaktach)
+Tryb kompaktowy\n(Poka≈º awatary i dodatkowy tekst\ntylko przy zaznaczonych kontaktach)
 [Show protocol names]
-Pokaø nazwy protoko≥Ûw
+Poka≈º nazwy protoko≈Ç√≥w
 [Show status text]
-Pokaø nazwÍ statusu
+Poka≈º nazwƒô statusu
 [Use connecting Icon]
-Uøyj ikony ≥πczenia
+U≈ºyj ikony ≈ÇƒÖczenia
 [Right click opens status menu]
 Prawy przycisk otwiera menu statusu
 [Right click opens Miranda menu]
 Prawy przycisk otwiera menu Mirandy
 [Make sections equal width]
-Sekcje tej samej szerokoúci
+Sekcje tej samej szeroko≈õci
 [Left border]
 Obramowanie po lewej
 [Right border]
 Obramowanie po prawej
 [Space between ]
-Przerwa pomiÍdzy 
+Przerwa pomiƒôdzy 
 [Align]
-WyrÛwnaj
+Wyr√≥wnaj
 [Show xStatus icon]
-Pokaø ikonÍ xStatus
+Poka≈º ikonƒô xStatus
 [Show unread emails (if supported)]
-Pokaø nieprzeczytane emaile (jeúli obs≥ugiwane)
+Poka≈º nieprzeczytane emaile (je≈õli obs≈Çugiwane)
 [Show both icons]
-Pokaø obie ikony
+Poka≈º obie ikony
 [Show status bar]
-Pokaø pasek statusu
+Poka≈º pasek statusu
 [Show xStatus Name]
-Pokaø nazwÍ xStatus
+Poka≈º nazwƒô xStatus
 [Protocols per line]
-Il. protoko≥Ûw w linii
+Il. protoko≈Ç√≥w w linii
 [Multiline status bar:]
 Wielolinijkowy pasek statusu:
 [Draw border on avatar]
-Rysuj obramowanie awatarÛw
+Rysuj obramowanie awatar√≥w
 [Show Avatars]
-Pokaø awatary
+Poka≈º awatary
 [Draw overlay icons]
-Rysuj nak≥adki ikon
+Rysuj nak≈Çadki ikon
 [Round corners of avatars]
-Zaokrπglone rogi awatarÛw
+ZaokrƒÖglone rogi awatar√≥w
 [Ignore size for row height calcs]
-Ignoruj wysokoúÊ wiersza
+Ignoruj wysoko≈õƒá wiersza
 [Border Color:]
 Kolor ramki:
 [Custom corner size:]
-Rozmiar rogÛw:
+Rozmiar rog√≥w:
 [Normal overlay icon]
-Normalna nak≥adka ikony
+Normalna nak≈Çadka ikony
 [Protocol status icon]
-Ikona statusu protoko≥u
+Ikona statusu protoko≈Çu
 [Contact icon]
 Ikona kontaktu
 [height]
-wysokoúÊ
+wysoko≈õƒá
 [Max width]
-Maks. szerokoúÊ
+Maks. szeroko≈õƒá
 [Animate Avatars]
 Animowane awatary
 [Hide icon when showing avatar]
-Ukryj ikonÍ, gdy pokazany jest awatar
+Ukryj ikonƒô, gdy pokazany jest awatar
 [Draw icon in avatar space]
-Rysuj ikonÍ w przestrzeni awataru
+Rysuj ikonƒô w przestrzeni awataru
 [Hide groups icon]
-Ukryj ikonÍ grup
+Ukryj ikonƒô grup
 [Always show "Always visibile" icon]
-Pokazuj ikonÍ "zawsze widoczny"
+Pokazuj ikonƒô "zawsze widoczny"
 [Use extra status icon instead protocol]
-Uøyj dodatkowej ikony statusu zamiast protoko≥u
+U≈ºyj dodatkowej ikony statusu zamiast protoko≈Çu
 [Draw normal status as overlay]
-Rysuj normalny status jako nak≥adkÍ
+Rysuj normalny status jako nak≈Çadkƒô
 [Right-To-Left reading mode (mirror template)]
-Czytanie od prawej do lewej (odwrÛÊ szablon)
+Czytanie od prawej do lewej (odwr√≥ƒá szablon)
 [Replace smileys in clist]
-ZamieÒ uúmieszki na liúcie
+Zamie≈Ñ u≈õmieszki na li≈õcie
 [Draw smileys on first line]
 Rysuj emotikonki w pierwszej linii
 [Align to right]
-WyrÛwnaj do prawej
+Wyr√≥wnaj do prawej
 [Append nick if different from custom name]
-Dodaj nick, jeúli rÛøni siÍ od w≥asnej nazwy
+Dodaj nick, je≈õli r√≥≈ºni siƒô od w≈Çasnej nazwy
 [Trim long text with ellipsis]
-Wykropkuj zbyt d≥ugi tekst
+Wykropkuj zbyt d≈Çugi tekst
 [Show second line]
-Pokaø drugπ liniÍ
+Poka≈º drugƒÖ liniƒô
 [Top space:]
-PrzestrzeÒ na gÛrze:
+Przestrze≈Ñ na g√≥rze:
 [Draw smileys on second line]
 Rysuj emotikony w drugiej linii
 [Away Message]
 Opis
 [Show status if there isn't away message]
-Pokaø status, jeúli nie ma opisu
+Poka≈º status, je≈õli nie ma opisu
 [Show listening to if there isn't away message]
-Pokaø "info o utworze", jeúli nie ma opisu
+Poka≈º "info o utworze", je≈õli nie ma opisu
 [XStatus has priority]
 xStatus ma priorytet
 [Use 'XStatus: XMessage']
-Uøyj "xStatus: xOpis"
+U≈ºyj "xStatus: xOpis"
 [(Variables will be replaced)]
-(Zmienne zostanπ zastπpione)
+(Zmienne zostanƒÖ zastƒÖpione)
 [Show third line]
-Pokaø trzeciπ liniÍ
+Poka≈º trzeciƒÖ liniƒô
 [Draw smileys on third line]
 Rysuj emotikony w trzeciej linii
 [Top/Left]
-GÛra/Lewa
+G√≥ra/Lewa
 [Bottom/Right]
-DÛ≥/Prawa
+D√≥≈Ç/Prawa
 [Position (vertical)]
 Pozycja (pozioma)
 [Show Title]
-Pokaø tytu≥
+Poka≈º tytu≈Ç
 [Locked]
 Zablokowane
 [Frames Order]
-KolejnoúÊ ramek
+Kolejno≈õƒá ramek
 [UNDER CONSTRUCTION!!!           IT DOES NOT WORK]
-W BUDOWIE!!!!           NA RAZIE NIE DZIA£A
+W BUDOWIE!!!!           NA RAZIE NIE DZIA≈ÅA
 [Row template]
 Szablon wiersza
 [Add container]
 Dodaj kontener
 [Remove container]
-UsuÒ kontener
+Usu≈Ñ kontener
 [Vertical align:]
-Pionowe wyrÛwnanie:
+Pionowe wyr√≥wnanie:
 [Horizontal align:]
-Poziome wyrÛwnanie:
+Poziome wyr√≥wnanie:
 [Container type:]
 Typ kontenera:
 [Container width:]
-SzerokoúÊ kontenera:
+Szeroko≈õƒá kontenera:
 [Container height:]
-WysokoúÊ kontenera:
+Wysoko≈õƒá kontenera:
 [Layered]
-SkÛrkowane
+Sk√≥rkowane
 [OPTION PAGE IS UNDER CONSTRUCTION Please DO NOT notice about any issues here.\n Only high-level design comments are applicable.]
-OSTRONA OPCJI JEST W KONSTRUKCJI ProszÍ NIE zg≥aszaÊ wystÍpujπcych tu b≥ÍdÛw.\n Tylko komentarze o najwaøniejsze ustawienia sπ uznawane.
+OSTRONA OPCJI JEST W KONSTRUKCJI Proszƒô NIE zg≈Çaszaƒá wystƒôpujƒÖcych tu b≈Çƒôd√≥w.\n Tylko komentarze o najwa≈ºniejsze ustawienia sƒÖ uznawane.
 [Empty %s cell]
-Pusta komÛrka %s
+Pusta kom√≥rka %s
 [column]
 kolumna
 [line]
@@ -746,39 +746,39 @@ linie
 [%s, contain %s]
 %s, zawiera %s
 [ layered]
- skÛrkowane
+ sk√≥rkowane
 [Image size is]
 Rozmiar obrazu to
 [Load/Save]
 Wczytaj/Zapisz
 [Object Editor]
-Edytor obiektÛw
+Edytor obiekt√≥w
 [%s\n\n%s\n\nAuthor(s):\t %s\nContact:\t %s\nStrona www:\t %s\n\nPlik:\t %s]
 %s\n\n%s\n\nAutor(zy):\t %s\nKontakt:\t %s\nStrona www:\t %s\n\nPlik:\t %s
 [%s\n\n%s\n\nAuthor(s): %s\nContact:\t %s\nWeb:\t %s\n\nFile:\t %s]
 %s\n\n%s\n\nAutor(zy): %s\nKontakt:\t %s\nStrona www:\t %s\n\nPlik:\t %s
 [This is second default Modern Contact list skin in Vista Aero style]
-To jest druga z domyúlnych skÛrek Modern Contact list w stylu Vista Aero
+To jest druga z domy≈õlnych sk√≥rek Modern Contact list w stylu Vista Aero
 [Inside library]
 W bibliotece
 [Skin editor contains not stored changes.\n\nAll changes will be lost.\n\n Continue to load new skin?]
-Edytor skÛrek zawiera niezachowane zmiany.\n\nWszystkie zmiany zostanπ utracone.\n\n KontynuowaÊ wczytywanie skÛrki?
+Edytor sk√≥rek zawiera niezachowane zmiany.\n\nWszystkie zmiany zostanƒÖ utracone.\n\n Kontynuowaƒá wczytywanie sk√≥rki?
 [Warning!]
 Uwaga!
 [Current skin was not saved to file.\n\nAll changes will be lost.\n\n Continue to load new skin?]
-Obecna skÛrka nie zosta≥a zapisana do pliku.\n\nWszystkie zmiany zostanπ utracone.\n\n KontynuowaÊ wczytywanie nowej skÛrki?
+Obecna sk√≥rka nie zosta≈Ça zapisana do pliku.\n\nWszystkie zmiany zostanƒÖ utracone.\n\n Kontynuowaƒá wczytywanie nowej sk√≥rki?
 [Miranda skin file]
-Plik skÛrki Mirandy
+Plik sk√≥rki Mirandy
 [Preview is not available\n\n%s\n----------------------\n\n%s\n\nAUTHOR(S):\n%s\n\nCONTACT:\n%s\n\nHOMEPAGE:\n%s]
-Podglπd jest niedostÍpny\n\n%s\n----------------------\n\n%s\n\nAUTOR(ZY):\n%s\n\nKONTAKT:\n%s\n\nSTRONA DOMOWA:\n%s
+PodglƒÖd jest niedostƒôpny\n\n%s\n----------------------\n\n%s\n\nAUTOR(ZY):\n%s\n\nKONTAKT:\n%s\n\nSTRONA DOMOWA:\n%s
 [%s\n\n%s\n\nAUTHORS:\n%s\n\nCONTACT:\n%s\n\nWEB:\n%s\n\n\n]
 %s\n\n%s\n\nAUTORZY:\n%s\n\nKONTAKT:\n%s\n\nSTRONA WWW:\n%s\n\n\n
 [Select skin from list]
-Wybierz skÛrkÍ z listy
+Wybierz sk√≥rkƒô z listy
 [Please select skin to apply]
-Wybierz skÛrkÍ do uøycia
+Wybierz sk√≥rkƒô do u≈ºycia
 [Default Skin]
-Domyúlna skÛrka
+Domy≈õlna sk√≥rka
 [Ungrouped contacts]
 Niepogrupowane kontakty
 [And]
@@ -786,9 +786,9 @@ I
 [Or]
 Lub
 [Older than]
-Starsze niø
+Starsze ni≈º
 [Newer than]
-Nowsze niø
+Nowsze ni≈º
 [Minutes]
 Minuty
 [Configuring view mode: %s]
@@ -796,91 +796,91 @@ Konfigurowanie trybu widoku: %s
 [Configure view modes]
 Konfiguruj tryby widoku
 [Really delete this view mode? This cannot be undone]
-Na pewno chcesz usunπÊ ten tryb widoku? Nie moøna tego cofnπc.
+Na pewno chcesz usunƒÖƒá ten tryb widoku? Nie mo≈ºna tego cofnƒÖc.
 [Delete a view mode]
 Usuwanie trybu widoku
 [No view mode]
 Brak trybu widoku
 [A view mode with this name does alredy exist]
-Tryb widoku o takiej nazwie juø istnieje
+Tryb widoku o takiej nazwie ju≈º istnieje
 [Duplicate name]
 Zduplikowana nazwa
 [Setup View Modes...]
 Ustaw tryby widoku...
 [Clear current View Mode]
-WyczyúÊ obecny tryb widoku
+Wyczy≈õƒá obecny tryb widoku
 [Select a view mode]
 Wybierz tryb widoku
 [Setup view modes]
 Ustaw tryby widoku
 [Clear view mode and return to default display]
-WyczyúÊ tryb widoku i przywrÛÊ domyúlne wyúwietlanie
+Wyczy≈õƒá tryb widoku i przywr√≥ƒá domy≈õlne wy≈õwietlanie
 [Reset view mode]
 Resetuj tryb widoku
 [View Modes]
 Tryby widoku
 [Main Menu]
-Menu g≥Ûwne
+Menu g≈Ç√≥wne
 [Status Menu]
 Menu statusu
 [Show/Hide offline contacts]
-Pokaø/Ukryj niepo≥πczonych
+Poka≈º/Ukryj niepo≈ÇƒÖczonych
 [Minimize Miranda]
-Minimalizuj MirandÍ
+Minimalizuj Mirandƒô
 [Use/Disable groups]
-W≥πcz/Wy≥πcz grupy
+W≈ÇƒÖcz/Wy≈ÇƒÖcz grupy
 [Enable/Disable sounds]
-W≥πcz/Wy≥πcz düwiÍki
+W≈ÇƒÖcz/Wy≈ÇƒÖcz d≈∫wiƒôki
 [Multiline toolbar]
-Wiele lini paska narzÍdzi
+Wiele lini paska narzƒôdzi
 [Autosize toolbar]
-Auto rozmiar paska narzÍdzi
+Auto rozmiar paska narzƒôdzi
 [Shadow at left]
-CieÒ po lewej
+Cie≈Ñ po lewej
 [Shadow at right]
-CieÒ po prawej
+Cie≈Ñ po prawej
 [Outline]
 Zarys
 [Outline smooth]
-G≥adki zarys
+G≈Çadki zarys
 [Smooth bump]
-G≥adka bulwa
+G≈Çadka bulwa
 [Contact rate]
 Ocena kontaktu
 [Show even if offline]
-Pokaø nawet, jeøeli niepo≥πczony
+Poka≈º nawet, je≈ºeli niepo≈ÇƒÖczony
 [Low]
 Niska
 [Medium]
-årednia
+≈örednia
 [High]
 Wysoka
 [Show Main Menu]
-Pokaø menu g≥Ûwne
+Poka≈º menu g≈Ç√≥wne
 [Vertical Align]
-Pionowe wyrÛwn.
+Pionowe wyr√≥wn.
 [Horizontal Align]
-Poziome wyrÛwn.
+Poziome wyr√≥wn.
 [Accounts per line]
-Protoko≥Ûw w lini
+Protoko≈Ç√≥w w lini
 [* To increase Status Bar height:\nSet in Main menu: Frames->Status Bar->Show TitleBar then pull appeared title of status bar up or down.]
-* Aby zwiÍkszyÊ wysykoúÊ paska statusu - ustaw w g≥Ûwnym menu: Ramki->Pasek statusu->Pokaø pasek tytu≥u i wtedy pociπgnij widoczny pasek w gÛrÍ lub dÛ≥.
+* Aby zwiƒôkszyƒá wysyko≈õƒá paska statusu - ustaw w g≈Ç√≥wnym menu: Ramki->Pasek statusu->Poka≈º pasek tytu≈Çu i wtedy pociƒÖgnij widoczny pasek w g√≥rƒô lub d√≥≈Ç.
 [Space on Left]
-OdstÍp z lewej
+Odstƒôp z lewej
 [Space on right]
-OdstÍp z prawej
+Odstƒôp z prawej
 [Set options per account]
-Ustaw opcje dla kaødego konta
+Ustaw opcje dla ka≈ºdego konta
 [<<Global>>]
 <<Globalnie>>
 [Enable custom account settings]
-W≥πcz w≥asne ustawienia dla konta
+W≈ÇƒÖcz w≈Çasne ustawienia dla konta
 [Hide account completely]
-Ukryj konto ca≥kowicie
+Ukryj konto ca≈Çkowicie
 [Use old render method (Fast, but has artefacts)]
-Uøyj starej metody renederowania (Szybko, ale z artefaktami)
+U≈ºyj starej metody renederowania (Szybko, ale z artefaktami)
 [Display contacts, event notifications, protocol status with advantage visual modifications. Supported MW modifications, enchanced metacontact cooperation.]
-Wyúwietla kontakty, powiadomienia zdarzeÒ, statusy protoko≥Ûw z dobrymi modyfikacjami wizualnymi. Wspierane zmiany z MW, rozszerzona wspÛ≥praca z metakontaktami.
+Wy≈õwietla kontakty, powiadomienia zdarze≈Ñ, statusy protoko≈Ç√≥w z dobrymi modyfikacjami wizualnymi. Wspierane zmiany z MW, rozszerzona wsp√≥≈Çpraca z metakontaktami.
 [View help online]
 Pomoc na stronie Web
 [Additional:]
@@ -888,27 +888,27 @@ Dodatkowe:
 [Account information:]
 Dodatkowe informacje:
 [Configure network...]
-Konfiguruj wtyczkÍ...
+Konfiguruj wtyczkƒô...
 [Get more protocols...]
-Pobierz wiÍcej wtyczek...
+Pobierz wiƒôcej wtyczek...
 [Transparency:]
-PrzezroczystoúÊ:
+Przezroczysto≈õƒá:
 [Show contact time in list]
-Pokaø czas kontaktu na liúcie
+Poka≈º czas kontaktu na li≈õcie
 [List sorting:]
-Sortowanie kontaktÛw:
+Sortowanie kontakt√≥w:
 [Window:]
 Okno:
 [Message sending:]
-Wysy≥anie wiadomoúci:
+Wysy≈Çanie wiadomo≈õci:
 [Send message on Ctrl+Enter (always enabled)]
-Wyúlij wiadomoúÊ po Ctrl+ Enter (domyúlnie wy≥.)
+Wy≈õlij wiadomo≈õƒá po Ctrl+ Enter (domy≈õlnie wy≈Ç.)
 [Send on Shift+Enter]
-Wyúlij wiadomoúÊ po Shift+Enter
+Wy≈õlij wiadomo≈õƒá po Shift+Enter
 [Send message on Enter]
-Wyúlij wiadomoúÊ po Enterze
+Wy≈õlij wiadomo≈õƒá po Enterze
 [Send message on double Enter]
-Wyúlij wiadomoúÊ po dwÛch Enterach
+Wy≈õlij wiadomo≈õƒá po dw√≥ch Enterach
 [Addons]
 Wtyczki
 [Notifications:]
@@ -916,23 +916,23 @@ Notyfikacje:
 [Tabs:]
 Karty:
 [Show offline contacts]
-Pokaø roz≥πczone kontakty
+Poka≈º roz≈ÇƒÖczone kontakty
 [Hide offline contacts]
-Ukryj roz≥πczone kontakty
+Ukryj roz≈ÇƒÖczone kontakty
 [Disable Groups]
-Wy≥πcz grupy
+Wy≈ÇƒÖcz grupy
 [Use groups]
-Pokaø grupy
+Poka≈º grupy
 [Show Version Information]
-Pokaø informacje o wersji
+Poka≈º informacje o wersji
 [Accounts...]
 Konta...
 [Version Information To File]
 Informacje o wersji do pliku
 [Upload Version Information]
-Wyúlij informacje o wersji
+Wy≈õlij informacje o wersji
 [Dock to sides]
-Dokuj do krawÍdzi
+Dokuj do krawƒôdzi
 [Database Editor]
 Database Editor
 [Resize smileys and 'Listining to' icon]
@@ -944,9 +944,9 @@ Nazwa konta
 [System tray icon mode]
 Tryb ikony w zasobniku systemowym
 [CheckAnniv]
-Sprawdü rocznice
+Sprawd≈∫ rocznice
 [%Default Skin%]
-%Domyúlna skÛrka%
+%Domy≈õlna sk√≥rka%
 [Contact rate None]
 Brak oceny kontaktu
 [Contact rate Low]
@@ -954,9 +954,9 @@ Niska ocena kontaktu
 [Contact rate High]
 Wysoka ocena kontaktu
 [Contact rate Medium]
-årednia ocena kontaktu
+≈örednia ocena kontaktu
 [Contact names]
-Nazwy kontaktÛw
+Nazwy kontakt√≥w
 [Frame texts]
 Tekst ramki
 [Row Items]
@@ -970,12 +970,12 @@ Tekst menu
 [Selected menu text]
 Zaznaczony tekst menu
 [Frame title text]
-Tekst tytu≥u ramki
+Tekst tytu≈Çu ramki
 [Statusbar text]
 Tekst w statusbarze
 [3rd party frames transparent back colour]
-T≥o ramki jako przeüroczyste
+T≈Ço ramki jako prze≈∫roczyste
 [Hot text]
-Podúwietlany tekst
+Pod≈õwietlany tekst
 [New Group]
 Nowa grupa

@@ -4,11 +4,11 @@
 ;  Versions: 0.0.4.19
 ;============================================================
 [Create reports in subfolders naming as current date]
-Twórz raporty w subfolderach u¿ywaj¹c bie¿¹cej daty
+TwÃ³rz raporty w subfolderach uÅ¼ywajÄ…c bieÅ¼Ä…cej daty
 [VersionInfo stored into file %s]
 Informacje o wersji zachowana w pliku: %s
 [VersionInfo file %s is inaccessible]
-Plik z informacjami o wersji %s jest niedostêpny
+Plik z informacjami o wersji %s jest niedostÄ™pny
 [Version Information]
 Informacje o wersji
 [Copy to clipboard]
@@ -16,9 +16,9 @@ Kopiuj do schowka
 [Store to file]
 Zapisz do pliku
 [Show with DLLs]
-Poka¿ z DLL'ami
+PokaÅ¼ z DLL'ami
 [View Version Information ]
-Poka¿ informacje o wersji
+PokaÅ¼ informacje o wersji
 [To Clipboard]
 Do schowka
 [To File]
@@ -26,29 +26,29 @@ Do pliku
 [Support for miranda-vi.org]
 Wsparcie dla miranda-vi.org
 [Upload automatically when changed]
-Wyœlij automatycznie kiedy nast¹pi zmiana
+WyÅ›lij automatycznie kiedy nastÄ…pi zmiana
 [Trap all possible exceptions]
-Wy³ap wszystkie mo¿liwe wyj¹tki
+WyÅ‚ap wszystkie moÅ¼liwe wyjÄ…tki
 [Crash Report]
-Raport o b³êdzie
+Raport o bÅ‚Ä™dzie
 [Caution: Do not enable this option unless there is no other way you can  get a crash report When in use you will get much more crash reports then you expect or need to worry about]
-Ostrze¿enie: Nie w³¹czaj tej opcji, chyba ¿e nie ma innej mo¿liwoœci wygenerowania raportu o b³êdach. Po w³¹czeniu tej opcji bêdzie wystêpowa³o wiêcej b³êdów ni¿ normalnie
+OstrzeÅ¼enie: Nie wÅ‚Ä…czaj tej opcji, chyba Å¼e nie ma innej moÅ¼liwoÅ›ci wygenerowania raportu o bÅ‚Ä™dach. Po wÅ‚Ä…czeniu tej opcji bÄ™dzie wystÄ™powaÅ‚o wiÄ™cej bÅ‚Ä™dÃ³w niÅ¼ normalnie
 [Copy Version Info to clipboard]
 Kopiuj informacje o wersji do notatnika
 [Show Version Info]
-Poka¿ informacje o wersji
+PokaÅ¼ informacje o wersji
 [Modify]
 Modyfikuj
 [System scope]
-Zasiêg systemowy
+ZasiÄ™g systemowy
 [Miranda scope]
-Zasiêg Mirandy
+ZasiÄ™g Mirandy
 [|Unicode aware|]
-|œwiadome Unicode|
+|Å›wiadome Unicode|
 [\r\n%sActive Plugins (%u):%s\r\n]
-\r\n%sW³¹czone wtyczki (%u):%s\r\n
+\r\n%sWÅ‚Ä…czone wtyczki (%u):%s\r\n
 [\r\n%sUnloadable Plugins (%u):%s\r\n]
-\r\n%sWy³¹czone wtyczki (%u):%s\r\n
+\r\n%sWyÅ‚Ä…czone wtyczki (%u):%s\r\n
 [\r\nMiranda IM Version: %s]
 \r\nWersja Mirandy IM: %s
 [Build time: %s\r\n]
@@ -66,34 +66,34 @@ Unicode: %s\r\n
 [Unicode]
 Unicode
 [\r\nLoaded Modules:\r\n---------------------------------------------------------------\r\n]
-\r\nWczytane modu³y:\r\n---------------------------------------------------------------\r\n
+\r\nWczytane moduÅ‚y:\r\n---------------------------------------------------------------\r\n
 [Crash Report write location is inaccesible]
-Nie mo¿na zapisaæ raportu o b³êdach
+Nie moÅ¼na zapisaÄ‡ raportu o bÅ‚Ä™dach
 [Miranda crashed. Crash report stored in the folder:\n %s\n\n Would you like store it in the clipboard as well?]
-Wyst¹pi³ b³¹d Mirandy. Raport b³êdów zachowany w folderze:\n %s\n\n Czy zapisaæ raport?
+WystÄ…piÅ‚ bÅ‚Ä…d Mirandy. Raport bÅ‚Ä™dÃ³w zachowany w folderze:\n %s\n\n Czy zapisaÄ‡ raport?
 [Miranda Crashed. dbghelp.dll v. 6.8 required to provide a crash report]
-Wyst¹pi³ b³¹d Mirandy. Potrzebujesz dbghelp.dll w. 6.8 aby dostarczyæ raport.
+WystÄ…piÅ‚ bÅ‚Ä…d Mirandy. Potrzebujesz dbghelp.dll w. 6.8 aby dostarczyÄ‡ raport.
 [VersionInfo upload successful,\n %d old plugins]
-Wys³ano informacje o wersji. Starych wtyczek: %d
+WysÅ‚ano informacje o wersji. Starych wtyczek: %d
 [Cannot upload VersionInfo. Incorrect username or password]
-Nie mo¿na wys³aæ informacji o wersji. Niepoprawna nazwa u¿ytkownika lub has³o.
+Nie moÅ¼na wysÅ‚aÄ‡ informacji o wersji. Niepoprawna nazwa uÅ¼ytkownika lub hasÅ‚o.
 [Cannot upload VersionInfo. User is banned]
-Nie mo¿na wys³aæ informacji o wersji. U¿ytkownik jest zbanowany.
+Nie moÅ¼na wysÅ‚aÄ‡ informacji o wersji. UÅ¼ytkownik jest zbanowany.
 [Cannot upload VersionInfo. Daily upload limit exceeded]
-Nie mo¿na wys³aæ informacji o wersji. Przekroczono dzienny limit wysy³ania.
+Nie moÅ¼na wysÅ‚aÄ‡ informacji o wersji. Przekroczono dzienny limit wysyÅ‚ania.
 [Cannot upload VersionInfo. Unknown error]
-Nie mo¿na wys³aæ informacji o wersji. Nieznany b³¹d.
+Nie moÅ¼na wysÅ‚aÄ‡ informacji o wersji. Nieznany bÅ‚Ä…d.
 [Cannot upload VersionInfo. Host unreachable.]
-Nie mo¿na wys³aæ informacji o wersji. Host nieosi¹galny.
+Nie moÅ¼na wysÅ‚aÄ‡ informacji o wersji. Host nieosiÄ…galny.
 [Crash Dumper HTTP connections]
-Po³¹czenie HTTP Crash Dumper
+PoÅ‚Ä…czenie HTTP Crash Dumper
 [More then one crash reporting plugin installed. This will result in inability of creating crash reports]
-Masz wiêcej ni¿ jedn¹ wtyczkê raportowania b³êdów. Uniemo¿liwia to generowanie raportów o b³êdach
+Masz wiÄ™cej niÅ¼ jednÄ… wtyczkÄ™ raportowania bÅ‚Ä™dÃ³w. UniemoÅ¼liwia to generowanie raportÃ³w o bÅ‚Ä™dach
 [Open crash report directory]
-Otwórz katalog z b³êdami
+OtwÃ³rz katalog z bÅ‚Ä™dami
 [Open miranda-vi.org]
-Otwórz miranda-vi.org
+OtwÃ³rz miranda-vi.org
 [Get Version Info]
-Przechwyæ informacje o wersji
+PrzechwyÄ‡ informacje o wersji
 [Use classic dates]
-U¿yj klasycznych dat
+UÅ¼yj klasycznych dat

@@ -4,125 +4,125 @@
 ;  Versions: 3.2.0.0
 ;============================================================
 [Cannot Convert!]
-Nie mo¿na przekonwertowaæ!
+Nie moÅ¼na przekonwertowaÄ‡!
 [New BYTE value]
-Nowa wartoœæ BYTE
+Nowa wartoÅ›Ä‡ BYTE
 [Edit BYTE value]
-Edytuj wartoœæ BYTE
+Edytuj wartoÅ›Ä‡ BYTE
 [New WORD value]
-Nowa wartoœæ WORD
+Nowa wartoÅ›Ä‡ WORD
 [Edit WORD value]
-Edytuj wartoœæ WORD
+Edytuj wartoÅ›Ä‡ WORD
 [New DWORD value]
-Nowa wartoœæ DWORD
+Nowa wartoÅ›Ä‡ DWORD
 [Edit DWORD value]
-Edytuj wartoœæ DWORD
+Edytuj wartoÅ›Ä‡ DWORD
 [New STRING value]
-Nowa wartoœæ STRING
+Nowa wartoÅ›Ä‡ STRING
 [Edit STRING value]
-Edytuj wartoœæ STRING
+Edytuj wartoÅ›Ä‡ STRING
 [New UNICODE value]
-Nowa wartoœæ UNICODE
+Nowa wartoÅ›Ä‡ UNICODE
 [Edit UNICODE value]
-Edytuj wartoœæ UNICODE
+Edytuj wartoÅ›Ä‡ UNICODE
 [New BLOB value]
-Nowa wartoœæ BLOB
+Nowa wartoÅ›Ä‡ BLOB
 [Edit BLOB value]
-Edytuj wartoœæ BLOB
+Edytuj wartoÅ›Ä‡ BLOB
 [Couldnt allocate enough memory!]
-Nie uda³o siê przydzieliæ wystarczaj¹cej iloœci pamiêci!
+Nie udaÅ‚o siÄ™ przydzieliÄ‡ wystarczajÄ…cej iloÅ›ci pamiÄ™ci!
 [Are you sure you want to delete module "%s"?]
-Na pewno chcesz usun¹æ modu³ "%s"?
+Na pewno chcesz usunÄ…Ä‡ moduÅ‚ "%s"?
 [Confirm Module Deletion]
-PotwierdŸ usuniêcie modu³u
+PotwierdÅº usuniÄ™cie moduÅ‚u
 [Delete module from Database]
-Usuñ modu³ z bazy danych
+UsuÅ„ moduÅ‚ z bazy danych
 [Delete module from Database... Loading]
-Skasuj modu³ z Bazy danych... £adowanie
+Skasuj moduÅ‚ z Bazy danych... Åadowanie
 [Delete module from all contacts (Includes Setting)]
-Usuñ modu³ ze wszystkich kontaktów (razem z ustawieniami)
+UsuÅ„ moduÅ‚ ze wszystkich kontaktÃ³w (razem z ustawieniami)
 [Error Loading Module List]
-B³¹d wczytywania listy modu³ów
+BÅ‚Ä…d wczytywania listy moduÅ‚Ã³w
 [Couldn't open file for writing]
-Nie uda³o siê otworzyæ pliku do zapisu
+Nie udaÅ‚o siÄ™ otworzyÄ‡ pliku do zapisu
 [Do you want to overwrite it "%s"?]
-Czy chcesz nadpisaæ to - "%s"?
+Czy chcesz nadpisaÄ‡ to - "%s"?
 [Contact already exists]
-Kontakt ju¿ istnieje
+Kontakt juÅ¼ istnieje
 [Import from files]
-Importuj z plików
+Importuj z plikÃ³w
 [Enter a string to search the DB for]
-WprowadŸ tekst do znalezienia w bazie
+WprowadÅº tekst do znalezienia w bazie
 [Replaced with]
 Zamieniony przez
 [Deleted]
-Usuniête
+UsuniÄ™te
 [Found]
 Znaleziono
 [%s Module "%s" in contact "%s"]
-%s Modu³ "%s" w kontakcie "%s"
+%s ModuÅ‚ "%s" w kontakcie "%s"
 [%s Setting "%s" in module "%s" in contact "%s" - "%s"]
 %s Ustawienie "%s" w module "%s" kontaktu "%s" - "%s"
 [%s Setting "%s" in module "%s" in contact "%s"]
 %s Ustawienie "%s" w module "%s" kontaktu "%s"
 [%s "%s" in Setting "%s" in module "%s" in contact "%s"]
-%s "%s" w ustawieniu "%s" modu³u "%s" kontaktu "%s"
+%s "%s" w ustawieniu "%s" moduÅ‚u "%s" kontaktu "%s"
 [Error Loading Setting List]
-B³¹d £adowania Listy Ustawieñ
+BÅ‚Ä…d Åadowania Listy UstawieÅ„
 [Finished. %d items were found, %d items were deleted.]
-Zakoñczono. Znaleziono %d rzeczy, %d usuniêto.
+ZakoÅ„czono. Znaleziono %d rzeczy, %d usuniÄ™to.
 [Finished. %d items were found, %d items were replaced.]
-Zakoñczono. Znaleziono %d rzeczy, %d zast¹piono.
+ZakoÅ„czono. Znaleziono %d rzeczy, %d zastÄ…piono.
 [Finished. %d items were found.]
-Zakoñczono. Znaleziono %d rzeczy.
+ZakoÅ„czono. Znaleziono %d rzeczy.
 [&Replace]
-Zamieñ
+ZamieÅ„
 [Closed Known Module]
-Zamkniêto Znane Modu³y
+ZamkniÄ™to Znane ModuÅ‚y
 [Open Known Module]
-Otworzono Znane Modu³y
+Otworzono Znane ModuÅ‚y
 [Closed Unknown Module]
-Zamkniêto Nieznane Modu³y
+ZamkniÄ™to Nieznane ModuÅ‚y
 [Open Unknown Module]
-Otworzono Nieznane Modu³y
+Otworzono Nieznane ModuÅ‚y
 [Contacts Group]
-Grupa kontaktów
+Grupa kontaktÃ³w
 [Unknown Contact]
 Nieznane kontakty
 [Known Contact]
 Znane kontakty
 [Show DataBase Editor]
-Poka¿ Edytor Bazy Danych
+PokaÅ¼ Edytor Bazy Danych
 [Open user tree in DBE++]
-Otwórz drzewo u¿ytkownika w DBE++
+OtwÃ³rz drzewo uÅ¼ytkownika w DBE++
 [Are you sure you want to delete contact "%s"?]
-Na pewno chcesz usun¹æ kontakt "%s"?
+Na pewno chcesz usunÄ…Ä‡ kontakt "%s"?
 [Confirm Contact Delete]
-PotwierdŸ usuniêcie kontaktu
+PotwierdÅº usuniÄ™cie kontaktu
 [Database Editor++ (unicode mode)]
 Database Editor++ (tryb unicode)
 [Database Editor++ (ansi mode)]
 Database Editor++ (tryb ansi)
 [Loading contacts...]
-Wczytywanie kontaktów...
+Wczytywanie kontaktÃ³w...
 [Loading modules...]
-Wczytywanie modu³ów...
+Wczytywanie moduÅ‚Ã³w...
 [Module tree not found]
-Nie znaleziono drzewka modu³ów
+Nie znaleziono drzewka moduÅ‚Ã³w
 [Add module to contact "%s"]
-Dodaj modu³ do kontaktu "%s"
+Dodaj moduÅ‚ do kontaktu "%s"
 [Database Editor++ Search and Replace]
-Database Editor++ Szukaj i Zast¹p
+Database Editor++ Szukaj i ZastÄ…p
 [Case Sensitive]
-Rozró¿nianie wielkoœci liter
+RozrÃ³Å¼nianie wielkoÅ›ci liter
 [Module Name]
-Nazwa modu³u
+Nazwa moduÅ‚u
 [Exact Match]
-Dok³adne dopasowanie
+DokÅ‚adne dopasowanie
 [Setting Name]
 Nazwa ustawienia
 [Setting Value]
-Wartoœæ ustawienia
+WartoÅ›Ä‡ ustawienia
 [Found field]
 Znalezienie nieudane
 [Search For]
@@ -130,91 +130,91 @@ Szukaj
 [In:]
 W:
 [Replace With]
-Zast¹p Z
+ZastÄ…p Z
 [Entirely]
-Ca³kiem
+CaÅ‚kiem
 [Restore last opened position]
-Przywróæ ostatni¹ otwart¹ pozycjê
+PrzywrÃ³Ä‡ ostatniÄ… otwartÄ… pozycjÄ™
 [Automatically expand "settings" when Database Editor ++ starts]
-Automatycznie rozwiñ "ustawienia" podczas w³¹czania Database Editor ++
+Automatycznie rozwiÅ„ "ustawienia" podczas wÅ‚Ä…czania Database Editor ++
 [Use known modules list]
-U¿yj listy znanych modu³ów
+UÅ¼yj listy znanych moduÅ‚Ã³w
 [Warn when deleting modules]
-Ostrze¿ przed usuwaniem modu³ów
+OstrzeÅ¼ przed usuwaniem moduÅ‚Ã³w
 [Open user tree in DBE++" menu item]
-Otwórz drzewko u¿ytkownika we wpisie menu DBE++
+OtwÃ³rz drzewko uÅ¼ytkownika we wpisie menu DBE++
 [Use popups when watched settings change values]
-U¿yj Popupów kiedy ogl¹dane ustawienia zmieniaj¹ wartoœæ.
+UÅ¼yj PopupÃ³w kiedy oglÄ…dane ustawienia zmieniajÄ… wartoÅ›Ä‡.
 [Modules to ALWAYS mark as known (e.g core modules)]
-Modu³y ZAWSZE oznaczane jako znane (np. modu³y rdzenia)
+ModuÅ‚y ZAWSZE oznaczane jako znane (np. moduÅ‚y rdzenia)
 [Put a space or comma between each module name]
-Umieœæ spacjê lub przecinek miêdzy nazwami modu³ów
+UmieÅ›Ä‡ spacjÄ™ lub przecinek miÄ™dzy nazwami moduÅ‚Ã³w
 [Changes to this list will take effect next time miranda starts]
-Zmiany na tej liœcie przynios¹ efekt po ponownym uruchomieniu Mirandy
+Zmiany na tej liÅ›cie przyniosÄ… efekt po ponownym uruchomieniu Mirandy
 [Popup timeout (0 for infinite)]
-Czas wyœwietlania popupu (0 = nieskoñczonoœæ)
+Czas wyÅ›wietlania popupu (0 = nieskoÅ„czonoÅ›Ä‡)
 [Background Colour]
-Kolor t³a
+Kolor tÅ‚a
 [If the module name has a space in it, put a \\ before the space. eg "aaa\\ bbb"]
-Jeœli modu³ ma w nazwie spacjê, umieœæ \\ przed spacj¹, np. "aaa\\ bbb"
+JeÅ›li moduÅ‚ ma w nazwie spacjÄ™, umieÅ›Ä‡ \\ przed spacjÄ…, np. "aaa\\ bbb"
 [Add a module to contact]
-Dodaj modu³ do kontaktu
+Dodaj moduÅ‚ do kontaktu
 [Add a module named]
-Dodaj nazwê modu³u
+Dodaj nazwÄ™ moduÅ‚u
 [Add to all contacts (Includes Settings)]
-Dodaj do wszystkich kontaktów (razem z ustawieniami)
+Dodaj do wszystkich kontaktÃ³w (razem z ustawieniami)
 [Edit Setting]
 Edytuj ustawienie
 [Byte]
 Bajt
 [String]
-Ci¹g
+CiÄ…g
 [Hexadecimal]
 Szesnastkowy
 [Decimal]
-dziesiêtny
+dziesiÄ™tny
 [Value Name:]
-Nazwa wartoœci:
+Nazwa wartoÅ›ci:
 [Value Data:]
-Wartoœæ:
+WartoÅ›Ä‡:
 [Base]
 Baza
 [Save Value as:]
-Zapisz wartoœæ jako:
+Zapisz wartoÅ›Ä‡ jako:
 [Watched Database Variables]
-Obserwowane wartoœci
+Obserwowane wartoÅ›ci
 [Copy module to contact]
-Kopiuj modu³ do kontaktu
+Kopiuj moduÅ‚ do kontaktu
 [Copy to all contacts (Includes Settings)]
-Kopiuj do wszystkich kontaktów (razem z ustawieniami)
+Kopiuj do wszystkich kontaktÃ³w (razem z ustawieniami)
 [Contact to copy module and settings to]
-Kontakt, do którego skopiujê modu³ i ustawienia
+Kontakt, do ktÃ³rego skopiujÄ™ moduÅ‚ i ustawienia
 [Import Module/Settings]
-Import modu³ów/ustawieñ
+Import moduÅ‚Ã³w/ustawieÅ„
 [Insert &CR/LF]
-Umieœæ CR/LF
+UmieÅ›Ä‡ CR/LF
 [Paste the Settings to import here.]
 Wklej tu ustawienia do zaimportowania.
 [&Main]
-G³ówne
+GÅ‚Ã³wne
 [&Refresh Modules]
-Odœwie¿ modu³y
+OdÅ›wieÅ¼ moduÅ‚y
 [Refresh &Settings]
-Odœwie¿ ustawienia
+OdÅ›wieÅ¼ ustawienia
 [&Actions]
 Akcje
 [&Search and Replace]
-ZnajdŸ i zamieñ
+ZnajdÅº i zamieÅ„
 [&Delete Module]
-Usuñ modu³
+UsuÅ„ moduÅ‚
 [&Watches]
 Obserwowane
 [&View all]
-Poka¿ wszystko
+PokaÅ¼ wszystko
 [&Delete all]
-Usuñ wszystko
+UsuÅ„ wszystko
 [Entire &Database]
-Ca³a baza danych
+CaÅ‚a baza danych
 [All &Settings]
 Wszystkie ustawienia
 [All &Contacts]
@@ -226,25 +226,25 @@ Z wklejonego tekstu
 [&Options]
 Opcje...
 [&Sort by protocol]
-Sortuj wg protoko³ów
+Sortuj wg protokoÅ‚Ã³w
 [Show &All]
-Poka¿ wszystko
+PokaÅ¼ wszystko
 [Show only &Loaded]
-Poka¿ tylko wczytane
+PokaÅ¼ tylko wczytane
 [Show only &Unloaded]
-Poka¿ tylko niewczytane
+PokaÅ¼ tylko niewczytane
 [Edit &Bytes in Hex]
-Edytuj wartoœæi Byte w Hex
+Edytuj wartoÅ›Ä‡i Byte w Hex
 [Edit &Words in Hex]
-Edytuj wartoœci Word w Hex
+Edytuj wartoÅ›ci Word w Hex
 [Edit &Dwords in Hex]
-Edytuj wartoœci Dword w Hex
+Edytuj wartoÅ›ci Dword w Hex
 [&Restore position]
-Przywróæ pozycjê
+PrzywrÃ³Ä‡ pozycjÄ™
 [Item context]
 Pozycja kontekstu
 [&Edit / Rename]
-Edytuj / Zmieñ nazwê
+Edytuj / ZmieÅ„ nazwÄ™
 [NEW]
 NOWY
 [&Byte]
@@ -254,7 +254,7 @@ Word
 [&Dword]
 Dword
 [&String]
-Ci¹g
+CiÄ…g
 [&Unicode]
 Unicode
 [&Convert to]
@@ -262,13 +262,13 @@ Konwertuj do
 [Encyption]
 Szyfrowanie
 [View Decrypted String]
-Poka¿ rozszyfrowany ci¹g
+PokaÅ¼ rozszyfrowany ciÄ…g
 [View Encrypted String]
-Poka¿ zaszyfrowany ci¹g
+PokaÅ¼ zaszyfrowany ciÄ…g
 [Decrypt String]
-Odszyfruj ci¹g
+Odszyfruj ciÄ…g
 [Encrypt String]
-Zaszyfruj ci¹g
+Zaszyfruj ciÄ…g
 [&Watch]
 Obserwuj
 [Null Mod context]
@@ -276,9 +276,9 @@ Tryb Null kontekstu
 [Copy To Contact]
 Kopiuj do kontaktu
 [Export Module]
-Eksportuj modu³
+Eksportuj moduÅ‚
 [Add To Known Modules]
-Dodaj do znanych modu³ów
+Dodaj do znanych moduÅ‚Ã³w
 [&Clone]
 Klon
 [Export Contact]
@@ -290,13 +290,13 @@ Z pliku
 [From pasted text]
 Z wklejonego tekstu
 [&Add Module]
-Dodaj modu³
+Dodaj moduÅ‚
 [NULL contact menu]
 Menu kontaktu NULL
 [Export Settings]
 Eksportuj ustawienia
 [Contacts menu]
-Menu kontaktów
+Menu kontaktÃ³w
 [Export Contacts]
 Eksportuj kontakty
 [Import Contacts]
@@ -304,29 +304,29 @@ Importuj kontakty
 [Contact Mod context]
 Tryb kontekstu kontaktu
 [Export Module from all contacts]
-Eksportuj modu³ z wszystkich kontaktów
+Eksportuj moduÅ‚ z wszystkich kontaktÃ³w
 [new item]
 nowy przedmiot
 [Watch Window]
-Ogl¹daj okno
+OglÄ…daj okno
 [Reload Watch List]
-Prze³aduj ogl¹dan¹ listê
+PrzeÅ‚aduj oglÄ…danÄ… listÄ™
 [Data]
 Dane
 [<unsupported>]
 <niewspierany>
 [Module]
-Modu³
+ModuÅ‚
 [Database Setting Changed: \nModule: "%s" , Setting: "%s"\nNew Value: (BYTE) %d]
-Zmieni³y siê ustawienia bazy danych: \nModu³: "%s" , Ustawienie: "%s"\nNowa wartoœæ: (BYTE) %d
+ZmieniÅ‚y siÄ™ ustawienia bazy danych: \nModuÅ‚: "%s" , Ustawienie: "%s"\nNowa wartoÅ›Ä‡: (BYTE) %d
 [Database Setting Changed: \nModule: "%s" , Setting: "%s"\nNew Value: (WORD) %d]
-Zmieni³y siê ustawienia bazy danych: \nModu³: "%s" , Ustawienie: "%s"\nNowa wartoœæ: (BYTE) %d
+ZmieniÅ‚y siÄ™ ustawienia bazy danych: \nModuÅ‚: "%s" , Ustawienie: "%s"\nNowa wartoÅ›Ä‡: (BYTE) %d
 [Database Setting Changed: \nModule: "%s" , Setting: "%s"\nNew Value: (DWORD) 0x%X]
-Zmieni³y siê ustawienia bazy danych: \nModu³: "%s" , Ustawienie: "%s"\nNowa wartoœæ: (DWORD) 0x%X
+ZmieniÅ‚y siÄ™ ustawienia bazy danych: \nModuÅ‚: "%s" , Ustawienie: "%s"\nNowa wartoÅ›Ä‡: (DWORD) 0x%X
 [Database Setting Changed: \nModule: "%s" , Setting: "%s"\nNew Value: "%s"]
-Zmieni³y siê ustawienia bazy danych: \nModu³: "%s" , Ustawienie: "%s"\nNowa wartoœæ: %d
+ZmieniÅ‚y siÄ™ ustawienia bazy danych: \nModuÅ‚: "%s" , Ustawienie: "%s"\nNowa wartoÅ›Ä‡: %d
 [Database Setting Changed: \nModule: "%s" , Setting: "%s"\nNew Value (UTF8): "%s"]
-Zmieni³y siê ustawienia bazy danych: \nModu³: "%s" , Ustawienie: "%s"\nNowa wartoœæ (UTF8): %s
+ZmieniÅ‚y siÄ™ ustawienia bazy danych: \nModuÅ‚: "%s" , Ustawienie: "%s"\nNowa wartoÅ›Ä‡ (UTF8): %s
 [INI Files]
 Plik INI
 [All Files]
