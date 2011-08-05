@@ -4,7 +4,7 @@ rem this file will generate file LinkList.txt
 rem LinkList.txt can be imported to any downloader program and download all langpack files
 rem lagpack files can be used to generate VersionInfo-based langpack with reduced size.
 set out=LinkList.txt
-set URL=http://mir-rl.googlecode.com/svn/trunk
+set URL=https://github.com/MojaMiranda/Langpack/tree/trunk
 echo Please wait
 
 rem delete old file

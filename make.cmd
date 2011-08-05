@@ -1,4 +1,4 @@
-@echo off
+rem @echo off
 rem This is Miranda IM language pack generator from bunch of text files
 rem It can be used (probably) with any localisation but tested only with russian locale.
 rem Положить рядом с make.cmd файл VersionInfo.txt - получите лангпак под вашу сборку.
@@ -51,7 +51,7 @@ for %%a in (%PluginsDir%\*.txt) do set PluginsInc=!PluginsInc!, %%~na
 rem now we have plugin list in %PluginsInc%, print it to langpack:
 echo Plugins-included: %PluginsInc:~2%.>>%lp%
 )
-rem add "FLID" for full langpack. Updater support.
+REM add "FLID" for full langpack. Updater support.
 if not exist %vi% type "=VERSION=.txt">>%lp%
 	
 rem  Add MirandaIM Core, dbtool and dupes and My Strings.

@@ -1,99 +1,179 @@
-﻿¤ aa_historyeventsW.dll v.0.0.0.8 [8 May 2008 1:12:00] - History Events (Unicode) |Unicode aware|
-¤ actman.dll v.0.1.1.10 [19 May 2011 10:34:38] - Action manager |Unicode aware|
-¤ addcontactplus.dll v.0.9.9.0 [9 Apr 2011 16:47:22] - AddContact+ (Unicode) |Unicode aware|
-¤ advaimg.dll v.0.9.24.0 [4 Jul 2011 5:39:52] - Miranda Image services 
-¤ AdvancedAutoAway.dll v.0.8.0.41 [26 May 2011 22:37:09] - Advanced Auto Away (Unicode) |Unicode aware|
-¤ AdvSplashScreen.dll v.0.1.2.2 [9 Apr 2010 12:27:00] - Splash Screen 
-¤ Aim.dll v.0.9.24.0 [4 Jul 2011 5:40:21] - AIM Protocol |Unicode aware|
-¤ alarms.dll v.0.4.0.5 [6 Nov 2009 11:49:36] - Alarms 
-¤ assocmgr.dll v.0.1.1.3 [16 Mar 2008 2:42:00] - File Association Manager |Unicode aware|
-¤ AuthState.dll v.0.0.2.0 [10 Apr 2011 2:12:00] - Authorization State (Unicode) |Unicode aware|
-¤ avatarHistory_ALAStyleW.dll v.0.2.0.2 [29 Aug 2007 23:10:00] - Avatar History ALA Style Mod (Unicode) |Unicode aware|
-¤ avs.dll v.0.9.24.0 [4 Jul 2011 5:40:27] - Avatar service (Unicode) |Unicode aware|
-¤ bass_interface.dll v.0.0.0.13 [10 Apr 2011 2:07:56] - Bass_interface (Unicode) Mataes Release |Unicode aware|
-¤ Bonsai.dll v.0.0.2.4 [16 Nov 2009 16:28:00] - Bonsai |Unicode aware|
-¤ BossKey.dll v.0.5.0.3 [10 Apr 2011 2:09:03] - BossKey+ (Unicode) |Unicode aware|
-  capture.dll v.0.0.0.4 [5 Aug 2009 2:57:02] - Capture 
-¤ Chess4Net_MI.dll v.201.0.0.1 [28 May 2010 19:11:00] - Chess4Net 
-¤ clist_modern.dll v.0.9.0.10 [4 Jul 2011 5:42:03] - Modern Contact List '09 |Unicode aware|
-¤ CmdLine.dll v.0.0.3.0 [1 Nov 2010 14:22:10] - Command Line 
-¤ Cslist.dll v.0.1.0.5 [30 Dec 2010 3:47:50] - Custom Status List (Unicode) mod |Unicode aware|
-¤ Db_autobackups.dll v.0.0.0.8 [10 Apr 2011 2:11:57] - DB Autobackuper (Unicode) |Unicode aware|
-¤ Dbx_mmap_sa.dll v.0.7.5.4 [10 Apr 2011 2:09:55] - Miranda SecuredMMAP database driver (Unicode) |Unicode aware|
-¤ extraicons.dll v.0.2.5.1 [11 Apr 2011 19:23:52] - Extra Icons Service 
-¤ facebook.dll v.0.0.3.3 [17 Jun 2011 12:00:14] - Facebook Protocol RM |Unicode aware|
-¤ favcontacts.dll v.0.0.0.7 [23 Feb 2010 20:46:04] - Favourite Contacts |Unicode aware|
-¤ Fingerprint.dll v.1.1.12.1 [15 Apr 2010 22:25:16] - Fingerprint Plus |Unicode aware|
-¤ fltcontacts.dll v.1.0.0.10 [2 Feb 2011 11:24:00] - Floating contacts 
-¤ Folders.dll v.0.1.5.4 [23 Apr 2011 10:38:23] - Custom profile folders (Unicode) |Unicode aware|
-¤ ftpfile.dll v.0.5.0.0 [28 Sep 2010 18:21:04] - FTP File YM |Unicode aware|
-  GameQuery.dll v.0.2.4.5 [29 Sep 2009 10:59:22] - Game Query Protocol 
-¤ GG.dll v.0.9.24.0 [4 Jul 2011 5:39:59] - Gadu-Gadu Protocol 
-¤ gmailm.dll v.0.4.0.13 [12 Feb 2011 22:51:00] - Gmail Multiple Notifier (UNICODE) |Unicode aware|
-¤ GTalkExt.dll v.0.0.0.19 [20 Apr 2011 21:40:06] - GTalk extensions for Jabber protocol |Unicode aware|
-¤ historykeeperW.dll v.0.2.1.0 [28 Apr 2009 23:16:08] - History Keeper (Unicode) |Unicode aware|
-¤ historypp.dll v.1.5.1.4 [23 Feb 2010 19:16:24] - History++ (2in1) |Unicode aware|
-¤ historysweeper.dll v.0.2.0.2 [19 Sep 2009 17:33:56] - History Sweeper+ Unicode |Unicode aware|
-¤ ICQ.dll v.0.9.24.0 [4 Jul 2011 5:40:57] - IcqOscarJ Protocol |Unicode aware|
-¤ ieview.dll v.1.3.0.3 [10 Apr 2011 2:08:16] - IEView (Unicode) |Unicode aware|
-¤ imoproxy.dll v.1.0.0.13 [15 Mar 2011 20:41:00] - imo2sproxy-Plugin 
-¤ import.dll v.0.9.24.0 [4 Jul 2011 5:41:00] - Import contacts and messages |Unicode aware|
-¤ IRC.dll v.0.9.24.0 [4 Jul 2011 5:40:07] - IRC protocol |Unicode aware|
-¤ jabber.dll v.0.9.24.0 [4 Jul 2011 5:41:18] - Jabber Protocol |Unicode aware|
-¤ keepstatus.dll v.0.8.0.97 [10 Apr 2011 2:11:51] - KeepStatus (Unicode) |Unicode aware|
-  mContacts.dll v.0.0.1.1 [21 Aug 2004 22:34:00] - mContacts 
-¤ MenuEx.dll v.1.3.0.8 [13 Aug 2010 9:43:00] - MenuItemEx |Unicode aware|
-¤ metacontacts.dll v.0.14.0.13 [10 Apr 2011 2:11:27] - MetaContacts 
-¤ MirFox.dll v.0.3.0.0 [1 Jul 2011 23:09:32] - MirFox (Unicode) |Unicode aware|
-  mPhantomUser.dll v.0.3.7.0 [17 Sep 2005 18:13:54] - mPhantomUser 
-¤ mradio.dll v.0.0.2.1 [31 May 2011 13:36:00] - mRadio Mod |Unicode aware|
-¤ msn.dll v.0.9.24.0 [4 Jul 2011 5:42:23] - MSN Protocol |Unicode aware|
-¤ mtextcontrolW.dll v.0.8.0.1 [10 Apr 2011 2:09:04] - Miranda Text Control (Unicode) Mataes Release |Unicode aware|
-  mucc.dll v.1.0.7.3 [20 Apr 2006 19:12:36] - MUCC Plugin 
-¤ mydetails.dll v.0.0.2.6 [30 Sep 2010 4:21:00] - My Details 
-¤ MySpace.dll v.0.0.7.3 [13 Nov 2010 7:15:00] - MySpace (Unicode) |Unicode aware|
-¤ newxstatusnotify.dll v.1.4.0.9 [10 Apr 2011 2:09:01] - NewXstatusNotify YM (Unicode) |Unicode aware|
-¤ nudge.dll v.0.0.1.19 [21 Apr 2008 10:51:52] - Nudge |Unicode aware|
-¤ PackUpdater.dll v.0.0.0.9 [10 Apr 2011 2:08:27] - PackUpdater (Unicode) |Unicode aware|
-¤ PasteIt.dll v.1.0.0.3 [3 Jul 2011 13:25:46] - Paste It |Unicode aware|
-  PersonalizedSoundPlugin.dll v.0.5.1.0 [2 Jun 2003 22:29:00] - PersonalizedSoundPlugin 
-¤ PopUpW.dll v.2.1.1.5 [10 Apr 2011 2:09:12] - PopUp Plus (Unicode) Mataes Release |Unicode aware|
-¤ QuickReplies.dll v.0.8.1.0 [10 Apr 2011 2:11:22] - Quick Replies (Unicode) |Unicode aware|
-¤ quicksearch.dll v.1.4.1.18 [3 Jul 2010 12:49:24] - Quick Search Mod |Unicode aware|
-¤ Quotes.dll v.0.0.19.0 [10 Apr 2011 2:11:50] - Quotes (Unicode) |Unicode aware|
-¤ rate.dll v.0.0.2.1 [3 May 2009 17:17:54] - Contact`s Rate 
-¤ rss.dll v.0.0.3.24 [23 Jan 2010 19:01:44] - RSSNews 
-  sar.dll v.1.0.0.1 [12 Nov 2008 21:02:16] - Smart Auto Replier 
-¤ seenplugin.dll v.5.0.4.7 [10 Apr 2011 2:11:18] - Last seen 
-¤ SendSS.dll v.0.8.0.0 [22 Jun 2010 18:56:46] - Send Screenshot+ (Unicode) |Unicode aware|
-¤ shlextu.dll v.2.0.2.0 [3 Mar 2011 14:32:00] - Shell context menus for transfers |Unicode aware|
-¤ shutdown.dll v.1.4.0.2 [28 Mar 2007 18:39:00] - AutoShutdown |Unicode aware|
-¤ SimpleAR.dll v.2.0.2.3 [10 Apr 2011 2:08:02] - SimpleAR (Unicode) |Unicode aware|
-¤ simplestatusmsg.dll v.1.9.0.3 [14 Nov 2010 16:28:00] - Simple Status Message (Unicode) |Unicode aware|
-¤ skinsW.dll v.0.0.0.4 [26 Jan 2009 0:34:00] - Skins (Unicode) |Unicode aware|
-¤ skype.dll v.0.0.0.51 [27 Apr 2011 2:51:00] - Skype Protocol |Unicode aware|
-¤ smileyaddw.dll v.0.2.3.16 [10 Apr 2011 2:11:15] - SmileyAdd (Unicode) |Unicode aware|
-¤ smsbox.dll v.0.1.0.8 [18 Oct 2010 12:24:08] - SMSBox 
-¤ sndVol.dll v.0.0.3.0 [2 Jan 2008 11:07:00] - sndVol (UNICODE) |Unicode aware|
-¤ spellcheckerW.dll v.0.2.6.0 [15 May 2011 17:37:00] - Spell Checker |Unicode aware|
-¤ SplashScreen.dll v.0.1.2.3 [11 May 2011 19:40:56] - Splash Screen (Unicode) |Unicode aware|
-¤ start_position.dll v.0.2.0.2 [10 Aug 2010 18:03:00] - Window Start Position 
-¤ StartupStatus.dll v.0.8.0.42 [9 Feb 2011 23:57:00] - StartupStatus (Unicode) |Unicode aware|
-¤ svc_crshdmp.dll v.0.0.4.19 [10 Apr 2011 2:10:54] - Crash Dumper (Unicode) Mataes Release |Unicode aware|
-¤ svc_dbepp.dll v.3.2.0.0 [26 May 2011 22:41:32] - Database Editor++ 
-¤ tabsrmm.dll v.3.0.22.0 [4 Jul 2011 5:42:59] - TabSRMM (Unicode) |Unicode aware|
-¤ tipper.dll v.2.1.0.4 [10 Apr 2011 2:08:25] - Tipper YM (Unicode) Mataes Release |Unicode aware|
-¤ tlen.dll v.2.0.2.0 [23 Apr 2011 23:14:06] - Tlen Protocol (Unicode) 
-¤ twitter.dll v.0.0.9.7 [26 Oct 2010 18:59:00] - Twitter Plugin |Unicode aware|
-¤ uinfoexW.dll v.0.8.4.2 [29 Sep 2010 0:07:48] - UserInfoEx (Unicode) |Unicode aware|
-¤ updater.dll v.0.6.1.4 [19 Mar 2011 23:31:00] - Updater (Unicode) |Unicode aware|
-¤ UseActions.dll v.0.0.0.4 [19 May 2011 10:58:19] - UseActions (Unicode) |Unicode aware|
-¤ Variables.dll v.0.2.3.8 [13 Jan 2011 20:23:18] - Variables (Unicode) |Unicode aware|
-¤ watrack.dll v.0.0.6.12 [29 Aug 2010 17:56:56] - Winamp Track |Unicode aware|
-¤ weather.dll v.0.3.8.18 [10 Apr 2011 2:10:16] - Weather Protocol Mataes Release 
-¤ XFire.dll v.0.1.8.1 [9 Apr 2011 17:08:00] - XFire Protocol 
-¤ Yamn.dll v.0.1.2.5 [10 Apr 2011 2:08:53] - YAMN Mataes Release 
+﻿CPU: AMD Athlon(tm) 64 X2 Dual Core Processor 3800+ [x86 Family 15 Model 35 Stepping 2] [DEP Enabled] [2 CPUs]
+Installed RAM: 1536 MBytes
+Operating System: Microsoft Windows XP Professional Dodatek Service Pack 3 (build 2600)
+Internet Explorer: 8.0.6001.18702 (build 86001)
+Administrator privileges: Yes
+OS Languages: (UI | Locale (User/System)) : Polish/Polish | Polish/Polish
+Free disk space on Miranda partition: 8067 MBytes
+
+Miranda IM Version: 0.9.26 Unicode
+Build time: 2011-07-31 00:43:13+0200
+Profile: C:\Program Files\Miranda PL\Profiles\Podstawowy\Podstawowy.dat
+Profile size: 327680 Bytes
+Profile creation date: 2011-08-05 20:01:40+0200
+Language pack: Polish langpack www.MojaMiranda.pl
+Nightly: No
+Unicode: Yes
+Service Mode: No
+
+Active Plugins (92):
+¤ actman.dll v.0.1.1.10 [2011-05-19 10:34:38+0200] - Action manager |Unicode aware|
+¤ addcontactplus.dll v.0.9.9.0 [2011-04-09 16:47:22+0200] - AddContact+ (Unicode) |Unicode aware|
+¤ advaimg.dll v.0.9.26.0 [2011-07-31 00:40:27+0200] - Miranda Image services 
+¤ AdvancedAutoAway.dll v.0.8.0.41 [2011-02-09 22:56:10+0200] - Advanced Auto Away (Unicode) |Unicode aware|
+¤ AdvSplashScreen.dll v.0.1.2.2 [2010-04-09 12:27:00+0200] - Splash Screen 
+¤ Aim.dll v.0.9.26.0 [2011-07-31 00:41:19+0200] - AIM Protocol |Unicode aware|
+¤ alarms.dll v.0.4.0.5 [2009-11-06 11:49:36+0200] - Alarms 
+¤ assocmgr.dll v.0.1.1.3 [2008-03-16 02:42:00+0200] - File Association Manager |Unicode aware|
+¤ AuthState.dll v.0.0.2.0 [2010-11-24 03:44:16+0200] - Authorization State (Unicode) |Unicode aware|
+¤ autorun.dll v.0.1.0.1 [2010-09-11 23:21:00+0200] - Autorun 
+¤ avatarHistory_ALAStyleW.dll v.0.2.0.2 [2007-08-29 23:10:00+0200] - Avatar History ALA Style Mod (Unicode) |Unicode aware|
+¤ avs.dll v.0.9.26.0 [2011-07-31 00:41:26+0200] - Avatar service (Unicode) |Unicode aware|
+¤ bass_interface.dll v.0.0.0.13 [2011-03-17 21:39:06+0200] - un4seen's bass interface |Unicode aware|
+¤ Bonsai.dll v.0.0.2.4 [2009-11-16 17:28:00+0200] - Bonsai |Unicode aware|
+¤ BossKey.dll v.0.5.0.3 [2010-09-08 16:23:00+0200] - BossKey+ |Unicode aware|
+  CameraLEDNotify.dll v.1.8.2.0 [2010-08-19 12:26:00+0200] - Camera LED Notify 
+  capture.dll v.0.0.0.4 [2009-08-05 02:57:02+0200] - Capture 
+¤ clist_modern.dll v.0.9.0.10 [2011-07-31 00:43:36+0200] - Modern Contact List '09 |Unicode aware|
+¤ CmdLine.dll v.0.0.3.0 [2010-11-01 14:22:10+0200] - Command Line 
+¤ Db_autobackups.dll v.0.0.0.7 [2010-10-11 14:07:30+0200] - DB Autobackuper (Unicode) |Unicode aware|
+¤ Dbx_mmap_sa.dll v.0.7.5.3 [2010-10-11 14:04:08+0200] - Miranda SecuredMMAP database driver (Unicode) |Unicode aware|
+¤ extraicons.dll v.0.2.5.1 [2010-03-03 13:10:02+0200] - Extra Icons Service 
+¤ facebook.dll v.0.0.3.1 [2011-05-23 13:50:00+0200] - Facebook Protocol RM |Unicode aware|
+¤ favcontacts.dll v.0.0.0.7 [2010-02-23 20:46:04+0200] - Favourite Contacts |Unicode aware|
+¤ Fingerprint.dll v.0.2.2.4 [2011-05-04 11:16:22+0200] - Fingerprint Mod+ (Unicode) |Unicode aware|
+¤ fltcontacts.dll v.1.0.2.3 [2009-04-12 23:06:54+0200] - Floating Contacts |Unicode aware|
+¤ folders.dll v.0.1.5.4 [2011-04-14 09:51:28+0200] - Custom profile folders |Unicode aware|
+¤ ftpfile.dll v.0.5.0.0 [2010-09-28 18:21:04+0200] - FTP File YM |Unicode aware|
+  GameQuery.dll v.0.2.4.5 [2009-09-29 10:59:22+0200] - Game Query Protocol 
+¤ GG.dll v.0.9.26.0 [2011-07-31 00:40:37+0200] - Gadu-Gadu Protocol 
+¤ GTalkExt.dll v.0.0.0.17 [2010-12-21 07:38:48+0200] - GTalk extensions for Jabber protocol |Unicode aware|
+¤ HddInfo.dll v.0.1.5.0 [2008-05-01 15:46:00+0200] - Hard disk drive info 
+¤ historypp.dll v.1.5.1.4 [2010-02-23 19:16:24+0200] - History++ (2in1) |Unicode aware|
+¤ historysweeper.dll v.0.2.0.2 [2009-09-19 17:33:56+0200] - History Sweeper+ Unicode |Unicode aware|
+¤ icq.dll v.0.9.26.0 [2011-07-31 00:42:16+0200] - IcqOscarJ Protocol |Unicode aware|
+¤ ieview.dll v.1.3.0.0 [2010-10-11 13:20:28+0200] - IEView 
+¤ imoproxy.dll v.1.0.0.13 [2010-12-27 15:38:00+0200] - imo2sproxy-Plugin 
+¤ import.dll v.0.9.26.0 [2011-07-31 00:42:21+0200] - Import contacts and messages |Unicode aware|
+¤ IRC.dll v.0.9.26.0 [2011-07-31 00:40:52+0200] - IRC protocol |Unicode aware|
+¤ jabber.dll v.0.9.26.0 [2011-07-31 00:42:44+0200] - Jabber Protocol |Unicode aware|
+¤ keepstatus.dll v.0.8.0.96 [2010-08-22 13:53:00+0200] - KeepStatus (Unicode) |Unicode aware|
+¤ listeningtoW.dll v.0.3.1.0 [2011-02-22 00:12:00+0200] - ListeningTo (Unicode) |Unicode aware|
+¤ MagneticWindows.dll v.0.0.5.0 [2007-03-10 17:38:00+0200] - Magnetic Windows 
+¤ MenuEx.dll v.1.3.0.8 [2010-08-13 09:43:00+0200] - MenuItemEx |Unicode aware|
+¤ metacontacts.dll v.0.14.0.13 [2010-03-02 11:45:56+0200] - MetaContacts Plugin 
+  mPhantomUser.dll v.0.3.7.0 [2005-09-17 18:13:54+0200] - mPhantomUser 
+¤ mradio.dll v.0.0.1.7 [2011-01-05 17:12:56+0200] - mRadio Mod |Unicode aware|
+¤ msn.dll v.0.10.0.2 [2011-07-21 02:07:40+0200] - MSN Protocol |Unicode aware|
+¤ mtextcontrolW.dll v.0.8.0.1 [2010-07-08 12:22:00+0200] - Miranda Text Control (unicode) |Unicode aware|
+  mucc.dll v.1.0.7.3 [2006-04-20 19:12:36+0200] - MUCC Plugin 
+¤ mydetails.dll v.0.0.2.6 [2010-09-30 04:21:00+0200] - My Details 
+¤ MySpace.dll v.0.0.7.3 [2010-11-13 07:15:00+0200] - MySpace (Unicode) |Unicode aware|
+¤ newxstatusnotify.dll v.1.4.0.9 [2011-02-09 20:57:06+0200] - NewXstatusNotify YM |Unicode aware|
+¤ nudge.dll v.0.0.1.19 [2008-04-21 10:51:52+0200] - Nudge |Unicode aware|
+¤ PasteIt.dll v.1.0.0.3 [2011-07-03 13:25:00+0200] - Paste It |Unicode aware|
+  PersonalizedSoundPlugin.dll v.0.5.1.0 [2003-06-02 22:29:00+0200] - PersonalizedSoundPlugin 
+¤ pingproto.dll v.0.5.0.2 [2007-05-24 17:34:00+0200] - Ping Protocol 
+¤ PopUpW.dll v.2.1.1.5 [2010-07-08 12:08:00+0200] - PopUp Plus (Unicode) |Unicode aware|
+¤ quickreplies.dll v.0.8.1.0 [2010-04-06 23:04:00+0200] - Quick Replies |Unicode aware|
+¤ quicksearch.dll v.1.4.1.18 [2010-07-03 12:49:24+0200] - Quick Search Mod |Unicode aware|
+¤ Quotes.dll v.0.0.19.0 [2010-09-26 20:05:32+0200] - Quotes |Unicode aware|
+¤ rate.dll v.0.0.2.1 [2009-05-03 17:17:54+0200] - Contact`s Rate 
+¤ rss.dll v.0.0.3.24 [2010-01-23 19:01:44+0200] - RSSNews 
+¤ seenplugin.dll v.5.0.4.7 [2010-08-06 17:38:24+0200] - Last seen plugin mod (NSNCompat) 
+¤ shlext.dll v.2.0.1.2 [2009-07-10 10:31:14+0200] - Shell context menus for transfers 
+¤ shutdown.dll v.1.4.0.2 [2007-03-28 18:39:00+0200] - AutoShutdown |Unicode aware|
+¤ SimpleAR.dll v.2.0.2.3 [2011-04-10 02:08:02+0200] - SimpleAR (Unicode) |Unicode aware|
+¤ simplestatusmsg.dll v.1.9.0.3 [2010-11-14 16:28:00+0200] - Simple Status Message (Unicode) |Unicode aware|
+¤ skinsW.dll v.0.0.0.4 [2009-01-26 00:34:00+0200] - Skins (Unicode) |Unicode aware|
+¤ skype.dll v.0.0.0.41 [2008-04-07 11:12:08+0200] - Skype protocol 
+¤ smcnotify.dll v.0.0.3.21 [2011-01-09 13:11:00+0200] - Status Message Change Notify (Unicode) |Unicode aware|
+¤ smileyaddw.dll v.0.2.3.16 [2010-12-05 13:55:42+0200] - SmileyAdd Unicode |Unicode aware|
+¤ smsbox.dll v.0.1.0.8 [2010-10-18 12:24:08+0200] - SMSBox 
+¤ spellcheckerW.dll v.0.2.6.0 [2011-05-15 17:37:00+0200] - Spell Checker |Unicode aware|
+¤ start_position.dll v.0.2.0.2 [2010-08-10 18:03:00+0200] - Window Start Position 
+¤ StartupStatus.dll v.0.8.0.41 [2010-09-21 16:00:00+0200] - StartupStatus (Unicode) |Unicode aware|
+¤ stopspam.dll v.0.0.1.9 [2010-07-20 08:07:42+0200] - StopSpam mod [2010.07.20 12:07:37] |Unicode aware|
+¤ svc_crshdmp.dll v.0.0.4.19 [2011-01-01 16:48:00+0200] - Crash Dumper Unicode |Unicode aware|
+¤ svc_dbepp.dll v.3.2.0.0 [2008-01-28 19:04:00+0200] - Database Editor++ 
+¤ tabsrmm.dll v.3.1.99.8 [2011-07-21 15:07:50+0200] - TabSRMM (Unicode) |Unicode aware|
+¤ tipper.dll v.2.1.0.4 [2010-11-06 20:34:00+0200] - Tipper YM |Unicode aware|
+¤ tlen.dll v.2.0.2.0 [2011-04-23 23:14:06+0200] - Tlen Protocol (Unicode) 
+¤ twitter.dll v.0.0.9.7 [2010-10-26 18:59:00+0200] - Twitter Plugin |Unicode aware|
+¤ uinfoexW.dll v.0.8.4.2 [2010-09-29 00:07:48+0200] - UserInfoEx (Unicode) |Unicode aware|
+¤ updater.dll v.0.6.1.4 [2011-03-19 23:31:02+0200] - Updater (Unicode) |Unicode aware|
+¤ UseActions.dll v.0.0.0.4 [2011-05-19 10:58:18+0200] - UseActions (Unicode) |Unicode aware|
+¤ Variables.dll v.0.2.3.8 [2010-06-16 20:48:54+0200] - Variables (Unicode) |Unicode aware|
+¤ watrack.dll v.0.0.6.12 [2010-08-29 17:56:56+0200] - Winamp Track |Unicode aware|
+¤ weather.dll v.0.3.8.18 [2010-08-20 23:23:32+0200] - Weather Protocol 
+¤ WorldTime.dll v.0.3.1.0 [2007-06-02 23:32:50+0200] - World Time 
+¤ XFire.dll v.0.1.8.1 [2011-04-09 17:08:30+0200] - XFire Protocol 
+¤ Yahoo.dll v.0.9.26.0 [2011-07-31 00:41:05+0200] - Yahoo Protocol Beta/Nightly |Unicode aware|
+
+Unloadable Plugins (1):
+  dbx_mmap.dll v.0.0.0.0 [2011-07-31 00:41:57+0200] - <unknown> 
+    This dll is a Miranda database plugin, another database is active right now
+
 
 Weather ini files:
 -------------------------------------------------------------------------------
- meteogroup.ini v.2010/07/13 [13 Jul 2010 19:09:40] - Meteogroup
+ meteogroup.pl.ini v.2010/07/13 [2010-07-13 19:09:40+0200] - Meteogroup
+ wundergrnd_intl.ini v.2010/05/09 [2010-05-09 15:40:00+0200] - Weather Underground Int'l
+
+Protocols and Accounts:
+-------------------------------------------------------------------------------
+AIM                      1 - Enabled 0 - Disabled  Loaded
+Facebook                 1 - Enabled 0 - Disabled  Loaded
+GG                       1 - Enabled 0 - Disabled  Loaded
+ICQ                      1 - Enabled 0 - Disabled  Loaded
+IRC                      1 - Enabled 0 - Disabled  Loaded
+JABBER                   1 - Enabled 0 - Disabled  Loaded
+MSN                      1 - Enabled 0 - Disabled  Loaded
+MYSPACE                  1 - Enabled 0 - Disabled  Loaded
+MetaContacts             1 - Enabled 0 - Disabled  Loaded
+PING                     1 - Enabled 0 - Disabled  Loaded
+Quotes                   1 - Enabled 0 - Disabled  Loaded
+RSSNews                  1 - Enabled 0 - Disabled  Loaded
+SKYPE                    1 - Enabled 0 - Disabled  Loaded
+TLEN                     1 - Enabled 0 - Disabled  Loaded
+Twitter                  1 - Enabled 0 - Disabled  Loaded
+Weather                  1 - Enabled 0 - Disabled  Loaded
+XFire                    1 - Enabled 0 - Disabled  Loaded
+YAHOO                    1 - Enabled 0 - Disabled  Loaded
+gameQuery                1 - Enabled 0 - Disabled  Loaded
+mPhantomUser             1 - Enabled 0 - Disabled  Loaded
+mRadio                   1 - Enabled 0 - Disabled  Loaded
+
+Icon Packs:
+-------------------------------------------------------------------------------
+ flags.dll [2009-11-21 16:33:26+0200]
+ historypp_icons.dll [2010-02-23 18:16:00+0200]
+ proto_Aim.dll [2010-06-29 05:11:32+0200]
+ proto_conn_facebook.dll [2011-03-05 19:37:00+0200]
+ proto_facebook.dll [2011-03-05 19:38:00+0200]
+ proto_GameQuery.dll [2011-05-26 16:35:04+0200]
+ proto_GG.dll [2010-06-29 05:11:32+0200]
+ proto_ICQ.dll [2010-06-29 05:11:32+0200]
+ proto_IRC.dll [2010-06-29 05:11:32+0200]
+ proto_Jabber.dll [2010-06-29 05:11:32+0200]
+ proto_metacontacts.dll [2010-06-06 19:07:00+0200]
+ proto_mPhantomUser.dll [2004-03-04 23:06:52+0200]
+ proto_mRadio.dll [2006-08-23 01:45:00+0200]
+ proto_MSN.dll [2010-06-29 05:11:32+0200]
+ proto_MySpace.dll [2007-07-02 00:04:00+0200]
+ proto_ping.dll [2005-09-02 15:03:54+0200]
+ proto_Quotes.dll [2010-09-26 19:42:08+0200]
+ proto_RSSNews.dll [2010-05-20 22:16:00+0200]
+ proto_Skype.dll [2010-06-06 19:09:00+0200]
+ proto_Tlen.dll [2010-12-22 22:34:28+0200]
+ proto_Twitter.dll [2010-10-05 19:10:00+0200]
+ proto_Weather.dll [2010-05-29 15:43:14+0200]
+ proto_XFire.dll [2008-04-15 21:17:00+0200]
+ proto_Yahoo.dll [2010-06-29 05:11:32+0200]
+ tabsrmm_icons.dll [2011-07-04 05:40:00+0200]
+ toolbar_icons.dll [2011-07-04 05:40:00+0200]
+ uinfoex_icons.dll [2009-10-29 21:18:42+0200]
+ watrack_buttons.dll [2006-07-14 00:25:00+0200]
+ watrack_icons.dll [2006-07-13 13:36:26+0200]
+ xstatus_ICQ.dll [2010-12-13 16:45:42+0200]
+ xstatus_Jabber.dll [2010-12-13 16:46:06+0200]
