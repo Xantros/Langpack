@@ -380,7 +380,7 @@ Umieść rozłączonych poza grupami
 [Use xStatus icon]
 Użyj ikony xStatusu
 [Show normal status as overlay]
-Pokaż normalny status jako nakładkę
+Pokaż status jako nakładkę
 [Status overlay opacity is 75% ]
 Widoczność nakładki statusu - 75% 
 [only when statuses differ]

@@ -1954,7 +1954,7 @@ Zapisuj dziennik na dysku
 [Log directory]
 Katalog dziennika
 [Add new rooms to group:]
-Dodawaj nowe pokoje do grupy:
+Dodaw nowe pokoje do grupy:
 [Userlist row distance (pixels):]
 Odstęp między wierszami (piksele): 
 [Use same style as in the message log]
@@ -2086,7 +2086,7 @@ Pokaż menu przycisku po kliknięciu na nim prawym przyciskiem myszy
 [Show new windows cascaded]
 Pokaż nowe okna kaskadująco
 [Save the size and position of chat rooms]
-Zapisz rozmiaru i pozycje pokojów czatu
+Zapisz rozmiar i pozycję pokojów czatu
 [Show topic as status message on the contact list]
 Pokaż temat pokoju na liście kontaktów
 [Do not play sounds when the chat room is focused]
@@ -2124,7 +2124,9 @@ Tło wiadomości
 [Userlist Background]
 Tło listy użytkowników
 [Userlist Lines]
-Linie listy użyt.
+Linie listy użytkowników
+[Userlist Background (selected)]
+Tło listy użytkowników (zaznaczenie)
 [Chat windows]
 Okna czatu
 [Window Icon]

@@ -510,6 +510,8 @@ Odrzucony
 Pliki wykonywalne
 [File Transfers]
 Transfery plików
+[File &Transfers...]
+Transfery plików...
 [Select Folder]
 Wybierz folder
 [View User's History]
@@ -1449,3 +1451,43 @@ Okno
 Ramka
 [of]
 z
+[Accounts]
+Konta
+[Incoming colon]
+Przychodzący dwukropek
+[Incoming name]
+Przychodząca nazwa
+[Incoming time]
+Przychodzący czas
+[Message area]
+Pole tekstowe
+[Outgoing colon]
+Wychodzący dwukropek
+[Outgoing name]
+Wychodząca nazwa
+[Outgoing time]
+Wychodzący czas
+[Add to server list]
+Dodaj do listy serwerów
+[Show custom status details]
+Pokaż szczegóły statusu
+[Channel &settings]
+Ustawienia kanału
+[&WhoIs info]
+Informacje WhoIs
+[Di&sconnect]
+Rozłącz
+[&Add to ignore list]
+Dodaj do ignorowanych
+[&Block]
+Zablokuj
+[View Live &Space]
+Zobacz Live Space
+[&Start Netmeeting]
+Start sesji Netmeeting
+[&Invite to chat]
+Zaproś do rozmowy
+[Open &Hotmail Inbox]
+Otwórz skrzynkę Hotmail
+[Re&ad Status Message]
+Zobacz opis statusu

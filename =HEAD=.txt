@@ -1,7 +1,7 @@
 Miranda Language Pack Version 1
 Language: Polish
 Codepage: 65001
-Version: 2011.08.05
+Version: 2011.08.17
 Last-Modified-Using: Miranda IM Version: 0.10.0 alpha build #2 Unicode
 Author: www.MojaMiranda.pl
 Author-email: MojaMiranda@gmail.com

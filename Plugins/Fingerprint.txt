@@ -41,6 +41,8 @@ Nakładka na ikonę #3
 Pokaż +secure
 [Show in options icon group:]
 Pokaż w opcjach grupę ikon:
+[bots]
+boty
 [services]
 usługi
 [Multi-Protocol]
@@ -93,3 +95,85 @@ Nieznany przez fingerprint
 Nieznany przez protokół
 [Icon group options will be fully applied after restart]
 Opcje grup ikon będą w pełni funkcjonalne po restarcie.
+[Official]
+Oficjalne
+[Undetected client]
+Klient nie wykryty
+[Database Backups]
+Kopia zapasowa Bazy Danych
+[pack overlays]
+Paczka nakładek
+[Avatar Overlay]
+Nakładka awataru
+[Status Overlay]
+Nakładka statusu
+[AOL Mail]
+Poczta AOL
+[AIM Icon]
+Ikona AIM
+[AOL Bot]
+Bot AOL
+[Confirmed]
+Potwierdzone
+[Not Confirmed]
+Nie potwierdzone
+[Blocked list]
+Lista zablokowanych
+[Profile Editor]
+Edytor profilu
+[Foreground Color]
+Kolor
+[Background Color]
+Kolor tła
+[Not Bold]
+Bez pogrubienia
+[Not Italic]
+Bez kursywy
+[Not Underline]
+Bez podkreślenia
+[Subscript]
+Indeks dolny
+[Not Subscript]
+Bez indeksu dolnego
+[Superscript]
+Indeks górny
+[Not Superscript]
+Bez indeksu górnego
+[Normal Script]
+Zwykły tekst
+[Not Normal Script]
+Bez zwykłego tekstu
+[Channel list]
+Lista kanałów
+[Quick connect]
+Szybkie połączenie
+[Server window]
+Okno serwera
+[Show channel]
+Pokaż kanał
+[Incoming DCC Chat]
+Nadchodzi rozmowa DCC
+[Hotmail Inbox]
+Skrzynka Hotmail
+[MSN Services]
+Usługi MSN
+[Block user]
+Zablokuj użytkownika
+[Invite to chat]
+Zaproś do rozmowy
+[Start Netmeeting]
+Rozpocznij sesję Netmeeting
+[Allowed list]
+Biała lista
+[Relative list]
+Lista zależna
+[Local list]
+Lista lokalna
+[Incoming message (10x10)]
+Przychodząca wiadomość (10x10)
+[Outgoing message (10x10)]
+Wychodząca wiadomość (10x10)
+[Disable status message retrieve in all statuses]
+Wyłącz pobieranie opisu statusu dla wszystkich statusów
+[Disable status message retrieve in invisible status]
+Wyłącz pobieranie opisu statusu dla niewidocznych

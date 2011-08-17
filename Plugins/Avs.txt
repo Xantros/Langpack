@@ -16,7 +16,7 @@ Usuń domyślny obrazek
 [Try to draw avatar background transparent (for images without transparency)]
 Próbuj rysować przezroczyste tło awataru (dla obrazku bez przezroczystości)
 [Num of points to define bkg:]
-Licz. punktów do określenia tła:
+Liczba punktów do określenia tła:
 [Color difference allowed:]
 Dozwolona różnica kolorów:
 [Make transparency proportional to color diff]
@@ -32,7 +32,7 @@ Kiedy ustawiasz awatary, zawsze zmieniaj je w kwadraty
 [Try to draw own avatar background transparent (for images without transparency)]
 Rysuj przeźroczyste tło przy swoim awatarze (dla obrazku bez przeźroczystości)
 [This uses the same additional options as in "Contact Avatars" tab]
-Ten sposób wykorzystuje te same opcje, jak w zakładce "Kontakt awatary" 
+Ten sposób wykorzystuje te same opcje, jak w zakładce "Awatar kontaktu" 
 [Protect the picture and prevent automatic avatars from overwriting it]
 Chroń obraz i zapobiegaj przed automatycznym zastąpieniem awataru
 [Make the avatar square]
