@@ -343,3 +343,5 @@ Nie można uruchomić wymaganej usługi!\nTooltips nie będzie dostępny dopuki 
 Dół
 [Extra status]
 xStatus
+[Tool Tip notification windows]
+Okienka typu ToolTip z powiadomieniami oraz innymi informacjami

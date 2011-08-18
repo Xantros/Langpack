@@ -33,3 +33,5 @@ Prawy przycisk otwiera menu Mirandy
 Tło listy kontaktów
 [Selection colour]
 Kolor zaznaczenia
+[Display contacts, event notifications, protocol status]
+Wyświetla kontakty, powiadomienia o zdarzeniach, statusy protokołów

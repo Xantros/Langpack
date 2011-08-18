@@ -93,3 +93,5 @@ Pokaż ikony w zasobnikue dla zmian nazwy
 Pokaż ikony w zasobniku dla wiadomości informacyjnych
 [Show icon in tray for status changes]
 Pokaż ikony w zasobniku dla zmian statusu
+[Provides chat rooms for protocols supporting it]
+Zapewnia obsługę pokojów (chat rooms) dla protokołów, które je obsługują

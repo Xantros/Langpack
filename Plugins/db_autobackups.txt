@@ -37,3 +37,5 @@ Strona:
 Folder kopii zapasowych
 [Database encryption]
 Szyfrowanie
+[DB Autobackuper default plugins for SecuredMMAP DataBase]
+Standardowy plugin DB Autobackupera dla SecuredMMAP DataBase

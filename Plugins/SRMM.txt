@@ -61,3 +61,5 @@ Odśwież ikony nieaktywnego okna rozmowy kiedy użytkownik pisze
 Migaj ikoną w zasobniku systemowym i na liście kontaktów
 [Show balloon popup]
 Pokaż informację w chmurce
+[Send and receive instant messages]
+Wysyłaj i odbieraj wiadomości

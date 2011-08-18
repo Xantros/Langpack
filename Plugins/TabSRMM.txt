@@ -1,7 +1,7 @@
 ;============================================================
 ;  File: tabsrmm.dll
 ;  Module: Tabbed SRMM
-;  Versions: 3.1.99.6
+;  Versions: 3.0.22.0
 ;============================================================
 [Remove Temporary Contacts]
 Usuń tymczasowe kontakty
@@ -2305,3 +2305,5 @@ Pokaż ikonę w zasobniku
 Wybierz tryby
 [Enable popups if focused]
 Włącz popupy, jeśli aktywne
+[IM and group chat module for Miranda IM.]
+Moduł obsługi zwykłych oraz grupowych rozmów dla Mirandy IM.

@@ -1,0 +1,8 @@
+;===========================================================
+;  File: dbeditorpp.dll
+;  Module: Database Editor ++
+;  Versions: 3.1.3.6
+;===========================================================
+;[Advanced Database Editor. More advanced && bugfixed by Bio.\n\[ Aug  5 2006  11:59:36 \]]
+;Zaawansowany edytor bazy danych. Rozbudowana i poprawki wprowadzone przez Bio. ( 5 sierp. 2006 11:59:36 )
+;Do poprawy, nie tłumaczy tekstu

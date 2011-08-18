@@ -605,3 +605,5 @@ Otwórz link w nowym oknie
 Idź do Personalizacja -> Czcionki aby zmienic opcje.
 [Searching...]
 Wyszukiwanie...
+[Easy, fast and feature complete history viewer.]
+Łatwa w obsłudze, szybka i bogata w opcje przeglądarka historii.
