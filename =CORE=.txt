@@ -1491,5 +1491,3 @@ Zaproś do rozmowy
 Otwórz skrzynkę Hotmail
 [Re&ad Status Message]
 Zobacz opis statusu
-[Support for ICQ network, enhanced.]
-Wsparcie dla protokołu ICQ, poszerzone.

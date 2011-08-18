@@ -166,7 +166,7 @@ Zapisuj w pliku
 [Show icon]
 Pokaż ikonę
 [minutes]
-minuty
+minut
 [Paste]
 Wklej
 [Top]

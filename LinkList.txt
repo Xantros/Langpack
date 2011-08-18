@@ -19,9 +19,14 @@ https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Bass_interface.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Bonsai.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/BossKey.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/BuddyExpectator.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/chat.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Clist_classic.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Clist_modern.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/CryptoPP.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/dbx_mmap.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/dbx_mmap_sa.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/db_autobackups.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/DBEditorPP.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/extraicons.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/facebook.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Fingerprint.txt
@@ -32,14 +37,19 @@ https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/HistoryEvents.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/HistoryKeeper.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/HistoryPP.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/HistoryStats.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/ICQ.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/IgnoreState.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Import.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Import_sa.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/IRC.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Jabber.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/LastSeen.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/ListeningTo.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/mContacts.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/MenuEx.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/ModernOpt.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/mRadio.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/MSN.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/NewXstatusNotify.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Nudge.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/PackUpdater.txt
@@ -49,6 +59,7 @@ https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Pmanager.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/PopUp.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/QuickSearch.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/RSS.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Scriver.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/SeenPlugin.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/SendSS.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/ShlExt.txt
@@ -60,6 +71,7 @@ https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/SmileyAdd.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/SMS.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Spam-o-tron.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/SpellChecker.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/SRMM.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/StatusPlugin.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/StopSpam.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Svc_crshdmp.txt
@@ -76,5 +88,6 @@ https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Weather.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/WindowsStartPosition.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/WorldTimeProtocol.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/XFire.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Yahoo.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/YAMN.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Weather/meteogroup.txt

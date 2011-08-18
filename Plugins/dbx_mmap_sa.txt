@@ -50,4 +50,12 @@ Przygotowanie plików do skopiowania...
 [Backup progress]
 Tworzenie kopii zapasowej profilu...
 [Provides Miranda database support: global settings, contacts, history, settings per contact. Enhanced modification with Encoding and Autobackups]
-Zapewnia obsługe bazy danych Mirandy: ustawień globalnych, kontaktów, historii, ustawień dla każdego kontaktu z osobna. Wersja zmodyfikowana z szyfrowaniem i automatycznymi kopiami zapasowymi
+Zapewnia obsługę bazy danych Mirandy: ustawień globalnych, kontaktów, historii, ustawień dla każdego kontaktu z osobna. Wersja zmodyfikowana z szyfrowaniem i automatycznymi kopiami zapasowymi
+[Database AutoBackups]
+Automatyczne kopie zapasowe bazy danych
+[Database Features]
+Funkcje bazy danych
+;[Secure alghoritm developed in russian universities ]
+;Bezpieczny algorytm opracowany na rosyjskich uniwersytetach
+;[Old, very easy to crack stream cipher]
+;Stary, bardzo łatwy do złamania algorytm szyfrujący

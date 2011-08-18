@@ -303,3 +303,29 @@ Zaawansowana konfiguracja
 Obrazki
 [Internal IP:]
 IP wewnętrzne:
+[Concurrent &sessions]
+Sesje równoległe
+[Concurrent sessions count: %d.]
+Ilość równoległych sesji: %d.
+[There are no active concurrent sessions for this account.]
+Brak aktywnych sesji równoległych dla tego konta.
+[You have to be logged in to view concurrent sessions.]
+Musisz być zalogowany, by oglądać sesje równoległe.
+[Client Name]
+Nazwa klienta
+[IP Address]
+Adres IP
+[Login Time]
+Data zalogowania
+[Action]
+Czynność
+[Sign out all sessions]
+Zakończ wszystkie sesje
+[You have logged in at another location]
+Zalogowałeś się w innym miejscu
+[You are logged in at another location]
+Jesteś zalogowany w innym miejscu
+;[Concurrent gg Login Sessions]
+;Równoległe sesje GG
+;[View information on active concurrent sessions]
+;Pokazuje informacje o aktywanych sesjach równoległych

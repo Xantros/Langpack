@@ -1428,7 +1428,7 @@ Możliwość żadanie zaawansowanego przetwarzania strofy wiadomości
 [Can negotiate options for specific features]
 Możliwość negocjacji specyficznych cech opcji
 [Supports Jabber Browsing]
-Wsparcie dla orzeglądarki Jabber
+Wsparcie dla przeglądarki Jabber
 [Supports XHTML formatting of chat messages]
 Wsparcie dla XHTML formatowania czatu
 [Supports iq-based avatars]

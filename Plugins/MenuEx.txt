@@ -5,6 +5,8 @@
 ;============================================================
 [Set user properties by contact menu ( ]
 Ustaw właściwości użytkownika ( 
+[Set user properties by contact menu]
+Umożliwia modyfikowanie menu kontekstowego dla kontaktów.
 [Copy ID]
 Kopiuj ID
 [Copy MirVer]

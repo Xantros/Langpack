@@ -1,0 +1,7 @@
+;============================================================
+;  File: dbx_mmap.dll
+;  Module: Miranda mmap database driver
+;  Versions: 0.9.26.0
+;============================================================
+[Provides Miranda database support: global settings, contacts, history, settings per contact.]
+Zapewnia obsługę bazy danych Mirandy: ustawień globalnych, kontaktów, historii, ustawień dla każdego kontaktu z osobna.
