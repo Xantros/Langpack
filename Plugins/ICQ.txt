@@ -4,4 +4,4 @@
 ;  Versions: 0.9.26.0
 ;===========================================================
 [Support for ICQ network, enhanced.]
-Wsparcie dla protokołu ICQ, poszerzone.
+Wsparcie dla protokołu ICQ, rozszerzone.

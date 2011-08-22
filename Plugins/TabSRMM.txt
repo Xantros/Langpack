@@ -1954,7 +1954,7 @@ Zapisuj dziennik na dysku
 [Log directory]
 Katalog dziennika
 [Add new rooms to group:]
-Dodaw nowe pokoje do grupy:
+Dodaj nowe pokoje do grupy:
 [Userlist row distance (pixels):]
 Odstęp między wierszami (piksele): 
 [Use same style as in the message log]

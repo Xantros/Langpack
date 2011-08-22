@@ -19,7 +19,7 @@ https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Bass_interface.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Bonsai.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/BossKey.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/BuddyExpectator.txt
-https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/chat.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Chat.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Clist_classic.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Clist_modern.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/CryptoPP.txt
