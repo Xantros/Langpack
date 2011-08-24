@@ -593,3 +593,5 @@ W separacji
 Wdowa/Wdowiec
 [Down arrow]
 Strzałka w dół
+[Gives extended ability to edit information about your contacts locally. It does not matter what information your contact gives about himself. If you know more you can add more.]
+Daje szerokie możliwości edytowania (lokalnego) informacji o kontaktach. Nie ważne, co dany kontakt pisze o sobie. Jeśli wiesz więcej, możesz to dopisać.

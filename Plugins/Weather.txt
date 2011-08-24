@@ -729,6 +729,8 @@ Czwartek
 Piątek
 [Saturday]
 Sobota
+[Retrieve weather information and display them in your contact list]
+Pobiera informacje o pogodzie i wyświetla je na liście kontaktów
 
 ;===============Warunki pogodowe===============
 

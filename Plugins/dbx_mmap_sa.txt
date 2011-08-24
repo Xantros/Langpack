@@ -1,7 +1,7 @@
 ;============================================================
-;  File: dbx_mmap_sa.dll
-;  Module: Miranda SecuredMMAP database driver
-;  Versions: 0.7.5.4
+;  File: dbx_mmap.dll, dbx_mmap_sa.dll
+;  Module: Miranda mmap database driver, Miranda SecuredMMAP database driver
+;  Versions: 0.9.26.0, 0.7.5.4
 ;============================================================
 [Disk is full. Miranda will now shutdown.]
 Dysk jest pełny. Miranda zostanie zamknięta.
@@ -55,6 +55,8 @@ Zapewnia obsługę bazy danych Mirandy: ustawień globalnych, kontaktów, histor
 Automatyczne kopie zapasowe bazy danych
 [Database Features]
 Funkcje bazy danych
+[Provides Miranda database support: global settings, contacts, history, settings per contact.]
+Zapewnia obsługę bazy danych Mirandy: ustawień globalnych, kontaktów, historii, ustawień dla każdego kontaktu z osobna.
 ;[Secure alghoritm developed in russian universities ]
 ;Bezpieczny algorytm opracowany na rosyjskich uniwersytetach
 ;[Old, very easy to crack stream cipher]

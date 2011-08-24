@@ -331,3 +331,7 @@ Zmieniły się ustawienia bazy danych: \nModuł: "%s" , Ustawienie: "%s"\nNowa w
 Plik INI
 [All Files]
 Wszystkie pliki
+[Advanced Database Editor.]
+Zaawansowany edytor bazy danych.
+;[Advanced Database Editor. More advanced && bugfixed by Bio.\n\[ Aug  5 2006  11:59:36 \]]
+;Zaawansowany edytor bazy danych. Rozbudowana i poprawki wprowadzone przez Bio. ( 5 sierp. 2006 11:59:36 )

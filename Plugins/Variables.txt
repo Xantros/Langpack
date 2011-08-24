@@ -227,3 +227,5 @@ przytnij x do długości y, trzymając pierwszy znak y
 liczba lini w ciągu x
 [TRUE if process x is running]
 TRUE, jeżeli proces x jest uruchomiony
+[Adds support for dynamic variables in strings for plugins.]
+Dodaje dla wtyczek obsługę zmiennych dynamicznych w łańcuchach.

@@ -145,3 +145,5 @@ Odtwarzanie/Pauza
 Połączenie %s
 [Play Station]
 Odtwórz
+[This plugin plays and records Internet radio streams. Also local media files can be played.]
+Ta wtyczka odtwarza i nagrywa strumienie audycji radiowych z Internetu. Potrafi także odtwarzać pliki lokalne.

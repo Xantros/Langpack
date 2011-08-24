@@ -23,10 +23,8 @@ https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Chat.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Clist_classic.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Clist_modern.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/CryptoPP.txt
-https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/dbx_mmap.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/dbx_mmap_sa.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/db_autobackups.txt
-https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/DBEditorPP.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/extraicons.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/facebook.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Fingerprint.txt
@@ -39,7 +37,6 @@ https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/HistoryPP.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/HistoryStats.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/ICQ.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/IgnoreState.txt
-https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Import.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Import_sa.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/IRC.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Jabber.txt
@@ -50,6 +47,7 @@ https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/MenuEx.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/ModernOpt.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/mRadio.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/MSN.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/mTextControlW.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/NewXstatusNotify.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Nudge.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/PackUpdater.txt
@@ -76,6 +74,7 @@ https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/StatusPlugin.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/StopSpam.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Svc_crshdmp.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Svc_DBEPP.txt
+https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Svc_vi.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/TabSRMM.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/Tipper.txt
 https://github.com/MojaMiranda/Langpack/tree/trunk/Plugins/UInfoEx.txt

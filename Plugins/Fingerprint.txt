@@ -177,3 +177,17 @@ Wychodząca wiadomość (10x10)
 Wyłącz pobieranie opisu statusu dla wszystkich statusów
 [Disable status message retrieve in invisible status]
 Wyłącz pobieranie opisu statusu dla niewidocznych
+[Overlay#1]
+Nakładka#1
+[Overlay#2]
+Nakładka#2
+[Overlay#3]
+Nakładka#3
+[icon slot]
+ikony
+[Showing groups]
+Widoczne grupy
+[Fingerprint Plus (client version) icons module set extra icon of your buddies according to their client version]
+Fingerprint Plus dodaje dodatkowe ikonki w zależności od tego, jakiego klienta używają Twoi znajomi
+[Fingerprint Mod+ (client version) icons module set extra icon of your buddies according to their client version.]
+Fingerprint Mod+ dodaje dodatkowe ikonki w zależności od tego, jakiego klienta używają Twoi znajomi

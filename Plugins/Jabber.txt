@@ -1850,7 +1850,7 @@ Nadchodzi zaproszenie czatu
 [You are invited to conference room by] 
 Zostałeś zaproszony do konferencji
 [Send note]
-Wyślij notatke
+Wyślij notatkę
 [Roster editor\nView and modify your server-side contact list.]
 Edytor listy kontaktów\nPrzeglądaj i modyfikuj listę kontaktów na serwerze.
 [Jabber notebook\nStore notes on server and access them from anywhere.]

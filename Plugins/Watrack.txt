@@ -575,3 +575,5 @@ Podgłoś - po naciśnięciu
 Suwak  - po najechaniu
 [Slider Pushed]
 Suwak - po naciśnięciu
+[Disable scrobbling]
+Wyłącz scrobbling

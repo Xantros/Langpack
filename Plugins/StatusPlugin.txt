@@ -319,3 +319,5 @@ Ustaw opis %s dla %s.
 <niedostępny>
 [<last>]
 <ostatni>
+[KeepStatus, A connection checker, for use with (or without) StartupStatus and/or AdvancedAutoAway.]
+KeepStatus sprawdza połączenia, można go używać z wtyczkami StartupStatus i/lub AdvancedAutoAway.

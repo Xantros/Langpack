@@ -89,3 +89,5 @@ Obsługiwane pliki
 Zaufane protokoły
 [File Association Manager]
 Manager powiązań protokołów
+[Handles file type associations and URLs like aim, ymsgr, xmpp, wpmsg, gg, tlen.]
+Obsługuje powiązania z plikami oraz linki w protokołach aim, ymsgr, xmpp, wpmsg, gg, tlen.

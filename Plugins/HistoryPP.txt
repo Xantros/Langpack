@@ -607,3 +607,5 @@ Idź do Personalizacja -> Czcionki aby zmienic opcje.
 Wyszukiwanie...
 [Easy, fast and feature complete history viewer.]
 Łatwa w obsłudze, szybka i bogata w opcje przeglądarka historii.
+[Incoming SMS Message] 
+Przychodzący SMS

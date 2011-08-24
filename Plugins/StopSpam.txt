@@ -79,3 +79,5 @@ Wyłącz ochronę dla poniższych protokołów:
 Automatyczna odpowiedź StopSpam:\r\n
 [Answer is not case sensitive]
 Nie sprawdzaj wielkości liter
+[No more spam! Robots can't go! Only human beings invited!]
+Nigdy więcej spamu! Botom dziękujemy! Tylko ludzie są mile widziani!

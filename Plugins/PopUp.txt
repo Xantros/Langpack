@@ -405,3 +405,7 @@ Odległość pomiędzy popupami
 Wyślij wiadomość
 [Dismiss Popup]
 Odrzuć popup
+[Disable status notification]
+Wyłącz powiadomienia o statusach
+[Provides popup notification services for different plugins.]
+Zapewnia obsługę popupów dla różnych wtyczek.

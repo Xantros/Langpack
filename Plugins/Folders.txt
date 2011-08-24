@@ -73,3 +73,5 @@ profil to 'default.dat' a ścieżka mirandy to 'C:\\\\Program files\\\\Miranda I
 Informacja, odstęp na początku i na końcu stringu są przycięte, jak również ostatnie \\\\\\par\n
 [Changes not saved]
 Zmiany nie zapisane
+[Service plugin. Allows plugins to save their data to user selected folders; supports variables.]
+Pozwala wtyczkom zapisywać dane do katalogów wybranych przez użytkownika; współpracuje z wtyczką variables.

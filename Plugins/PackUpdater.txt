@@ -85,3 +85,9 @@ Przycisk 'Tak'
 Przycisk 'Nie'
 [Pack Updater HTTP connection]
 Połączenie HTTP Pack Updater
+[Simple updater for Miranda IM premodified packs.]
+Łatwe uaktualnianie paczek dla Mirandy IM.
+[Check for pack updates]
+Sprawdź uaktualnienia paczki
+[Clear pack updates folder]
+Wyczyść folder z uaktualnieniami paczki

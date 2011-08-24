@@ -4,7 +4,7 @@
 ;  Versions: 0.1.2.3
 ;============================================================
 [Reacts to the return of contacts, or the the extended absence of contacts, with notifications and other actions]
-Reaguje na powrót kontaktów lub dłuższego braku aktywności kontaktu z powiadomień lub innych akcji
+Reaguje na powrót kontaktów lub na ich dłuższą nieobecność przy użyciu powiadomień i innych akcji.
 [Buddy Expectator]
 Powiadomienie o aktywności
 [has gone online for the first time.]
@@ -108,4 +108,4 @@ powrócił po %#x
 [It's already necessary to notify of this contact - an absence has been detected.]
 Powiadomienie o tym kontakcie nie jest już potrzebne - brak został wykryty.
 [monthes]
-mieisecy
+miesięcy

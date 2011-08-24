@@ -233,3 +233,5 @@ Wyłączono powiadomienia
 Użyj kolorów Popup
 [From offline]
 Z rozłączonego
+[Notifies you when a contact changes his/her (X)status or status message.]
+Poinformuje, kiedy kontakt zmieni swój (X)status albo opis.

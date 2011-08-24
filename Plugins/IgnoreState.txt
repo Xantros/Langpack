@@ -23,3 +23,5 @@ Pełne ignorowanie
 Częściowe ignorowanie
 [Message Ignore]
 Ignorowanie wiadomości
+[Show ignore state of contact in contacts list.]
+Pokazuje ignorowanych na liście kontaktów.

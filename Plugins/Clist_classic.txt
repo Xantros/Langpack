@@ -35,3 +35,5 @@ Tło listy kontaktów
 Kolor zaznaczenia
 [Display contacts, event notifications, protocol status]
 Wyświetla kontakty, powiadomienia o zdarzeniach, statusy protokołów
+[Display contacts, event notifications, protocol status with MW modifications]
+Wyświetla kontakty, powiadomienia o zdarzeniach, statusy z modyfikacją MultiWindow

@@ -151,3 +151,5 @@ Otwórz link z opisu
 Otwórz link z opisu
 [Go to URL in Away Message]
 Otwórz link z opisu
+[Provides a simple way to set status and away messages]
+Umożliwia zmianę statusu i opisów w prosty sposób

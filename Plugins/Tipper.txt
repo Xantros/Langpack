@@ -345,3 +345,7 @@ Dół
 xStatus
 [Tool Tip notification windows]
 Okienka typu ToolTip z powiadomieniami oraz innymi informacjami
+[Disable status message retrieving in all statuses]
+Wyłącz pobieranie opisów dla wszystkich statusów
+[Disable status message retrieving in invisible status]
+Wyłącz pobieranie opisu dla niewidocznych
